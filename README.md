@@ -12,16 +12,24 @@ Application Android gratuite et hors ligne pour suivre un programme keto, pensé
 - **Accompagnement** : compteurs du jour, eau, poids, énergie, conseil quotidien, guide des aliments, FAQ (grippe céto, écarts…).
 - **603 recettes complètes** en français, halal : petits-déjeuners, plats (volaille, viande, poisson, végétarien), cuisine marocaine (108 recettes), cuisine du monde, accompagnements, collations, desserts et boissons. Ingrédients ajustables au nombre de personnes, étapes détaillées, illustration propre à chaque recette.
 - **Valeurs nutritionnelles calculées** à partir d'une table de 157 ingrédients ([`data/ingredients.json`](data/ingredients.json)) : calories, lipides, protéines et glucides nets par portion, et part de vos besoins du jour.
+- **Vraies photos des plats** chargées depuis Wikimedia Commons (licences libres, auteur et licence affichés), mises en cache ; illustration de secours hors connexion. Désactivables dans Profil.
 - **Suivi** : courbe de poids, IMC, série de jours keto, historique cliquable.
 - **Sauvegarde / restauration** par simple copier-coller, et **profil de démonstration**.
 
-Aucune inscription, aucun serveur : toutes les données restent sur le téléphone.
+Aucune inscription, aucun serveur : toutes les données restent sur le téléphone. Seule la recherche de photos utilise internet (aucune donnée personnelle n'est envoyée).
 
 ## Installer sur un téléphone
 
+**Android** (7.0 minimum)
 1. Ouvrir la page Releases depuis le téléphone et télécharger `KetoFamille.apk`.
 2. Ouvrir le fichier ; Android demande d'autoriser l'installation depuis le navigateur ou WhatsApp : accepter.
-3. Android 7.0 minimum.
+
+**iPhone / iPad** (version web installable, gratuite)
+1. Ouvrir dans **Safari** l'adresse GitHub Pages du dépôt : `https://<compte>.github.io/keto-famille/`.
+2. Toucher le bouton **Partager** puis **« Sur l'écran d'accueil »**.
+3. L'icône Keto Famille apparaît comme une application ; elle fonctionne ensuite hors ligne.
+
+La version web est publiée automatiquement par [`.github/workflows/pages.yml`](.github/workflows/pages.yml) à chaque modification de `app/assets/www/`.
 
 ## Construire l'APK
 
@@ -29,7 +37,9 @@ Prérequis : Java 17+ et Python 3. **Aucun SDK Android n'est nécessaire** : `ap
 
 ```bash
 ./build.sh            # produit dist/KetoFamille.apk signé (v2/v3)
-python3 tools/ui_test.py shots   # test d'interface (Playwright), captures dans ./shots
+python3 tools/ui_test.py shots     # test d'interface (Playwright), captures dans ./shots
+python3 tools/photo_test.py shots  # chargement des photos (réseau simulé)
+python3 tools/pwa_test.py          # version iPhone : installation et hors ligne
 ```
 
 ## Structure
@@ -38,6 +48,7 @@ python3 tools/ui_test.py shots   # test d'interface (Playwright), captures dans 
 |---|---|
 | [`app/assets/www/`](app/assets/www/) | L'application (HTML/CSS/JS vanilla) |
 | [`data/recipes/`](data/recipes/) | Sources des recettes (12 lots JSON) |
+| [`data/photo-keywords-*.json`](data/) | Mots-clés de recherche photo par recette |
 | [`tools/recipes.py`](tools/recipes.py) | Validation des lots et génération de `recipes.js` (macros calculées) |
 | [`app/assets/www/content.js`](app/assets/www/content.js) | Programme, conseils, guide des aliments, FAQ |
 | [`app/smali/.../MainActivity.smali`](app/smali/ma/bagile/ketofamille/MainActivity.smali) | Activité Android : WebView plein écran |

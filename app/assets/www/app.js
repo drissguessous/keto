@@ -288,7 +288,7 @@
         <div style="margin-top:8px">${SLOTS.map(([slot, label]) => {
           const r = menu[slot]; if (!r) return "";
           const eaten = log.meals.some((m) => m.rid === r.id);
-          return `<div class="meal"><a class="emoji illus" href="#/recette/${r.id}" style="text-decoration:none">${illus(r, 48)}</a>
+          return `<div class="meal"><a class="emoji illus" data-photo="${r.id}" href="#/recette/${r.id}" style="text-decoration:none">${illus(r, 48)}</a>
             <a class="grow" href="#/recette/${r.id}" style="text-decoration:none;color:inherit">
               <div class="slot">${label}</div><div class="name">${esc(r.title)}</div>
               <div class="meta">${r.macros.carbs} g glucides · ${r.macros.kcal} kcal</div></a>
@@ -343,7 +343,7 @@
     const p = P(); const pool = RECIPES.filter((r) => r.category === slot || (slot === "collation" && r.category === "dessert"));
     openSheet(`<h2>Remplacer : ${SLOTS.find((s) => s[0] === slot)[1]}</h2>
       <div class="recipe-list">${pool.map((r) => `<button class="recipe-item" style="border:0;text-align:left;width:100%" data-r="${r.id}">
-        <div class="emoji illus">${illus(r, 58)}</div><div class="grow"><h3>${esc(r.title)}</h3><div class="meta">${r.macros.carbs} g glucides · ${r.prep + r.cook} min</div></div></button>`).join("")}</div>`, (el) => {
+        <div class="emoji illus" data-photo="${r.id}">${illus(r, 58)}</div><div class="grow"><h3>${esc(r.title)}</h3><div class="meta">${r.macros.carbs} g glucides · ${r.prep + r.cook} min</div></div></button>`).join("")}</div>`, (el) => {
       el.querySelectorAll("[data-r]").forEach((b) => b.addEventListener("click", () => {
         p.swaps = p.swaps || {}; p.swaps[k] = p.swaps[k] || {}; p.swaps[k][slot] = b.dataset.r; save(); closeSheet(); render();
       }));
@@ -487,7 +487,7 @@
       <button class="btn light block" id="more" style="margin-top:12px" hidden>Afficher plus de recettes</button>`;
     const norm = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
     let list = [], shown = 0;
-    const item = (r) => `<a class="recipe-item" href="#/recette/${r.id}"><div class="emoji illus">${illus(r, 58)}</div>
+    const item = (r) => `<a class="recipe-item" href="#/recette/${r.id}"><div class="emoji illus" data-photo="${r.id}">${illus(r, 58)}</div>
         <div class="grow"><h3>${esc(r.title)} ${p.favorites.includes(r.id) ? '<span class="fav">♥</span>' : ""}</h3>
         <div class="meta">${CATS[r.category] || ""} · ${r.prep + r.cook} min · ${r.macros.carbs} g glucides · ${r.macros.kcal} kcal</div></div></a>`;
     const more = () => {
@@ -534,7 +534,7 @@
     const paint = () => {
       const fav = p.favorites.includes(r.id);
       $("#view").innerHTML = `
-        <div class="card r-hero" style="padding:0;overflow:hidden"><div class="r-illus" style="background:linear-gradient(135deg,${(CAT_BG[r.category] || CAT_BG.dejeuner).join(",")})">${illus(r, 190)}</div>
+        <div class="card r-hero" style="padding:0;overflow:hidden"><div class="r-illus" data-photo="${r.id}" data-big="1" style="background:linear-gradient(135deg,${(CAT_BG[r.category] || CAT_BG.dejeuner).join(",")})">${illus(r, 190)}</div>
           <div style="padding:14px 16px 18px"><h2>${esc(r.title)}</h2>
           <div class="meta">${CATS[r.category] || ""} · ${r.difficulty} · Préparation ${r.prep} min${r.cook ? ` · Cuisson ${r.cook} min` : ""} · ${r.servings} pers.</div>
           <div class="tags">${(r.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</div></div></div>
@@ -633,13 +633,15 @@
         <div class="small muted">Métabolisme de base ≈ ${t.bmr} kcal · Dépense estimée ≈ ${t.tdee} kcal/jour</div></div>
       <div class="card"><h2>Modifier mes informations</h2>${profileForm(p, false)}</div>
       <div class="card"><h2>Famille et sauvegarde</h2>
+        <label class="check" style="margin-bottom:8px"><input type="checkbox" id="photosToggle" ${db.photos !== false ? "checked" : ""}><span>Afficher de vraies photos des plats (Wikimedia Commons, nécessite internet)</span></label>
         <button class="btn light block" id="switch" style="margin-bottom:8px">👨‍👩‍👧 Changer / ajouter un profil</button>
         <button class="btn light block" id="export" style="margin-bottom:8px">📤 Sauvegarder mes données</button>
         <button class="btn light block" id="import" style="margin-bottom:8px">📥 Restaurer une sauvegarde</button>
         <button class="btn danger block" id="del">Supprimer ce profil</button></div>
-      <p class="small muted" style="text-align:center">Keto Famille v1.1 · gratuit · hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
+      <p class="small muted" style="text-align:center">Keto Famille v1.2 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour"); render(); });
     $("#switch").onclick = showProfileSwitcher;
+    $("#photosToggle").onchange = (e) => { db.photos = e.target.checked; save(); toast(db.photos ? "Photos activées" : "Photos désactivées"); };
     $("#export").onclick = () => {
       const json = JSON.stringify(db);
       openSheet(`<h2>Sauvegarde</h2><p class="small muted">Copiez ce texte et gardez-le (WhatsApp à vous-même, notes…). Il permet de tout restaurer sur un autre téléphone.</p>
@@ -658,6 +660,81 @@
       $("#yes", el).onclick = () => { delete db.profiles[p.id]; db.current = Object.keys(db.profiles)[0] || null; save(); closeSheet(); location.hash = db.current ? "#/aujourdhui" : "#/nouveau"; render(); };
     });
   };
+
+  // ---------- Photos réelles (Wikimedia Commons, licences libres) ----------
+  // Le téléphone cherche une photo du plat sur Wikimedia Commons, la met en cache
+  // et affiche l'auteur et la licence. Hors connexion : l'illustration reste affichée.
+  const KW = window.PHOTO_KEYWORDS || {};
+  const PKEY = "ketofamille_photos_v1";
+  let pcache = {};
+  try { pcache = JSON.parse(localStorage.getItem(PKEY)) || {}; } catch (e) { pcache = {}; }
+  const psave = () => { try { localStorage.setItem(PKEY, JSON.stringify(pcache)); } catch (e) {} };
+  const photosOn = () => db.photos !== false;
+  const strip = (h) => { const d = document.createElement("div"); d.innerHTML = h || ""; return (d.textContent || "").trim().replace(/\s+/g, " "); };
+  const pending = {}; let active = 0; const queue = [];
+  function commonsSearch(q) {
+    const url = "https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrnamespace=6&gsrlimit=8" +
+      "&gsrsearch=" + encodeURIComponent(q + " filetype:bitmap") + "&prop=imageinfo&iiprop=url|mime|size|extmetadata&iiurlwidth=640";
+    return fetch(url).then((r) => r.json()).then((d) => {
+      const pages = Object.values((d.query && d.query.pages) || {}).sort((a, b) => a.index - b.index);
+      for (const pg of pages) {
+        const ii = pg.imageinfo && pg.imageinfo[0]; if (!ii) continue;
+        if (!/jpeg|png|webp/.test(ii.mime) || ii.width < 400 || ii.height < 300) continue;
+        const m = ii.extmetadata || {};
+        const lic = strip(m.LicenseShortName && m.LicenseShortName.value);
+        if (!lic) continue;
+        return { u: ii.thumburl || ii.url, a: strip(m.Artist && m.Artist.value).slice(0, 60) || "Auteur inconnu", l: lic };
+      }
+      return null;
+    });
+  }
+  function lookup(id) {
+    const c = pcache[id];
+    if (c && (c.u || Date.now() - (c.t || 0) < 7 * 864e5)) return Promise.resolve(c.u ? c : null);
+    if (pending[id]) return pending[id];
+    const r = byId[id]; if (!r) return Promise.resolve(null);
+    const kw = KW[id] || [r.title, CATS[r.category] || "food"];
+    pending[id] = new Promise((res) => queue.push(() => {
+      active++;
+      commonsSearch(kw[0]).then((x) => x || commonsSearch(kw[1])).then((x) => {
+        pcache[id] = x ? Object.assign(x, { t: Date.now() }) : { t: Date.now() }; psave(); res(x);
+      }).catch(() => res(null)).finally(() => { active--; delete pending[id]; pump(); });
+    }));
+    pump();
+    return pending[id];
+  }
+  function pump() { while (active < 3 && queue.length) queue.shift()(); }
+  function applyPhoto(el, x) {
+    if (!x || !el.isConnected || el.dataset.done) return;
+    const img = new Image();
+    img.onload = () => {
+      el.dataset.done = "1"; el.classList.add("has-photo");
+      el.innerHTML = "";
+      img.className = "photo"; img.alt = "";
+      el.appendChild(img);
+      if (el.dataset.big) {
+        const cr = document.createElement("div"); cr.className = "credit";
+        cr.textContent = "Photo : " + x.a + " · " + x.l + " · Wikimedia Commons (illustration du type de plat)";
+        el.appendChild(cr);
+      }
+    };
+    img.src = x.u;
+  }
+  const io = "IntersectionObserver" in window ? new IntersectionObserver((ents) => ents.forEach((e) => {
+    if (!e.isIntersecting) return; io.unobserve(e.target);
+    lookup(e.target.dataset.photo).then((x) => applyPhoto(e.target, x));
+  }), { rootMargin: "200px" }) : null;
+  function hydrate(root) {
+    if (!photosOn() || !navigator.onLine && !Object.keys(pcache).length) return;
+    root.querySelectorAll("[data-photo]:not([data-seen])").forEach((el) => {
+      el.dataset.seen = "1";
+      const c = pcache[el.dataset.photo];
+      if (c && c.u) { applyPhoto(el, c); return; }
+      if (!navigator.onLine) return;
+      if (io) io.observe(el); else lookup(el.dataset.photo).then((x) => applyPhoto(el, x));
+    });
+  }
+  new MutationObserver(() => hydrate(document.body)).observe(document.body, { childList: true, subtree: true });
 
   render();
 })();

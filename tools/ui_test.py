@@ -12,7 +12,7 @@ with sync_playwright() as pw:
     b = pw.chromium.launch()
     pg = b.new_page(viewport={"width": 390, "height": 844}, device_scale_factor=2, is_mobile=True, has_touch=True, locale="fr-FR")
     pg.on("pageerror", lambda e: errors.append(str(e)))
-    pg.on("console", lambda m: m.type == "error" and errors.append(m.text))
+    pg.on("console", lambda m: m.type == "error" and "ERR_TUNNEL" not in m.text and "net::" not in m.text and errors.append(m.text))
     pg.goto(WWW.as_uri())
     pg.screenshot(path=OUT / "01-accueil.png")
 

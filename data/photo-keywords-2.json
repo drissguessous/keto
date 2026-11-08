@@ -1,0 +1,802 @@
+{
+  "l03-paupiettes-dinde-jben-epinards": [
+    "stuffed turkey roulade",
+    "paupiette"
+  ],
+  "l03-brochettes-sumac-fattouche": [
+    "fattoush salad",
+    "chicken skewers"
+  ],
+  "l03-poulet-chou-fleur-curry-four": [
+    "roasted chicken cauliflower",
+    "roast chicken"
+  ],
+  "l04-steak-sauce-poivre": [
+    "steak au poivre",
+    "steak"
+  ],
+  "l04-chili-sans-haricots": [
+    "chili con carne",
+    "chili"
+  ],
+  "l04-boulettes-sauce-tomate-mozzarella": [
+    "meatballs tomato sauce mozzarella",
+    "meatballs"
+  ],
+  "l04-boeuf-bourguignon-sans-vin": [
+    "boeuf bourguignon",
+    "beef stew"
+  ],
+  "l04-moussaka-keto": [
+    "moussaka",
+    "moussaka"
+  ],
+  "l04-hachis-parmentier-chou-fleur": [
+    "hachis parmentier",
+    "cottage pie"
+  ],
+  "l04-brochettes-agneau-tzatziki": [
+    "lamb skewers tzatziki",
+    "lamb kebab"
+  ],
+  "l04-cotelettes-agneau-herbes-puree-celeri": [
+    "lamb chops herbs",
+    "lamb chops"
+  ],
+  "l04-roti-boeuf-legumes": [
+    "roast beef vegetables",
+    "roast beef"
+  ],
+  "l04-escalope-veau-champignons": [
+    "veal escalope mushroom sauce",
+    "veal"
+  ],
+  "l04-merguez-poelee-poivrons-oeufs": [
+    "merguez peppers eggs",
+    "merguez"
+  ],
+  "l04-steak-hache-oeuf-cheval-salade": [
+    "hamburger steak fried egg",
+    "fried egg"
+  ],
+  "l04-bowl-burger-deconstruit": [
+    "burger salad bowl",
+    "hamburger"
+  ],
+  "l04-gratin-courgettes-viande-hachee": [
+    "zucchini gratin minced meat",
+    "gratin"
+  ],
+  "l04-agneau-roti-romarin-haricots": [
+    "roast leg of lamb",
+    "roast lamb"
+  ],
+  "l04-boeuf-saute-brocoli-gingembre": [
+    "beef and broccoli",
+    "stir fry"
+  ],
+  "l04-blanquette-veau-champignons": [
+    "blanquette de veau",
+    "blanquette"
+  ],
+  "l04-pain-viande-cheddar": [
+    "meatloaf",
+    "meatloaf"
+  ],
+  "l04-brochettes-kefta-salade-concombre": [
+    "kefta brochettes",
+    "kefta"
+  ],
+  "l04-cheeseburger-casserole": [
+    "cheeseburger casserole",
+    "casserole"
+  ],
+  "l04-paleron-braise-legumes-racines": [
+    "braised beef root vegetables",
+    "pot roast"
+  ],
+  "l04-salade-tiede-boeuf-thai": [
+    "thai beef salad",
+    "beef salad"
+  ],
+  "l04-merguez-gratin-aubergine": [
+    "eggplant gratin mozzarella",
+    "gratin"
+  ],
+  "l04-tartare-boeuf-avocat": [
+    "steak tartare",
+    "tartare"
+  ],
+  "l04-veau-piccata-citron": [
+    "veal piccata",
+    "piccata"
+  ],
+  "l04-entrecote-beurre-persille": [
+    "entrecote asparagus",
+    "entrecote"
+  ],
+  "l04-boulettes-agneau-feta-menthe": [
+    "lamb meatballs yogurt sauce",
+    "meatballs"
+  ],
+  "l04-emince-veau-creme-poivrons": [
+    "veal cream sauce peppers",
+    "veal"
+  ],
+  "l04-goulash-boeuf-paprika": [
+    "beef goulash",
+    "goulash"
+  ],
+  "l04-burger-agneau-champignon-portobello": [
+    "portobello mushroom burger",
+    "portobello"
+  ],
+  "l04-roti-veau-moutarde": [
+    "roast veal mushrooms",
+    "roast veal"
+  ],
+  "l04-chou-farci-viande-hachee": [
+    "braised cabbage minced meat",
+    "cabbage dish"
+  ],
+  "l04-agneau-curry-coco": [
+    "lamb curry spinach",
+    "lamb curry"
+  ],
+  "l04-steak-chimichurri": [
+    "flank steak chimichurri",
+    "chimichurri"
+  ],
+  "l04-aubergines-farcies-boeuf-yaourt": [
+    "stuffed eggplant minced meat",
+    "stuffed eggplant"
+  ],
+  "l04-bowl-boeuf-cumin-riz-chou-fleur": [
+    "cauliflower rice beef",
+    "cauliflower rice"
+  ],
+  "l04-brochettes-boeuf-soja-sesame": [
+    "beef skewers sesame",
+    "beef skewers"
+  ],
+  "l04-cotelettes-agneau-moutarde-gratin-chou-fleur": [
+    "rack of lamb mustard crust",
+    "rack of lamb"
+  ],
+  "l04-merguez-brochettes-legumes": [
+    "merguez skewers vegetables",
+    "merguez"
+  ],
+  "l04-osso-buco-veau-gremolata": [
+    "osso buco gremolata",
+    "osso buco"
+  ],
+  "l04-steaks-haches-champignons-puree-brocoli": [
+    "hamburger steak mushroom sauce",
+    "hamburger steak"
+  ],
+  "l04-lasagnes-aubergine-agneau-ricotta": [
+    "eggplant lasagna",
+    "lasagna"
+  ],
+  "l04-boeuf-stroganoff": [
+    "beef stroganoff",
+    "stroganoff"
+  ],
+  "l04-hachis-agneau-celeri-gratine": [
+    "shepherd's pie",
+    "shepherd's pie"
+  ],
+  "l04-salade-cesar-boeuf": [
+    "caesar salad steak",
+    "caesar salad"
+  ],
+  "l04-boulettes-boeuf-sauce-coco-curry": [
+    "meatball curry",
+    "curry"
+  ],
+  "l04-veau-saltimbocca-dinde-fumee": [
+    "saltimbocca",
+    "saltimbocca"
+  ],
+  "l04-merguez-shakshuka-feta": [
+    "shakshuka merguez",
+    "shakshuka"
+  ],
+  "l04-epaule-agneau-confite-7h": [
+    "slow roasted lamb shoulder",
+    "roast lamb"
+  ],
+  "l04-chou-fleur-gratin-boeuf-bolognaise": [
+    "cauliflower gratin bolognese",
+    "cauliflower gratin"
+  ],
+  "l04-pave-boeuf-sauce-cheddar-choux-bruxelles": [
+    "steak brussels sprouts",
+    "brussels sprouts"
+  ],
+  "l04-saute-agneau-courgettes-citron-confit": [
+    "lamb preserved lemon olives",
+    "lamb stew"
+  ],
+  "l05-sardines-four-salsa-verde": [
+    "baked sardines salsa verde",
+    "sardines"
+  ],
+  "l05-papillote-saumon-courgette-citron": [
+    "salmon en papillote",
+    "salmon dish"
+  ],
+  "l05-curry-crevettes-coco": [
+    "shrimp coconut curry",
+    "shrimp curry"
+  ],
+  "l05-gratin-merlan-epinards": [
+    "fish gratin spinach",
+    "fish gratin"
+  ],
+  "l05-tartare-saumon-avocat": [
+    "salmon tartare avocado",
+    "salmon tartare"
+  ],
+  "l05-burgers-thon-salade": [
+    "tuna burger lettuce",
+    "tuna burger"
+  ],
+  "l05-dorade-four-fenouil": [
+    "baked sea bream fennel",
+    "sea bream"
+  ],
+  "l05-calamars-poeles-ail-persil": [
+    "fried squid garlic parsley",
+    "calamari"
+  ],
+  "l05-moules-creme-ail": [
+    "mussels cream sauce",
+    "mussels"
+  ],
+  "l05-saumon-croute-amandes": [
+    "almond crusted salmon",
+    "salmon dish"
+  ],
+  "l05-salade-thon-oeufs-haricots": [
+    "tuna egg green bean salad",
+    "tuna salad"
+  ],
+  "l05-maquereau-four-moutarde": [
+    "baked mackerel",
+    "mackerel"
+  ],
+  "l05-cabillaud-beurre-citron-brocoli": [
+    "cod lemon butter",
+    "cod dish"
+  ],
+  "l05-salade-crevettes-avocat-cocktail": [
+    "shrimp avocado salad",
+    "shrimp cocktail"
+  ],
+  "l05-sardines-panees-amande": [
+    "breaded sardines",
+    "sardines"
+  ],
+  "l05-saumon-teriyaki-wok": [
+    "salmon teriyaki",
+    "teriyaki"
+  ],
+  "l05-thon-mi-cuit-sesame-salade-chou": [
+    "seared tuna sesame",
+    "seared tuna"
+  ],
+  "l05-loup-poele-sauce-vierge": [
+    "sea bass sauce vierge",
+    "sea bass"
+  ],
+  "l05-crevettes-beurre-ail-spaghettis-courgette": [
+    "garlic shrimp zucchini noodles",
+    "garlic shrimp"
+  ],
+  "l05-brochettes-calamars-crevettes": [
+    "grilled shrimp squid skewers",
+    "seafood skewers"
+  ],
+  "l05-brandade-cabillaud-chou-fleur": [
+    "brandade de morue",
+    "brandade"
+  ],
+  "l05-salade-saumon-fume-avocat-oeuf": [
+    "smoked salmon avocado salad",
+    "smoked salmon"
+  ],
+  "l05-merlan-pane-puree-chou-fleur": [
+    "breaded fish fillet",
+    "fish fillet"
+  ],
+  "l05-moules-gratinees-parmesan": [
+    "baked mussels",
+    "mussels"
+  ],
+  "l05-maquereau-grille-sauce-yaourt": [
+    "grilled mackerel",
+    "mackerel"
+  ],
+  "l05-frittata-thon-epinards": [
+    "spinach frittata",
+    "frittata"
+  ],
+  "l05-papillote-dorade-tomates-olives": [
+    "sea bream tomatoes olives",
+    "sea bream"
+  ],
+  "l05-saumon-sauce-aneth-asperges": [
+    "salmon asparagus",
+    "salmon dish"
+  ],
+  "l05-rillettes-sardines-concombre": [
+    "sardine rillettes",
+    "rillettes"
+  ],
+  "l05-poke-bowl-saumon-chou-fleur": [
+    "salmon poke bowl",
+    "poke"
+  ],
+  "l05-cabillaud-curry-vert-courgettes": [
+    "fish green curry",
+    "green curry"
+  ],
+  "l05-gratin-fruits-de-mer-poireau": [
+    "seafood gratin",
+    "gratin"
+  ],
+  "l05-sardines-grillees-salade-poivrons": [
+    "grilled sardines",
+    "sardines"
+  ],
+  "l05-tacos-laitue-crevettes-guacamole": [
+    "shrimp lettuce wraps",
+    "guacamole"
+  ],
+  "l05-loup-croute-sel-legumes": [
+    "fish baked in salt",
+    "sea bass"
+  ],
+  "l05-calamars-farcis-sauce-tomate": [
+    "stuffed squid tomato sauce",
+    "stuffed squid"
+  ],
+  "l05-salade-nicoise-thon-frais": [
+    "salade niçoise",
+    "salad"
+  ],
+  "l05-saumon-gratine-brocoli-cheddar": [
+    "salmon broccoli bake",
+    "gratin"
+  ],
+  "l05-crevettes-saute-chou-sesame": [
+    "shrimp stir fry bok choy",
+    "stir fry"
+  ],
+  "l05-dorade-grillee-tahini": [
+    "grilled fish tahini",
+    "grilled fish"
+  ],
+  "l05-omelette-crevettes-ciboulette": [
+    "shrimp omelette",
+    "omelette"
+  ],
+  "l05-boulettes-sardines-sauce-tomate-basilic": [
+    "fish balls tomato sauce",
+    "fish balls"
+  ],
+  "l05-merlan-papillote-coco-citronnelle": [
+    "fish coconut milk",
+    "fish dish"
+  ],
+  "l05-saumon-fume-roules-fromage-concombre": [
+    "smoked salmon rolls",
+    "smoked salmon"
+  ],
+  "l05-thon-poele-poivrons-oignons": [
+    "tuna steak peppers",
+    "tuna steak"
+  ],
+  "l05-salade-calamars-tiede-roquette": [
+    "squid salad",
+    "calamari"
+  ],
+  "l05-maquereau-escabeche-legumes": [
+    "escabeche",
+    "escabeche"
+  ],
+  "l05-chaudree-poisson-chou-fleur": [
+    "seafood chowder",
+    "chowder"
+  ],
+  "l05-crevettes-gratinees-ail-fromage": [
+    "baked shrimp cheese",
+    "shrimp dish"
+  ],
+  "l05-cabillaud-paprika-puree-celeri": [
+    "roasted cod paprika",
+    "cod dish"
+  ],
+  "l05-wraps-nori-thon-avocat": [
+    "tuna avocado nori roll",
+    "nori"
+  ],
+  "l05-loup-four-artichauts-citron": [
+    "sea bass artichokes",
+    "sea bass"
+  ],
+  "l05-salade-saumon-roti-brocoli-amandes": [
+    "salmon broccoli salad",
+    "salmon salad"
+  ],
+  "l05-moules-curry-coco": [
+    "mussels curry coconut",
+    "mussels"
+  ],
+  "l05-galettes-saumon-sauce-yaourt-aneth": [
+    "salmon patties",
+    "fish cakes"
+  ],
+  "l06-tajine-agneau-artichauts": [
+    "lamb tajine artichokes",
+    "tajine"
+  ],
+  "l06-tajine-kefta-oeufs": [
+    "kefta tajine eggs",
+    "tajine"
+  ],
+  "l06-tajine-poisson-chermoula": [
+    "fish tajine",
+    "tajine"
+  ],
+  "l06-tajine-boeuf-chou-fleur": [
+    "beef tajine olives",
+    "tajine"
+  ],
+  "l06-chermoula-verte": [
+    "chermoula",
+    "chermoula"
+  ],
+  "l06-mrouzia-sans-miel": [
+    "mrouzia",
+    "tajine"
+  ],
+  "l06-poulet-mqualli": [
+    "chicken tajine preserved lemon",
+    "tajine"
+  ],
+  "l06-bastilla-poulet-feuilles-oeuf": [
+    "chicken bastilla",
+    "bastilla"
+  ],
+  "l06-harira-keto": [
+    "harira",
+    "soup"
+  ],
+  "l06-chorba-poulet-vermicelles-konjac": [
+    "chorba",
+    "soup"
+  ],
+  "l06-zaalouk-aubergines": [
+    "zaalouk",
+    "eggplant salad"
+  ],
+  "l06-chlada-tomates-poivrons": [
+    "moroccan salad tomato pepper",
+    "salad"
+  ],
+  "l06-brochettes-kefta-grill": [
+    "kefta brochettes grill",
+    "kefta"
+  ],
+  "l06-boulfaf-foie-agneau": [
+    "boulfaf",
+    "liver skewers"
+  ],
+  "l06-mechoui-epaule-four": [
+    "mechoui lamb",
+    "mechoui"
+  ],
+  "l06-tanjia-marrakchia": [
+    "tanjia",
+    "tanjia"
+  ],
+  "l06-rfissa-keto-poulet": [
+    "rfissa",
+    "moroccan cuisine"
+  ],
+  "l06-briouates-kefta-fathead": [
+    "briouat",
+    "briouat"
+  ],
+  "l06-briouates-jben-herbes": [
+    "briouat cheese",
+    "briouat"
+  ],
+  "l06-the-menthe-sans-sucre": [
+    "moroccan mint tea",
+    "mint tea"
+  ],
+  "l06-salade-concombre-menthe": [
+    "cucumber mint salad",
+    "cucumber salad"
+  ],
+  "l06-tajine-boulettes-sardines": [
+    "sardine meatballs tajine",
+    "tajine"
+  ],
+  "l06-couscous-chou-fleur-agneau": [
+    "couscous lamb vegetables",
+    "couscous"
+  ],
+  "l06-seffa-konjac-poulet": [
+    "seffa",
+    "moroccan cuisine"
+  ],
+  "l06-poulet-mhammer-four": [
+    "djaj mhammer",
+    "roast chicken"
+  ],
+  "l06-tajine-veau-haricots-verts": [
+    "tajine green beans",
+    "tajine"
+  ],
+  "l06-tajine-agneau-celeri": [
+    "lamb tajine celery",
+    "tajine"
+  ],
+  "l06-crevettes-pil-pil": [
+    "gambas pil pil",
+    "garlic shrimp"
+  ],
+  "l06-tajine-calamars-tomate": [
+    "seafood tajine",
+    "tajine"
+  ],
+  "l06-tajine-legumes-oeufs-jben": [
+    "vegetable tajine eggs",
+    "tajine"
+  ],
+  "l06-dorade-four-chermoula": [
+    "baked fish chermoula",
+    "baked fish"
+  ],
+  "l06-pastilla-fruits-mer-keto": [
+    "seafood pastilla",
+    "pastilla"
+  ],
+  "l06-sardines-farcies-chermoula": [
+    "stuffed sardines",
+    "sardines"
+  ],
+  "l06-ojja-merguez": [
+    "ojja merguez",
+    "shakshuka"
+  ],
+  "l06-dolma-courgettes-kefta": [
+    "stuffed zucchini",
+    "dolma"
+  ],
+  "l06-cotelettes-agneau-cumin": [
+    "grilled lamb chops",
+    "lamb chops"
+  ],
+  "l06-bissara-chou-fleur": [
+    "bissara",
+    "soup"
+  ],
+  "l06-oeufs-matecha-cumin": [
+    "eggs tomato moroccan",
+    "scrambled eggs"
+  ],
+  "l06-harcha-keto": [
+    "harcha",
+    "moroccan bread"
+  ],
+  "l06-amlou-keto": [
+    "amlou",
+    "almond butter"
+  ],
+  "l06-cornes-gazelle-keto": [
+    "cornes de gazelle",
+    "moroccan pastries"
+  ],
+  "l06-mhalbiya-fleur-oranger": [
+    "muhallebi",
+    "pudding"
+  ],
+  "l06-jus-amande-fleur-oranger": [
+    "almond milk",
+    "almond milk"
+  ],
+  "l06-cafe-epices-beurre": [
+    "spiced coffee",
+    "coffee"
+  ],
+  "l06-kebda-mchermla": [
+    "chicken liver sauteed",
+    "liver dish"
+  ],
+  "l06-soupe-poisson-marocaine": [
+    "moroccan fish soup",
+    "fish soup"
+  ],
+  "l06-maakouda-chou-fleur": [
+    "maakouda",
+    "fritters"
+  ],
+  "l06-courgettes-mchermla": [
+    "sauteed zucchini garlic",
+    "zucchini"
+  ],
+  "l07-pizza-fathead-poulet-poivrons": [
+    "chicken pepper pizza",
+    "pizza"
+  ],
+  "l07-pizza-fathead-margherita-thon": [
+    "tuna olive pizza",
+    "pizza"
+  ],
+  "l07-courgettis-bolognaise": [
+    "zucchini noodles bolognese",
+    "zucchini noodles"
+  ],
+  "l07-carbonara-dinde-fumee": [
+    "carbonara",
+    "pasta"
+  ],
+  "l07-piccata-poulet-citron": [
+    "chicken piccata",
+    "piccata"
+  ],
+  "l07-aubergines-parmigiana": [
+    "parmigiana di melanzane",
+    "parmigiana"
+  ],
+  "l07-saltimbocca-dinde": [
+    "saltimbocca sage",
+    "saltimbocca"
+  ],
+  "l07-lasagnes-courgettes-ricotta": [
+    "zucchini lasagna",
+    "lasagna"
+  ],
+  "l07-poulet-parmigiana": [
+    "chicken parmigiana",
+    "parmigiana"
+  ],
+  "l07-salade-caprese-poulet": [
+    "caprese salad chicken",
+    "caprese salad"
+  ],
+  "l07-boeuf-brocoli-wok": [
+    "beef broccoli stir fry",
+    "stir fry"
+  ],
+  "l07-riz-chou-fleur-cantonais": [
+    "cauliflower fried rice",
+    "fried rice"
+  ],
+  "l07-curry-thai-vert-poulet": [
+    "thai green curry chicken",
+    "green curry"
+  ],
+  "l07-curry-thai-rouge-crevettes": [
+    "red curry shrimp",
+    "red curry"
+  ],
+  "l07-bibimbap-keto": [
+    "bibimbap",
+    "bibimbap"
+  ],
+  "l07-pad-thai-konjac": [
+    "pad thai chicken",
+    "pad thai"
+  ],
+  "l07-poulet-teriyaki-sesame": [
+    "chicken teriyaki",
+    "teriyaki"
+  ],
+  "l07-soupe-pho-boeuf-konjac": [
+    "beef pho",
+    "pho"
+  ],
+  "l07-saumon-gingembre-bok": [
+    "glazed salmon bok choy",
+    "salmon dish"
+  ],
+  "l07-larb-poulet-laitue": [
+    "chicken larb",
+    "larb"
+  ],
+  "l07-butter-chicken": [
+    "butter chicken",
+    "curry"
+  ],
+  "l07-poulet-tikka-grille": [
+    "chicken tikka",
+    "tikka"
+  ],
+  "l07-palak-halloumi": [
+    "palak paneer",
+    "palak paneer"
+  ],
+  "l07-keema-boeuf-petits-legumes": [
+    "keema",
+    "curry"
+  ],
+  "l07-poisson-curry-coco-kerala": [
+    "kerala fish curry",
+    "fish curry"
+  ],
+  "l07-fajitas-poulet-bol": [
+    "chicken fajitas",
+    "fajitas"
+  ],
+  "l07-tacos-laitue-boeuf": [
+    "lettuce wraps beef",
+    "lettuce wraps"
+  ],
+  "l07-enchiladas-courgette-poulet": [
+    "chicken enchiladas",
+    "enchiladas"
+  ],
+  "l07-crevettes-ail-mexicaines": [
+    "camarones al mojo de ajo",
+    "garlic shrimp"
+  ],
+  "l07-shawarma-poulet-bowl": [
+    "chicken shawarma plate",
+    "shawarma"
+  ],
+  "l07-kofta-agneau-tahini": [
+    "lamb kofta tahini",
+    "kofta"
+  ],
+  "l07-taboule-chou-fleur": [
+    "tabbouleh",
+    "tabbouleh"
+  ],
+  "l07-kofte-salade-berger": [
+    "köfte shepherd salad",
+    "köfte"
+  ],
+  "l07-lahmacun-keto": [
+    "lahmacun",
+    "lahmacun"
+  ],
+  "l07-souvlaki-poulet-tzatziki": [
+    "chicken souvlaki tzatziki",
+    "souvlaki"
+  ],
+  "l07-salade-grecque-complete": [
+    "greek salad",
+    "salad"
+  ],
+  "l07-moussaka-keto": [
+    "moussaka béchamel",
+    "moussaka"
+  ],
+  "l07-gambas-saganaki": [
+    "shrimp saganaki",
+    "saganaki"
+  ],
+  "l07-keftedes-feta-menthe": [
+    "keftedes",
+    "meatballs"
+  ],
+  "l07-quiche-sans-pate-poireaux-saumon": [
+    "leek salmon quiche",
+    "quiche"
+  ],
+  "l07-quiche-lorraine-dinde-fumee": [
+    "quiche lorraine",
+    "quiche"
+  ],
+  "l07-boeuf-bourguignon-sans-vin": [
+    "boeuf bourguignon mushrooms",
+    "beef stew"
+  ]
+}
