@@ -25,7 +25,7 @@ Aucune inscription, aucun serveur : toutes les données restent sur le télépho
 2. Ouvrir le fichier ; Android demande d'autoriser l'installation depuis le navigateur ou WhatsApp : accepter.
 
 **iPhone / iPad** (version web installable, gratuite)
-1. Ouvrir dans **Safari** l'adresse GitHub Pages du dépôt : `https://<compte>.github.io/keto-famille/`.
+1. Ouvrir dans **Safari** l'adresse GitHub Pages du dépôt : `https://drissguessous.github.io/keto/`.
 2. Toucher le bouton **Partager** puis **« Sur l'écran d'accueil »**.
 3. L'icône Keto Famille apparaît comme une application ; elle fonctionne ensuite hors ligne.
 
