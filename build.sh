@@ -14,7 +14,7 @@ if [ ! -f "$KS" ]; then
     -dname "CN=Keto Famille, O=Famille, C=MA" >/dev/null 2>&1
 fi
 
-python3 tools/make_icon.py app >/dev/null
+python3 tools/make_icon.py app --style k-feuilles >/dev/null
 java -jar tools/bin/apktool.jar b app -o build/unsigned.apk 2>&1 | grep -E '^(I|W|E):' || true
 python3 tools/zipalign.py build/unsigned.apk build/aligned.apk
 java -jar tools/bin/apksigner.jar sign --ks "$KS" --ks-pass "pass:$PASS" \
