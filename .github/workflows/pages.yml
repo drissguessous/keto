@@ -1,4 +1,5 @@
-# Publie la version web (iPhone / tout navigateur) sur GitHub Pages à chaque push sur main.
+# Publie la version web (iPhone / tout navigateur) : copie app/assets/www vers la branche gh-pages,
+# servie par GitHub Pages (Settings → Pages → Deploy from a branch → gh-pages).
 name: Version web (GitHub Pages)
 on:
   push:
@@ -6,25 +7,22 @@ on:
     paths: ["app/assets/www/**", ".github/workflows/pages.yml"]
   workflow_dispatch:
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 concurrency:
   group: pages
   cancel-in-progress: true
 jobs:
-  deploy:
+  publish:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: app/assets/www
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Copier la version web sur gh-pages
+        run: |
+          set -e
+          mkdir /tmp/site && cp -r app/assets/www/. /tmp/site/ && touch /tmp/site/.nojekyll
+          cd /tmp/site
+          git init -q -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -q -m "Publish web version from ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
