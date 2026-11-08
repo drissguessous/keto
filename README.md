@@ -2,7 +2,7 @@
 
 Application Android gratuite et hors ligne pour suivre un programme keto, pensée pour la famille et les amis.
 
-**👉 Télécharger l'APK : onglet [Releases](../../releases/latest) → `KetoFamille.apk`**
+**👉 Android : [télécharger KetoFamille.apk](https://github.com/drissguessous/keto/raw/main/telechargement/KetoFamille.apk)** · **iPhone : [ouvrir dans Safari](https://drissguessous.github.io/keto/)** puis « Sur l'écran d'accueil »
 
 ## Fonctionnalités
 
@@ -21,7 +21,7 @@ Aucune inscription, aucun serveur : toutes les données restent sur le télépho
 ## Installer sur un téléphone
 
 **Android** (7.0 minimum)
-1. Ouvrir la page Releases depuis le téléphone et télécharger `KetoFamille.apk`.
+1. Depuis le téléphone, ouvrir le lien [KetoFamille.apk](https://github.com/drissguessous/keto/raw/main/telechargement/KetoFamille.apk).
 2. Ouvrir le fichier ; Android demande d'autoriser l'installation depuis le navigateur ou WhatsApp : accepter.
 
 **iPhone / iPad** (version web installable, gratuite)
@@ -54,6 +54,7 @@ python3 tools/pwa_test.py          # version iPhone : installation et hors ligne
 | [`app/smali/.../MainActivity.smali`](app/smali/ma/bagile/ketofamille/MainActivity.smali) | Activité Android : WebView plein écran |
 | [`app/AndroidManifest.xml`](app/AndroidManifest.xml) | Manifeste (minSdk 24, targetSdk 34) |
 | [`build.sh`](build.sh) | Compilation, alignement, signature |
+| [`telechargement/`](telechargement/) | Dernier APK signé, prêt à installer |
 | `signing/` | Clé de signature (à conserver pour publier des mises à jour) |
 
 Pour modifier une recette : éditer le lot dans `data/recipes/`, lancer `python3 tools/recipes.py check <lot>` puis `python3 tools/recipes.py build` et `./build.sh`. Pour une nouvelle version, augmenter `versionCode` dans `app/AndroidManifest.xml` et `app/apktool.yml`.
