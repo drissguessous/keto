@@ -110,6 +110,22 @@
     if (ok.length >= 6) return ok;
     return pool.slice().sort((a, b) => (a.cost || 0) - (b.cost || 0)).slice(0, 12); // budget très serré : les moins chères
   }
+  // Prix : base (relevés Maroc) + prix corrigés par l'utilisateur (db.prices, en DH/kg)
+  const BASE_PRICES = window.PRICES || {};
+  const ING_NAMES = window.ING_NAMES || {};
+  // unité d'affichage du prix : œufs à l'unité, le reste au kilo (ou au litre pour les liquides)
+  const LIQUIDS = ["huile_olive", "huile_coco", "huile_argan", "huile_tournesol", "lait", "lait_amande", "lait_coco", "creme_liquide", "vinaigre", "sauce_soja", "citron", "bouillon"];
+  const priceUnit = (id) => (id === "oeuf" ? { f: 0.06, u: "l'œuf" } : LIQUIDS.includes(id) ? { f: 1, u: "le litre" } : { f: 1, u: "le kg" });
+  const priceOf = (id) => { const u = db.prices && db.prices[id]; return u != null ? u : (BASE_PRICES[id] ? BASE_PRICES[id][0] : null); };
+  function recomputeCosts() {
+    if (!Object.keys(BASE_PRICES).length) return;
+    RECIPES.forEach((r) => {
+      let tot = 0, ok = true;
+      r.ingredients.forEach((i) => { const pr = priceOf(i.ing); if (pr == null) { ok = false; delete i.c; } else { i.c = (i.g || 0) / 1000 * pr; tot += i.c; } });
+      if (ok) r.cost = Math.round(tot / r.servings * 10) / 10; else delete r.cost;
+    });
+  }
+  recomputeCosts();
   const menuCost = (m) => Object.values(m).reduce((s, r) => s + (r.cost || 0), 0);
 
   // Menu du jour : déterministe à partir du numéro de jour, avec remplacements possibles et respect du budget
@@ -205,7 +221,7 @@
     const top = ["aujourdhui", "programme", "recettes", "suivi", "profil"];
     $("#backBtn").hidden = top.includes(name) || name === "nouveau";
     document.querySelectorAll("#tabs a").forEach((a) => {
-      const on = a.dataset.tab === name || (name === "recette" && a.dataset.tab === "recettes");
+      const on = a.dataset.tab === name || (name === "recette" && a.dataset.tab === "recettes") || (name === "prix" && a.dataset.tab === "profil");
       a.classList.toggle("active", on);
       if (on) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
     });
@@ -620,7 +636,7 @@
       <p class="hint" style="margin-top:-6px">Multipliez les quantités selon le nombre de personnes à table. Cochez au fur et à mesure dans le magasin.</p>
       <button class="btn light block" type="button" id="copyList" style="margin-bottom:8px">📋 Copier la liste (pour WhatsApp, notes…)</button>
       ${items.map((i) => `<label class="check"><input type="checkbox"><span class="grow">${i.qty ? `<b>${fmtQty(i.qty)} ${esc(i.unit)}</b> ` : ""}${esc(i.name)}</span>${i.c >= 0.5 ? `<span class="muted small">≈ ${dh(i.c)}</span>` : ""}</label>`).join("")}
-      ${total ? `<p class="hint">Prix moyens constatés au Maroc${PRICE_INFO.updated ? " (" + esc(PRICE_INFO.updated) + ")" : ""}, à titre indicatif. Les quantités entamées (huile, épices…) servent plusieurs semaines : la dépense réelle est souvent plus faible.</p>` : ""}`, (el) => {
+      ${total ? `<p class="hint">Prix moyens constatés au Maroc${PRICE_INFO.updated ? " (" + esc(PRICE_INFO.updated) + ")" : ""}, à titre indicatif. Les quantités entamées (huile, épices…) servent plusieurs semaines : la dépense réelle est souvent plus faible. <a href="#/prix" class="link-btn" id="toPrix">Ajuster mes prix</a></p>` : ""}`, (el) => {
       $("#copyList", el).addEventListener("click", () => copyText(text));
       el.querySelectorAll(".check input").forEach((c) => c.addEventListener("change", () => c.parentNode.classList.toggle("done", c.checked)));
     });
@@ -787,6 +803,65 @@
     draw();
   };
 
+  // ---------- Écran : Mes prix ----------
+  let prixQuery = "", prixMine = false;
+  routes.prix = (focus) => {
+    setTitle("Mes prix");
+    db.prices = db.prices || {};
+    const ids = Object.keys(BASE_PRICES).filter((id) => !["eau", "sel"].includes(id));
+    const norm = (x) => x.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    $("#view").innerHTML = `
+      <div class="card"><h2>Des prix au plus juste</h2>
+        <p style="margin:0">Les coûts des recettes, des menus et de la liste de courses sont calculés avec des <b>prix moyens constatés au Maroc</b>${PRICE_INFO.updated ? " (" + esc(PRICE_INFO.updated) + ")" : ""}. Si vous payez un produit plus ou moins cher, corrigez-le ici : tout se recalcule automatiquement.</p>
+        <p class="hint" style="margin:8px 0 0">Vos prix restent sur ce téléphone et valent pour tous les profils de la famille.</p></div>
+      <div class="search-wrap"><input class="search" id="pq" type="search" placeholder="🔍 Chercher un produit (poulet, tomate, fromage…)" value="${esc(prixQuery)}" aria-label="Chercher un produit"></div>
+      <div class="chips" id="pchips"><button type="button" data-m="0" class="${prixMine ? "" : "on"}">Tous les produits</button><button type="button" data-m="1" class="${prixMine ? "on" : ""}">✏️ Mes prix modifiés (${Object.keys(db.prices).length})</button></div>
+      <div class="card" id="plist" style="padding-top:6px"></div>
+      ${Object.keys(db.prices).length ? `<button type="button" class="btn ghost block" id="pResetAll">Revenir à tous les prix moyens</button>` : ""}`;
+    const draw = () => {
+      const q = norm(prixQuery.trim());
+      const list = ids.filter((id) => (!prixMine || db.prices[id] != null) && (!q || norm(ING_NAMES[id] || id).includes(q)))
+        .sort((a, b) => (ING_NAMES[a] || a).localeCompare(ING_NAMES[b] || b, "fr"));
+      $("#plist").innerHTML = list.length ? list.map((id) => {
+        const u = priceUnit(id), mine = db.prices[id] != null, v = priceOf(id) * u.f;
+        return `<button type="button" class="price-row" data-id="${id}"><span class="grow"><b>${esc(ING_NAMES[id] || id)}</b>
+          <span class="small ${mine ? "mine" : "muted"}">${mine ? "✏️ Mon prix" : BASE_PRICES[id][1] ? "Prix moyen estimé" : "Prix moyen Maroc"}</span></span>
+          <span class="price">${dh(v)}<small> ${u.u}</small></span></button>`;
+      }).join("") : `<div class="empty">Aucun produit trouvé.</div>`;
+      $("#plist").querySelectorAll("[data-id]").forEach((b) => b.addEventListener("click", () => editPrice(b.dataset.id, draw)));
+    };
+    let tm;
+    $("#pq").addEventListener("input", (e) => { prixQuery = e.target.value; clearTimeout(tm); tm = setTimeout(draw, 150); });
+    $("#pchips").addEventListener("click", (e) => { const b = e.target.closest("button"); if (!b) return; prixMine = b.dataset.m === "1";
+      $("#pchips").querySelectorAll("button").forEach((x) => x.classList.toggle("on", x === b)); draw(); });
+    const ra = $("#pResetAll"); if (ra) ra.addEventListener("click", () => openSheet(`<h2>Revenir aux prix moyens ?</h2><p>Vos ${Object.keys(db.prices).length} prix modifiés seront remplacés par les prix moyens constatés au Maroc.</p>
+      <button type="button" class="btn ghost block" id="no">Non, garder mes prix</button><button type="button" class="btn danger block" style="margin-top:8px" id="yes">Oui, revenir aux prix moyens</button>`, (el) => {
+      $("#no", el).onclick = () => closeSheet();
+      $("#yes", el).onclick = () => { db.prices = {}; save(); recomputeCosts(); closeSheet(); toast("Prix moyens rétablis"); render(); };
+    }));
+    draw();
+    if (focus && BASE_PRICES[focus]) editPrice(focus, draw);
+  };
+  function editPrice(id, after) {
+    const u = priceUnit(id), base = BASE_PRICES[id][0] * u.f, mine = db.prices && db.prices[id] != null;
+    const cur = priceOf(id) * u.f;
+    openSheet(`<h2>${esc(ING_NAMES[id] || id)}</h2>
+      <p class="hint" style="margin-top:-6px">Prix moyen constaté au Maroc : <b>${dh(base)}</b> ${u.u}${BASE_PRICES[id][1] ? " (estimation)" : ""}.</p>
+      <label class="f">Mon prix en dirhams, ${u.u}<input id="pv" type="text" inputmode="decimal" value="${String(Math.round(cur * 100) / 100).replace(".", ",")}" aria-describedby="pvErr"></label>
+      <p class="form-error" id="pvErr" role="alert" hidden></p>
+      <button type="button" class="btn block" id="pSave">Enregistrer mon prix</button>
+      ${mine ? `<button type="button" class="btn ghost block" id="pBack" style="margin-top:8px">Revenir au prix moyen (${dh(base)})</button>` : ""}`, (el) => {
+      const inp = $("#pv", el); setTimeout(() => { try { inp.focus(); inp.select(); } catch (e) {} }, 50);
+      const done = (msg) => { save(); recomputeCosts(); closeSheet(); toast(msg); if (after) after(); };
+      $("#pSave", el).onclick = () => {
+        const v = parseFloat(String(inp.value).replace(",", ".").replace(/[^0-9.]/g, ""));
+        if (!(v > 0 && v < 100000)) { const e = $("#pvErr", el); e.textContent = "Indiquez un prix en dirhams, par exemple 25 ou 12,50."; e.hidden = false; inp.setAttribute("aria-invalid", "true"); return; }
+        db.prices = db.prices || {}; db.prices[id] = v / u.f; done("Prix enregistré, coûts recalculés");
+      };
+      const bk = $("#pBack", el); if (bk) bk.onclick = () => { delete db.prices[id]; done("Prix moyen rétabli"); };
+    });
+  }
+
   routes.recette = (id) => {
     const r = byId[id], p = P();
     if (!r) { location.replace("#/recettes"); return; }
@@ -810,7 +885,7 @@
         ${hasCost(r) ? `<div class="card"><div class="row spread" style="align-items:baseline"><h2 style="margin:0">Coût estimé</h2><span class="cost-pill">≈ ${dh(r.cost)} / portion</span></div>
           <p style="margin:8px 0 4px">Soit environ <b>${dh(r.cost * serv)}</b> pour ${serv} personne${serv > 1 ? "s" : ""}.${+p.budget > 0 ? (r.cost <= slotLimit(p, r.category === "petit-dej" ? "petit-dej" : r.category === "collation" || r.category === "dessert" ? "collation" : "dejeuner") ? " ✅ Dans votre budget." : " ⚠️ Au-dessus de votre budget.") : ""}</p>
           <details><summary>Détail par ingrédient</summary><ul class="ing">${r.ingredients.filter((i) => i.c > 0.05).sort((a, b) => b.c - a.c).map((i) =>
-            `<li><span class="q">≈ ${dh(i.c * serv / r.servings)}</span><span>${esc(i.name)}</span></li>`).join("")}</ul>
+            `<li><span class="q">≈ ${dh(i.c * serv / r.servings)}</span><span class="grow">${esc(i.name)}${db.prices && db.prices[i.ing] != null ? ' <span class="mine small">✏️ mon prix</span>' : ""}</span><a class="link-btn" href="#/prix/${i.ing}" aria-label="Modifier le prix : ${esc(i.name)}">Modifier</a></li>`).join("")}</ul>
             <p class="hint">Prix moyens de détail constatés au Maroc${PRICE_INFO.updated ? " (" + esc(PRICE_INFO.updated) + ")" : ""} en grande surface et au marché. Les prix varient selon la ville, la saison et le magasin : c'est une estimation.</p></details></div>` : ""}
         <div class="card"><div class="row spread" style="margin-bottom:8px;flex-wrap:wrap"><h2 style="margin:0">Ingrédients</h2>
           <div class="stepper" role="group" aria-label="Nombre de personnes"><button type="button" id="minus" aria-label="Une personne de moins" ${serv <= 1 ? "disabled" : ""}>−</button>
@@ -917,6 +992,7 @@
         ${p.demo ? `<p class="hint" style="margin:8px 0 0">Ceci est un profil d'essai avec des données inventées. Créez votre propre profil quand vous êtes prêt(e), puis supprimez celui-ci.</p>` : ""}</div>
       <div class="card"><h2>Ma famille</h2>
         <p class="hint" style="margin-top:-4px">${nb > 1 ? nb + " profils sur ce téléphone." : "Un seul profil pour l'instant."} Chacun a son menu et son suivi.</p>
+        <a class="btn light block" href="#/prix" style="margin-bottom:8px">💰 Mes prix : ajuster les prix des produits</a>
         <button class="btn block" type="button" id="switch">👨‍👩‍👧 Changer de profil ou ajouter un membre</button></div>
       <div class="card"><h2>Modifier mes informations</h2>${profileForm(p, false)}</div>
       <div class="card"><h2>Réglages et sauvegarde</h2>
@@ -952,7 +1028,7 @@
           <button class="btn block" type="button" id="yesImp">Oui, restaurer</button><button class="btn ghost block" type="button" style="margin-top:8px" id="noImp">Annuler</button>`, (el2) => {
           $("#noImp", el2).onclick = () => closeSheet();
           $("#yesImp", el2).onclick = () => {
-            db = d; if (!db.profiles[db.current]) db.current = Object.keys(db.profiles)[0] || null; save();
+            db = d; if (!db.profiles[db.current]) db.current = Object.keys(db.profiles)[0] || null; save(); recomputeCosts();
             closeSheet(() => { toast("Données restaurées ✓"); location.hash = db.current ? "#/aujourdhui" : "#/nouveau"; render(); });
           };
         });

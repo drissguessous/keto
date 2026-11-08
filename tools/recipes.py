@@ -155,6 +155,9 @@ def cmd_build():
         info = {"updated": "novembre 2026", "sourced": sum(1 for v in PRICES.values() if not v.get("estime")),
                 "estimated": sum(1 for v in PRICES.values() if v.get("estime")), "sources": srcs}
         js += "window.PRICE_INFO=" + json.dumps(info, ensure_ascii=False) + ";\n"
+        base = {k: [v["mad_kg"], 1 if v.get("estime") else 0] for k, v in PRICES.items()}
+        js += "window.PRICES=" + json.dumps(base, separators=(",", ":")) + ";\n"
+        js += "window.ING_NAMES=" + json.dumps({k: v[0] for k, v in ING.items()}, ensure_ascii=False, separators=(",", ":")) + ";\n"
     js += "window.ING_LOOK=" + json.dumps(palette, ensure_ascii=False, separators=(",", ":")) + ";\n"
     (ROOT / "app/assets/www/recipes.js").write_text(js)
     from collections import Counter

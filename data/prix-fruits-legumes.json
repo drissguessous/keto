@@ -1,0 +1,410 @@
+{
+  "avocat": {
+    "mad_kg": 30,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 15–23 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "olive_verte": {
+    "mad_kg": 35,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "olives vertes en vrac au souk/GMS"
+  },
+  "olive_noire": {
+    "mad_kg": 40,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "olives noires en vrac"
+  },
+  "epinard": {
+    "mad_kg": 15,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "botte au marché"
+  },
+  "laitue": {
+    "mad_kg": 10,
+    "source": "combien-coute.net (Numbeo)",
+    "url": "https://www.combien-coute.net/salade/maroc/",
+    "date": "2026-11",
+    "estime": false,
+    "note": "3,9 MAD la salade, pièce ≈ 400 g"
+  },
+  "roquette": {
+    "mad_kg": 60,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "botte/sachet, peu courant"
+  },
+  "chou_fleur": {
+    "mad_kg": 5,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 1,5–3 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "brocoli": {
+    "mad_kg": 25,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "GMS, peu présent au souk"
+  },
+  "chou_blanc": {
+    "mad_kg": 5,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 1,5–3 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "chou_rouge": {
+    "mad_kg": 10,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "GMS"
+  },
+  "chou_bruxelles": {
+    "mad_kg": 60,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "importé/rare, GMS"
+  },
+  "courgette": {
+    "mad_kg": 10,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 4–8 MAD/kg ; le360 sept. 2026 : ≈10 au détail ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "concombre": {
+    "mad_kg": 8,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 3–6 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "aubergine": {
+    "mad_kg": 8,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 3–6 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "poivron_vert": {
+    "mad_kg": 10,
+    "source": "Fructidor",
+    "url": "https://fructidor.com/news/news-detail/c387c30a-c579-4820-927b-8932eb71ce4f",
+    "date": "2025-01",
+    "estime": false,
+    "note": "détail ≈8 MAD (unité non précisée), arrondi à 10 pour nov. 2026"
+  },
+  "poivron_rouge": {
+    "mad_kg": 18,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "plus cher que le vert"
+  },
+  "tomate": {
+    "mad_kg": 12,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 3–9 MAD/kg fin oct. ; hausse début nov. (TelQuel : jusqu'à 20 MAD/kg) ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "tomate_cerise": {
+    "mad_kg": 30,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "barquette GMS"
+  },
+  "tomate_concassee": {
+    "mad_kg": 25,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "boîte 400 g ≈ 10 MAD"
+  },
+  "concentre_tomate": {
+    "mad_kg": 35,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "boîte/tube, ex. Aïcha"
+  },
+  "oignon": {
+    "mad_kg": 8,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "gros 3,5–6 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "oignon_rouge": {
+    "mad_kg": 10,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "légèrement plus cher que l'oignon jaune"
+  },
+  "oignon_vert": {
+    "mad_kg": 8,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "oignon frais, gros 3–4,5 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "ail": {
+    "mad_kg": 40,
+    "source": "Tridge (prix détail Casablanca)",
+    "url": "https://www.tridge.com/news/these-are-the-prices-of-basic-materials-in-the-cas",
+    "date": "2022-01",
+    "estime": false,
+    "note": "25–40 MAD/kg en 2022, haut de fourchette retenu"
+  },
+  "gingembre": {
+    "mad_kg": 60,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "importé, souk/GMS"
+  },
+  "champignon": {
+    "mad_kg": 40,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "barquette 250 g ≈ 10 MAD"
+  },
+  "asperge": {
+    "mad_kg": 80,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "importé/rare"
+  },
+  "haricot_vert": {
+    "mad_kg": 20,
+    "source": "Le360",
+    "url": "https://en.le360.ma/economy/casablanca-produce-prices-reveal-a-growing-gap-between-wholesale-and-retail-markets_YL3USXF6XFHLTDLBBSK4NXM2GE/",
+    "date": "2026-08",
+    "estime": false,
+    "note": "gros 12–15 MAD/kg ; détail estimé"
+  },
+  "celeri": {
+    "mad_kg": 10,
+    "source": "Le360",
+    "url": "https://fr.le360.ma/societe/leur-prix-passe-de-15-a-15-dirhams-persil-coriandre-et-celeri-les-nouvelles-stars-du-ramadan_KJ7VJVWIDNHHTH3RBV3XQYJXHQ/",
+    "date": "2026-02",
+    "estime": false,
+    "note": "botte ≈ 1,5 MAD en temps normal, 15 en crise (fév. 2026) ; botte ≈ 500 g"
+  },
+  "celeri_rave": {
+    "mad_kg": 20,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "peu courant"
+  },
+  "radis": {
+    "mad_kg": 10,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "botte au marché"
+  },
+  "navet": {
+    "mad_kg": 10,
+    "source": "Le360",
+    "url": "https://en.le360.ma/economy/casablanca-produce-prices-reveal-a-growing-gap-between-wholesale-and-retail-markets_YL3USXF6XFHLTDLBBSK4NXM2GE/",
+    "date": "2026-08",
+    "estime": false,
+    "note": "gros 6–8 MAD/kg ; détail estimé"
+  },
+  "carotte": {
+    "mad_kg": 6,
+    "source": "Le360 / Le Matin",
+    "url": "https://en.le360.ma/economy/casablanca-produce-prices-reveal-a-growing-gap-between-wholesale-and-retail-markets_YL3USXF6XFHLTDLBBSK4NXM2GE/",
+    "date": "2026-08",
+    "estime": false,
+    "note": "détail 7 MAD/kg (août) ; gros 2–4 fin oct. (Le Matin)"
+  },
+  "potiron": {
+    "mad_kg": 7,
+    "source": "Le Matin (marché de gros Casablanca)",
+    "url": "https://lematin.ma/economie/le-prix-des-viandes-bovines-en-leger-recul-la-tomate-en-hausse-a-casablanca/373012",
+    "date": "2026-10",
+    "estime": false,
+    "note": "courge, gros 2–5,5 MAD/kg ; détail estimé ≈ ×1,7–2 du prix de gros"
+  },
+  "fenouil": {
+    "mad_kg": 12,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "saison"
+  },
+  "artichaut": {
+    "mad_kg": 90,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "cœurs en boîte/bocal, importé"
+  },
+  "poireau": {
+    "mad_kg": 10,
+    "source": "Tridge (prix détail Casablanca)",
+    "url": "https://www.tridge.com/news/these-are-the-prices-of-basic-materials-in-the-cas",
+    "date": "2022-01",
+    "estime": false,
+    "note": "6–8 MAD/kg en 2022, réévalué"
+  },
+  "cornichon": {
+    "mad_kg": 50,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "bocal ≈ 350 g égoutté"
+  },
+  "citron": {
+    "mad_kg": 25,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "jus : citrons ≈ 10 MAD/kg, rendement ≈ 40 %"
+  },
+  "citron_confit": {
+    "mad_kg": 40,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "vrac au souk"
+  },
+  "framboise": {
+    "mad_kg": 150,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "barquette 125 g ≈ 18–20 MAD, hors saison"
+  },
+  "fraise": {
+    "mad_kg": 30,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "début de saison (nov.)"
+  },
+  "mure": {
+    "mad_kg": 150,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "barquette 125 g, rare"
+  },
+  "myrtille": {
+    "mad_kg": 150,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "barquette 125 g ≈ 18–20 MAD"
+  },
+  "persil": {
+    "mad_kg": 25,
+    "source": "Le360",
+    "url": "https://fr.le360.ma/societe/leur-prix-passe-de-15-a-15-dirhams-persil-coriandre-et-celeri-les-nouvelles-stars-du-ramadan_KJ7VJVWIDNHHTH3RBV3XQYJXHQ/",
+    "date": "2026-02",
+    "estime": false,
+    "note": "1,5–5 MAD la botte (≈100 g) selon période ; ≈2,5 retenu"
+  },
+  "coriandre": {
+    "mad_kg": 25,
+    "source": "Le360",
+    "url": "https://fr.le360.ma/societe/leur-prix-passe-de-15-a-15-dirhams-persil-coriandre-et-celeri-les-nouvelles-stars-du-ramadan_KJ7VJVWIDNHHTH3RBV3XQYJXHQ/",
+    "date": "2026-02",
+    "estime": false,
+    "note": "1,5–5 MAD la botte (≈100 g) selon période ; ≈2,5 retenu"
+  },
+  "menthe": {
+    "mad_kg": 30,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "botte ≈100 g ≈ 3 MAD"
+  },
+  "basilic": {
+    "mad_kg": 80,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "botte GMS"
+  },
+  "aneth": {
+    "mad_kg": 50,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "botte"
+  },
+  "ciboulette": {
+    "mad_kg": 80,
+    "source": null,
+    "url": null,
+    "date": "2026-11",
+    "estime": true,
+    "note": "barquette GMS"
+  },
+  "piment": {
+    "mad_kg": 12,
+    "source": "Tridge (prix détail Casablanca)",
+    "url": "https://www.tridge.com/news/these-are-the-prices-of-basic-materials-in-the-cas",
+    "date": "2022-01",
+    "estime": false,
+    "note": "6–18 MAD/kg"
+  }
+}
