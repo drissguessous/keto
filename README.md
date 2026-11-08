@@ -2,7 +2,7 @@
 
 Application Android gratuite et hors ligne pour suivre un programme keto, pensée pour la famille et les amis.
 
-**👉 Android : [télécharger KetoFamille.apk](https://github.com/drissguessous/keto/raw/main/telechargement/KetoFamille.apk)** · **iPhone : [ouvrir dans Safari](https://drissguessous.github.io/keto/)** puis « Sur l'écran d'accueil »
+**👉 Android : [télécharger KetoFamille.apk](https://github.com/drissguessous/keto/raw/main/telechargement/KetoFamille.apk)** · **iPhone : [page d'installation](https://drissguessous.github.io/keto/iphone.html)** (à ouvrir dans Safari)
 
 ## Fonctionnalités
 
@@ -24,8 +24,11 @@ Aucune inscription, aucun serveur : toutes les données restent sur le télépho
 1. Depuis le téléphone, ouvrir le lien [KetoFamille.apk](https://github.com/drissguessous/keto/raw/main/telechargement/KetoFamille.apk).
 2. Ouvrir le fichier ; Android demande d'autoriser l'installation depuis le navigateur ou WhatsApp : accepter.
 
-**iPhone / iPad** (version web installable, gratuite)
-1. Ouvrir dans **Safari** l'adresse GitHub Pages du dépôt : `https://drissguessous.github.io/keto/`.
+**iPhone / iPad** (gratuit, sans App Store)
+
+Ouvrir dans **Safari** la page **https://drissguessous.github.io/keto/iphone.html** et toucher « Télécharger Keto Famille » : un profil d'installation ([`KetoFamille.mobileconfig`](telechargement/KetoFamille.mobileconfig)) ajoute l'icône sur l'écran d'accueil (Réglages → Profil téléchargé → Installer). Autre méthode :
+
+1. Ouvrir dans **Safari** `https://drissguessous.github.io/keto/`.
 2. Toucher le bouton **Partager** puis **« Sur l'écran d'accueil »**.
 3. L'icône Keto Famille apparaît comme une application ; elle fonctionne ensuite hors ligne.
 
