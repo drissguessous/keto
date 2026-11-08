@@ -97,13 +97,28 @@
     kcal: t.kcal + m.kcal, fat: t.fat + m.fat, protein: t.protein + m.protein, carbs: t.carbs + m.carbs
   }), { kcal: 0, fat: 0, protein: 0, carbs: 0 });
 
-  // Menu du jour : déterministe à partir du numéro de jour, avec remplacements possibles
+  // ---------- Budget (prix moyens relevés au Maroc, en dirhams) ----------
+  const PRICE_INFO = window.PRICE_INFO || { updated: "", sources: [] };
+  const hasCost = (r) => typeof r.cost === "number";
+  const dh = (v) => (v < 10 ? (Math.round(v * 2) / 2).toLocaleString("fr-FR") : Math.round(v)) + " DH";
+  const BUDGETS = [[0, "Sans limite"], [15, "Économique"], [25, "Moyen"], [40, "Confort"]];
+  const SLOT_SHARE = { "petit-dej": 0.6, dejeuner: 1, diner: 1, collation: 0.4 };
+  const slotLimit = (p, slot) => (+p.budget > 0 ? +p.budget * (SLOT_SHARE[slot] || 1) : Infinity);
+  function withinBudget(pool, limit) {
+    if (limit === Infinity) return pool;
+    const ok = pool.filter((r) => !hasCost(r) || r.cost <= limit);
+    if (ok.length >= 6) return ok;
+    return pool.slice().sort((a, b) => (a.cost || 0) - (b.cost || 0)).slice(0, 12); // budget très serré : les moins chères
+  }
+  const menuCost = (m) => Object.values(m).reduce((s, r) => s + (r.cost || 0), 0);
+
+  // Menu du jour : déterministe à partir du numéro de jour, avec remplacements possibles et respect du budget
   function menuFor(p, k) {
     const n = daysBetween(p.startDate, k) + 1000;
     const swaps = (p.swaps && p.swaps[k]) || {};
     const res = {};
     SLOTS.forEach(([slot], i) => {
-      const pool = RECIPES.filter((r) => r.category === slot || (slot === "collation" && r.category === "dessert" && n % 3 === 0));
+      const pool = withinBudget(RECIPES.filter((r) => r.category === slot || (slot === "collation" && r.category === "dessert" && n % 3 === 0)), slotLimit(p, slot));
       if (!pool.length) return;
       const pick = pool[(n * (i * 2 + 3) + i * 7) % pool.length];
       res[slot] = byId[swaps[slot]] || pick;
@@ -233,6 +248,8 @@
       </select></label>
       ${seg("carbLimit", "Glucides nets par jour", [[20, "20 g strict"], [25, "25 g"], [30, "30 g souple"]], p.carbLimit)}
       <p class="hint" style="margin-top:-8px">Vous débutez ? Gardez 25 g, c'est le bon compromis.</p>
+      ${seg("budget", "Budget par repas et par personne", BUDGETS.map(([v, l]) => [v, v ? l + " · " + v + " DH" : l]), p.budget == null ? (isNew ? 25 : 0) : p.budget)}
+      <p class="hint" style="margin-top:-8px">Les menus proposés respectent ce budget (petit-déjeuner ≈ 60 %, collation ≈ 40 %). Prix moyens constatés au Maroc.</p>
       <label class="f">Date de début du programme<input name="startDate" type="date" required value="${esc(p.startDate || dkey())}"></label>
       ${isNew ? `<p class="warn">⚠️ Le keto ne convient pas à tout le monde. Parlez-en à votre médecin avant de commencer si vous êtes enceinte ou allaitez, avez un diabète traité, une maladie des reins ou du foie, un traitement pour la tension, ou des antécédents de troubles alimentaires. Réservé aux adultes.</p>` : ""}
       <p class="form-error" id="pformErr" role="alert" hidden></p>
@@ -251,7 +268,7 @@
       e.preventDefault();
       const data = Object.fromEntries(new FormData(f).entries());
       f.querySelectorAll(".seg").forEach((s) => { const on = $("button.on", s); if (on) data[s.dataset.name] = on.dataset.v; });
-      ["age", "height", "weight", "goalWeight", "carbLimit"].forEach((k) => (data[k] = parseFloat(String(data[k] || "").replace(",", "."))));
+      ["age", "height", "weight", "goalWeight", "carbLimit", "budget"].forEach((k) => (data[k] = parseFloat(String(data[k] || "").replace(",", "."))));
       data.name = String(data.name || "").trim();
       // Vérifications avec un message clair et le champ concerné mis en évidence
       const checks = [
@@ -302,7 +319,7 @@
     const id = "demo";
     const start = new Date(); start.setDate(start.getDate() - 20);
     const p = { id, name: "Démo Amina", sex: "f", age: 42, height: 164, weight: 82, goalWeight: 70, goal: "perte",
-      activity: "1.375", carbLimit: 25, startDate: dkey(start), log: {}, favorites: [], swaps: {}, demo: true };
+      activity: "1.375", carbLimit: 25, budget: 25, startDate: dkey(start), log: {}, favorites: [], swaps: {}, demo: true };
     if (RECIPES[0]) p.favorites = RECIPES.slice(0, 4).map((r) => r.id);
     let w = 82;
     for (let i = 0; i <= 20; i++) {
@@ -407,7 +424,8 @@
       </div>
 
       <div class="card">
-        <h2 style="margin-bottom:2px">Menu du jour</h2>
+        <div class="row spread" style="align-items:baseline"><h2 style="margin-bottom:2px">Menu du jour</h2>${menuCost(menu) ? `<span class="cost-pill" title="Coût estimé par personne">≈ ${dh(menuCost(menu))} / pers.</span>` : ""}</div>
+        ${+p.budget > 0 ? `<p class="hint" style="margin:0 0 2px">Budget choisi : ${p.budget} DH par repas et par personne (modifiable dans Profil).</p>` : ""}
         <p class="hint" style="margin:0 0 4px">Touchez un plat pour voir la recette. Après le repas, touchez « J'ai mangé ».</p>
         <div>${SLOTS.map(([slot, label]) => {
           const r = menu[slot]; if (!r) return "";
@@ -415,7 +433,7 @@
           return `<div class="meal"><a class="emoji illus" data-photo="${r.id}" href="#/recette/${r.id}" style="text-decoration:none" tabindex="-1" aria-hidden="true">${illus(r, 48)}</a>
             <a class="grow" href="#/recette/${r.id}" style="text-decoration:none;color:inherit">
               <div class="slot">${label}</div><div class="name">${esc(r.title)}</div>
-              <div class="meta">${dc(r.macros.carbs)} g glucides · ${r.macros.kcal} kcal</div></a>
+              <div class="meta">${dc(r.macros.carbs)} g glucides · ${r.macros.kcal} kcal${hasCost(r) ? " · ≈ " + dh(r.cost) : ""}</div></a>
             <div class="meal-actions">
               <button class="mini-btn ${eaten ? "on" : ""}" type="button" data-eat="${r.id}" aria-pressed="${eaten}" aria-label="${eaten ? "Mangé : " + esc(r.title) + ". Toucher pour retirer du journal" : "J'ai mangé : " + esc(r.title)}">${eaten ? "✓ Mangé" : "J'ai mangé"}</button>
               <button class="mini-btn ghost" type="button" data-swap="${slot}" aria-label="Changer : ${label}">🔄 Changer</button></div></div>`;
@@ -583,22 +601,26 @@
       Object.values(menuFor(p, dkey(d))).forEach((r) => r.ingredients.forEach((ing) => {
         if (["eau", "sel", "poivre"].includes(ing.ing)) return;
         const key = ing.ing || ing.name.toLowerCase();
-        agg[key] = agg[key] || { name: ing.name, g: 0 };
+        agg[key] = agg[key] || { name: ing.name, g: 0, c: 0 };
         agg[key].g += (ing.g || 0) / (r.servings || 1);
+        agg[key].c += (ing.c || 0) / (r.servings || 1);
       }));
     }
     const items = Object.entries(agg).map(([k, v]) => {
-      const it = { name: v.name, unit: "g", qty: v.g };
+      const it = { name: v.name, unit: "g", qty: v.g, c: v.c };
       if (k === "oeuf") { it.qty = Math.max(1, Math.round(v.g / 60)); it.unit = ""; it.name = "œufs"; }
       else if (v.g < 5) { it.qty = 0; }
       else it.qty = v.g >= 50 ? Math.ceil(v.g / 50) * 50 : Math.ceil(v.g / 5) * 5;
       return it;
     }).sort((a, b) => a.name.localeCompare(b.name, "fr"));
-    const text = items.map((i) => "• " + (i.qty ? fmtQty(i.qty) + " " + i.unit + " " : "") + i.name).join("\n");
+    const total = items.reduce((s, i) => s + (i.c || 0), 0);
+    const text = items.map((i) => "• " + (i.qty ? fmtQty(i.qty) + " " + i.unit + " " : "") + i.name + (i.c >= 1 ? " (≈ " + dh(i.c) + ")" : "")).join("\n") + (total ? "\n\nTotal estimé : ≈ " + dh(total) : "");
     openSheet(`<h2>🛒 Courses pour 7 jours (1 personne)</h2>
+      ${total ? `<div class="cost-total">Budget estimé : <b>≈ ${dh(total)}</b> pour 7 jours, soit ≈ ${dh(total / 7)} par jour et par personne.</div>` : ""}
       <p class="hint" style="margin-top:-6px">Multipliez les quantités selon le nombre de personnes à table. Cochez au fur et à mesure dans le magasin.</p>
       <button class="btn light block" type="button" id="copyList" style="margin-bottom:8px">📋 Copier la liste (pour WhatsApp, notes…)</button>
-      ${items.map((i) => `<label class="check"><input type="checkbox"><span>${i.qty ? `<b>${fmtQty(i.qty)} ${esc(i.unit)}</b> ` : ""}${esc(i.name)}</span></label>`).join("")}`, (el) => {
+      ${items.map((i) => `<label class="check"><input type="checkbox"><span class="grow">${i.qty ? `<b>${fmtQty(i.qty)} ${esc(i.unit)}</b> ` : ""}${esc(i.name)}</span>${i.c >= 0.5 ? `<span class="muted small">≈ ${dh(i.c)}</span>` : ""}</label>`).join("")}
+      ${total ? `<p class="hint">Prix moyens constatés au Maroc${PRICE_INFO.updated ? " (" + esc(PRICE_INFO.updated) + ")" : ""}, à titre indicatif. Les quantités entamées (huile, épices…) servent plusieurs semaines : la dépense réelle est souvent plus faible.</p>` : ""}`, (el) => {
       $("#copyList", el).addEventListener("click", () => copyText(text));
       el.querySelectorAll(".check input").forEach((c) => c.addEventListener("change", () => c.parentNode.classList.toggle("done", c.checked)));
     });
@@ -640,7 +662,7 @@
       <div class="chips" id="chips" role="group" aria-labelledby="lblC1">${[["tout", "Toutes"], ["fav", "❤️ Favoris"], ...Object.entries(CATS)]
         .map(([v, l]) => `<button type="button" data-c="${v}" class="${recFilter === v ? "on" : ""}" aria-pressed="${recFilter === v}">${l}</button>`).join("")}</div>
       <div class="chips-label" id="lblC2">Ingrédient principal et envies</div>
-      <div class="chips" id="chips2" role="group" aria-labelledby="lblC2">${[["", "Tout"], ["volaille", "🍗 Volaille"], ["viande", "🥩 Viande"], ["poisson", "🐟 Poisson"], ["vege", "🥬 Végétarien"], ["rapide", "⚡ Rapide (20 min max)"], ["marocain", "🇲🇦 Marocain"], ["low", "📉 Très peu de glucides (3 g max)"]]
+      <div class="chips" id="chips2" role="group" aria-labelledby="lblC2">${[["", "Tout"], ["volaille", "🍗 Volaille"], ["viande", "🥩 Viande"], ["poisson", "🐟 Poisson"], ["vege", "🥬 Végétarien"], ["rapide", "⚡ Rapide (20 min max)"], ["marocain", "🇲🇦 Marocain"], ["low", "📉 Très peu de glucides (3 g max)"], ["eco", "💰 Petit budget (15 DH max)"]]
         .map(([v, l]) => `<button type="button" data-c="${v}" class="${recFilter2 === v ? "on" : ""}" aria-pressed="${recFilter2 === v}">${l}</button>`).join("")}</div>
       <div class="row spread" style="margin:6px 4px 0"><div class="small muted" id="rcount" aria-live="polite"></div>
         <button type="button" class="link-btn" id="resetF" hidden>Effacer les filtres</button></div>
@@ -650,7 +672,7 @@
     let list = [], shown = 0;
     const item = (r) => `<a class="recipe-item" href="#/recette/${r.id}"><div class="emoji illus" data-photo="${r.id}" aria-hidden="true">${illus(r, 58)}</div>
         <div class="grow"><h3>${esc(r.title)} ${p.favorites.includes(r.id) ? '<span class="fav" aria-label="favori">♥</span>' : ""}</h3>
-        <div class="meta">${CATS[r.category] || ""} · ${r.prep + r.cook} min · ${dc(r.macros.carbs)} g glucides · ${r.macros.kcal} kcal</div></div></a>`;
+        <div class="meta">${CATS[r.category] || ""} · ${r.prep + r.cook} min · ${dc(r.macros.carbs)} g glucides · ${r.macros.kcal} kcal${hasCost(r) ? " · ≈ " + dh(r.cost) + "/pers." : ""}</div></div></a>`;
     const more = () => {
       const next = list.slice(shown, shown + 30); shown += next.length;
       $("#rlist").insertAdjacentHTML("beforeend", next.map(item).join(""));
@@ -669,6 +691,7 @@
         if (recFilter2 === "rapide" && r.prep + r.cook > 20) return false;
         if (recFilter2 === "marocain" && !(r.tags || []).some((t) => norm(t).includes("maroc"))) return false;
         if (recFilter2 === "low" && r.macros.carbs > 3) return false;
+        if (recFilter2 === "eco" && !(hasCost(r) && r.cost <= 15)) return false;
         if (q && !(r._s || (r._s = norm(r.title + " " + r.ingredients.map((i) => i.name).join(" ") + " " + (r.tags || []).join(" ")))).includes(q)) return false;
         return true;
       });
@@ -719,6 +742,11 @@
           <div class="row" style="margin-top:14px;gap:8px">
             <button class="btn grow" type="button" id="eat">＋ J'en ai mangé : ajouter au journal</button>
             <button class="btn light fav-btn ${fav ? "is-fav" : ""}" type="button" id="fav" aria-pressed="${fav}" aria-label="${fav ? "Retirer des favoris" : "Ajouter aux favoris"}">${fav ? "♥" : "♡"}<small>${fav ? "Favori" : "Favori"}</small></button></div></div>
+        ${hasCost(r) ? `<div class="card"><div class="row spread" style="align-items:baseline"><h2 style="margin:0">Coût estimé</h2><span class="cost-pill">≈ ${dh(r.cost)} / portion</span></div>
+          <p style="margin:8px 0 4px">Soit environ <b>${dh(r.cost * serv)}</b> pour ${serv} personne${serv > 1 ? "s" : ""}.${+p.budget > 0 ? (r.cost <= slotLimit(p, r.category === "petit-dej" ? "petit-dej" : r.category === "collation" || r.category === "dessert" ? "collation" : "dejeuner") ? " ✅ Dans votre budget." : " ⚠️ Au-dessus de votre budget.") : ""}</p>
+          <details><summary>Détail par ingrédient</summary><ul class="ing">${r.ingredients.filter((i) => i.c > 0.05).sort((a, b) => b.c - a.c).map((i) =>
+            `<li><span class="q">≈ ${dh(i.c * serv / r.servings)}</span><span>${esc(i.name)}</span></li>`).join("")}</ul>
+            <p class="hint">Prix moyens de détail constatés au Maroc${PRICE_INFO.updated ? " (" + esc(PRICE_INFO.updated) + ")" : ""} en grande surface et au marché. Les prix varient selon la ville, la saison et le magasin : c'est une estimation.</p></details></div>` : ""}
         <div class="card"><div class="row spread" style="margin-bottom:8px;flex-wrap:wrap"><h2 style="margin:0">Ingrédients</h2>
           <div class="stepper" role="group" aria-label="Nombre de personnes"><button type="button" id="minus" aria-label="Une personne de moins" ${serv <= 1 ? "disabled" : ""}>−</button>
             <b aria-live="polite">${serv} pers.</b><button type="button" id="plus" aria-label="Une personne de plus" ${serv >= 12 ? "disabled" : ""}>+</button></div></div>

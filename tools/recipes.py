@@ -25,6 +25,19 @@ def norm(s):
     return re.sub(r"[^a-z0-9]+", " ", "".join(c for c in s if unicodedata.category(c) != "Mn")).strip()
 
 
+PRICES = {}
+for f in sorted(glob.glob(str(ROOT / "data/prix-*.json"))):
+    if "prix-input" in f:
+        continue
+    PRICES.update(json.loads(Path(f).read_text()))
+
+
+def ing_cost(i):
+    """Coût en MAD de la quantité de l'ingrédient utilisée (None si prix inconnu)."""
+    pr = PRICES.get(i["ing"])
+    return None if pr is None else i["g"] / 1000 * pr["mad_kg"]
+
+
 def macros(r):
     t = [0.0, 0.0, 0.0, 0.0]
     for i in r["ingredients"]:
@@ -131,11 +144,17 @@ def cmd_build():
                 "id": rid, "title": r["title"], "category": r["category"], "emoji": r["emoji"],
                 "prep": r["prep"], "cook": r["cook"], "servings": r["servings"], "difficulty": r["difficulty"],
                 "tags": r["tags"], "macros": macros(r),
-                "ingredients": [dict(zip(("qty", "unit"), display(i)), name=i["name"], ing=i["ing"], g=i["g"]) for i in r["ingredients"]],
+                **({"cost": round(sum(ing_cost(i) for i in r["ingredients"]) / r["servings"], 1)} if PRICES and all(ing_cost(i) is not None for i in r["ingredients"]) else {}),
+                "ingredients": [dict(zip(("qty", "unit"), display(i)), name=i["name"], ing=i["ing"], g=i["g"], **({"c": round(ing_cost(i), 2)} if ing_cost(i) is not None else {})) for i in r["ingredients"]],
                 "steps": r["steps"], "tips": r["tips"],
             })
     palette = {k: [v[5], v[6]] for k, v in ING.items()}
     js = "window.RECIPES=" + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n"
+    if PRICES:
+        srcs = sorted({v.get("source") for v in PRICES.values() if v.get("source") and not v.get("estime")})
+        info = {"updated": "novembre 2026", "sourced": sum(1 for v in PRICES.values() if not v.get("estime")),
+                "estimated": sum(1 for v in PRICES.values() if v.get("estime")), "sources": srcs}
+        js += "window.PRICE_INFO=" + json.dumps(info, ensure_ascii=False) + ";\n"
     js += "window.ING_LOOK=" + json.dumps(palette, ensure_ascii=False, separators=(",", ":")) + ";\n"
     (ROOT / "app/assets/www/recipes.js").write_text(js)
     from collections import Counter

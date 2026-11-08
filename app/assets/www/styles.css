@@ -250,3 +250,7 @@ ol.howto { margin: 0 0 14px; padding-left: 22px; }
 ol.howto li { margin-bottom: 6px; }
 .check.done span { color: var(--muted); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } .btn:active { transform: none; } }
+
+/* Budget */
+.cost-pill { display: inline-block; background: #fff4dc; color: #7a4d06; font-weight: 800; font-size: 14px; border-radius: 999px; padding: 4px 10px; white-space: nowrap; }
+.cost-total { background: #fff4dc; color: #5c3a05; border-radius: 12px; padding: 10px 12px; margin: 0 0 10px; font-size: 15px; }
