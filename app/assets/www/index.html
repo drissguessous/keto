@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#28573a">
+<title>Keto Famille</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="topbar">
+  <button id="backBtn" class="icon-btn" aria-label="Retour" hidden>‹</button>
+  <h1 id="title">Keto Famille</h1>
+  <button id="profileChip" class="chip-profile" aria-label="Changer de profil"></button>
+</header>
+<main id="view"></main>
+<nav id="tabs">
+  <a href="#/aujourdhui" data-tab="aujourdhui"><span>☀️</span>Aujourd'hui</a>
+  <a href="#/programme" data-tab="programme"><span>🗓️</span>Programme</a>
+  <a href="#/recettes" data-tab="recettes"><span>🥑</span>Recettes</a>
+  <a href="#/suivi" data-tab="suivi"><span>📈</span>Suivi</a>
+  <a href="#/profil" data-tab="profil"><span>👤</span>Profil</a>
+</nav>
+<div id="toast" role="status"></div>
+<div id="sheet" hidden><div class="sheet-card" id="sheetCard"></div></div>
+<script src="content.js"></script>
+<script src="recipes.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
