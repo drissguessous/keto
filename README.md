@@ -13,6 +13,9 @@ Application Android gratuite et hors ligne pour suivre un programme keto, pensé
 - **603 recettes complètes** en français, halal : petits-déjeuners, plats (volaille, viande, poisson, végétarien), cuisine marocaine (108 recettes), cuisine du monde, accompagnements, collations, desserts et boissons. Ingrédients ajustables au nombre de personnes, étapes détaillées, illustration propre à chaque recette.
 - **Valeurs nutritionnelles calculées** à partir d'une table de 157 ingrédients ([`data/ingredients.json`](data/ingredients.json)) : calories, lipides, protéines et glucides nets par portion, et part de vos besoins du jour.
 - **Vraies photos des plats** chargées depuis Wikimedia Commons (licences libres, auteur et licence affichés), mises en cache ; illustration de secours hors connexion. Désactivables dans Profil.
+- **Budget par repas** : coût estimé de chaque recette (par portion et au total), du menu du jour et de la liste de courses, à partir de **prix moyens constatés au Maroc** ([`data/prix-*.json`](data/), sources citées par produit). Budget choisi dans le profil (Économique 15 DH, Moyen 25 DH, Confort 40 DH par repas) : les menus le respectent.
+- **Mes prix** : chacun peut corriger le prix d'un produit avec ce qu'il paie réellement ; tous les coûts se recalculent.
+- **Recherche avancée** : base du repas (œufs, poulet, kefta, saumon, chou-fleur, avocat…), temps, budget, glucides, calories, difficulté, et tri (moins cher, plus rapide, moins de glucides, plus de protéines).
 - **Suivi** : courbe de poids, IMC, série de jours keto, historique cliquable.
 - **Sauvegarde / restauration** par simple copier-coller, et **profil de démonstration**.
 
@@ -44,6 +47,8 @@ python3 tools/ui_test.py shots     # test d'interface (Playwright), captures dan
 python3 tools/photo_test.py shots  # chargement des photos (réseau simulé)
 python3 tools/pwa_test.py          # version iPhone : installation et hors ligne
 python3 tools/flow_test.py shots   # parcours clés (annuler, retour, validation, ajout membre)
+python3 tools/filters_test.py shots  # filtres avancés et tri
+python3 tools/prices_test.py shots   # « Mes prix » : modification et recalcul des coûts
 ```
 
 ## Structure

@@ -1001,7 +1001,7 @@
         <button class="btn light block" type="button" id="export" style="margin-bottom:8px">📤 Sauvegarder mes données</button>
         <button class="btn light block" type="button" id="import" style="margin-bottom:8px">📥 Restaurer une sauvegarde</button>
         <button class="btn danger block" type="button" id="del">🗑️ Supprimer le profil de ${esc(p.name)}</button></div>
-      <p class="small muted" style="text-align:center">Keto Famille v1.3 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
+      <p class="small muted" style="text-align:center">Keto Famille v1.4 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour ✓"); render(); });
     $("#switch").onclick = showProfileSwitcher;
     $("#photosToggle").onchange = (e) => { db.photos = e.target.checked; save(); toast(db.photos ? "Photos activées" : "Photos désactivées"); };
