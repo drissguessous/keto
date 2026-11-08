@@ -182,3 +182,8 @@ details p { margin: 8px 0 0; color: #3b463e; }
 .welcome h2 { font-size: 26px; margin: 12px 0 6px; color: var(--green); }
 .empty { text-align: center; color: var(--muted); padding: 24px 8px; }
 .warn { background: #fdf3e2; border-radius: 12px; padding: 12px; font-size: 13.5px; color: #6b4a12; }
+
+.illus { overflow: hidden; padding: 0; background: none !important; }
+.illus svg { display: block; width: 100%; height: 100%; }
+.r-illus { display: flex; justify-content: center; padding: 8px 0; }
+.r-illus svg { display: block; width: 190px; height: 190px; }

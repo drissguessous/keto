@@ -1,0 +1,4181 @@
+[
+ {
+  "id": "l09-harira-keto-poulet",
+  "title": "Harira keto au poulet et céleri",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 45,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "blanc de poulet en petits dés"
+   },
+   {
+    "ing": "celeri",
+    "g": 100,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri avec feuilles"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre fraîche hachée"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil plat haché"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "mélange gingembre, curcuma, cannelle"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs battus"
+   },
+   {
+    "ing": "bouillon",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Dans une grande marmite, faites fondre le smen à feu moyen et faites revenir l'oignon râpé 3 minutes.",
+   "Ajoutez les dés de poulet, les épices, le sel et le poivre ; remuez 4 minutes jusqu'à ce que le poulet blanchisse.",
+   "Ajoutez le céleri émincé finement, la moitié de la coriandre et du persil, les tomates concassées et le concentré dilué dans un peu de bouillon.",
+   "Versez le bouillon, portez à ébullition puis laissez mijoter à couvert 35 minutes à feu doux.",
+   "Mixez rapidement une louche de légumes et remettez-la dans la soupe pour l'épaissir (remplace la farine).",
+   "Hors du feu, versez les œufs battus en filet en remuant doucement à la fourchette pour former des filaments.",
+   "Ajoutez le reste des herbes et le jus de citron, rectifiez l'assaisonnement et servez bien chaud."
+  ],
+  "tips": "Idéale pour le ftour du Ramadan : servez avec quelques dattes pour les non-keto de la famille. Se congèle 2 mois sans les œufs."
+ },
+ {
+  "id": "l09-veloute-chou-fleur-cumin",
+  "title": "Velouté de chou-fleur au cumin",
+  "category": "accompagnement",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Économique",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur en bouquets"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin moulu"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette ciselée"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre dans une casserole et faites suer l'oignon 3 minutes sans coloration.",
+   "Ajoutez le cumin et faites-le torréfier 30 secondes en remuant.",
+   "Ajoutez les bouquets de chou-fleur et le bouillon, portez à ébullition puis laissez cuire 20 minutes à couvert.",
+   "Mixez finement en ajoutant la crème, jusqu'à obtenir une texture veloutée ; salez et poivrez.",
+   "Servez parsemé de ciboulette et d'une pincée de cumin."
+  ],
+  "tips": "Pour un velouté plus rassasiant, ajoutez des dés de cachir de dinde poêlés au moment de servir."
+ },
+ {
+  "id": "l09-veloute-courgette-fromage-frais",
+  "title": "Velouté de courgettes au fromage frais et basilic",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 800,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes en rondelles"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "fromage frais à tartiner"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "bouillon",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "basilic",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic frais"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Chauffez l'huile dans une casserole et faites revenir l'ail écrasé 1 minute.",
+   "Ajoutez les courgettes non pelées, remuez 3 minutes à feu vif.",
+   "Versez le bouillon (il doit juste couvrir), salez et laissez cuire 15 minutes.",
+   "Ajoutez le fromage frais et les feuilles de basilic, puis mixez jusqu'à ce que ce soit lisse.",
+   "Rectifiez l'assaisonnement et servez chaud, ou froid en été."
+  ],
+  "tips": "Ne mettez pas trop de bouillon : les courgettes rendent beaucoup d'eau. Se conserve 3 jours au réfrigérateur."
+ },
+ {
+  "id": "l09-soupe-brocoli-cheddar",
+  "title": "Soupe de brocoli au cheddar",
+  "category": "accompagnement",
+  "emoji": "🥦",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "brocoli",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli en petits bouquets"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon haché"
+   },
+   {
+    "ing": "beurre",
+    "g": 25,
+    "qty": 25,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "cheddar",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre et faites suer l'oignon 3 minutes.",
+   "Ajoutez le brocoli (tiges pelées et coupées en dés comprises) et le bouillon ; cuisez 15 minutes à couvert.",
+   "Prélevez quelques petits bouquets pour la décoration, puis mixez le reste grossièrement.",
+   "Remettez sur feu doux, ajoutez la crème et la moutarde, puis le cheddar par poignées en remuant jusqu'à ce qu'il fonde, sans faire bouillir.",
+   "Ajoutez les bouquets réservés, poivrez et servez aussitôt."
+  ],
+  "tips": "Ne laissez jamais bouillir après le fromage, sinon il fait des fils. Un reste de poulet effiloché en fait un dîner complet."
+ },
+ {
+  "id": "l09-chorba-boeuf-celeri-navet",
+  "title": "Chorba de bœuf au céleri et navet",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 90,
+  "servings": 5,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Batch cooking",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_ragout",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "bœuf à ragoût en petits cubes"
+   },
+   {
+    "ing": "celeri",
+    "g": 150,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "navet",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "navet en dés"
+   },
+   {
+    "ing": "tomate",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate râpée"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon haché"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre hachée"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ras el hanout, curcuma, gingembre"
+   },
+   {
+    "ing": "eau",
+    "g": 1500,
+    "qty": 1500,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Dans une cocotte, faites fondre le smen et saisissez le bœuf 5 minutes avec l'oignon.",
+   "Ajoutez les épices, le sel, le poivre et la tomate râpée ; remuez 2 minutes.",
+   "Versez l'eau, portez à ébullition, écumez puis laissez mijoter 60 minutes à couvert (ou 25 minutes en cocotte-minute).",
+   "Ajoutez le navet et le céleri en petits dés, poursuivez la cuisson 25 minutes jusqu'à ce que le navet soit tendre.",
+   "Ajoutez la coriandre en fin de cuisson et rectifiez le sel. Servez bien chaud."
+  ],
+  "tips": "Le navet remplace la pomme de terre sans exploser les glucides. Préparez une grande quantité : la chorba est encore meilleure réchauffée."
+ },
+ {
+  "id": "l09-soupe-thai-crevettes-coco",
+  "title": "Soupe thaï crevettes et lait de coco",
+  "category": "diner",
+  "emoji": "🦐",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de poisson ou volaille"
+   },
+   {
+    "ing": "champignon",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "champignons de Paris émincés"
+   },
+   {
+    "ing": "gingembre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre frais râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron vert"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "piment",
+    "g": 5,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit piment rouge"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans une casserole, portez le bouillon à frémissement avec le gingembre, l'ail écrasé et le piment émincé ; laissez infuser 5 minutes.",
+   "Ajoutez le lait de coco et les champignons, laissez frémir 5 minutes sans bouillir fort.",
+   "Plongez les crevettes et cuisez 3 minutes, jusqu'à ce qu'elles deviennent roses.",
+   "Hors du feu, ajoutez la sauce soja et le jus de citron vert ; goûtez et ajustez le sel.",
+   "Servez dans des bols parsemés de coriandre fraîche."
+  ],
+  "tips": "Les crevettes surgelées conviennent : décongelez-les au réfrigérateur la veille et épongez-les bien."
+ },
+ {
+  "id": "l09-veloute-champignons-ail",
+  "title": "Velouté de champignons à l'ail",
+  "category": "accompagnement",
+  "emoji": "🍄",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "champignon",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "bouillon",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Nettoyez les champignons et émincez-les ; réservez-en 4 pour la finition.",
+   "Faites fondre le beurre, ajoutez l'oignon et l'ail hachés et faites revenir 3 minutes.",
+   "Ajoutez les champignons et faites-les dorer 8 minutes à feu vif jusqu'à évaporation de leur eau.",
+   "Versez le bouillon et laissez cuire 10 minutes, puis mixez avec la crème ; salez et poivrez.",
+   "Poêlez rapidement les champignons réservés en lamelles et déposez-les sur chaque bol avec le persil."
+  ],
+  "tips": "Bien dorer les champignons avant d'ajouter le bouillon donne tout le goût : ne les entassez pas dans la casserole."
+ },
+ {
+  "id": "l09-soupe-poisson-marocaine",
+  "title": "Soupe de poisson à la marocaine",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "merlan",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "filets de merlan"
+   },
+   {
+    "ing": "tomate",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate râpée"
+   },
+   {
+    "ing": "celeri",
+    "g": 100,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron rouge en dés"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "paprika, cumin, curcuma"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "eau",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mixez l'ail, la coriandre, le persil, les épices, la moitié de l'huile et le jus de citron : c'est la chermoula. Enrobez-en la moitié du poisson coupé en morceaux.",
+   "Dans une marmite, chauffez le reste de l'huile et faites revenir le céleri et le poivron 5 minutes.",
+   "Ajoutez la tomate râpée et le reste de la chermoula, puis l'eau ; salez et laissez cuire 15 minutes.",
+   "Ajoutez les morceaux de poisson non marinés et cuisez 5 minutes, puis mixez le tout pour obtenir une base onctueuse.",
+   "Remettez à frémir, ajoutez les morceaux marinés et cuisez 5 minutes sans remuer pour qu'ils restent entiers.",
+   "Servez bien chaud avec un filet de citron."
+  ],
+  "tips": "Vous pouvez mélanger merlan, crevettes et calamars. Demandez au poissonnier de lever les filets pour éviter les arêtes."
+ },
+ {
+  "id": "l09-veloute-asperges",
+  "title": "Velouté d'asperges à la crème",
+  "category": "accompagnement",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "asperge",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "asperges vertes"
+   },
+   {
+    "ing": "poireau",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "blanc de poireau"
+   },
+   {
+    "ing": "beurre",
+    "g": 25,
+    "qty": 25,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "bouillon",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Cassez la base dure des asperges, coupez les pointes et réservez-les ; tronçonnez les tiges.",
+   "Faites fondre le beurre et faites suer le poireau émincé 4 minutes.",
+   "Ajoutez les tiges d'asperges et le bouillon, cuisez 15 minutes à couvert.",
+   "Pendant ce temps, faites cuire les pointes 4 minutes dans un peu d'eau salée bouillante.",
+   "Mixez la soupe avec la crème fraîche, assaisonnez et servez garnie des pointes."
+  ],
+  "tips": "Hors saison, les asperges surgelées font très bien l'affaire pour ce velouté."
+ },
+ {
+  "id": "l09-stracciatella-epinards",
+  "title": "Soupe stracciatella aux épinards et parmesan",
+  "category": "diner",
+  "emoji": "🥚",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Rapide",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "parmesan",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "bouillon",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "ml",
+    "name": "bouillon de volaille ou de légumes"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "jeunes pousses d'épinards"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Battez les œufs avec le parmesan, le poivre et une pincée de sel.",
+   "Dans une casserole, chauffez l'huile, ajoutez l'ail haché 30 secondes puis versez le bouillon ; portez à ébullition.",
+   "Ajoutez les épinards et laissez-les tomber 1 minute.",
+   "Réduisez à frémissement et versez le mélange œufs-parmesan en filet en remuant doucement : il forme des petits lambeaux.",
+   "Laissez 1 minute sans remuer, ajoutez le citron et servez immédiatement."
+  ],
+  "tips": "Prête en 15 minutes, c'est le dîner du soir pressé. Utilisez un bouillon maison pour plus de goût."
+ },
+ {
+  "id": "l09-veloute-potiron-coco",
+  "title": "Velouté de potiron et chou-fleur au lait de coco",
+  "category": "accompagnement",
+  "emoji": "🎃",
+  "prep": 15,
+  "cook": 25,
+  "servings": 5,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "potiron",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "potiron en cubes"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "bouillon",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "graines de courge grillées"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites chauffer l'huile de coco et faites revenir l'oignon et le gingembre 3 minutes.",
+   "Ajoutez le potiron et le chou-fleur, remuez 2 minutes.",
+   "Versez le bouillon, salez et laissez cuire 20 minutes à couvert jusqu'à ce que les légumes soient fondants.",
+   "Ajoutez le lait de coco et mixez finement ; ajustez l'assaisonnement.",
+   "Servez parsemé de graines de courge grillées à sec 2 minutes à la poêle."
+  ],
+  "tips": "Le chou-fleur allège les glucides du potiron tout en gardant la douceur. Les enfants adorent cette couleur orangée."
+ },
+ {
+  "id": "l09-soupe-poulet-konjac",
+  "title": "Soupe de poulet aux nouilles de konjac",
+  "category": "diner",
+  "emoji": "🍜",
+  "prep": 15,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "konjac",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "nouilles de konjac égouttées"
+   },
+   {
+    "ing": "celeri",
+    "g": 100,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "carotte",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "carotte en fines rondelles"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "bouillon",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil haché"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "thym et laurier"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Mettez le poulet dans le bouillon froid avec l'oignon coupé en deux, l'ail et le thym-laurier ; portez à ébullition et écumez.",
+   "Laissez frémir 25 minutes, puis retirez le poulet et effilochez-le à la fourchette.",
+   "Ajoutez au bouillon le céleri émincé et la carotte, cuisez 10 minutes.",
+   "Rincez les nouilles de konjac sous l'eau froide 1 minute, puis faites-les sécher 2 minutes dans une poêle sans matière grasse.",
+   "Remettez le poulet et ajoutez les nouilles, laissez chauffer 3 minutes ; salez, poivrez et ajoutez le persil."
+  ],
+  "tips": "Le rinçage et le séchage à la poêle éliminent l'odeur du konjac. Réconfortant en hiver ou quand un enfant est enrhumé."
+ },
+ {
+  "id": "l09-gaspacho-concombre-avocat",
+  "title": "Gaspacho vert concombre, avocat et menthe",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "concombre",
+    "g": 500,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "concombres"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats mûrs"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe fraîche"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "petite gousse d'ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "eau",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "eau très froide"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Épluchez les concombres une bande sur deux, épépinez-les et coupez-les en morceaux.",
+   "Mettez dans le blender les concombres, la chair des avocats, le yaourt, la menthe, l'ail et le jus de citron.",
+   "Mixez 1 minute en ajoutant l'eau froide jusqu'à la consistance voulue ; salez et poivrez.",
+   "Réfrigérez au moins 30 minutes et servez avec un filet d'huile d'olive et quelques feuilles de menthe."
+  ],
+  "tips": "Parfait pendant les fortes chaleurs. À consommer dans la journée car l'avocat noircit."
+ },
+ {
+  "id": "l09-veloute-celeri-rave-noisettes",
+  "title": "Velouté de céleri-rave aux noisettes",
+  "category": "accompagnement",
+  "emoji": "🌰",
+  "prep": 15,
+  "cook": 30,
+  "servings": 5,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "celeri_rave",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "céleri-rave en cubes"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "beurre",
+    "g": 25,
+    "qty": 25,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "noisette",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "noisettes concassées"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Épluchez le céleri-rave au couteau et coupez-le en cubes de 2 cm.",
+   "Faites revenir le céleri et le chou-fleur 3 minutes dans le beurre.",
+   "Ajoutez le bouillon, salez et cuisez 25 minutes à couvert.",
+   "Pendant ce temps, torréfiez les noisettes 3 minutes à sec à la poêle puis concassez-les.",
+   "Mixez la soupe avec la crème et la muscade ; servez parsemée de noisettes."
+  ],
+  "tips": "Citronnez le céleri-rave épluché s'il attend, il noircit vite à l'air."
+ },
+ {
+  "id": "l09-soupe-kefta-courgettes",
+  "title": "Soupe de boulettes de kefta aux courgettes",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "viande hachée à kefta"
+   },
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes en dés"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin, paprika, cannelle"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "eau",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Mélangez la kefta avec la moitié des herbes hachées, la moitié des épices, du sel et du poivre ; formez des boulettes de la taille d'une noix.",
+   "Dans une marmite, chauffez l'huile et faites revenir l'oignon 3 minutes avec le reste des épices.",
+   "Ajoutez les tomates concassées et l'eau, portez à ébullition.",
+   "Plongez les boulettes délicatement et laissez cuire 15 minutes à frémissement sans remuer.",
+   "Ajoutez les dés de courgette et poursuivez 10 minutes.",
+   "Parsemez du reste des herbes et servez."
+  ],
+  "tips": "Façonnez les boulettes les mains mouillées pour qu'elles ne collent pas. Elles se congèlent crues sur une plaque."
+ },
+ {
+  "id": "l09-veloute-epinards-jben",
+  "title": "Velouté d'épinards et courgette au jben",
+  "category": "accompagnement",
+  "emoji": "🥬",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "epinard",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "épinards frais ou surgelés"
+   },
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 1.5,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "jben",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "jben (fromage frais marocain)"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "bouillon",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites revenir l'ail dans l'huile 1 minute, puis ajoutez les courgettes en rondelles 3 minutes.",
+   "Ajoutez le bouillon et cuisez 10 minutes.",
+   "Ajoutez les épinards et cuisez encore 5 minutes.",
+   "Mixez avec 100 g de jben et la muscade ; salez et poivrez.",
+   "Servez en émiettant le reste du jben sur chaque bol."
+  ],
+  "tips": "Le jben apporte une acidité agréable ; à défaut, utilisez de la feta en réduisant le sel."
+ },
+ {
+  "id": "l09-chaudree-saumon-aneth",
+  "title": "Chaudrée de saumon à l'aneth",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "pavés de saumon sans peau"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou-fleur en petits dés"
+   },
+   {
+    "ing": "celeri",
+    "g": 100,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "poireau",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "blanc de poireau"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de poisson"
+   },
+   {
+    "ing": "aneth",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "aneth frais"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre et faites suer le poireau et le céleri émincés 5 minutes.",
+   "Ajoutez le chou-fleur et le bouillon, cuisez 12 minutes.",
+   "Mixez une louche du mélange avec la crème et reversez dans la casserole pour lier la soupe.",
+   "Ajoutez le saumon en cubes de 3 cm et laissez pocher 5 minutes à petit frémissement.",
+   "Ajoutez l'aneth ciselé, salez, poivrez et servez sans attendre."
+  ],
+  "tips": "Le chou-fleur en dés imite la pomme de terre de la chaudrée classique. Ne faites pas bouillir après ajout du saumon."
+ },
+ {
+  "id": "l09-soupe-chou-boeuf-hache",
+  "title": "Soupe de chou au bœuf haché",
+  "category": "diner",
+  "emoji": "🥬",
+  "prep": 15,
+  "cook": 35,
+  "servings": 5,
+  "difficulty": "Facile",
+  "tags": [
+   "Batch cooking",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 400,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou blanc émincé"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "paprika et cumin"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "bouillon",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "ml",
+    "name": "bouillon de bœuf"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Dans une marmite, chauffez l'huile et faites dorer le bœuf haché 6 minutes en l'émiettant.",
+   "Ajoutez l'oignon et l'ail hachés et les épices, remuez 2 minutes.",
+   "Ajoutez le chou émincé et remuez jusqu'à ce qu'il commence à tomber.",
+   "Versez les tomates concassées et le bouillon, salez, poivrez et laissez mijoter 25 minutes à couvert.",
+   "Parsemez de persil et servez."
+  ],
+  "tips": "Se garde 4 jours au réfrigérateur et se congèle très bien en portions individuelles."
+ },
+ {
+  "id": "l09-veloute-fenouil-parmesan",
+  "title": "Velouté de fenouil au parmesan",
+  "category": "accompagnement",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "fenouil",
+    "g": 500,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "bulbes de fenouil"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Émincez les bulbes de fenouil en gardant quelques pluches vertes pour la décoration.",
+   "Faites revenir l'oignon et le fenouil dans l'huile 5 minutes sans coloration.",
+   "Ajoutez le bouillon et cuisez 20 minutes à couvert.",
+   "Mixez avec la crème et la moitié du parmesan ; poivrez.",
+   "Servez avec le reste du parmesan et les pluches de fenouil."
+  ],
+  "tips": "Le fenouil cuit perd son goût anisé prononcé : même ceux qui ne l'aiment pas cru apprécient ce velouté."
+ },
+ {
+  "id": "l09-soupe-tofu-champignons-gingembre",
+  "title": "Bouillon au tofu, champignons et gingembre",
+  "category": "diner",
+  "emoji": "🍵",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "tofu",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "tofu ferme en cubes"
+   },
+   {
+    "ing": "champignon",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "champignons émincés"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs battus"
+   },
+   {
+    "ing": "bouillon",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "ml",
+    "name": "bouillon de légumes"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "oignons verts"
+   },
+   {
+    "ing": "algue_nori",
+    "g": 5,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "feuille de nori en lanières"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "sesame",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "graines de sésame"
+   }
+  ],
+  "steps": [
+   "Chauffez l'huile dans une casserole et faites revenir le gingembre et le blanc des oignons verts 1 minute.",
+   "Ajoutez les champignons, remuez 3 minutes, puis versez le bouillon et la sauce soja ; portez à frémissement.",
+   "Ajoutez le tofu et laissez chauffer 5 minutes.",
+   "Versez les œufs battus en filet en remuant doucement.",
+   "Servez parsemé du vert des oignons, de lanières de nori et de sésame."
+  ],
+  "tips": "Choisissez un tofu ferme qui se tient à la cuisson. Ajoutez un peu de harissa pour ceux qui aiment relevé."
+ },
+ {
+  "id": "l09-puree-chou-fleur-beurre",
+  "title": "Purée de chou-fleur onctueuse au beurre",
+  "category": "accompagnement",
+  "emoji": "🥔",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 800,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "gros chou-fleur"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Détaillez le chou-fleur en bouquets et faites-le cuire 12 à 15 minutes à la vapeur, jusqu'à ce qu'un couteau s'y enfonce sans résistance.",
+   "Égouttez-le soigneusement et laissez-le fumer 3 minutes dans la passoire pour évacuer l'eau.",
+   "Mixez avec le beurre, la crème et le parmesan jusqu'à une texture lisse.",
+   "Assaisonnez de sel, poivre et muscade ; servez chaud."
+  ],
+  "tips": "La cuisson vapeur évite une purée aqueuse. Accompagne parfaitement un rôti ou des boulettes en sauce."
+ },
+ {
+  "id": "l09-puree-celeri-rave-ail-roti",
+  "title": "Purée de céleri-rave à l'ail rôti",
+  "category": "accompagnement",
+  "emoji": "🧄",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "celeri_rave",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "céleri-rave"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 450,
+    "qty": 450,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail en chemise"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 60,
+    "qty": 60,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Enveloppez les gousses d'ail non pelées d'un filet d'huile dans de l'aluminium et rôtissez 25 minutes.",
+   "Pendant ce temps, faites cuire le céleri-rave en cubes et le chou-fleur 20 minutes dans l'eau salée bouillante.",
+   "Égouttez bien et pressez l'ail rôti hors de sa peau.",
+   "Mixez légumes, ail, beurre et crème chaude ; salez et poivrez généreusement."
+  ],
+  "tips": "Le mélange céleri-rave / chou-fleur garde les glucides bas tout en donnant une vraie texture de purée."
+ },
+ {
+  "id": "l09-riz-chou-fleur-saute",
+  "title": "Riz de chou-fleur sauté aux herbes",
+  "category": "accompagnement",
+  "emoji": "🍚",
+  "prep": 10,
+  "cook": 8,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Râpez le chou-fleur à la grosse râpe ou mixez-le par impulsions jusqu'à obtenir des grains de la taille du riz.",
+   "Chauffez l'huile dans une grande poêle à feu vif, ajoutez l'ail haché 30 secondes.",
+   "Ajoutez le chou-fleur et faites-le sauter 5 à 6 minutes en remuant, sans couvrir, jusqu'à ce qu'il soit tendre mais encore ferme.",
+   "Hors du feu, ajoutez les herbes hachées et le citron ; salez et poivrez."
+  ],
+  "tips": "Ne couvrez pas la poêle, sinon le riz devient pâteux. Le chou-fleur râpé cru se congèle à plat en sachet."
+ },
+ {
+  "id": "l09-semoule-chou-fleur-couscous",
+  "title": "Semoule de chou-fleur façon couscous",
+  "category": "accompagnement",
+  "emoji": "🍲",
+  "prep": 10,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen ou beurre"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "ras el hanout"
+   },
+   {
+    "ing": "amande_effilee",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "amandes effilées"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mixez le chou-fleur cru par petites impulsions pour obtenir une semoule très fine.",
+   "Faites cuire la semoule 6 minutes à la vapeur dans le haut du couscoussier.",
+   "Versez-la dans un grand plat, ajoutez le smen, le beurre, le sel et le ras el hanout, puis égrainez à la fourchette.",
+   "Faites dorer les amandes 2 minutes à sec dans une poêle et parsemez-les sur la semoule."
+  ],
+  "tips": "Servez-la sous un tajine ou avec les légumes et la viande d'un couscous du vendredi : le bouillon la parfume."
+ },
+ {
+  "id": "l09-frites-celeri-rave-four",
+  "title": "Frites de céleri-rave au four",
+  "category": "accompagnement",
+  "emoji": "🍟",
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "celeri_rave",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "céleri-rave moyen"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika fumé et ail en poudre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C, chaleur tournante, et couvrez une plaque de papier cuisson.",
+   "Épluchez le céleri-rave et taillez-le en bâtonnets de 1 cm d'épaisseur.",
+   "Mélangez les bâtonnets avec l'huile, le paprika et l'ail en poudre.",
+   "Étalez-les sans les superposer et enfournez 35 minutes en les retournant à mi-cuisson.",
+   "Salez en sortie de four et servez aussitôt."
+  ],
+  "tips": "Avec 500 g de céleri, les glucides restent raisonnables : comptez une portion par personne, pas plus. À la friteuse à air : 18 minutes à 200 °C."
+ },
+ {
+  "id": "l09-frites-courgette-parmesan",
+  "title": "Frites de courgette panées au parmesan",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 600,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "parmesan",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "parmesan râpé finement"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C. Coupez les courgettes en bâtonnets, salez-les et laissez dégorger 10 minutes, puis épongez.",
+   "Mélangez le parmesan, la poudre d'amande et les épices dans une assiette ; battez l'œuf dans une autre.",
+   "Trempez chaque bâtonnet dans l'œuf puis roulez-le dans la panure.",
+   "Disposez sur une plaque huilée, arrosez d'un filet d'huile et enfournez 18 à 20 minutes jusqu'à ce qu'ils soient dorés.",
+   "Servez avec une sauce yaourt-ail ou de la mayonnaise."
+  ],
+  "tips": "L'étape de dégorgement est indispensable pour que la panure reste croustillante."
+ },
+ {
+  "id": "l09-gratin-chou-fleur-emmental",
+  "title": "Gratin de chou-fleur à l'emmental",
+  "category": "accompagnement",
+  "emoji": "🧀",
+  "prep": 15,
+  "cook": 30,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 900,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "gros chou-fleur"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "emmental",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Faites cuire les bouquets de chou-fleur 8 minutes à l'eau salée bouillante ; égouttez soigneusement.",
+   "Beurrez un plat à gratin et disposez-y le chou-fleur.",
+   "Fouettez la crème, l'œuf, la moutarde, la moitié de l'emmental, la muscade, le sel et le poivre.",
+   "Versez sur le chou-fleur et parsemez du reste de fromage.",
+   "Enfournez 25 à 30 minutes jusqu'à ce que le dessus soit bien doré."
+  ],
+  "tips": "Se prépare la veille et se gratine au dernier moment. Ajoutez du cachir de dinde en dés pour en faire un plat complet."
+ },
+ {
+  "id": "l09-gratin-courgettes-feta-menthe",
+  "title": "Gratin de courgettes à la feta et menthe",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 35,
+  "servings": 5,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 800,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "feta",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "feta émiettée"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe ciselée"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Coupez les courgettes en fines rondelles et faites-les revenir 6 minutes dans l'huile avec l'ail pour évacuer leur eau.",
+   "Battez les œufs avec la crème, la menthe et le poivre (pas de sel, la feta est salée).",
+   "Disposez les courgettes dans un plat, parsemez de feta et nappez de l'appareil.",
+   "Enfournez 30 minutes jusqu'à ce que le gratin soit pris et doré.",
+   "Laissez reposer 5 minutes avant de servir."
+  ],
+  "tips": "Délicieux tiède avec des côtelettes d'agneau grillées."
+ },
+ {
+  "id": "l09-gratin-aubergines-tomate-mozza",
+  "title": "Gratin d'aubergines à la tomate et mozzarella",
+  "category": "accompagnement",
+  "emoji": "🍆",
+  "prep": 20,
+  "cook": 40,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 700,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 250,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "boules de mozzarella"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "basilic",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en tranches de 1 cm, badigeonnez-les de 2 c. à s. d'huile et rôtissez-les 20 minutes sur une plaque.",
+   "Pendant ce temps, faites mijoter les tomates concassées 10 minutes avec l'ail, le reste d'huile, du sel et du poivre.",
+   "Dans un plat, alternez couches d'aubergines, de sauce, de mozzarella en tranches et de basilic.",
+   "Terminez par la mozzarella et le parmesan.",
+   "Enfournez 20 minutes jusqu'à ce que le fromage bouillonne et dore."
+  ],
+  "tips": "Rôtir les aubergines au lieu de les frire absorbe beaucoup moins d'huile. Encore meilleur le lendemain."
+ },
+ {
+  "id": "l09-legumes-rotis-ras-el-hanout",
+  "title": "Légumes rôtis au ras el hanout",
+  "category": "accompagnement",
+  "emoji": "🫑",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "aubergine",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "aubergine"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ras el hanout"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C.",
+   "Coupez tous les légumes en morceaux de 3 cm et l'oignon en quartiers.",
+   "Dans un grand saladier, mélangez-les avec l'huile, le ras el hanout et le sel.",
+   "Étalez sur une grande plaque en une seule couche et rôtissez 30 minutes en remuant à mi-cuisson.",
+   "Parsemez de coriandre ciselée au moment de servir."
+  ],
+  "tips": "Utilisez deux plaques si besoin : des légumes entassés cuisent à la vapeur au lieu de rôtir."
+ },
+ {
+  "id": "l09-choux-bruxelles-rotis-parmesan",
+  "title": "Choux de Bruxelles rôtis au parmesan",
+  "category": "accompagnement",
+  "emoji": "🥬",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_bruxelles",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "choux de Bruxelles"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C.",
+   "Parez les choux et coupez-les en deux dans la longueur.",
+   "Mélangez avec l'huile, l'ail haché, le sel et le poivre, puis posez-les face coupée contre la plaque.",
+   "Rôtissez 20 minutes, parsemez de parmesan et remettez 5 minutes au four.",
+   "Arrosez de jus de citron avant de servir."
+  ],
+  "tips": "La face coupée contre la plaque caramélise et adoucit le goût : idéal pour convertir les enfants aux choux de Bruxelles."
+ },
+ {
+  "id": "l09-brocoli-roti-ail-amandes",
+  "title": "Brocoli rôti à l'ail et aux amandes",
+  "category": "accompagnement",
+  "emoji": "🥦",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "brocoli",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "gros brocoli"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail émincé"
+   },
+   {
+    "ing": "amande",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "amandes concassées"
+   },
+   {
+    "ing": "piment",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment en flocons"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C.",
+   "Coupez le brocoli en bouquets, pelez la tige et coupez-la en rondelles.",
+   "Mélangez avec l'huile, le sel et le piment, et étalez sur une plaque. Rôtissez 12 minutes.",
+   "Ajoutez l'ail et les amandes, mélangez et poursuivez 6 à 8 minutes.",
+   "Arrosez de citron et servez."
+  ],
+  "tips": "L'ail ajouté en cours de cuisson ne brûle pas et reste parfumé."
+ },
+ {
+  "id": "l09-poelee-champignons-persillade",
+  "title": "Poêlée de champignons en persillade",
+  "category": "accompagnement",
+  "emoji": "🍄",
+  "prep": 10,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "champignon",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil plat"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Nettoyez les champignons avec un papier humide et coupez-les en quartiers.",
+   "Chauffez l'huile dans une grande poêle à feu vif et faites sauter les champignons 8 minutes sans saler, jusqu'à ce qu'ils soient dorés.",
+   "Ajoutez le beurre, l'ail et le persil hachés ensemble, et remuez 2 minutes.",
+   "Salez, poivrez et servez immédiatement."
+  ],
+  "tips": "Saler en fin de cuisson empêche les champignons de rendre leur eau et de bouillir."
+ },
+ {
+  "id": "l09-haricots-verts-amandine",
+  "title": "Haricots verts amandine",
+  "category": "accompagnement",
+  "emoji": "🫛",
+  "prep": 10,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "haricot_vert",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "amande_effilee",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "amandes effilées"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Équeutez les haricots et faites-les cuire 6 à 7 minutes à l'eau bouillante salée : ils doivent rester croquants.",
+   "Égouttez et plongez-les dans de l'eau glacée pour fixer la couleur, puis égouttez à nouveau.",
+   "Dans une poêle, faites mousser le beurre et dorez les amandes 2 minutes.",
+   "Ajoutez les haricots, faites-les sauter 3 minutes, arrosez de citron, salez et poivrez."
+  ],
+  "tips": "Les haricots blanchis se préparent la veille ; il ne reste plus que 5 minutes de poêle au moment du repas."
+ },
+ {
+  "id": "l09-epinards-creme-ail",
+  "title": "Épinards à la crème et à l'ail",
+  "category": "accompagnement",
+  "emoji": "🥬",
+  "prep": 5,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "epinard",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "épinards frais (ou surgelés décongelés)"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre dans une sauteuse et faites revenir l'ail haché 30 secondes.",
+   "Ajoutez les épinards par poignées et laissez-les tomber 3 à 4 minutes ; jetez l'eau rendue.",
+   "Ajoutez la crème, la muscade et le parmesan, laissez réduire 3 minutes à feu moyen.",
+   "Salez, poivrez et servez bien chaud."
+  ],
+  "tips": "Avec des épinards surgelés, pressez-les bien entre vos mains pour retirer l'eau avant de les ajouter."
+ },
+ {
+  "id": "l09-salade-chou-rouge-coleslaw",
+  "title": "Coleslaw keto au chou rouge et blanc",
+  "category": "accompagnement",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_blanc",
+    "g": 300,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "chou_rouge",
+    "g": 200,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "chou rouge"
+   },
+   {
+    "ing": "carotte",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "carotte râpée"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 90,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "erythritol",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Émincez les choux très finement au couteau ou à la mandoline.",
+   "Mélangez la mayonnaise, le yaourt, le vinaigre, la moutarde, l'érythritol, le sel et le poivre.",
+   "Versez la sauce sur les choux et la carotte, mélangez bien.",
+   "Réfrigérez au moins 30 minutes avant de servir pour que le chou s'attendrisse."
+  ],
+  "tips": "Se garde 3 jours au réfrigérateur. Parfait avec du poulet grillé ou des brochettes."
+ },
+ {
+  "id": "l09-salade-concombre-yaourt-menthe",
+  "title": "Salade de concombre au yaourt et menthe",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "concombre",
+    "g": 500,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "concombres"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe fraîche"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez les concombres en demi-rondelles fines, salez-les légèrement et laissez dégorger 10 minutes ; égouttez.",
+   "Mélangez le yaourt avec l'ail râpé et la menthe ciselée.",
+   "Ajoutez les concombres et mélangez délicatement.",
+   "Servez frais avec un filet d'huile d'olive."
+  ],
+  "tips": "Rafraîchissant à côté d'un plat épicé ou de grillades de kefta."
+ },
+ {
+  "id": "l09-zaalouk-aubergine",
+  "title": "Zaalouk d'aubergines",
+  "category": "accompagnement",
+  "emoji": "🍆",
+  "prep": 15,
+  "cook": 30,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 700,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines"
+   },
+   {
+    "ing": "tomate",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates mûres"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Pelez les aubergines une bande sur deux et coupez-les en cubes ; faites-les cuire 15 minutes à la vapeur.",
+   "Dans une sauteuse, chauffez l'huile, ajoutez l'ail haché et les tomates pelées et râpées ; cuisez 5 minutes.",
+   "Ajoutez les aubergines, les épices, le sel et la moitié des herbes.",
+   "Écrasez à la fourchette et laissez mijoter 10 minutes en remuant jusqu'à ce que l'eau soit évaporée.",
+   "Ajoutez le reste des herbes et le citron. Servez tiède ou froid."
+  ],
+  "tips": "Cuire les aubergines à la vapeur plutôt que frites allège le plat. Se garde 4 jours au frais."
+ },
+ {
+  "id": "l09-taktouka-poivrons",
+  "title": "Taktouka de poivrons grillés",
+  "category": "accompagnement",
+  "emoji": "🫑",
+  "prep": 15,
+  "cook": 35,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poivron_vert",
+    "g": 400,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "poivrons verts"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "tomate",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et cumin"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Grillez les poivrons sous le gril du four à 240 °C pendant 20 minutes en les retournant, jusqu'à ce que la peau noircisse.",
+   "Enfermez-les 10 minutes dans un sac, puis pelez-les, épépinez-les et coupez-les en lanières.",
+   "Dans une poêle, chauffez l'huile, ajoutez l'ail et les tomates pelées en dés ; cuisez 8 minutes.",
+   "Ajoutez les poivrons, les épices et le sel, laissez réduire 7 minutes.",
+   "Parsemez de coriandre et servez à température ambiante."
+  ],
+  "tips": "Mélange typique des salades cuites marocaines : servez-la avec le zaalouk en entrée."
+ },
+ {
+  "id": "l09-salade-roquette-parmesan-noix",
+  "title": "Salade de roquette, parmesan et noix",
+  "category": "accompagnement",
+  "emoji": "🥗",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "roquette",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "roquette"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "copeaux de parmesan"
+   },
+   {
+    "ing": "noix",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 100,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre balsamique"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Torréfiez les noix 3 minutes à sec dans une poêle, puis concassez-les grossièrement.",
+   "Fouettez l'huile, le vinaigre, le sel et le poivre.",
+   "Disposez la roquette et les tomates cerises coupées en deux dans un saladier.",
+   "Assaisonnez au dernier moment, puis ajoutez les copeaux de parmesan et les noix."
+  ],
+  "tips": "Faites les copeaux de parmesan avec un économe directement sur la salade."
+ },
+ {
+  "id": "l09-salade-avocat-tomate-oignon-rouge",
+  "title": "Salade d'avocat, tomate et oignon rouge",
+  "category": "accompagnement",
+  "emoji": "🥑",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "tomate",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Émincez finement l'oignon rouge et faites-le macérer 5 minutes dans le jus de citron pour l'adoucir.",
+   "Coupez les tomates et les avocats en dés.",
+   "Mélangez délicatement avec l'oignon et son citron, l'huile et la coriandre.",
+   "Salez, poivrez et servez aussitôt."
+  ],
+  "tips": "Le citron empêche l'avocat de noircir ; préparez-la au maximum 1 heure à l'avance."
+ },
+ {
+  "id": "l09-salade-chou-fleur-facon-pommes-de-terre",
+  "title": "Salade de chou-fleur façon salade de pommes de terre",
+  "category": "accompagnement",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Végétarien",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 700,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs durs"
+   },
+   {
+    "ing": "cornichon",
+    "g": 60,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "celeri",
+    "g": 50,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "branche de céleri"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 100,
+    "qty": 7,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites cuire les bouquets de chou-fleur 8 minutes à l'eau salée : ils doivent rester légèrement fermes. Égouttez et laissez refroidir.",
+   "Faites cuire les œufs 10 minutes, refroidissez-les et écalez-les.",
+   "Coupez les œufs, les cornichons et le céleri en petits dés.",
+   "Mélangez la mayonnaise et la moutarde, puis ajoutez tous les ingrédients et la ciboulette ; salez et poivrez.",
+   "Réfrigérez 1 heure avant de servir."
+  ],
+  "tips": "Le chou-fleur légèrement ferme donne vraiment l'illusion de la pomme de terre. Idéale pour les pique-niques."
+ },
+ {
+  "id": "l09-courgettes-sautees-ail-menthe",
+  "title": "Courgettes sautées à l'ail et à la menthe",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 5,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Coupez les courgettes en demi-rondelles de 5 mm.",
+   "Chauffez l'huile à feu vif dans une grande poêle et faites sauter les courgettes 6 minutes en une seule couche.",
+   "Ajoutez l'ail émincé, remuez 1 minute.",
+   "Hors du feu, ajoutez la menthe ciselée et le citron ; salez et poivrez."
+  ],
+  "tips": "Cuisez en deux fois si la poêle est petite pour que les courgettes dorent au lieu de rendre leur eau."
+ },
+ {
+  "id": "l09-asperges-roties-beurre-citron",
+  "title": "Asperges rôties au beurre citronné",
+  "category": "accompagnement",
+  "emoji": "🌱",
+  "prep": 5,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "asperge",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "asperges vertes"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron (zeste et jus)"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C. Cassez la base dure des asperges.",
+   "Disposez-les sur une plaque, arrosez d'huile, salez et poivrez ; rôtissez 10 à 12 minutes.",
+   "Pendant ce temps, faites fondre le beurre avec le zeste et le jus de citron.",
+   "Nappez les asperges de beurre citronné et parsemez de parmesan."
+  ],
+  "tips": "Parfait avec un poisson grillé ou des œufs pochés."
+ },
+ {
+  "id": "l09-navets-glaces-cumin",
+  "title": "Navets rôtis au cumin et persil",
+  "category": "accompagnement",
+  "emoji": "🥕",
+  "prep": 10,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Économique",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "navet",
+    "g": 500,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "navets moyens"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C.",
+   "Épluchez les navets et coupez-les en quartiers.",
+   "Mélangez-les avec l'huile, le cumin, l'ail écrasé, le sel et le poivre.",
+   "Rôtissez 30 minutes en remuant à mi-cuisson, jusqu'à ce qu'ils soient dorés et fondants.",
+   "Parsemez de persil haché."
+  ],
+  "tips": "Rôtis, les navets perdent leur amertume et rappellent les pommes de terre sautées."
+ },
+ {
+  "id": "l09-chou-blanc-poele-beurre",
+  "title": "Chou blanc poêlé au beurre et cumin",
+  "category": "accompagnement",
+  "emoji": "🥬",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_blanc",
+    "g": 600,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "graines de cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Émincez le chou en lanières de 1 cm et l'oignon finement.",
+   "Faites fondre le beurre dans une grande sauteuse, ajoutez les graines de cumin 30 secondes.",
+   "Ajoutez l'oignon puis le chou, et faites sauter 12 à 15 minutes à feu moyen-vif en remuant souvent, jusqu'à ce qu'il soit tendre et légèrement caramélisé.",
+   "Salez et poivrez."
+  ],
+  "tips": "Le chou est l'un des légumes keto les plus économiques. Ajoutez des dés de cachir pour un plat plus complet."
+ },
+ {
+  "id": "l09-champignons-farcis-chevre",
+  "title": "Champignons farcis au chèvre et herbes",
+  "category": "accompagnement",
+  "emoji": "🍄",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "champignon",
+    "g": 400,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "gros champignons de Paris"
+   },
+   {
+    "ing": "chevre",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "fromage de chèvre frais"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "noix",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "noix hachées"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Retirez les pieds des champignons et hachez-les finement.",
+   "Faites revenir les pieds hachés et l'ail 3 minutes dans l'huile.",
+   "Mélangez avec le chèvre, les herbes, les noix et le poivre.",
+   "Garnissez les chapeaux, posez-les sur une plaque et enfournez 18 à 20 minutes."
+  ],
+  "tips": "Servis à l'apéritif ou à côté d'une viande rôtie. Se préparent à l'avance et s'enfournent au dernier moment."
+ },
+ {
+  "id": "l09-puree-brocoli-parmesan",
+  "title": "Purée de brocoli et chou-fleur au parmesan",
+  "category": "accompagnement",
+  "emoji": "🥦",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "brocoli",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "fromage frais"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Faites cuire brocoli et chou-fleur en bouquets 12 minutes à la vapeur.",
+   "Égouttez soigneusement et laissez sécher 2 minutes.",
+   "Mixez avec le beurre, le fromage frais et le parmesan.",
+   "Salez, poivrez et servez chaud."
+  ],
+  "tips": "Une purée verte que les enfants mangent volontiers ; servez-la avec des nuggets de poulet à la poudre d'amande."
+ },
+ {
+  "id": "l09-galettes-courgette-feta",
+  "title": "Galettes de courgette à la feta",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 500,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "courgettes râpées"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "aneth",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth ou menthe"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon vert"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Râpez les courgettes, salez légèrement et laissez dégorger 10 minutes ; pressez-les fortement dans un torchon.",
+   "Mélangez avec la feta émiettée, les œufs, la poudre d'amande, l'aneth, l'oignon vert ciselé et le poivre.",
+   "Chauffez l'huile dans une poêle et déposez des cuillerées de pâte, aplaties en galettes de 8 cm.",
+   "Faites cuire 3 à 4 minutes de chaque côté à feu moyen jusqu'à ce qu'elles soient dorées.",
+   "Égouttez sur papier absorbant et servez avec du yaourt grec."
+  ],
+  "tips": "Bien presser les courgettes est la clé pour des galettes qui se tiennent."
+ },
+ {
+  "id": "l09-salade-fenouil-olives-citron",
+  "title": "Salade de fenouil, olives noires et citron",
+  "category": "accompagnement",
+  "emoji": "🫒",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "fenouil",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "bulbes de fenouil"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 60,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Émincez le fenouil le plus finement possible à la mandoline.",
+   "Arrosez-le immédiatement du jus de citron et de l'huile, salez et poivrez.",
+   "Ajoutez les olives et le persil ciselé, mélangez.",
+   "Laissez reposer 15 minutes avant de servir pour attendrir le fenouil."
+  ],
+  "tips": "Fraîche et croquante, elle accompagne idéalement une dorade ou un loup grillé."
+ }
+]

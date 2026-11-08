@@ -41,8 +41,12 @@ with sync_playwright() as pw:
     pg.mouse.click(195, 30)
 
     pg.goto(WWW.as_uri() + "#/recettes"); pg.wait_for_timeout(200)
-    pg.click("#chips [data-c=marocain]")
+    pg.click("#chips2 [data-c=marocain]"); pg.wait_for_timeout(200)
     pg.screenshot(path=OUT / "06-recettes.png")
+    pg.click("#chips2 [data-c='']"); pg.click("#chips [data-c=tout]"); pg.wait_for_timeout(200); pg.click("#more"); pg.wait_for_timeout(200)
+    assert pg.locator(".recipe-item").count() == 60, pg.locator(".recipe-item").count()
+    pg.fill("#q", "sardine"); pg.wait_for_timeout(400); pg.screenshot(path=OUT / "06b-recherche.png")
+    pg.fill("#q", ""); pg.click("#chips2 [data-c=marocain]"); pg.wait_for_timeout(300)
     pg.click(".recipe-item")
     pg.wait_for_timeout(200)
     pg.click("#plus"); pg.click("#fav")

@@ -1,0 +1,5402 @@
+[
+ {
+  "id": "l03-poulet-roti-beurre-herbes",
+  "title": "Poulet rôti au beurre d'herbes et citron",
+  "category": "diner",
+  "emoji": "🍗",
+  "prep": 15,
+  "cook": 80,
+  "servings": 5,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_entier",
+    "g": 1500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poulet entier (1,5 kg)"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre mou"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil haché"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus et zeste)"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym séché et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Sortez le poulet du réfrigérateur 30 min avant et préchauffez le four à 200 °C.",
+   "Écrasez le beurre mou avec l'ail pressé, le persil, le zeste du citron, le thym, le paprika, sel et poivre.",
+   "Décollez délicatement la peau des blancs avec les doigts et glissez-y la moitié du beurre d'herbes ; étalez le reste sur les cuisses.",
+   "Placez le demi-citron pressé à l'intérieur de la carcasse, ficelez les cuisses et posez le poulet dans un plat, arrosé du jus de citron et de l'huile.",
+   "Enfournez 1 h 15 à 1 h 20 en arrosant avec le jus du plat toutes les 20 min.",
+   "Vérifiez la cuisson : le jus qui s'écoule de la cuisse piquée doit être clair (74 °C à cœur).",
+   "Laissez reposer 10 min sous une feuille d'aluminium avant de découper et servez avec le jus de cuisson."
+  ],
+  "tips": "Servez avec des haricots verts ou une purée de chou-fleur. Les restes effilochés font une excellente salade le lendemain."
+ },
+ {
+  "id": "l03-blancs-poulet-creme-champignons",
+  "title": "Blancs de poulet à la crème et aux champignons",
+  "category": "diner",
+  "emoji": "🍄",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "champignon",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "champignons de Paris émincés"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Aplatissez légèrement les blancs pour une épaisseur régulière, salez et poivrez.",
+   "Dans une grande poêle, chauffez l'huile à feu moyen-vif et dorez les blancs 5 à 6 min de chaque côté. Réservez sur une assiette.",
+   "Dans la même poêle, faites fondre le beurre, ajoutez l'oignon finement haché et faites-le suer 2 min.",
+   "Ajoutez les champignons et faites-les sauter 6 à 7 min jusqu'à évaporation de leur eau, puis l'ail haché 1 min.",
+   "Versez la crème, grattez les sucs, laissez réduire 3 min à frémissement.",
+   "Remettez les blancs dans la sauce avec leur jus et laissez mijoter 4 min à feu doux. Parsemez de persil et servez."
+  ],
+  "tips": "Ajoutez une poignée d'épinards en fin de cuisson pour un plat complet. Se conserve 3 jours au réfrigérateur."
+ },
+ {
+  "id": "l03-cuisses-paprika-chou-fleur",
+  "title": "Cuisses de poulet croustillantes au paprika et chou-fleur rôti",
+  "category": "dejeuner",
+  "emoji": "🍗",
+  "prep": 10,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 1000,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cuisses de poulet avec peau"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit chou-fleur en bouquets"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "paprika fumé, cumin et ail en poudre"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C. Séchez soigneusement les cuisses avec du papier absorbant (c'est le secret d'une peau croustillante).",
+   "Mélangez 2 c. à s. d'huile avec les épices, le sel et le poivre ; massez-en les cuisses.",
+   "Mélangez les bouquets de chou-fleur avec le reste d'huile, du sel et une pincée de paprika.",
+   "Disposez les cuisses peau vers le haut sur une plaque, le chou-fleur autour, sans entasser.",
+   "Enfournez 40 à 45 min, en retournant le chou-fleur à mi-cuisson, jusqu'à ce que la peau soit dorée et le jus clair.",
+   "Arrosez de jus de citron, parsemez de persil haché et servez bien chaud."
+  ],
+  "tips": "Pour encore plus de croustillant, laissez les cuisses salées à découvert au réfrigérateur 2 h avant la cuisson."
+ },
+ {
+  "id": "l03-nuggets-amande-parmesan",
+  "title": "Nuggets de poulet keto à l'amande et au parmesan",
+  "category": "dejeuner",
+  "emoji": "🍗",
+  "prep": 20,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et ail en poudre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C et couvrez une plaque de papier cuisson huilé.",
+   "Coupez le poulet en morceaux de 3 à 4 cm, salez et poivrez.",
+   "Battez les œufs dans une assiette creuse ; dans une autre, mélangez farine d'amande, parmesan et épices.",
+   "Trempez chaque morceau dans l'œuf, égouttez, puis roulez-le dans la chapelure en pressant bien.",
+   "Disposez sur la plaque, badigeonnez ou vaporisez d'huile et enfournez 18 à 20 min en retournant à mi-cuisson.",
+   "Mélangez mayonnaise et moutarde pour la sauce et servez les nuggets dorés avec une salade."
+  ],
+  "tips": "Les nuggets panés crus se congèlent à plat : faites-les cuire directement congelés, 5 min de plus."
+ },
+ {
+  "id": "l03-curry-poulet-coco-epinards",
+  "title": "Curry de poulet au lait de coco et aux épinards",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "épinards frais"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre frais râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "curry en poudre et curcuma"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre fraîche"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en cubes de 3 cm et salez-le légèrement.",
+   "Dans une cocotte, faites chauffer l'huile de coco et faites revenir l'oignon émincé 4 min à feu moyen.",
+   "Ajoutez l'ail, le gingembre et les épices ; remuez 1 min jusqu'à ce que ça embaume.",
+   "Ajoutez le poulet et faites-le dorer 5 min en remuant pour bien l'enrober d'épices.",
+   "Versez les tomates concassées et le lait de coco, portez à frémissement, couvrez et laissez mijoter 20 min.",
+   "Incorporez les épinards par poignées, laissez-les tomber 2 min, rectifiez l'assaisonnement.",
+   "Parsemez de coriandre et servez avec du riz de chou-fleur."
+  ],
+  "tips": "Encore meilleur réchauffé le lendemain. Se congèle très bien en portions."
+ },
+ {
+  "id": "l03-brochettes-poulet-ail-citron",
+  "title": "Brochettes de poulet ail-citron, sauce yaourt à l'aneth",
+  "category": "dejeuner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus et zeste)"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan et paprika"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "aneth",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth ciselé"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en cubes de 3 cm. Mélangez huile, jus et zeste de citron, ail pressé, épices, sel et poivre ; faites mariner le poulet au moins 1 h au frais.",
+   "Coupez le poivron en carrés et la courgette en rondelles épaisses.",
+   "Enfilez en alternance poulet et légumes sur des piques (trempées 20 min dans l'eau si elles sont en bois).",
+   "Faites cuire sur un gril ou une poêle-gril bien chaude 12 à 15 min en tournant régulièrement.",
+   "Mélangez le yaourt avec l'aneth, une pincée de sel et un filet de citron.",
+   "Servez les brochettes avec la sauce yaourt bien fraîche."
+  ],
+  "tips": "La marinade peut se préparer la veille : le poulet n'en sera que plus tendre."
+ },
+ {
+  "id": "l03-salade-cesar-poulet",
+  "title": "Salade César keto au poulet grillé",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "laitue",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue romaine"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan en copeaux"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs durs"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "graines de courge grillées"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Assaisonnez les blancs de sel, poivre et huile, puis faites-les griller 5 à 6 min par face dans une poêle chaude. Laissez reposer 5 min et tranchez.",
+   "Préparez la sauce : mélangez mayonnaise, jus de citron, moutarde, ail pressé, 1 c. à s. de parmesan râpé et 1 c. à s. d'eau.",
+   "Lavez, essorez et coupez la romaine en morceaux.",
+   "Écalez et coupez les œufs durs en quartiers.",
+   "Mélangez la salade avec la sauce, répartissez dans les assiettes, ajoutez le poulet, les œufs, les copeaux de parmesan et les graines de courge."
+  ],
+  "tips": "Les graines de courge grillées remplacent les croûtons. Gardez la sauce à part si vous préparez la salade à l'avance."
+ },
+ {
+  "id": "l03-gratin-poulet-brocoli-cheddar",
+  "title": "Gratin de poulet, brocoli et cheddar",
+  "category": "diner",
+  "emoji": "🧀",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "blancs de poulet cuits"
+   },
+   {
+    "ing": "brocoli",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli en bouquets"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "cheddar",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C et beurrez un plat à gratin.",
+   "Faites cuire les bouquets de brocoli 4 min à l'eau bouillante salée ou à la vapeur ; ils doivent rester croquants. Égouttez bien.",
+   "Coupez le poulet en dés (un poulet poché ou rôti la veille convient parfaitement).",
+   "Dans une casserole, chauffez la crème avec le fromage à la crème, l'ail pressé, la muscade, sel et poivre, en fouettant jusqu'à obtenir une sauce lisse. Ajoutez la moitié du cheddar.",
+   "Répartissez brocoli et poulet dans le plat, nappez de sauce et parsemez du reste de cheddar.",
+   "Enfournez 20 à 25 min jusqu'à ce que le dessus soit doré et bouillonnant."
+  ],
+  "tips": "Pour cuire le poulet rapidement : pochez-le 15 min dans un bouillon frémissant."
+ },
+ {
+  "id": "l03-escalopes-dinde-moutarde",
+  "title": "Escalopes de dinde à la moutarde à l'ancienne",
+  "category": "diner",
+  "emoji": "🦃",
+  "prep": 5,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "escalopes de dinde"
+   },
+   {
+    "ing": "moutarde",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "moutarde à l'ancienne"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "bouillon",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les haricots verts 8 à 10 min à l'eau bouillante salée, égouttez et gardez au chaud.",
+   "Salez et poivrez les escalopes. Faites fondre le beurre dans une poêle à feu moyen-vif.",
+   "Faites dorer les escalopes 3 min de chaque côté, puis réservez-les sur une assiette.",
+   "Déglacez la poêle avec le bouillon en grattant les sucs, laissez réduire 2 min.",
+   "Ajoutez la crème et la moutarde, mélangez et laissez épaissir 2 min à feu doux.",
+   "Remettez les escalopes dans la sauce 1 à 2 min, parsemez de ciboulette et servez avec les haricots verts."
+  ],
+  "tips": "Ne faites pas bouillir la sauce après ajout de la moutarde : elle deviendrait amère."
+ },
+ {
+  "id": "l03-foies-volaille-champignons",
+  "title": "Foies de volaille poêlés aux champignons et persil",
+  "category": "dejeuner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "foie_volaille",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "foies de volaille"
+   },
+   {
+    "ing": "champignon",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil plat"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "roquette",
+    "g": 100,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Nettoyez les foies : retirez les filaments et les parties verdâtres, coupez-les en deux et séchez-les.",
+   "Faites sauter les champignons émincés dans la moitié du beurre 6 min à feu vif, salez et réservez.",
+   "Dans la même poêle, chauffez l'huile et le reste du beurre jusqu'à ce qu'ils moussent.",
+   "Saisissez les foies 2 min sans les toucher, retournez et cuisez encore 2 min : ils doivent rester rosés à cœur.",
+   "Ajoutez l'ail haché, les champignons et déglacez avec le vinaigre ; mélangez 30 s.",
+   "Hors du feu, ajoutez le persil haché, salez, poivrez et servez sur un lit de roquette."
+  ],
+  "tips": "Ne salez les foies qu'en fin de cuisson pour qu'ils restent tendres."
+ },
+ {
+  "id": "l03-poulet-parmigiana",
+  "title": "Poulet à la parmigiana keto",
+  "category": "diner",
+  "emoji": "🍅",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "basilic",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "boules de mozzarella"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préparez la sauce : faites revenir l'ail dans 1 c. à s. d'huile, ajoutez les tomates, l'origan, sel, poivre et laissez réduire 10 min.",
+   "Ouvrez les blancs en portefeuille ou aplatissez-les à 1,5 cm d'épaisseur. Salez et poivrez.",
+   "Trempez-les dans l'œuf battu puis dans le mélange farine d'amande-parmesan.",
+   "Faites-les dorer 3 min par face dans le reste d'huile, puis posez-les dans un plat à four.",
+   "Nappez chaque blanc de sauce tomate, couvrez de tranches de mozzarella.",
+   "Enfournez 15 min à 200 °C, jusqu'à ce que le fromage soit fondu et doré. Parsemez de basilic frais."
+  ],
+  "tips": "Servez avec des courgettes sautées ou des tagliatelles de courgette."
+ },
+ {
+  "id": "l03-butter-chicken",
+  "title": "Butter chicken keto",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 20,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "garam masala, paprika, cumin, curcuma"
+   },
+   {
+    "ing": "beurre",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en morceaux et faites-le mariner 30 min (ou une nuit) avec le yaourt, la moitié des épices et du sel.",
+   "Faites dorer le poulet égoutté dans la moitié du beurre, 6 min à feu vif, puis réservez.",
+   "Dans la même cocotte, faites fondre le reste du beurre et suer l'oignon haché 4 min.",
+   "Ajoutez l'ail, le gingembre et le reste des épices, remuez 1 min, puis les tomates ; laissez cuire 8 min.",
+   "Mixez la sauce pour la rendre lisse, ajoutez la crème et remettez le poulet.",
+   "Laissez mijoter 10 min à feu doux, rectifiez le sel et servez parsemé de coriandre."
+  ],
+  "tips": "Accompagnez de riz de chou-fleur parfumé à la cardamome."
+ },
+ {
+  "id": "l03-salade-dinde-fumee-avocat",
+  "title": "Salade-repas dinde fumée, avocat et œuf mollet",
+  "category": "dejeuner",
+  "emoji": "🥑",
+  "prep": 15,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde_fumee",
+    "g": 150,
+    "qty": 8,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "laitue",
+    "g": 120,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "salade verte"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "graine_tournesol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de tournesol"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Plongez les œufs dans l'eau bouillante 6 min, puis dans l'eau glacée ; écalez-les.",
+   "Fouettez l'huile, le citron, la moutarde, le sel et le poivre.",
+   "Répartissez la salade dans deux assiettes, ajoutez l'avocat en lamelles et les tomates coupées en deux.",
+   "Roulez les tranches de dinde et disposez-les, puis posez un œuf mollet ouvert en deux sur chaque salade.",
+   "Arrosez de vinaigrette et parsemez de graines de tournesol."
+  ],
+  "tips": "Arrosez l'avocat de citron s'il est coupé à l'avance pour éviter qu'il noircisse."
+ },
+ {
+  "id": "l03-poulet-saute-gingembre-brocoli",
+  "title": "Poulet sauté au gingembre et brocoli façon wok",
+  "category": "dejeuner",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "brocoli",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli"
+   },
+   {
+    "ing": "gingembre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "sauce soja (sans alcool)"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile de tournesol"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "eau",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "eau"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en fines lanières et le brocoli en petits bouquets.",
+   "Mélangez sauce soja, vinaigre, eau, gingembre et ail haché.",
+   "Chauffez 1 c. à s. d'huile dans un wok à feu vif, saisissez le poulet 4 à 5 min jusqu'à ce qu'il soit doré, réservez.",
+   "Ajoutez le reste d'huile et le brocoli ; faites sauter 3 min, ajoutez 2 c. à s. d'eau, couvrez 2 min.",
+   "Remettez le poulet, versez la sauce et faites sauter 1 à 2 min jusqu'à ce qu'elle nappe.",
+   "Parsemez de cébettes émincées et de sésame, servez aussitôt."
+  ],
+  "tips": "Vérifiez l'étiquette : choisissez une sauce soja sans alcool ajouté. Servez avec du riz de konjac."
+ },
+ {
+  "id": "l03-poulet-tikka-four",
+  "title": "Poulet tikka rôti au four, raïta au concombre",
+  "category": "dejeuner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "yaourt grec (marinade + raïta)"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "garam masala, paprika, cumin, curcuma"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "menthe ciselée"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en gros cubes. Mélangez 150 g de yaourt avec les épices, l'ail, le gingembre, le jus de citron, l'huile et le sel.",
+   "Enrobez le poulet de cette marinade et laissez reposer au moins 1 h au réfrigérateur (idéalement une nuit).",
+   "Préchauffez le four à 220 °C en position grill ventilé. Disposez les morceaux sur une grille posée au-dessus d'une plaque.",
+   "Enfournez 20 à 25 min en retournant à mi-cuisson, jusqu'à ce que les bords soient légèrement noircis.",
+   "Pendant ce temps, râpez le concombre, pressez-le pour en retirer l'eau et mélangez-le au reste du yaourt avec la menthe et une pincée de sel.",
+   "Servez le poulet tikka chaud avec la raïta bien fraîche."
+  ],
+  "tips": "Pour des brochettes au barbecue, enfilez les cubes marinés sur des piques et grillez 12 min."
+ },
+ {
+  "id": "l03-ailes-poulet-croustillantes",
+  "title": "Ailes de poulet croustillantes au four, sauce ciboulette",
+  "category": "diner",
+  "emoji": "🍗",
+  "prep": 10,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_entier",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "g",
+    "name": "ailes de poulet"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "levure chimique (pour le croustillant)"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "paprika fumé, ail et oignon en poudre"
+   },
+   {
+    "ing": "harissa",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "harissa"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "celeri",
+    "g": 150,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C. Séchez très soigneusement les ailes avec du papier absorbant.",
+   "Mélangez la levure chimique, les épices et le sel, puis enrobez-en les ailes en secouant dans un saladier.",
+   "Disposez-les sur une grille au-dessus d'une plaque, sans qu'elles se touchent. Enfournez 40 à 45 min en les retournant à mi-cuisson.",
+   "Faites fondre le beurre avec la harissa et mélangez.",
+   "Préparez la sauce : yaourt, mayonnaise, ciboulette ciselée, sel.",
+   "À la sortie du four, roulez les ailes dans le beurre pimenté et servez avec la sauce et les bâtonnets de céleri."
+  ],
+  "tips": "La levure chimique (en petite quantité) assèche la peau et la rend très croustillante sans friture."
+ },
+ {
+  "id": "l03-poulet-farci-epinards-feta",
+  "title": "Blancs de poulet farcis épinards-feta",
+  "category": "diner",
+  "emoji": "🥬",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "gros blancs de poulet"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "épinards frais"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et origan"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Faites tomber les épinards 2 min à la poêle avec l'ail haché, puis pressez-les pour ôter l'eau et hachez-les.",
+   "Mélangez les épinards avec la feta émiettée et le fromage à la crème.",
+   "Incisez chaque blanc dans l'épaisseur pour former une poche, sans le traverser.",
+   "Garnissez les poches de farce et fermez avec des cure-dents.",
+   "Badigeonnez d'huile, assaisonnez de sel (peu, la feta est salée), poivre, paprika et origan.",
+   "Saisissez 2 min par face dans une poêle allant au four, ajoutez les tomates cerises autour.",
+   "Enfournez 18 à 20 min, jusqu'à 74 °C à cœur. Laissez reposer 5 min avant de trancher."
+  ],
+  "tips": "Remplacez la feta par du jben pour une version plus douce."
+ },
+ {
+  "id": "l03-boulettes-dinde-sauce-tomate",
+  "title": "Boulettes de dinde à la sauce tomate et basilic",
+  "category": "diner",
+  "emoji": "🍝",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "dinde hachée (ou escalopes hachées)"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "basilic",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 125,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boule de mozzarella"
+   },
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes en tagliatelles"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez la dinde hachée, le parmesan, l'œuf, la farine d'amande, la moitié de l'ail, le persil haché, sel et poivre.",
+   "Façonnez une vingtaine de boulettes avec les mains humides.",
+   "Faites-les dorer 6 à 8 min dans 1 c. à s. d'huile en les roulant dans la poêle. Réservez.",
+   "Faites revenir le reste de l'ail dans l'huile restante, ajoutez les tomates, salez et laissez mijoter 10 min.",
+   "Remettez les boulettes, couvrez et laissez cuire 10 min à feu doux. Ajoutez la mozzarella en morceaux 2 min avant la fin.",
+   "Poêlez rapidement les tagliatelles de courgette 2 min et servez les boulettes dessus, parsemées de basilic."
+  ],
+  "tips": "Demandez au boucher de hacher les escalopes de dinde. Les boulettes cuites se congèlent 2 mois."
+ },
+ {
+  "id": "l03-poulet-provencale-olives",
+  "title": "Poulet mijoté à la provençale, olives et poivrons",
+  "category": "diner",
+  "emoji": "🫒",
+  "prep": 15,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 1000,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cuisses de poulet"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "olives noires"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "herbes de Provence"
+   },
+   {
+    "ing": "bouillon",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "basilic",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les cuisses en deux au niveau de l'articulation, salez et poivrez.",
+   "Dans une cocotte, faites dorer les morceaux côté peau 6 min dans l'huile, puis retournez 3 min. Réservez.",
+   "Retirez l'excès de graisse, faites revenir l'oignon et les poivrons en lanières 5 min.",
+   "Ajoutez l'ail et les herbes 1 min, puis les tomates et le bouillon.",
+   "Remettez le poulet, couvrez et laissez mijoter 30 min à feu doux.",
+   "Ajoutez les olives, découvrez et laissez réduire 10 min. Parsemez de basilic au moment de servir."
+  ],
+  "tips": "Comme tous les plats mijotés, il est encore meilleur réchauffé."
+ },
+ {
+  "id": "l03-bowl-poulet-teriyaki-konjac",
+  "title": "Bowl de poulet façon teriyaki au riz de konjac",
+  "category": "dejeuner",
+  "emoji": "🍱",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "sauce soja (sans alcool)"
+   },
+   {
+    "ing": "erythritol",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "konjac",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "sachets de riz de konjac"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de tournesol"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sésame"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "cébette"
+   }
+  ],
+  "steps": [
+   "Mélangez sauce soja, érythritol, gingembre, ail râpé et 3 c. à s. d'eau.",
+   "Rincez abondamment le riz de konjac, faites-le bouillir 2 min puis sécher à sec dans une poêle 3 min.",
+   "Coupez le poulet en lamelles et faites-le dorer 6 à 7 min dans l'huile à feu vif.",
+   "Versez la sauce et laissez réduire 2 à 3 min en remuant jusqu'à ce qu'elle soit sirupeuse et nappe le poulet.",
+   "Répartissez le riz de konjac dans des bols, ajoutez le poulet laqué, le concombre en rondelles et l'avocat en lamelles.",
+   "Parsemez de sésame et de cébette émincée."
+  ],
+  "tips": "Le riz de konjac se trouve en grandes surfaces et épiceries asiatiques ; remplacez-le par du riz de chou-fleur."
+ },
+ {
+  "id": "l03-poulet-pesto-tomates-cerises",
+  "title": "Poêlée de poulet au pesto et tomates cerises",
+  "category": "dejeuner",
+  "emoji": "🌿",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "basilic",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "basilic"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "amande",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "amandes (à la place des pignons)"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 125,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "mozzarella"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mixez le basilic, le parmesan, les amandes, l'ail, 3 c. à s. d'huile et une pincée de sel jusqu'à obtenir un pesto grossier.",
+   "Coupez le poulet en dés, salez et poivrez.",
+   "Faites-le dorer 7 à 8 min dans le reste d'huile à feu moyen-vif.",
+   "Ajoutez les tomates cerises coupées en deux et faites sauter 2 min.",
+   "Hors du feu, incorporez le pesto et la mozzarella en dés, mélangez et servez tiède."
+  ],
+  "tips": "Le pesto se garde 5 jours au réfrigérateur couvert d'un filet d'huile."
+ },
+ {
+  "id": "l03-fajitas-bowl-poulet-guacamole",
+  "title": "Bowl fajitas de poulet et guacamole",
+  "category": "dejeuner",
+  "emoji": "🌶️",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "cumin, paprika fumé, origan, piment"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert (jus)"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 3,
+    "unit": "poignée",
+    "name": "laitue émincée"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet, les poivrons et l'oignon en fines lanières.",
+   "Mélangez le poulet avec la moitié de l'huile, les épices et du sel.",
+   "Faites sauter le poulet 6 min à feu vif dans une grande poêle, ajoutez les légumes et le reste d'huile, poursuivez 5 min : ils doivent rester légèrement croquants.",
+   "Écrasez les avocats avec le jus de citron, la coriandre hachée et du sel pour le guacamole.",
+   "Répartissez la laitue dans les bols, ajoutez la poêlée de poulet et une belle cuillère de guacamole."
+  ],
+  "tips": "Ajoutez du fromage râpé ou une cuillère de crème fraîche si vous n'êtes pas sans lactose."
+ },
+ {
+  "id": "l03-burgers-dinde-courgette-feta",
+  "title": "Galettes de dinde à la courgette et à la feta",
+  "category": "dejeuner",
+  "emoji": "🍔",
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "dinde hachée"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette râpée"
+   },
+   {
+    "ing": "feta",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "menthe"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "laitue",
+    "g": 100,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "feuilles de laitue"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Râpez la courgette, salez-la légèrement et laissez dégorger 10 min, puis pressez-la fort dans un torchon.",
+   "Mélangez la dinde, la courgette, la feta émiettée, l'œuf, la menthe, les cébettes, le cumin et du poivre.",
+   "Formez 8 galettes de 2 cm d'épaisseur avec les mains humides.",
+   "Faites-les cuire 6 à 7 min de chaque côté dans l'huile à feu moyen, jusqu'à ce qu'elles soient bien dorées et cuites à cœur.",
+   "Servez dans des feuilles de laitue avec une cuillère de yaourt grec citronné."
+  ],
+  "tips": "Bien presser la courgette est essentiel pour que les galettes se tiennent."
+ },
+ {
+  "id": "l03-poulet-satay-cacahuete",
+  "title": "Brochettes de poulet satay, sauce cacahuète",
+  "category": "dejeuner",
+  "emoji": "🥜",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "beurre_cacahuete",
+    "g": 60,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "beurre de cacahuète sans sucre"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "curry et curcuma"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron vert"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "cacahuete",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cacahuètes concassées"
+   },
+   {
+    "ing": "coriandre",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en lanières et faites-le mariner 30 min avec 100 ml de lait de coco, les épices, la moitié de la sauce soja et l'ail.",
+   "Enfilez les lanières en accordéon sur des piques.",
+   "Préparez la sauce : chauffez doucement le reste du lait de coco avec le beurre de cacahuète, le reste de sauce soja et le citron en fouettant jusqu'à consistance lisse.",
+   "Grillez les brochettes sur une poêle-gril bien chaude 5 à 6 min par face.",
+   "Servez avec la sauce chaude, le concombre en bâtonnets, les cacahuètes concassées et la coriandre."
+  ],
+  "tips": "Allongez la sauce d'un peu d'eau chaude si elle épaissit trop en refroidissant."
+ },
+ {
+  "id": "l03-poulet-grecque-citron-origan",
+  "title": "Cuisses de poulet à la grecque, citron et origan",
+  "category": "diner",
+  "emoji": "🍋",
+  "prep": 15,
+  "cook": 50,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 1000,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cuisses de poulet"
+   },
+   {
+    "ing": "citron",
+    "g": 60,
+    "qty": 1.5,
+    "unit": "pièce(s)",
+    "name": "citrons (jus et zeste)"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 20,
+    "qty": 4,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 6,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "bouillon",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez jus et zeste de citron, huile, ail écrasé, origan, sel et poivre. Faites-y mariner les cuisses 30 min minimum.",
+   "Préchauffez le four à 200 °C. Coupez les courgettes en gros tronçons et l'oignon en quartiers.",
+   "Disposez les légumes dans un plat, posez les cuisses dessus peau vers le haut et versez la marinade et le bouillon.",
+   "Enfournez 45 à 50 min, en arrosant deux fois avec le jus.",
+   "Ajoutez les olives 10 min avant la fin. La peau doit être dorée et le jus de cuisson clair.",
+   "Servez avec le jus citronné du plat."
+  ],
+  "tips": "Ajoutez une poignée de feta émiettée à la sortie du four si vous consommez des laitages."
+ },
+ {
+  "id": "l03-foies-volaille-creme-moutarde",
+  "title": "Foies de volaille à la crème moutardée, purée de chou-fleur",
+  "category": "diner",
+  "emoji": "🥘",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "foie_volaille",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "foies de volaille"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "moutarde",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "moutarde de Dijon"
+   },
+   {
+    "ing": "beurre",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire le chou-fleur en bouquets 15 min à l'eau salée ou à la vapeur, égouttez-le très bien.",
+   "Mixez-le avec 30 g de beurre, le parmesan, sel et poivre pour une purée lisse. Gardez au chaud.",
+   "Parez les foies (retirez les nerfs) et séchez-les.",
+   "Faites fondre le reste du beurre, suez l'oignon émincé 3 min, puis saisissez les foies 2 min par face à feu vif.",
+   "Baissez le feu, ajoutez la crème et la moutarde, laissez frémir 2 min : les foies doivent rester rosés.",
+   "Salez, poivrez, parsemez de persil et servez sur la purée de chou-fleur."
+  ],
+  "tips": "Les foies sont riches en fer et vitamine A : un plat économique à servir une fois par semaine."
+ },
+ {
+  "id": "l03-salade-thai-poulet-concombre",
+  "title": "Salade thaï de poulet, concombre et menthe",
+  "category": "dejeuner",
+  "emoji": "🥒",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "concombre",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "chou_rouge",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chou rouge émincé"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert (jus)"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile neutre"
+   },
+   {
+    "ing": "piment",
+    "g": 10,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit piment"
+   },
+   {
+    "ing": "cacahuete",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "cacahuètes grillées"
+   },
+   {
+    "ing": "erythritol",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   }
+  ],
+  "steps": [
+   "Pochez les blancs 12 min dans de l'eau frémissante salée, laissez tiédir puis effilochez-les.",
+   "Coupez le concombre en demi-lunes fines et émincez finement le chou rouge.",
+   "Fouettez jus de citron vert, sauce soja, huile, érythritol et piment finement haché.",
+   "Mélangez poulet, légumes, menthe et coriandre effeuillées avec la sauce.",
+   "Parsemez de cacahuètes concassées et servez frais."
+  ],
+  "tips": "Retirez les graines du piment pour une version adaptée aux enfants."
+ },
+ {
+  "id": "l03-pizza-pate-poulet",
+  "title": "Pizza keto à pâte de poulet",
+  "category": "diner",
+  "emoji": "🍕",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "blancs de poulet hachés"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan et ail en poudre"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "tomates concassées réduites"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "champignon",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "olives noires"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Mixez le poulet avec le parmesan, l'œuf, la moitié de l'origan et le sel.",
+   "Étalez cette pâte sur une plaque couverte de papier cuisson huilé en un disque de 30 cm et 5 mm d'épaisseur.",
+   "Précuisez 15 à 18 min jusqu'à ce que la base soit dorée et ferme ; épongez le jus éventuel.",
+   "Étalez la sauce tomate, la mozzarella, les champignons et le poivron émincés, les olives et le reste d'origan.",
+   "Enfournez à nouveau 10 à 12 min jusqu'à ce que le fromage gratine.",
+   "Laissez reposer 3 min avant de découper en parts."
+  ],
+  "tips": "Faites réduire les tomates concassées 10 min à la poêle pour éviter une pâte détrempée."
+ },
+ {
+  "id": "l03-saute-dinde-poivrons-paprika",
+  "title": "Sauté de dinde aux poivrons et paprika fumé",
+  "category": "dejeuner",
+  "emoji": "🫑",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "escalopes de dinde"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 200,
+    "qty": 1.5,
+    "unit": "pièce(s)",
+    "name": "poivrons rouges"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "paprika fumé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez la dinde en lanières de 1 cm, salez et poivrez.",
+   "Saisissez-la 4 min à feu vif dans 2 c. à s. d'huile, puis réservez.",
+   "Faites revenir l'oignon et les poivrons en lanières dans le reste d'huile 8 min à feu moyen.",
+   "Ajoutez l'ail et le paprika, remuez 1 min, puis versez les tomates et laissez compoter 8 min.",
+   "Remettez la dinde, couvrez et laissez mijoter 5 min. Parsemez de persil avant de servir."
+  ],
+  "tips": "La dinde cuit vite : ne la laissez pas mijoter trop longtemps pour qu'elle reste moelleuse."
+ },
+ {
+  "id": "l03-roti-dinde-champignons",
+  "title": "Rôti de dinde aux champignons et sauce à la crème",
+  "category": "diner",
+  "emoji": "🦃",
+  "prep": 15,
+  "cook": 60,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 1000,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "rôti de dinde (1 kg)"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "champignon",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "bouillon",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C. Salez, poivrez et frottez le rôti de thym.",
+   "Dans une cocotte allant au four, faites dorer le rôti sur toutes ses faces dans le beurre et l'huile, 8 min.",
+   "Ajoutez l'oignon émincé, l'ail en chemise et les champignons en quartiers autour du rôti.",
+   "Versez le bouillon, couvrez et enfournez 50 min à 1 h (70 °C à cœur), en arrosant à mi-cuisson.",
+   "Sortez le rôti, enveloppez-le dans du papier aluminium et laissez reposer 10 min.",
+   "Posez la cocotte sur le feu, ajoutez la crème au jus et aux champignons et laissez réduire 5 min.",
+   "Tranchez le rôti et nappez de sauce aux champignons."
+  ],
+  "tips": "Les tranches froides restantes font d'excellents sandwichs en feuilles de laitue."
+ },
+ {
+  "id": "l03-poulet-chou-cocotte",
+  "title": "Cocotte de poulet au chou et lardons de dinde fumée",
+  "category": "diner",
+  "emoji": "🥬",
+  "prep": 15,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 900,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "hauts de cuisse"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 600,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "dinde fumée en lardons"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "bouillon",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et baies de genièvre (ou thym)"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Émincez le chou en lanières de 1 cm, rincez-le et égouttez.",
+   "Dans une cocotte, dorez les hauts de cuisse côté peau 6 min dans l'huile, retournez 2 min, réservez.",
+   "Faites revenir les lardons de dinde et l'oignon émincé 4 min dans la graisse rendue.",
+   "Ajoutez le chou, l'ail et les épices, remuez 3 min jusqu'à ce qu'il commence à tomber.",
+   "Versez le bouillon, posez le poulet sur le chou, couvrez et laissez mijoter 30 min à feu doux.",
+   "Rectifiez l'assaisonnement et servez directement dans la cocotte."
+  ],
+  "tips": "Un plat complet et réconfortant pour l'hiver ; il se réchauffe parfaitement."
+ },
+ {
+  "id": "l03-wraps-laitue-poulet-epice",
+  "title": "Wraps de laitue au poulet haché épicé",
+  "category": "dejeuner",
+  "emoji": "🥬",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "poulet haché"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue iceberg ou romaine"
+   },
+   {
+    "ing": "champignon",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "champignons hachés"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "carotte",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "carotte râpée"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 40,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "harissa",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "harissa"
+   }
+  ],
+  "steps": [
+   "Faites chauffer l'huile dans une poêle à feu vif, ajoutez le poulet haché et émiettez-le 5 min jusqu'à ce qu'il dore.",
+   "Ajoutez les champignons, l'ail et le gingembre, poursuivez 3 min.",
+   "Versez la sauce soja et faites sauter 1 min. Ajoutez les cébettes émincées hors du feu.",
+   "Mélangez mayonnaise et harissa pour la sauce.",
+   "Détachez de belles feuilles de laitue, garnissez de poulet, de carotte râpée et d'un trait de sauce, puis roulez."
+  ],
+  "tips": "Laissez chacun garnir ses wraps à table : les enfants adorent."
+ },
+ {
+  "id": "l03-poulet-tandoori-salade-chou",
+  "title": "Pilons de poulet façon tandoori, salade de chou croquante",
+  "category": "diner",
+  "emoji": "🍗",
+  "prep": 15,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 1000,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "pilons de poulet"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mélange tandoori"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou blanc émincé"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Entaillez les pilons de 2 ou 3 incisions profondes.",
+   "Mélangez yaourt, épices tandoori, la moitié du jus de citron, l'ail pressé et le sel ; enrobez-en les pilons et laissez mariner 2 h (ou une nuit) au frais.",
+   "Préchauffez le four à 210 °C. Disposez les pilons sur une plaque couverte de papier cuisson.",
+   "Enfournez 35 à 40 min en les retournant à mi-cuisson, jusqu'à ce qu'ils soient bien grillés.",
+   "Mélangez le chou émincé avec la mayonnaise, le vinaigre, le reste du citron, la coriandre et du sel.",
+   "Servez les pilons chauds avec la salade de chou."
+  ],
+  "tips": "Passez 3 min sous le grill en fin de cuisson pour des pilons bien caramélisés."
+ },
+ {
+  "id": "l03-omelette-poulet-champignons",
+  "title": "Omelette roulée au poulet, champignons et emmental",
+  "category": "dejeuner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "poulet_blanc",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "poulet cuit effiloché"
+   },
+   {
+    "ing": "champignon",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "emmental",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "roquette",
+    "g": 60,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites sauter les champignons émincés dans la moitié du beurre 5 min, ajoutez le poulet et réchauffez 2 min. Réservez.",
+   "Battez les œufs avec sel, poivre et ciboulette.",
+   "Faites fondre le reste du beurre dans une grande poêle antiadhésive à feu moyen et versez les œufs.",
+   "Remuez doucement au début, puis laissez prendre 2 à 3 min : le dessus doit rester légèrement baveux.",
+   "Répartissez la garniture et l'emmental sur une moitié, repliez et laissez fondre 1 min.",
+   "Coupez en deux et servez avec la roquette."
+  ],
+  "tips": "Idéale pour utiliser un reste de poulet rôti."
+ },
+ {
+  "id": "l03-poulet-citron-confit-four",
+  "title": "Hauts de cuisse au citron confit et olives au four",
+  "category": "diner",
+  "emoji": "🍋",
+  "prep": 10,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 900,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "hauts de cuisse avec peau"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron confit"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "fenouil",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "bulbe de fenouil"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym et paprika"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez le fenouil en quartiers fins et l'écorce du citron confit en lanières.",
+   "Mélangez les hauts de cuisse avec l'huile, l'ail écrasé, le thym, le paprika, poivre et peu de sel (le citron confit est salé).",
+   "Disposez le fenouil dans un plat, posez le poulet peau vers le haut, ajoutez citron confit et olives.",
+   "Enfournez 35 à 40 min jusqu'à ce que la peau soit dorée et croustillante.",
+   "Parsemez de persil haché et servez avec le jus du plat."
+  ],
+  "tips": "Le fenouil confit dans les jus de cuisson remplace avantageusement les pommes de terre."
+ },
+ {
+  "id": "l03-brochettes-dinde-halloumi",
+  "title": "Brochettes de dinde et halloumi grillé",
+  "category": "dejeuner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "escalopes de dinde"
+   },
+   {
+    "ing": "halloumi",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "menthe séchée ou fraîche"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez la dinde et le halloumi en cubes de 2,5 cm, la courgette en rondelles épaisses et l'oignon en morceaux.",
+   "Mélangez huile, citron, menthe, origan et poivre ; enrobez-en la dinde et laissez mariner 30 min.",
+   "Montez les brochettes en alternant dinde, halloumi et légumes.",
+   "Grillez 10 à 12 min sur une plancha ou un barbecue bien chaud, en tournant souvent.",
+   "Servez aussitôt, le halloumi est meilleur bien chaud."
+  ],
+  "tips": "Le halloumi ne fond pas à la cuisson : il devient doré à l'extérieur et moelleux à l'intérieur."
+ },
+ {
+  "id": "l03-soupe-poulet-repas",
+  "title": "Soupe-repas de poulet aux légumes et œuf",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "hauts de cuisse"
+   },
+   {
+    "ing": "bouillon",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "celeri",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "branche de céleri"
+   },
+   {
+    "ing": "carotte",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "carotte"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs battus"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Dans une grande casserole, faites revenir le céleri et la carotte en petits dés 3 min dans l'huile.",
+   "Ajoutez le poulet entier et le bouillon, portez à ébullition et laissez frémir 20 min.",
+   "Sortez le poulet, effilochez-le en retirant la peau et les os.",
+   "Ajoutez dans le bouillon la courgette en dés et le chou-fleur en petits bouquets, cuisez 8 min.",
+   "Remettez le poulet, puis versez les œufs battus en filet en remuant pour former des rubans.",
+   "Ajoutez le jus de citron et le persil haché, salez, poivrez et servez bien chaud."
+  ],
+  "tips": "Se conserve 3 jours au frais ; ajoutez les œufs au moment de réchauffer si vous préparez à l'avance."
+ },
+ {
+  "id": "l03-poulet-sauce-poivre",
+  "title": "Suprêmes de poulet sauce au poivre, poêlée d'asperges",
+  "category": "diner",
+  "emoji": "🥩",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "suprêmes de poulet"
+   },
+   {
+    "ing": "poivre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "poivre concassé"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "bouillon",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "asperge",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "asperges vertes"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Salez les suprêmes et pressez le poivre concassé sur une face.",
+   "Faites-les cuire dans le beurre à feu moyen 6 à 7 min de chaque côté. Réservez au chaud.",
+   "Déglacez avec le bouillon, ajoutez la crème et laissez réduire 4 min jusqu'à ce que la sauce nappe la cuillère.",
+   "En parallèle, coupez la base dure des asperges et poêlez-les 6 à 8 min dans l'huile avec l'ail écrasé et du sel.",
+   "Nappez les suprêmes de sauce au poivre et servez avec les asperges."
+  ],
+  "tips": "Remplacez les asperges par des haricots verts selon la saison."
+ },
+ {
+  "id": "l03-poulet-effiloche-coleslaw",
+  "title": "Poulet effiloché BBQ keto et coleslaw",
+  "category": "dejeuner",
+  "emoji": "🥪",
+  "prep": 20,
+  "cook": 40,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Batch cooking",
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "paprika fumé, ail et oignon en poudre"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "bouillon",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "chou_rouge",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chou rouge"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 90,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Frottez le poulet avec les épices et le sel, puis dorez-le 5 min dans l'huile dans une cocotte.",
+   "Mélangez concentré, la moitié du vinaigre, érythritol, moutarde et bouillon ; versez sur le poulet.",
+   "Couvrez et laissez mijoter 35 à 40 min à feu doux jusqu'à ce que la viande se défasse.",
+   "Effilochez le poulet à la fourchette dans la cocotte et laissez réduire la sauce 5 min à découvert.",
+   "Pour le coleslaw, émincez finement les choux et mélangez-les avec la mayonnaise, le reste du vinaigre et du sel.",
+   "Servez le poulet effiloché sur le coleslaw ou dans des feuilles de laitue."
+  ],
+  "tips": "Se congèle très bien en portions ; parfait pour les déjeuners de la semaine."
+ },
+ {
+  "id": "l03-quiche-sans-pate-poulet-poireaux",
+  "title": "Quiche sans pâte au poulet et aux poireaux",
+  "category": "dejeuner",
+  "emoji": "🥧",
+  "prep": 15,
+  "cook": 35,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "poulet cuit en dés"
+   },
+   {
+    "ing": "poireau",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poireau (blanc)"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "emmental",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez un moule à tarte de 26 cm.",
+   "Émincez finement le poireau et faites-le fondre 8 min dans le beurre à feu doux.",
+   "Battez les œufs avec la crème, la muscade, le sel et le poivre.",
+   "Répartissez poulet, poireaux et la moitié de l'emmental dans le moule ; versez l'appareil.",
+   "Parsemez du reste de fromage et enfournez 30 à 35 min jusqu'à ce que la quiche soit prise et dorée.",
+   "Laissez tiédir 10 min avant de découper."
+  ],
+  "tips": "Se mange chaude ou froide ; idéale dans une boîte-repas avec une salade verte."
+ },
+ {
+  "id": "l03-dinde-curry-coco-courgettes",
+  "title": "Émincé de dinde au curry rouge et courgettes",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "escalopes de dinde"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit poivron rouge"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "curry rouge en poudre et paprika"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron vert"
+   },
+   {
+    "ing": "basilic",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   }
+  ],
+  "steps": [
+   "Émincez la dinde en lanières fines, les courgettes en demi-rondelles et le poivron en lamelles.",
+   "Saisissez la dinde 3 à 4 min dans l'huile de coco bien chaude, réservez.",
+   "Faites revenir ail, gingembre et épices 1 min, puis les légumes 4 min.",
+   "Versez le lait de coco et la sauce soja, laissez frémir 6 min.",
+   "Remettez la dinde 3 min pour la réchauffer sans la dessécher, ajoutez le citron vert et le basilic."
+  ],
+  "tips": "Ajoutez du piment frais pour les adultes au moment de servir."
+ },
+ {
+  "id": "l03-salade-foies-volaille-tiede",
+  "title": "Salade tiède de foies de volaille, noix et vinaigre de cidre",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 10,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "foie_volaille",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "foies de volaille"
+   },
+   {
+    "ing": "laitue",
+    "g": 120,
+    "qty": 3,
+    "unit": "poignée",
+    "name": "mesclun"
+   },
+   {
+    "ing": "noix",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Parez les foies, coupez-les en deux et séchez-les bien.",
+   "Préparez la vinaigrette : 2 c. à s. d'huile, la moitié du vinaigre, la moutarde, sel et poivre.",
+   "Dressez la salade, les tomates coupées, l'oignon rouge émincé et les noix dans deux assiettes.",
+   "Saisissez les foies dans le reste d'huile très chaude 2 min par face.",
+   "Déglacez avec le reste du vinaigre, salez, poivrez et versez aussitôt les foies et leur jus sur la salade assaisonnée."
+  ],
+  "tips": "Servez immédiatement pour profiter du contraste chaud-froid."
+ },
+ {
+  "id": "l03-poulet-crapaudine-harissa-citron",
+  "title": "Poulet en crapaudine grillé, beurre harissa-citron",
+  "category": "diner",
+  "emoji": "🔥",
+  "prep": 20,
+  "cook": 50,
+  "servings": 5,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_entier",
+    "g": 1400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poulet entier (1,4 kg)"
+   },
+   {
+    "ing": "beurre",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "beurre mou"
+   },
+   {
+    "ing": "harissa",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "harissa"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus et zeste)"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "roquette",
+    "g": 150,
+    "qty": 3,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Posez le poulet sur le ventre et coupez de part et d'autre de la colonne vertébrale avec des ciseaux à volaille ; retirez-la.",
+   "Retournez le poulet et appuyez fermement sur le bréchet pour l'aplatir. Préchauffez le four à 210 °C.",
+   "Mélangez le beurre, la harissa, le zeste, l'ail pressé et le sel ; glissez la moitié sous la peau et étalez le reste dessus.",
+   "Posez le poulet à plat, peau vers le haut, sur une plaque huilée et arrosez de jus de citron.",
+   "Enfournez 45 à 50 min jusqu'à ce que la peau soit dorée et le jus de la cuisse clair.",
+   "Laissez reposer 10 min, découpez et servez sur la roquette arrosée du jus de cuisson."
+  ],
+  "tips": "Aplati, le poulet cuit 30 % plus vite et de façon plus homogène qu'entier."
+ },
+ {
+  "id": "l03-croquettes-poulet-fromage",
+  "title": "Croquettes de poulet au fromage et brocoli",
+  "category": "dejeuner",
+  "emoji": "🧆",
+  "prep": 20,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "poulet cuit haché"
+   },
+   {
+    "ing": "brocoli",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "brocoli cuit haché"
+   },
+   {
+    "ing": "cheddar",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C et couvrez une plaque de papier cuisson.",
+   "Mélangez le poulet, le brocoli bien égoutté, le cheddar, les œufs, la farine d'amande, l'ail, sel et poivre.",
+   "Formez 16 croquettes de la taille d'une noix à l'aide d'une cuillère à soupe, aplatissez légèrement.",
+   "Badigeonnez d'huile et enfournez 18 à 20 min en les retournant à mi-cuisson.",
+   "Mélangez yaourt, ciboulette et sel pour la sauce et servez avec les croquettes chaudes."
+  ],
+  "tips": "Parfait pour recycler un reste de poulet ; les croquettes se réchauffent à la poêle."
+ },
+ {
+  "id": "l03-blanquette-poulet-keto",
+  "title": "Blanquette de poulet keto aux champignons",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "champignon",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "carotte",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "carotte"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 36,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en gros morceaux et mettez-les dans une cocotte avec le bouillon, l'oignon coupé en deux et la carotte en rondelles.",
+   "Portez à frémissement, écumez et laissez cuire 30 min à couvert à feu doux.",
+   "Pendant ce temps, faites sauter les champignons coupés en quatre dans le beurre 6 min.",
+   "Retirez le poulet et les légumes, faites réduire le bouillon de moitié à feu vif (environ 10 min).",
+   "Fouettez la crème avec les jaunes et le citron, versez une louche de bouillon chaud dessus, puis remettez le tout dans la cocotte à feu très doux sans faire bouillir, en remuant jusqu'à épaississement.",
+   "Remettez poulet et champignons, réchauffez 2 min, rectifiez et parsemez de persil."
+  ],
+  "tips": "L'épaississement aux jaunes d'œufs remplace la farine : ne laissez jamais bouillir la sauce."
+ },
+ {
+  "id": "l03-salade-poulet-avocat-feta",
+  "title": "Salade de poulet grillé, avocat, feta et graines",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "feta",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "roquette",
+    "g": 80,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Frottez les blancs de paprika, sel, poivre et un filet d'huile.",
+   "Faites-les griller 5 à 6 min par face dans une poêle-gril chaude, laissez reposer puis tranchez.",
+   "Coupez l'avocat et le concombre en dés et émiettez la feta.",
+   "Mélangez la roquette avec le reste d'huile et le citron, ajoutez les légumes, la feta et le poulet tiède.",
+   "Parsemez de graines de courge torréfiées 2 min à sec."
+  ],
+  "tips": "Préparez les blancs la veille pour une boîte-repas express."
+ },
+ {
+  "id": "l03-poulet-thai-basilic",
+  "title": "Poulet sauté au basilic façon thaï, œuf au plat",
+  "category": "diner",
+  "emoji": "🌶️",
+  "prep": 10,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "hauts de cuisse désossés hachés au couteau"
+   },
+   {
+    "ing": "basilic",
+    "g": 20,
+    "qty": 1,
+    "unit": "botte",
+    "name": "basilic"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "piment",
+    "g": 10,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "piment"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "haricots verts en tronçons"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   }
+  ],
+  "steps": [
+   "Hachez grossièrement le poulet au couteau ; pilez l'ail et le piment.",
+   "Faites cuire les œufs au plat dans 1 c. à s. d'huile bien chaude pour avoir des bords croustillants ; réservez.",
+   "Dans un wok, faites sauter l'ail et le piment 30 s dans le reste d'huile, puis le poulet 5 min à feu vif.",
+   "Ajoutez les haricots verts et 2 c. à s. d'eau, faites sauter 3 min.",
+   "Versez sauce soja et érythritol, mélangez, puis ajoutez le basilic hors du feu.",
+   "Servez chaque portion surmontée d'un œuf au plat."
+  ],
+  "tips": "Servez avec du riz de chou-fleur pour un repas complet."
+ },
+ {
+  "id": "l03-gratin-dinde-aubergines",
+  "title": "Gratin de dinde hachée aux aubergines et mozzarella",
+  "category": "diner",
+  "emoji": "🍆",
+  "prep": 20,
+  "cook": 40,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "dinde hachée"
+   },
+   {
+    "ing": "aubergine",
+    "g": 600,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cannelle (pincée), origan, cumin"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 6,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en tranches de 1 cm, badigeonnez-les de 3 c. à s. d'huile, salez et rôtissez-les 20 min sur une plaque.",
+   "Pendant ce temps, faites revenir l'oignon haché dans le reste d'huile, puis la dinde 6 min en l'émiettant.",
+   "Ajoutez l'ail, les épices et les tomates, laissez mijoter 10 min.",
+   "Dans un plat, alternez couches d'aubergines et de sauce à la dinde, en terminant par des aubergines.",
+   "Couvrez de mozzarella et de parmesan, enfournez 20 min jusqu'à ce que le gratin soit doré.",
+   "Laissez reposer 10 min avant de servir, parsemé de persil."
+  ],
+  "tips": "Rôtir les aubergines au lieu de les frire évite qu'elles absorbent trop d'huile."
+ },
+ {
+  "id": "l03-poulet-cajun-avocat",
+  "title": "Blancs de poulet cajun, salsa d'avocat",
+  "category": "dejeuner",
+  "emoji": "🌶️",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "paprika, ail, oignon, origan, piment"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "tomate",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Ouvrez les blancs en deux dans l'épaisseur pour obtenir des escalopes fines.",
+   "Mélangez les épices cajun avec le sel et 2 c. à s. d'huile, enduisez-en le poulet.",
+   "Faites cuire 4 à 5 min par face dans une poêle chaude avec le reste d'huile.",
+   "Coupez avocats, tomate et oignon rouge en petits dés ; mélangez avec citron vert, coriandre et sel.",
+   "Servez le poulet tranché avec la salsa."
+  ],
+  "tips": "Mélangez un grand bocal d'épices cajun : il se garde 6 mois."
+ },
+ {
+  "id": "l03-cuisses-laquees-moutarde-sesame",
+  "title": "Cuisses de poulet laquées moutarde et sésame, choux de Bruxelles",
+  "category": "diner",
+  "emoji": "🍗",
+  "prep": 10,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 1000,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cuisses de poulet"
+   },
+   {
+    "ing": "moutarde",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "sesame",
+    "g": 15,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "chou_bruxelles",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "choux de Bruxelles"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Mélangez moutarde, sauce soja, érythritol et ail pressé.",
+   "Badigeonnez les cuisses de la moitié de ce mélange et posez-les dans un grand plat.",
+   "Coupez les choux de Bruxelles en deux, mélangez-les avec l'huile, sel et poivre et répartissez-les autour.",
+   "Enfournez 25 min, badigeonnez les cuisses du reste de laque et parsemez de sésame.",
+   "Poursuivez 15 min jusqu'à ce que les cuisses soient laquées et les choux bien dorés."
+  ],
+  "tips": "Les choux de Bruxelles rôtis perdent leur amertume : un bon moyen de les faire aimer aux enfants."
+ },
+ {
+  "id": "l03-poulet-epinards-parmesan-creme",
+  "title": "Poulet toscan crémeux aux épinards et tomates",
+  "category": "diner",
+  "emoji": "🍝",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 650,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "epinard",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan et paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Assaisonnez les blancs d'origan, paprika, sel et poivre.",
+   "Dorez-les dans l'huile 6 min par face à feu moyen, réservez.",
+   "Faites revenir l'ail et les tomates cerises coupées en deux 3 min dans la même poêle.",
+   "Versez la crème et le parmesan, mélangez jusqu'à ce que la sauce soit onctueuse.",
+   "Ajoutez les épinards et laissez-les tomber 1 min, puis remettez le poulet 3 min dans la sauce."
+  ],
+  "tips": "Servez sur des tagliatelles de courgette ou des pâtes de konjac."
+ },
+ {
+  "id": "l03-terrine-foies-volaille",
+  "title": "Mousse de foies de volaille au beurre et salade croquante",
+  "category": "dejeuner",
+  "emoji": "🍞",
+  "prep": 20,
+  "cook": 10,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Économique",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "foie_volaille",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "foies de volaille"
+   },
+   {
+    "ing": "beurre",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "échalote ou petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym et quatre-épices"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 50,
+    "qty": 50,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "concombre",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "radis",
+    "g": 150,
+    "qty": 1,
+    "unit": "botte",
+    "name": "radis"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 3,
+    "unit": "poignée",
+    "name": "salade verte"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Parez les foies et séchez-les. Faites fondre 30 g de beurre et suez l'oignon et l'ail 3 min.",
+   "Ajoutez les foies et le thym, faites-les cuire 3 à 4 min à feu moyen : ils doivent rester rosés à cœur.",
+   "Mixez les foies encore chauds avec le reste du beurre en morceaux, la crème, les épices, sel et poivre jusqu'à obtenir une mousse très lisse.",
+   "Versez dans des ramequins ou une petite terrine, lissez, couvrez et réfrigérez au moins 4 h.",
+   "Servez la mousse avec des bâtonnets de concombre, des radis et de la salade verte pour tartiner."
+  ],
+  "tips": "Couverte d'une fine couche de beurre fondu, la mousse se conserve 5 jours au réfrigérateur."
+ },
+ {
+  "id": "l03-paupiettes-dinde-jben-epinards",
+  "title": "Paupiettes de dinde au fromage frais et épinards",
+  "category": "diner",
+  "emoji": "🦃",
+  "prep": 25,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "grandes escalopes de dinde fines"
+   },
+   {
+    "ing": "jben",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "jben ou fromage frais"
+   },
+   {
+    "ing": "epinard",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 80,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "bouillon",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites tomber les épinards 2 min à la poêle avec l'ail, pressez-les et hachez-les ; mélangez avec le jben, sel et poivre.",
+   "Aplatissez les escalopes entre deux films, posez une tranche de dinde fumée puis une couche de farce.",
+   "Roulez-les serré et ficelez-les ou fixez-les avec des cure-dents.",
+   "Dorez les paupiettes dans le beurre 5 min sur toutes les faces.",
+   "Versez le bouillon, couvrez et laissez mijoter 20 min à feu doux en les retournant à mi-cuisson.",
+   "Retirez les paupiettes, ajoutez la crème au jus et réduisez 3 min. Nappez et servez."
+  ],
+  "tips": "Préparez les paupiettes la veille, elles se tiennent mieux après une nuit au frais."
+ },
+ {
+  "id": "l03-brochettes-sumac-fattouche",
+  "title": "Brochettes de hauts de cuisse au sumac, salade fattouche keto",
+  "category": "dejeuner",
+  "emoji": "🍢",
+  "prep": 25,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "sumac et zaatar"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "tomate",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "radis",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "radis"
+   },
+   {
+    "ing": "menthe",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "laitue",
+    "g": 100,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "laitue romaine"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez le poulet en cubes et faites-le mariner 1 h avec 2 c. à s. d'huile, la moitié du citron, l'ail, la moitié des épices et du sel.",
+   "Enfilez les morceaux sur des piques et grillez-les 12 à 15 min sur un gril chaud en tournant.",
+   "Coupez concombre, tomate et radis en dés, ciselez la menthe et le persil, émincez la laitue.",
+   "Assaisonnez la salade avec le reste d'huile, de citron, de sumac et du sel.",
+   "Servez les brochettes sur la salade, saupoudrées d'une pincée de sumac."
+  ],
+  "tips": "Pour du croquant façon fattouche, ajoutez des graines de courge grillées à sec à la place des croûtons de pain."
+ },
+ {
+  "id": "l03-poulet-chou-fleur-curry-four",
+  "title": "Poulet et chou-fleur rôtis au curcuma, sauce tahini",
+  "category": "dejeuner",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit chou-fleur"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "curcuma, cumin, coriandre moulue"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "tahini",
+    "g": 40,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "tahini"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "eau",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 5,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C. Coupez le poulet en gros cubes et le chou-fleur en bouquets.",
+   "Mélangez-les avec l'huile, les épices et le sel, étalez sur une grande plaque.",
+   "Enfournez 30 à 35 min en remuant à mi-cuisson, jusqu'à ce que le chou-fleur soit bien doré.",
+   "Fouettez le tahini avec le jus de citron, l'ail pressé, l'eau et une pincée de sel jusqu'à obtenir une sauce fluide.",
+   "Servez arrosé de sauce tahini et parsemé de persil."
+  ],
+  "tips": "Tout cuit sur une seule plaque : idéal pour la préparation des repas de la semaine."
+ }
+]

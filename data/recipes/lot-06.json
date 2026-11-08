@@ -1,0 +1,4979 @@
+[
+ {
+  "id": "l06-tajine-poulet-citron-confit-olives",
+  "title": "Tajine de poulet au citron confit et olives violettes",
+  "category": "diner",
+  "emoji": "🍗",
+  "prep": 20,
+  "cook": 60,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_entier",
+    "g": 1300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poulet fermier découpé en 8"
+   },
+   {
+    "ing": "oignon",
+    "g": 110,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon moyen râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail écrasé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre moulu, curcuma et une pointe de safran"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron confit (écorce en lanières)"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "olives violettes ou vertes dénoyautées"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil ciselé"
+   },
+   {
+    "ing": "eau",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez l'oignon râpé, l'ail, les épices, l'huile, le sel, le poivre et la moitié des herbes ; enrobez-en les morceaux de poulet et laissez mariner 30 min (ou une nuit au frais).",
+   "Disposez le poulet et sa marinade dans le tajine (ou une cocotte à fond épais), peau vers le haut, et faites revenir 5 min à feu moyen en retournant les morceaux.",
+   "Versez 250 ml d'eau, couvrez et laissez mijoter 40 min à feu doux (diffuseur sous le tajine en terre), en arrosant le poulet de sauce toutes les 15 min.",
+   "Rincez les olives à l'eau chaude 2 min pour enlever l'amertume ; retirez la pulpe du citron confit et coupez l'écorce en lanières.",
+   "Ajoutez olives, écorce de citron et le reste des herbes, puis prolongez 15 min à découvert pour que la sauce réduise et devienne onctueuse.",
+   "Goûtez (le citron confit sale déjà) et servez bien chaud, avec une purée de chou-fleur à la place du pain."
+  ],
+  "tips": "La veille, mettez le poulet à mariner : la chair s'imprègne mieux du safran et du gingembre et le tajine n'en est que meilleur."
+ },
+ {
+  "id": "l06-tajine-agneau-artichauts",
+  "title": "Tajine d'agneau aux cœurs d'artichaut et fenouil",
+  "category": "dejeuner",
+  "emoji": "🍖",
+  "prep": 20,
+  "cook": 90,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "g",
+    "name": "épaule d'agneau en gros morceaux"
+   },
+   {
+    "ing": "oignon",
+    "g": 110,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre, curcuma, poivre blanc et safran"
+   },
+   {
+    "ing": "artichaut",
+    "g": 400,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "cœurs d'artichaut (frais ou surgelés)"
+   },
+   {
+    "ing": "fenouil",
+    "g": 250,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "bulbe de fenouil en quartiers"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 30,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "écorce de citron confit"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "eau",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans une cocotte, faites revenir l'agneau dans l'huile 8 min à feu vif avec l'oignon, l'ail, les épices et le sel jusqu'à ce que la viande soit bien dorée.",
+   "Mouillez avec 600 ml d'eau chaude, ajoutez la coriandre, couvrez et laissez mijoter 1 h à feu doux.",
+   "Pendant ce temps, citronnez les cœurs d'artichaut pour éviter qu'ils noircissent et coupez le fenouil en quartiers.",
+   "Disposez les artichauts et le fenouil autour de la viande, ajoutez l'écorce de citron confit en lanières.",
+   "Couvrez et poursuivez 25 à 30 min, jusqu'à ce que les légumes soient tendres sous la pointe d'un couteau.",
+   "Laissez réduire la sauce 5 min à découvert si elle est trop liquide, puis servez dans le plat de cuisson."
+  ],
+  "tips": "Hors saison, les cœurs d'artichaut surgelés font très bien l'affaire : ajoutez-les directement, sans décongélation."
+ },
+ {
+  "id": "l06-tajine-kefta-oeufs",
+  "title": "Tajine de kefta aux œufs et sauce tomate épicée",
+  "category": "diner",
+  "emoji": "🍳",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil haché"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre hachée"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin, paprika et une pointe de piment"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail écrasé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Pétrissez la kefta avec l'oignon râpé, la moitié des herbes, la moitié des épices, le sel et le poivre, puis formez une vingtaine de petites boulettes de la taille d'une noix.",
+   "Dans le tajine ou une sauteuse, faites chauffer l'huile avec l'ail, ajoutez les tomates concassées, le reste des épices et 100 ml d'eau ; laissez frémir 10 min.",
+   "Déposez les boulettes dans la sauce, couvrez et laissez cuire 12 min à feu moyen en les retournant à mi-cuisson.",
+   "Creusez 4 petits puits dans la sauce et cassez-y les œufs ; couvrez et cuisez 5 à 6 min, jusqu'à ce que les blancs soient pris et les jaunes encore coulants.",
+   "Parsemez du reste d'herbes et servez aussitôt, directement dans le tajine."
+  ],
+  "tips": "Préparez les boulettes à l'avance et congelez-les crues sur un plateau : vous aurez un dîner prêt en 20 minutes."
+ },
+ {
+  "id": "l06-tajine-poisson-chermoula",
+  "title": "Tajine de poisson à la chermoula et poivrons",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 25,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "loup",
+    "g": 900,
+    "qty": 900,
+    "unit": "g",
+    "name": "loup ou dorade en tranches épaisses"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil plat"
+   },
+   {
+    "ing": "ail",
+    "g": 20,
+    "qty": 4,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 12,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin, paprika doux et piment"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert en lanières"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit poivron rouge en lanières"
+   },
+   {
+    "ing": "tomate",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "grosse tomate en rondelles"
+   },
+   {
+    "ing": "celeri",
+    "g": 80,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mixez coriandre, persil, ail, épices, jus de citron, huile et sel pour obtenir la chermoula ; enrobez-en le poisson avec la moitié et laissez mariner 30 min au frais.",
+   "Tapissez le fond du tajine de branches de céleri coupées en bâtonnets : elles serviront de grille et empêcheront le poisson d'attacher.",
+   "Disposez le poisson dessus, puis les rondelles de tomate et les lanières de poivrons ; nappez du reste de chermoula délayée dans 100 ml d'eau.",
+   "Couvrez et faites cuire 30 min à feu doux sur un diffuseur (ou 35 min au four à 190 °C).",
+   "Ajoutez les olives 5 min avant la fin et vérifiez la cuisson : la chair doit se détacher facilement de l'arête.",
+   "Servez dans le tajine, arrosé d'un filet d'huile d'olive crue."
+  ],
+  "tips": "Doublez la chermoula et gardez-en un pot au frais sous une couche d'huile : elle se conserve 5 jours et parfume grillades et légumes."
+ },
+ {
+  "id": "l06-tajine-boeuf-chou-fleur",
+  "title": "Tajine de bœuf au chou-fleur et olives",
+  "category": "dejeuner",
+  "emoji": "🥘",
+  "prep": 20,
+  "cook": 100,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Batch cooking",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_ragout",
+    "g": 1100,
+    "qty": 1100,
+    "unit": "g",
+    "name": "paleron de bœuf en cubes"
+   },
+   {
+    "ing": "oignon",
+    "g": 110,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "ras el hanout, gingembre et curcuma"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur en bouquets"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "eau",
+    "g": 700,
+    "qty": 700,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites revenir les cubes de bœuf dans l'huile et le smen 10 min à feu vif, en plusieurs fois, pour bien les colorer.",
+   "Ajoutez l'oignon, l'ail, les épices, le sel et le poivre ; remuez 3 min jusqu'à ce que les arômes se dégagent.",
+   "Mouillez avec 700 ml d'eau chaude, ajoutez la coriandre en bouquet, couvrez et laissez mijoter 1 h 15 à feu doux.",
+   "Ajoutez les bouquets de chou-fleur et les olives rincées ; couvrez et poursuivez 20 min, sans trop remuer pour garder les bouquets entiers.",
+   "Retirez le bouquet de coriandre et laissez réduire la sauce 5 min à découvert si besoin avant de servir."
+  ],
+  "tips": "Ce tajine se réchauffe très bien : faites-en une double quantité et congelez des portions individuelles (jusqu'à 3 mois)."
+ },
+ {
+  "id": "l06-chermoula-verte",
+  "title": "Chermoula verte maison",
+  "category": "accompagnement",
+  "emoji": "🌿",
+  "prep": 10,
+  "cook": 0,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "coriandre",
+    "g": 60,
+    "qty": 1,
+    "unit": "botte",
+    "name": "coriandre fraîche"
+   },
+   {
+    "ing": "persil",
+    "g": 60,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil plat"
+   },
+   {
+    "ing": "ail",
+    "g": 20,
+    "qty": 4,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin et paprika doux"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment de Cayenne"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 120,
+    "qty": 8,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Lavez et séchez soigneusement la coriandre et le persil, puis retirez les grosses tiges.",
+   "Hachez finement les herbes au couteau (ou mixez par à-coups pour garder de la texture) avec l'ail épluché.",
+   "Ajoutez le cumin, le paprika, le piment, le sel, le jus de citron et le vinaigre ; mélangez.",
+   "Versez l'huile d'olive en filet en remuant jusqu'à obtenir une pâte souple, puis laissez reposer 15 min avant usage."
+  ],
+  "tips": "Elle sert de marinade pour poisson, crevettes ou poulet, ou de sauce pour les œufs et les légumes grillés. Conservation : 5 jours au frais, couverte d'huile."
+ },
+ {
+  "id": "l06-mrouzia-sans-miel",
+  "title": "Mrouzia d'agneau sans miel aux amandes",
+  "category": "diner",
+  "emoji": "🍖",
+  "prep": 15,
+  "cook": 120,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "g",
+    "name": "épaule d'agneau en morceaux"
+   },
+   {
+    "ing": "oignon",
+    "g": 110,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ras el hanout, cannelle et gingembre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "amandes émondées"
+   },
+   {
+    "ing": "eau",
+    "g": 700,
+    "qty": 700,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Frottez la viande avec le ras el hanout, le gingembre, la moitié de la cannelle, le sel, l'oignon râpé, le smen et l'huile.",
+   "Mettez le tout dans une cocotte, faites revenir 5 min, puis versez 700 ml d'eau ; couvrez et laissez mijoter 1 h 30 à feu doux.",
+   "Pendant ce temps, faites dorer les amandes à sec dans une poêle 5 min en remuant, ou faites-les frire dans un fond d'huile.",
+   "Quand la viande se détache de l'os, ajoutez l'érythritol et le reste de cannelle ; laissez réduire à découvert 20 à 25 min jusqu'à obtenir une sauce sirupeuse qui enrobe la viande.",
+   "Servez garni des amandes dorées."
+  ],
+  "tips": "L'érythritol ne caramélise pas comme le miel : c'est la réduction lente de la sauce et le smen qui donnent la texture laquée. Une pointe de stevia renforce le côté sucré si besoin."
+ },
+ {
+  "id": "l06-poulet-mqualli",
+  "title": "Poulet mqualli au citron confit",
+  "category": "dejeuner",
+  "emoji": "🍋",
+  "prep": 15,
+  "cook": 60,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 1100,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cuisses de poulet entières"
+   },
+   {
+    "ing": "oignon",
+    "g": 110,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail écrasé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre, curcuma et safran"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit citron confit"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "eau",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mettez le poulet dans une cocotte avec l'oignon râpé, l'ail, l'huile, les épices et le sel ; mélangez bien.",
+   "Faites revenir 5 min à feu moyen, puis versez 300 ml d'eau et ajoutez la coriandre en bouquet.",
+   "Couvrez et laissez cuire 45 min à feu doux : l'oignon fond et forme une sauce jaune et épaisse, typique du mqualli.",
+   "Ajoutez le citron confit en quartiers et les olives, puis laissez réduire 10 min à découvert.",
+   "Servez les cuisses nappées de sauce."
+  ],
+  "tips": "Le mqualli se distingue par sa sauce safranée liée uniquement par l'oignon fondu : ne mettez pas de tomate."
+ },
+ {
+  "id": "l06-bastilla-poulet-feuilles-oeuf",
+  "title": "Bastilla keto au poulet en feuilles d'œuf",
+  "category": "diner",
+  "emoji": "🥧",
+  "prep": 40,
+  "cook": 60,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 900,
+    "qty": 900,
+    "unit": "g",
+    "name": "cuisses de poulet"
+   },
+   {
+    "ing": "oignon",
+    "g": 110,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre, cannelle, curcuma et safran"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 600,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "œufs (4 pour la farce, 6 pour les feuilles)"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "amandes grillées concassées"
+   },
+   {
+    "ing": "erythritol",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire le poulet 45 min à couvert avec l'oignon, les épices (sauf la cannelle), les herbes, 20 g de beurre, le sel et 250 ml d'eau ; effilochez la chair et réservez la sauce.",
+   "Faites réduire la sauce de moitié, ajoutez 4 œufs battus et remuez à feu doux jusqu'à obtenir des œufs brouillés fondants ; égouttez.",
+   "Préparez les feuilles : battez 6 œufs avec la crème et une pincée de sel, puis faites 6 crêpes très fines dans une poêle beurrée de 26 cm (1 min de chaque côté).",
+   "Mélangez les amandes concassées avec l'érythritol et la moitié de la cannelle.",
+   "Dans un moule beurré, disposez 4 feuilles d'œuf en rosace qui débordent ; étalez les œufs brouillés, le poulet, puis les amandes.",
+   "Rabattez les bords, couvrez avec les 2 dernières feuilles et badigeonnez de beurre fondu.",
+   "Enfournez 15 min à 200 °C, puis saupoudrez d'une pincée de cannelle avant de servir."
+  ],
+  "tips": "Pour une version plus croustillante, remplacez le couvercle d'œuf par une pâte fathead (mozzarella + farine d'amande) étalée finement."
+ },
+ {
+  "id": "l06-harira-keto",
+  "title": "Harira keto à l'agneau et au chou-fleur",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 70,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "agneau en petits dés"
+   },
+   {
+    "ing": "celeri",
+    "g": 120,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "branches de céleri hachées"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon haché"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou-fleur en petits morceaux"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "coriandre hachée"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil haché"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre, curcuma, poivre et cannelle"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs battus"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "eau",
+    "g": 1800,
+    "qty": 1.8,
+    "unit": "",
+    "name": "litre d'eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans une grande marmite, faites revenir l'agneau avec le smen, l'oignon, le céleri, la moitié des herbes et les épices pendant 8 min.",
+   "Ajoutez les tomates concassées, le concentré et 1,8 l d'eau ; portez à ébullition puis laissez mijoter 45 min à couvert.",
+   "Ajoutez le chou-fleur et poursuivez 15 min, puis écrasez grossièrement une partie du chou-fleur au presse-purée pour épaissir la soupe.",
+   "Incorporez le reste des herbes et laissez frémir 5 min.",
+   "Hors du feu, versez les œufs battus en filet en remuant pour former des filaments, puis ajoutez le jus de citron.",
+   "Rectifiez l'assaisonnement et servez bien chaud avec des quartiers de citron."
+  ],
+  "tips": "Sans farine ni lentilles, c'est l'œuf et le chou-fleur écrasé qui donnent le velouté. Une cuillère de psyllium délayée dans un peu d'eau rend la texture encore plus proche de l'originale."
+ },
+ {
+  "id": "l06-chorba-poulet-vermicelles-konjac",
+  "title": "Chorba de poulet aux vermicelles de konjac",
+  "category": "diner",
+  "emoji": "🍜",
+  "prep": 15,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "cuisses de poulet"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette en dés"
+   },
+   {
+    "ing": "celeri",
+    "g": 80,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon haché"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate râpée"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ras el hanout, curcuma et poivre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "konjac",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "vermicelles de konjac"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "menthe séchée"
+   },
+   {
+    "ing": "eau",
+    "g": 1300,
+    "qty": 1.3,
+    "unit": "",
+    "name": "litre d'eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir le poulet dans l'huile avec l'oignon, le céleri et les épices pendant 6 min.",
+   "Ajoutez la tomate râpée et 1,3 l d'eau, couvrez et laissez cuire 30 min.",
+   "Retirez le poulet, effilochez-le en ôtant la peau et les os, puis remettez la chair dans la soupe avec la courgette.",
+   "Rincez abondamment les vermicelles de konjac sous l'eau chaude, coupez-les aux ciseaux et ajoutez-les ; laissez cuire 8 min.",
+   "Terminez avec la coriandre et la menthe séchée émiettée, puis servez avec un trait de citron."
+  ],
+  "tips": "Bien rincer et égoutter le konjac supprime son odeur ; une minute à sec dans une poêle avant de l'ajouter améliore encore sa texture."
+ },
+ {
+  "id": "l06-zaalouk-aubergines",
+  "title": "Zaalouk d'aubergines fumées",
+  "category": "accompagnement",
+  "emoji": "🍆",
+  "prep": 10,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 700,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "grosses aubergines"
+   },
+   {
+    "ing": "tomate",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates mûres"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail écrasé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 6,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Piquez les aubergines et faites-les griller directement sur la flamme du gaz ou 30 min sous le gril du four à 240 °C, en les retournant, jusqu'à ce que la peau soit noircie.",
+   "Laissez tiédir 5 min, pelez-les et hachez la chair au couteau.",
+   "Pelez et concassez les tomates ; faites-les revenir 5 min dans l'huile avec l'ail.",
+   "Ajoutez la chair d'aubergine, le cumin, le paprika, le sel et les herbes ; écrasez à la fourchette et laissez compoter 10 min à feu doux en remuant.",
+   "Hors du feu, ajoutez le jus de citron et un filet d'huile d'olive ; servez tiède ou froid."
+  ],
+  "tips": "Le zaalouk est encore meilleur le lendemain ; il se garde 4 jours au frais dans une boîte hermétique."
+ },
+ {
+  "id": "l06-taktouka-poivrons",
+  "title": "Taktouka de poivrons grillés",
+  "category": "accompagnement",
+  "emoji": "🫑",
+  "prep": 10,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poivron_vert",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "poivrons verts"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "tomate",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 50,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Grillez les poivrons sous le gril du four à 240 °C pendant 20 min en les retournant, jusqu'à ce que la peau cloque.",
+   "Enfermez-les 10 min dans un sac ou un saladier couvert, puis pelez-les, épépinez-les et coupez-les en petits dés.",
+   "Pelez, épépinez et concassez les tomates ; faites-les cuire 8 min dans l'huile avec l'ail jusqu'à évaporation de l'eau.",
+   "Ajoutez les poivrons, le cumin, le paprika, le sel et les herbes ; laissez mijoter 5 min.",
+   "Servez tiède ou froid en entrée, avec un filet d'huile d'olive."
+  ],
+  "tips": "Ajoutez une boîte de thon au naturel émiettée pour en faire un déjeuner complet."
+ },
+ {
+  "id": "l06-chlada-tomates-poivrons",
+  "title": "Chlada marocaine tomate-poivron-concombre",
+  "category": "accompagnement",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "tomate",
+    "g": 250,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates fermes"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "concombre",
+    "g": 250,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez les tomates, le poivron épépiné et le concombre en tout petits dés réguliers (5 mm).",
+   "Hachez très finement l'oignon rouge et les herbes.",
+   "Dans un bol, fouettez l'huile, le jus de citron, le cumin et le sel.",
+   "Mélangez les légumes avec la vinaigrette juste avant de servir, pour qu'ils restent croquants."
+  ],
+  "tips": "Ajoutez quelques olives noires et une cuillère de miettes de feta pour un petit déjeuner salé façon marocaine."
+ },
+ {
+  "id": "l06-brochettes-kefta-grill",
+  "title": "Brochettes de kefta au cumin et oignon frais",
+  "category": "diner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon râpé et pressé"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil haché"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre hachée"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin, paprika et piment doux"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Pressez l'oignon râpé dans vos mains pour en extraire le jus, puis mélangez-le à la kefta avec les herbes, les épices, le sel et le poivre.",
+   "Pétrissez 3 min pour obtenir une farce bien liée, puis laissez reposer 20 min au frais.",
+   "Avec les mains mouillées, formez des boudins allongés autour de brochettes plates (environ 80 g chacun).",
+   "Badigeonnez d'huile et faites griller 10 à 12 min au barbecue ou sous le gril du four à 240 °C, en retournant toutes les 3 min.",
+   "Servez avec une chlada et une sauce yaourt-cumin."
+  ],
+  "tips": "Des brochettes plates empêchent la kefta de tourner sur elle-même pendant la cuisson."
+ },
+ {
+  "id": "l06-brochettes-poulet-chermoula",
+  "title": "Brochettes de poulet marinées à la chermoula",
+  "category": "dejeuner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin, paprika et curcuma"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert en carrés"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge en pétales"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mixez coriandre, persil, ail, épices, citron, huile et sel pour obtenir une chermoula.",
+   "Coupez le poulet en cubes de 3 cm et enrobez-les de chermoula ; laissez mariner au moins 1 h au frais.",
+   "Enfilez sur des brochettes en alternant poulet, poivron et pétales d'oignon.",
+   "Faites griller 12 à 15 min sur braises ou dans une poêle-gril bien chaude en tournant régulièrement, jusqu'à ce que le poulet soit doré et bien cuit à cœur.",
+   "Servez avec des quartiers de citron et un zaalouk."
+  ],
+  "tips": "Les hauts de cuisse restent bien plus moelleux que le blanc au grill ; si vous utilisez du blanc, réduisez la cuisson à 10 min."
+ },
+ {
+  "id": "l06-boulfaf-foie-agneau",
+  "title": "Boulfaf keto : brochettes de foie de volaille et agneau",
+  "category": "diner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "foie_volaille",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "foies de volaille"
+   },
+   {
+    "ing": "agneau_cotelette",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "agneau gras en cubes (selle ou côtelettes désossées)"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "piment",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Nettoyez les foies en retirant les filaments, coupez-les en gros morceaux ; coupez l'agneau en cubes de même taille.",
+   "Mélangez le cumin, le paprika, le piment et le sel dans une assiette.",
+   "Enfilez sur des brochettes en alternant foie et agneau, puis badigeonnez légèrement d'huile.",
+   "Faites griller 10 à 12 min sur braises vives en tournant souvent : le foie doit rester rosé à cœur.",
+   "Roulez les brochettes chaudes dans le mélange d'épices et servez parsemées de persil."
+  ],
+  "tips": "Traditionnellement préparé à l'Aïd avec le foie d'agneau enveloppé de crépine : utilisez-le si vous en avez, la recette fonctionne pareil."
+ },
+ {
+  "id": "l06-mechoui-epaule-four",
+  "title": "Méchoui d'épaule d'agneau au four",
+  "category": "dejeuner",
+  "emoji": "🍖",
+  "prep": 15,
+  "cook": 240,
+  "servings": 8,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 2000,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "épaule d'agneau entière avec os (2 kg)"
+   },
+   {
+    "ing": "smen",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "smen ou beurre ramolli"
+   },
+   {
+    "ing": "ail",
+    "g": 25,
+    "qty": 5,
+    "unit": "gousse(s)",
+    "name": "ail écrasé"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "cumin, paprika et un peu de safran"
+   },
+   {
+    "ing": "eau",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gros sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Sortez l'épaule 1 h à l'avance. Mélangez le smen avec l'ail, la moitié du cumin, le paprika, le safran et le sel.",
+   "Entaillez la viande en losanges profonds et massez-la généreusement avec ce beurre épicé.",
+   "Placez-la dans un plat avec 300 ml d'eau, couvrez de papier aluminium et enfournez 3 h à 160 °C, en arrosant toutes les 45 min.",
+   "Retirez l'aluminium, montez le four à 220 °C et laissez dorer 30 à 40 min en arrosant, jusqu'à ce que la peau soit croustillante.",
+   "La viande doit se détacher à la main. Servez avec le reste de cumin et du sel mélangés dans une coupelle."
+  ],
+  "tips": "Le méchoui se mange avec les doigts, trempé dans le mélange cumin-sel : accompagnez-le d'une grande salade marocaine."
+ },
+ {
+  "id": "l06-tanjia-marrakchia",
+  "title": "Tanjia marrakchia au jarret de bœuf",
+  "category": "dejeuner",
+  "emoji": "🏺",
+  "prep": 15,
+  "cook": 300,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Batch cooking",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_ragout",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "g",
+    "name": "jarret ou paleron de bœuf en gros morceaux"
+   },
+   {
+    "ing": "smen",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tête d'ail (gousses entières)"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron confit en quartiers"
+   },
+   {
+    "ing": "epices",
+    "g": 12,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin, ras el hanout et safran"
+   },
+   {
+    "ing": "eau",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mettez la viande dans une tanjia (jarre en terre) ou une cocotte en fonte.",
+   "Ajoutez le smen, l'huile, les gousses d'ail non épluchées, le citron confit, les épices, le sel et l'eau ; mélangez.",
+   "Fermez avec du papier sulfurisé ficelé (pour la tanjia) ou le couvercle de la cocotte.",
+   "Enfournez 5 h à 140 °C sans ouvrir : la viande confit dans son jus.",
+   "Secouez la jarre, versez la viande et sa sauce dans un plat et servez avec une salade de tomates."
+  ],
+  "tips": "Traditionnellement, la tanjia cuit toute la nuit dans les cendres du hammam : votre four à basse température donne un résultat très proche."
+ },
+ {
+  "id": "l06-rfissa-keto-poulet",
+  "title": "Rfissa keto au poulet, galettes d'amande et fenugrec",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 30,
+  "cook": 70,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_entier",
+    "g": 1300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poulet fermier découpé"
+   },
+   {
+    "ing": "oignon",
+    "g": 110,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "smen",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "epices",
+    "g": 21,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "ras el hanout, fenugrec moulu, gingembre et safran"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 180,
+    "qty": 180,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "psyllium",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "psyllium"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "eau",
+    "g": 1000,
+    "qty": 1,
+    "unit": "",
+    "name": "litre d'eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir le poulet dans le smen avec l'oignon, les épices et le sel pendant 8 min, puis mouillez avec 1 l d'eau ; ajoutez la coriandre et laissez mijoter 50 min.",
+   "Pendant ce temps, faites fondre la mozzarella 1 min au micro-ondes, ajoutez la farine d'amande, le psyllium et l'œuf ; pétrissez jusqu'à obtenir une pâte homogène.",
+   "Étalez la pâte finement entre deux feuilles de papier sulfurisé et faites-la cuire 3 à 4 min par face dans une poêle chaude légèrement huilée.",
+   "Découpez ces galettes en lanières de 1 cm.",
+   "Retirez le poulet ; faites réduire le bouillon 10 min pour qu'il épaississe.",
+   "Disposez les lanières dans un grand plat, arrosez de bouillon, posez le poulet au centre et nappez du reste de sauce. Servez aussitôt."
+  ],
+  "tips": "Le fenugrec est indispensable à la rfissa : il lui donne son parfum caractéristique. Les lanières peuvent être préparées la veille."
+ },
+ {
+  "id": "l06-briouates-kefta-fathead",
+  "title": "Briouates keto à la kefta en pâte fathead",
+  "category": "collation",
+  "emoji": "🥟",
+  "prep": 30,
+  "cook": 20,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oignon",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon haché"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir la kefta avec l'oignon, le persil, les épices et le sel 8 min ; hors du feu, liez avec 1 œuf battu et laissez refroidir.",
+   "Faites fondre la mozzarella et le fromage à la crème 1 min 30 au micro-ondes, mélangez, puis ajoutez la farine d'amande et l'autre œuf ; pétrissez.",
+   "Étalez la pâte sur 2 mm entre deux feuilles de papier sulfurisé et découpez des bandes de 8 cm de large.",
+   "Déposez une cuillère de farce au bout de chaque bande et pliez en triangle comme une briouate traditionnelle.",
+   "Disposez sur une plaque et enfournez 15 à 18 min à 200 °C, jusqu'à ce qu'elles soient bien dorées."
+  ],
+  "tips": "Si la pâte colle, passez-la 10 min au réfrigérateur avant de la découper."
+ },
+ {
+  "id": "l06-briouates-jben-herbes",
+  "title": "Briouates au jben et aux herbes",
+  "category": "collation",
+  "emoji": "🧀",
+  "prep": 25,
+  "cook": 18,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "jben",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "jben (fromage frais)"
+   },
+   {
+    "ing": "feta",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "feta émiettée"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe ciselée"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil ciselé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 180,
+    "qty": 180,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 110,
+    "qty": 110,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "poivre",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Écrasez le jben et la feta à la fourchette avec les herbes, le poivre et 1 jaune d'œuf (gardez le blanc).",
+   "Préparez la pâte : faites fondre la mozzarella au micro-ondes, ajoutez la farine d'amande et l'œuf restant, pétrissez.",
+   "Étalez finement entre deux papiers sulfurisés, découpez des bandes de 8 cm et garnissez d'une cuillère de farce.",
+   "Pliez en triangles, badigeonnez de blanc d'œuf et enfournez 15 à 18 min à 200 °C."
+  ],
+  "tips": "Parfait pour la table du ftour : préparez-les à l'avance et réchauffez 5 min au four."
+ },
+ {
+  "id": "l06-msemen-keto",
+  "title": "Msemen keto feuilleté à la farine d'amande",
+  "category": "petit-dej",
+  "emoji": "🫓",
+  "prep": 20,
+  "cook": 15,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "mozzarella_rapee",
+    "g": 170,
+    "qty": 170,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "psyllium",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "psyllium"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites fondre la mozzarella et le fromage à la crème 1 min 30 au micro-ondes ; ajoutez la farine d'amande, le psyllium, l'œuf et le sel, pétrissez jusqu'à obtenir une boule lisse.",
+   "Divisez en 6 boules. Étalez chacune très finement entre deux feuilles de papier sulfurisé en un carré de 15 cm.",
+   "Badigeonnez de beurre fondu, pliez en trois dans un sens puis dans l'autre pour former un petit carré feuilleté, et aplatissez légèrement.",
+   "Faites cuire 3 min de chaque côté dans une poêle beurrée à feu moyen, jusqu'à ce qu'ils soient dorés et croustillants.",
+   "Servez chaud avec un filet d'huile d'argan ou un peu de beurre et le thé à la menthe."
+  ],
+  "tips": "Pour une version salée façon msemen mehcha, glissez avant pliage une cuillère de kefta cuite ou d'oignon-persil revenus."
+ },
+ {
+  "id": "l06-baghrir-keto",
+  "title": "Baghrir keto aux mille trous",
+  "category": "petit-dej",
+  "emoji": "🥞",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "farine_coco",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine de coco"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_argan",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'argan (pour servir)"
+   }
+  ],
+  "steps": [
+   "Mixez tous les ingrédients sauf le beurre et l'huile d'argan jusqu'à obtenir une pâte lisse et fluide comme une pâte à crêpes épaisse.",
+   "Laissez reposer 10 min : la levure commence à faire des bulles.",
+   "Faites chauffer une poêle antiadhésive à feu moyen, sans matière grasse ; versez une petite louche de pâte et ne la retournez pas.",
+   "Laissez cuire 2 à 3 min jusqu'à ce que la surface soit couverte de petits trous et sèche au toucher.",
+   "Servez chaud, nappé de beurre fondu mélangé à l'huile d'argan et à une pincée d'érythritol."
+  ],
+  "tips": "La poêle ne doit pas être trop chaude : à feu moyen, les bulles ont le temps de remonter et de percer la surface."
+ },
+ {
+  "id": "l06-ghriba-amandes-keto",
+  "title": "Ghriba keto aux amandes",
+  "category": "dessert",
+  "emoji": "🍪",
+  "prep": 15,
+  "cook": 15,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol en poudre (+ pour l'enrobage)"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "zeste de citron"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "huile neutre (pour les mains)"
+   }
+  ],
+  "steps": [
+   "Mélangez la poudre d'amande, l'érythritol, la levure, la vanille et le zeste ; ajoutez les œufs et mélangez jusqu'à obtenir une pâte collante et homogène.",
+   "Laissez reposer 15 min au frais pour qu'elle se raffermisse.",
+   "Les mains huilées, formez 24 boules de la taille d'une noix, roulez-les dans l'érythritol en poudre et aplatissez-les légèrement sur une plaque.",
+   "Enfournez 13 à 15 min à 170 °C : les ghribas doivent craqueler en surface et rester moelleuses à l'intérieur.",
+   "Laissez refroidir complètement sur la plaque avant de les décoller."
+  ],
+  "tips": "Se conservent une semaine dans une boîte en fer. Variante : remplacez 50 g de poudre d'amande par de la noix de coco râpée."
+ },
+ {
+  "id": "l06-the-menthe-sans-sucre",
+  "title": "Thé à la menthe sans sucre et amandes grillées",
+  "category": "boisson",
+  "emoji": "🍵",
+  "prep": 5,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "the_vert",
+    "g": 800,
+    "qty": 800,
+    "unit": "ml",
+    "name": "eau pour le thé vert gunpowder (2 c. à c. de thé)"
+   },
+   {
+    "ing": "menthe",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "menthe fraîche (nanaa)"
+   },
+   {
+    "ing": "stevia",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "stévia ou érythritol (selon le goût)"
+   },
+   {
+    "ing": "eau",
+    "g": 50,
+    "qty": 50,
+    "unit": "ml",
+    "name": "eau bouillante pour rincer le thé"
+   },
+   {
+    "ing": "amande",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "amandes grillées (à croquer avec le thé)"
+   }
+  ],
+  "steps": [
+   "Mettez 2 c. à c. de thé vert gunpowder dans la théière, versez 50 ml d'eau bouillante, faites tourner et jetez cette eau pour enlever l'amertume.",
+   "Ajoutez 800 ml d'eau frémissante et laissez infuser 3 min à feu très doux.",
+   "Ajoutez la menthe lavée tassée et la stévia ; laissez infuser 2 min hors du feu.",
+   "Versez un verre et reversez-le dans la théière deux ou trois fois pour bien mélanger, puis servez en versant de haut pour créer la mousse, accompagné des amandes grillées."
+  ],
+  "tips": "En hiver, ajoutez quelques feuilles de chiba (absinthe) ou de louiza (verveine) pour varier."
+ },
+ {
+  "id": "l06-salade-concombre-menthe",
+  "title": "Salade de concombre à la menthe et fleur d'oranger",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "concombre",
+    "g": 500,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "concombres"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe fraîche"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre blanc"
+   },
+   {
+    "ing": "erythritol",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "eau",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "eau de fleur d'oranger"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Râpez les concombres avec une râpe à gros trous (ou coupez-les en très fins bâtonnets) ; égouttez-les 5 min dans une passoire.",
+   "Mélangez vinaigre, érythritol, eau de fleur d'oranger, huile et sel.",
+   "Versez sur le concombre, ajoutez la menthe ciselée et mélangez.",
+   "Réservez 15 min au frais avant de servir bien froid."
+  ],
+  "tips": "Ajoutez une pincée de cumin ou d'origan séché (zaatar) pour une version plus parfumée."
+ },
+ {
+  "id": "l06-tajine-boulettes-sardines",
+  "title": "Tajine de boulettes de sardines à la tomate",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 30,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "sardines fraîches (filets)"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin, paprika et piment"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Retirez l'arête centrale et la peau des sardines ; hachez la chair au couteau avec la moitié des herbes, 2 gousses d'ail, la moitié des épices, le sel et l'œuf.",
+   "Formez des boulettes de la taille d'une noix avec les mains mouillées.",
+   "Dans un tajine, faites chauffer l'huile avec l'ail restant, ajoutez les tomates, le reste des épices et 100 ml d'eau ; laissez frémir 10 min.",
+   "Déposez les boulettes dans la sauce, couvrez et laissez cuire 15 min à feu doux sans remuer.",
+   "Parsemez du reste d'herbes, arrosez de citron et servez."
+  ],
+  "tips": "Plat emblématique de Safi et Essaouira, économique et riche en oméga-3. Les boulettes crues se congèlent très bien."
+ },
+ {
+  "id": "l06-couscous-chou-fleur-agneau",
+  "title": "Couscous keto de chou-fleur à l'agneau et aux légumes",
+  "category": "dejeuner",
+  "emoji": "🥘",
+  "prep": 30,
+  "cook": 90,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 900,
+    "qty": 900,
+    "unit": "g",
+    "name": "épaule d'agneau en morceaux"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon en quartiers"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate en quartiers"
+   },
+   {
+    "ing": "smen",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "ras el hanout, gingembre, curcuma et safran"
+   },
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes en tronçons"
+   },
+   {
+    "ing": "navet",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit navet en quartiers"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 200,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "petit quart de chou blanc"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "bouquet de coriandre et persil"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 750,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur (pour la semoule)"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "eau",
+    "g": 1500,
+    "qty": 1.5,
+    "unit": "",
+    "name": "litre d'eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans le bas du couscoussier, faites revenir l'agneau 8 min avec la moitié du smen, l'oignon, la tomate, les épices et le sel ; mouillez avec 1,5 l d'eau, ajoutez le bouquet d'herbes et laissez cuire 1 h à couvert.",
+   "Ajoutez le navet et le chou, puis 10 min plus tard les courgettes ; poursuivez 20 min jusqu'à ce que tous les légumes soient tendres.",
+   "Pendant ce temps, râpez le chou-fleur (ou mixez-le par à-coups) jusqu'à obtenir des grains de la taille de la semoule.",
+   "Placez la semoule de chou-fleur dans le haut du couscoussier et faites-la cuire 10 min à la vapeur du bouillon, sans couvrir.",
+   "Versez-la dans un plat, ajoutez le beurre et le reste du smen, puis aérez à la fourchette en arrosant de 2 louches de bouillon.",
+   "Formez un dôme, creusez le centre, déposez la viande et disposez les légumes autour. Servez le bouillon à part."
+  ],
+  "tips": "Ne mixez pas trop le chou-fleur : la semoule doit rester en grains. Elle peut aussi être poêlée 6 min à sec si vous n'avez pas de couscoussier."
+ },
+ {
+  "id": "l06-seffa-konjac-poulet",
+  "title": "Seffa keto de vermicelles de konjac au poulet",
+  "category": "diner",
+  "emoji": "🍜",
+  "prep": 20,
+  "cook": 50,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "cuisses de poulet"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre, curcuma, safran et cannelle"
+   },
+   {
+    "ing": "konjac",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "vermicelles de konjac"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "amandes grillées concassées"
+   },
+   {
+    "ing": "erythritol",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "eau",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire le poulet avec l'oignon, le smen, les épices (sauf la cannelle), le sel et 400 ml d'eau, 40 min à couvert, puis effilochez la chair.",
+   "Faites réduire la sauce jusqu'à ce qu'elle nappe la cuillère et remettez-y le poulet.",
+   "Rincez les vermicelles de konjac à l'eau chaude, égouttez-les et faites-les sécher 3 min dans une poêle à sec, puis ajoutez le beurre et remuez 2 min.",
+   "Mélangez les amandes avec l'érythritol et la cannelle.",
+   "Dans un plat creux, déposez le poulet en sauce, recouvrez des vermicelles en dôme et décorez de rayons d'amandes à la cannelle."
+  ],
+  "tips": "Servez la seffa avec un verre de lait d'amande, comme le veut la tradition des fêtes."
+ },
+ {
+  "id": "l06-poulet-mhammer-four",
+  "title": "Poulet mhammer rôti au four, sauce smen et safran",
+  "category": "diner",
+  "emoji": "🍗",
+  "prep": 20,
+  "cook": 75,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_entier",
+    "g": 1400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poulet entier"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail écrasé"
+   },
+   {
+    "ing": "smen",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "smen"
+   },
+   {
+    "ing": "epices",
+    "g": 12,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "paprika, cumin, gingembre et safran"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "eau",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mélangez le smen, l'ail, les épices, le citron, la moitié de la coriandre et le sel ; massez le poulet à l'intérieur et à l'extérieur et laissez reposer 30 min.",
+   "Placez-le dans une cocotte avec l'oignon râpé et 400 ml d'eau ; couvrez et faites cuire 45 min à feu doux en le retournant une fois.",
+   "Transférez le poulet dans un plat à four et faites-le rôtir 25 min à 220 °C en l'arrosant de son jus, jusqu'à ce que la peau soit bien rouge et croustillante.",
+   "Pendant ce temps, faites réduire la sauce de la cocotte avec les olives pendant 10 min.",
+   "Nappez le poulet de sauce et parsemez du reste de coriandre."
+  ],
+  "tips": "« Mhammer » signifie « rougi » : c'est le passage au four après la cuisson en sauce qui donne la couleur et le croustillant."
+ },
+ {
+  "id": "l06-tajine-veau-haricots-verts",
+  "title": "Tajine de veau aux haricots verts",
+  "category": "dejeuner",
+  "emoji": "🥘",
+  "prep": 15,
+  "cook": 75,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "sauté de veau en cubes"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "tomate",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate râpée"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre, curcuma, paprika"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "haricots verts équeutés"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "eau",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites dorer le veau dans l'huile 6 min avec l'oignon, l'ail et les épices.",
+   "Ajoutez la tomate râpée, le persil, le sel, le poivre et 400 ml d'eau ; couvrez et laissez mijoter 50 min à feu doux.",
+   "Ajoutez les haricots verts coupés en deux et poursuivez 20 min à couvert.",
+   "Découvrez et laissez réduire 5 min : la sauce doit être courte et enrober la viande.",
+   "Servez chaud avec un filet d'huile d'olive."
+  ],
+  "tips": "Les haricots verts surgelés fonctionnent très bien : ajoutez-les directement, en réduisant la cuisson à 15 min."
+ },
+ {
+  "id": "l06-tajine-agneau-celeri",
+  "title": "Tajine d'agneau au céleri et citron confit",
+  "category": "dejeuner",
+  "emoji": "🥬",
+  "prep": 20,
+  "cook": 90,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 1100,
+    "qty": 1100,
+    "unit": "g",
+    "name": "épaule d'agneau en morceaux"
+   },
+   {
+    "ing": "celeri",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "pied de céleri branche (avec feuilles)"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre, curcuma et safran"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit citron confit"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "olives violettes"
+   },
+   {
+    "ing": "eau",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir l'agneau dans l'huile avec l'oignon, l'ail, les épices et le sel pendant 8 min.",
+   "Mouillez avec 600 ml d'eau, couvrez et laissez cuire 1 h à feu doux.",
+   "Effilez les branches de céleri, coupez-les en tronçons de 6 cm et hachez les feuilles ; blanchissez-les 3 min à l'eau bouillante pour retirer l'amertume.",
+   "Ajoutez céleri, feuilles, citron confit en lanières et olives autour de la viande.",
+   "Couvrez et poursuivez 25 min, puis laissez réduire la sauce 5 min à découvert avant de servir."
+  ],
+  "tips": "Un classique fassi (« lklafess ») : choisissez un céleri bien vert et tendre pour un tajine parfumé."
+ },
+ {
+  "id": "l06-crevettes-pil-pil",
+  "title": "Crevettes pil-pil à l'ail et au piment",
+  "category": "dejeuner",
+  "emoji": "🦐",
+  "prep": 10,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "ail",
+    "g": 30,
+    "qty": 6,
+    "unit": "gousse(s)",
+    "name": "ail émincé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 70,
+    "qty": 5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "piment",
+    "g": 4,
+    "qty": 2,
+    "unit": "pincée",
+    "name": "piment rouge séché"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et cumin"
+   },
+   {
+    "ing": "tomate",
+    "g": 80,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite tomate râpée"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans un plat en terre ou une poêle, faites chauffer l'huile à feu moyen avec l'ail et le piment 1 min, sans colorer.",
+   "Ajoutez la tomate râpée et les épices, laissez réduire 3 min.",
+   "Ajoutez les crevettes et le sel ; faites cuire 3 à 4 min en remuant, jusqu'à ce qu'elles deviennent roses et fermes.",
+   "Hors du feu, ajoutez la coriandre et le jus de citron ; servez grésillant dans le plat de cuisson."
+  ],
+  "tips": "Ne prolongez pas la cuisson des crevettes : au-delà de 4 min, elles deviennent caoutchouteuses."
+ },
+ {
+  "id": "l06-tajine-calamars-tomate",
+  "title": "Tajine de calamars et crevettes à la chermoula",
+  "category": "diner",
+  "emoji": "🦑",
+  "prep": 20,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "calamar",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "calamars nettoyés en anneaux"
+   },
+   {
+    "ing": "crevette",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "olives noires"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mixez coriandre, persil, ail, épices, citron, la moitié de l'huile et le sel pour faire une chermoula ; mélangez-la aux calamars et laissez mariner 15 min.",
+   "Faites chauffer le reste d'huile dans un tajine ou une sauteuse, ajoutez les calamars et faites-les revenir 5 min à feu vif.",
+   "Ajoutez les tomates concassées, couvrez et laissez mijoter 30 min à feu doux, jusqu'à ce que les calamars soient tendres.",
+   "Ajoutez les crevettes et les olives noires, laissez cuire 4 min à découvert le temps que les crevettes rosissent, puis servez."
+  ],
+  "tips": "Le calamar doit cuire soit très vite (2 min), soit longtemps (30 min et plus) : entre les deux, il durcit."
+ },
+ {
+  "id": "l06-tajine-legumes-oeufs-jben",
+  "title": "Tajine de légumes du jardin aux œufs et jben",
+  "category": "dejeuner",
+  "emoji": "🥘",
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes en rondelles épaisses"
+   },
+   {
+    "ing": "aubergine",
+    "g": 250,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "aubergine en dés"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "chou-fleur en bouquets"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 50,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "ras el hanout et cumin"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "jben",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "jben émietté"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir l'aubergine dans l'huile 5 min dans le tajine, puis ajoutez l'ail, la tomate concassée, les épices et le sel.",
+   "Disposez le chou-fleur, les courgettes et le poivron en lanières, versez 150 ml d'eau, couvrez et laissez cuire 20 min à feu doux.",
+   "Creusez 6 nids entre les légumes et cassez-y les œufs ; parsemez de jben émietté.",
+   "Couvrez et faites cuire encore 6 à 8 min, jusqu'à ce que les blancs soient pris.",
+   "Parsemez de coriandre et servez dans le tajine."
+  ],
+  "tips": "Un plat complet et végétarien ; remplacez le jben par de la feta pour un goût plus salé."
+ },
+ {
+  "id": "l06-dorade-four-chermoula",
+  "title": "Dorade au four à la chermoula et tomates",
+  "category": "diner",
+  "emoji": "🐠",
+  "prep": 20,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "dorade",
+    "g": 1200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "dorades entières vidées (600 g chacune)"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "tomate",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates en rondelles"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert en lanières"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "écorce de citron confit"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préparez la chermoula en mixant herbes, ail, épices, jus de citron, huile et sel.",
+   "Entaillez les dorades de 3 incisions de chaque côté, enduisez-les de chermoula à l'intérieur et à l'extérieur, et laissez mariner 20 min.",
+   "Dans un plat à four huilé, faites un lit de tomates et de poivron ; posez les poissons dessus et ajoutez l'écorce de citron confit.",
+   "Arrosez de 100 ml d'eau, couvrez de papier aluminium et enfournez 20 min à 200 °C.",
+   "Retirez l'aluminium et prolongez 10 min pour dorer la peau ; servez dans le plat."
+  ],
+  "tips": "Le poisson est cuit quand l'œil devient blanc et que la chair se détache de l'arête dorsale."
+ },
+ {
+  "id": "l06-pastilla-fruits-mer-keto",
+  "title": "Pastilla keto aux fruits de mer",
+  "category": "diner",
+  "emoji": "🦐",
+  "prep": 40,
+  "cook": 35,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "calamar",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "calamars en petits dés"
+   },
+   {
+    "ing": "merlan",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "filets de merlan"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin, paprika, piment"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "konjac",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "vermicelles de konjac"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 220,
+    "qty": 220,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 140,
+    "qty": 140,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir l'ail dans l'huile, ajoutez les calamars 5 min, puis les crevettes et le merlan en morceaux 4 min, avec les épices, le sel et le citron.",
+   "Hors du feu, ajoutez la coriandre et les vermicelles de konjac rincés, égouttés et coupés aux ciseaux ; égouttez bien la farce dans une passoire.",
+   "Préparez la pâte fathead : fondez la mozzarella 1 min 30 au micro-ondes, ajoutez la farine d'amande et 1 œuf, pétrissez, puis divisez en deux.",
+   "Étalez chaque moitié en disque de 26 cm entre deux papiers sulfurisés ; foncez un moule avec le premier disque.",
+   "Garnissez de farce, couvrez avec le second disque, soudez les bords et badigeonnez avec le second œuf battu.",
+   "Enfournez 20 à 25 min à 190 °C, jusqu'à ce que la pastilla soit bien dorée ; laissez reposer 5 min avant de découper."
+  ],
+  "tips": "La farce doit être bien égouttée et froide pour que la pâte ne détrempe pas ; elle peut être préparée la veille."
+ },
+ {
+  "id": "l06-sardines-farcies-chermoula",
+  "title": "Sardines farcies à la chermoula, grillées au four",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 30,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine",
+    "g": 900,
+    "qty": 900,
+    "unit": "g",
+    "name": "grosses sardines ouvertes en portefeuille"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin, paprika et piment"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande (pour l'enrobage)"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Videz les sardines, retirez la tête et l'arête centrale en les ouvrant en portefeuille ; rincez et séchez-les.",
+   "Hachez finement herbes et ail, mélangez avec épices, citron, la moitié de l'huile et le sel.",
+   "Étalez une cuillère de chermoula sur la moitié des sardines (côté chair) et recouvrez d'une seconde sardine, peau vers l'extérieur.",
+   "Passez les sardines dans la farine d'amande, posez-les sur une plaque huilée et arrosez du reste d'huile.",
+   "Enfournez 12 à 15 min à 220 °C en les retournant à mi-cuisson, jusqu'à ce qu'elles soient dorées."
+  ],
+  "tips": "Traditionnellement frites : vous pouvez aussi les poêler 3 min par face dans un fond d'huile d'olive."
+ },
+ {
+  "id": "l06-ojja-merguez",
+  "title": "Ojja aux merguez et œufs",
+  "category": "dejeuner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Rapide",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "merguez",
+    "g": 400,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "merguez halal"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "poivrons verts"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "harissa",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "harissa"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "carvi et paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites dorer les merguez coupées en tronçons 5 min dans l'huile, puis réservez-les.",
+   "Dans la même poêle, faites revenir les poivrons en lanières et l'ail 5 min.",
+   "Ajoutez les tomates, la harissa, les épices et un peu de sel ; laissez mijoter 8 min.",
+   "Remettez les merguez, faites 6 puits et cassez-y les œufs ; couvrez et laissez cuire 5 min, jusqu'à ce que les blancs soient pris.",
+   "Servez directement dans la poêle."
+  ],
+  "tips": "Spécialité tunisienne : dosez la harissa selon les goûts de la famille et proposez-en à part pour les amateurs."
+ },
+ {
+  "id": "l06-dolma-courgettes-kefta",
+  "title": "Dolma de courgettes farcies à la kefta, sauce blanche",
+  "category": "diner",
+  "emoji": "🥒",
+  "prep": 30,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 800,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes moyennes"
+   },
+   {
+    "ing": "kefta",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 6,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cannelle, poivre et cumin"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "smen",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "smen ou beurre"
+   },
+   {
+    "ing": "poulet_cuisse",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "pilons de poulet (pour la sauce)"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "eau",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez les courgettes en tronçons de 6 cm et évidez-les avec une cuillère parisienne en gardant un fond ; réservez la chair.",
+   "Mélangez la kefta avec l'œuf, la moitié du persil, la moitié des épices et le sel ; farcissez les tronçons.",
+   "Dans une cocotte, faites revenir le poulet dans le smen avec l'oignon, l'ail, le reste des épices et la chair des courgettes ; mouillez avec 500 ml d'eau et laissez cuire 15 min.",
+   "Déposez les courgettes farcies debout dans la sauce, couvrez et laissez cuire 30 min à feu doux.",
+   "Ajoutez le jus de citron et le reste du persil, laissez réduire 5 min et servez."
+  ],
+  "tips": "Recette algéroise de la « dolma » en sauce blanche ; s'il reste de la farce, formez des boulettes et faites-les cuire dans la sauce."
+ },
+ {
+  "id": "l06-cotelettes-agneau-cumin",
+  "title": "Côtelettes d'agneau grillées au cumin et salade de tomates",
+  "category": "diner",
+  "emoji": "🍖",
+  "prep": 10,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_cotelette",
+    "g": 800,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "côtelettes d'agneau"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "tomate",
+    "g": 300,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "tomates"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mélangez la moitié de l'huile avec l'ail, le cumin, le paprika et le sel ; badigeonnez les côtelettes et laissez reposer 15 min.",
+   "Coupez les tomates en dés, émincez l'oignon rouge, ajoutez le persil, le reste d'huile et le sel.",
+   "Faites griller les côtelettes 3 à 4 min par face sur un grill très chaud ou au barbecue.",
+   "Laissez reposer 2 min et servez avec la salade de tomates et une pincée de cumin."
+  ],
+  "tips": "Pour l'Aïd, préparez une coupelle de cumin et sel mélangés dans laquelle chacun trempe sa côtelette."
+ },
+ {
+  "id": "l06-bissara-chou-fleur",
+  "title": "Bissara keto de chou-fleur au cumin et huile d'olive",
+  "category": "accompagnement",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur en bouquets"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "tahini",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "tahini (pour le velouté)"
+   },
+   {
+    "ing": "epices",
+    "g": 6,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 50,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive (dont pour servir)"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "eau",
+    "g": 700,
+    "qty": 700,
+    "unit": "ml",
+    "name": "eau ou bouillon de légumes"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire le chou-fleur et l'ail dans 700 ml d'eau salée 20 min, jusqu'à ce qu'il soit très tendre.",
+   "Mixez avec le tahini, la moitié du cumin et 2 c. à s. d'huile jusqu'à obtenir une purée épaisse et veloutée ; ajoutez de l'eau de cuisson si besoin.",
+   "Remettez sur le feu 5 min en remuant pour épaissir, puis ajoutez le citron et rectifiez le sel.",
+   "Servez dans des bols, arrosés d'un généreux filet d'huile d'olive et saupoudrés de cumin et de paprika."
+  ],
+  "tips": "La vraie bissara est à base de fèves sèches, trop riches en glucides en keto : le chou-fleur et le tahini en reproduisent la texture et le goût d'hiver. Ajoutez un œuf poché pour un dîner léger."
+ },
+ {
+  "id": "l06-oeufs-matecha-cumin",
+  "title": "Œufs brouillés à la tomate et au cumin (bayd b'matecha)",
+  "category": "petit-dej",
+  "emoji": "🍳",
+  "prep": 5,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Rapide",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate râpée"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "coriandre",
+    "g": 5,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites chauffer l'huile dans une petite poêle ou un tajine à œufs, ajoutez l'ail et la tomate râpée.",
+   "Laissez réduire 6 à 8 min à feu moyen jusqu'à ce que la sauce soit bien concentrée ; ajoutez les épices et le sel.",
+   "Versez les œufs légèrement battus et remuez doucement 2 min à feu doux pour obtenir des œufs crémeux.",
+   "Parsemez de coriandre et servez aussitôt, saupoudré d'un peu de cumin."
+  ],
+  "tips": "Pour un petit-déjeuner plus copieux, ajoutez quelques tranches de cachir de dinde ou de la viande hachée revenue."
+ },
+ {
+  "id": "l06-harcha-keto",
+  "title": "Harcha keto à la farine d'amande et coco",
+  "category": "petit-dej",
+  "emoji": "🫓",
+  "prep": 10,
+  "cook": 15,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "farine_coco",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine de coco"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mélangez la farine d'amande, la farine de coco, la levure, l'érythritol et le sel.",
+   "Ajoutez le beurre fondu, l'œuf et le yaourt ; mélangez à la main jusqu'à obtenir une pâte sableuse qui se tient.",
+   "Laissez reposer 5 min, puis formez 8 petits disques de 1 cm d'épaisseur.",
+   "Faites-les cuire à feu doux dans une poêle antiadhésive sèche 6 à 7 min par face, jusqu'à ce qu'ils soient bien dorés.",
+   "Servez tiède, ouvert en deux avec du beurre, du jben ou de l'amlou keto."
+  ],
+  "tips": "Le feu doit rester doux : la farine d'amande colore vite. Les harchas se gardent 3 jours et se réchauffent à la poêle."
+ },
+ {
+  "id": "l06-amlou-keto",
+  "title": "Amlou keto aux amandes et huile d'argan",
+  "category": "collation",
+  "emoji": "🥜",
+  "prep": 15,
+  "cook": 10,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "amande",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "amandes entières non pelées"
+   },
+   {
+    "ing": "huile_argan",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "huile d'argan alimentaire"
+   },
+   {
+    "ing": "erythritol",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "stevia",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "stévia (facultatif)"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites torréfier les amandes 10 min au four à 180 °C, jusqu'à ce qu'elles soient dorées à cœur ; laissez refroidir.",
+   "Mixez-les longuement (5 à 8 min), en raclant les parois, jusqu'à obtenir une pâte qui commence à briller.",
+   "Ajoutez l'érythritol en poudre, le sel et la stévia, puis versez l'huile d'argan en filet en continuant de mixer.",
+   "Transvasez dans un bocal ; la pâte doit être coulante comme une pâte à tartiner."
+  ],
+  "tips": "Une portion = 2 c. à s., à tartiner sur une harcha ou un msemen keto. Se conserve 1 mois dans un bocal à l'abri de la lumière."
+ },
+ {
+  "id": "l06-sellou-keto",
+  "title": "Sellou keto (sfouf) aux amandes et sésame",
+  "category": "dessert",
+  "emoji": "🌰",
+  "prep": 20,
+  "cook": 20,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "amandes émondées"
+   },
+   {
+    "ing": "sesame",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "graine_lin",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "graines de lin moulues"
+   },
+   {
+    "ing": "beurre",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "beurre clarifié (ou smen doux)"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cannelle et anis vert moulu"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites griller les amandes 10 min au four à 180 °C et le sésame 3 min à sec à la poêle ; laissez refroidir.",
+   "Faites dorer la farine d'amande à sec dans une poêle à feu doux 5 à 7 min en remuant sans arrêt, jusqu'à ce qu'elle soit blonde.",
+   "Mixez les amandes et le sésame en poudre grossière (sans aller jusqu'à la pâte).",
+   "Mélangez toutes les poudres avec l'érythritol, les graines de lin, la cannelle, l'anis et le sel.",
+   "Ajoutez le beurre fondu petit à petit en malaxant à la main jusqu'à ce que le mélange se tienne quand on le presse.",
+   "Formez un dôme dans un plat, décorez d'amandes entières et servez par petites cuillerées."
+  ],
+  "tips": "Dessert du Ramadan et des naissances : une portion correspond à 2 c. à s. bombées. Se garde 3 semaines dans une boîte hermétique."
+ },
+ {
+  "id": "l06-cornes-gazelle-keto",
+  "title": "Cornes de gazelle keto à la fleur d'oranger",
+  "category": "dessert",
+  "emoji": "🥐",
+  "prep": 40,
+  "cook": 15,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "poudre d'amande (pour la farce)"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "eau",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "eau de fleur d'oranger"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cannelle"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "mozzarella râpée (pour la pâte)"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   }
+  ],
+  "steps": [
+   "Farce : mélangez 170 g de poudre d'amande, 60 g d'érythritol, 20 g de beurre fondu, la fleur d'oranger et la cannelle ; formez 24 petits boudins effilés de 6 cm et réservez au frais.",
+   "Pâte : faites fondre la mozzarella et le fromage à la crème 1 min 30 au micro-ondes, ajoutez le reste de poudre d'amande, le reste de beurre, l'érythritol restant et l'œuf ; pétrissez.",
+   "Réfrigérez la pâte 15 min, puis étalez-la très finement (1 à 2 mm) entre deux papiers sulfurisés.",
+   "Découpez des bandes de 8 cm, posez un boudin de farce, rabattez la pâte, soudez et découpez à la roulette ; incurvez en croissant.",
+   "Piquez chaque corne à la fourchette et enfournez 12 à 15 min à 170 °C, jusqu'à ce qu'elles soient à peine blondes.",
+   "Laissez refroidir sur une grille avant de servir avec le thé."
+  ],
+  "tips": "Les cornes doivent rester pâles : sortez-les dès que le dessous commence à dorer. Elles se conservent 1 semaine en boîte."
+ },
+ {
+  "id": "l06-mhalbiya-fleur-oranger",
+  "title": "Mhalbiya keto à la fleur d'oranger et pistaches",
+  "category": "dessert",
+  "emoji": "🍮",
+  "prep": 10,
+  "cook": 10,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "creme_liquide",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 350,
+    "qty": 350,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "agar_agar",
+    "g": 4,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "agar-agar"
+   },
+   {
+    "ing": "erythritol",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "eau",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "eau de fleur d'oranger"
+   },
+   {
+    "ing": "pistache",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "pistaches concassées"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cannelle"
+   }
+  ],
+  "steps": [
+   "Dans une casserole, délayez l'agar-agar dans le lait d'amande froid, puis ajoutez la crème et l'érythritol.",
+   "Portez à ébullition en fouettant et laissez bouillir 2 min pour activer l'agar-agar.",
+   "Hors du feu, ajoutez l'eau de fleur d'oranger et versez dans 6 ramequins.",
+   "Laissez refroidir puis réfrigérez au moins 2 h jusqu'à ce que la crème soit prise.",
+   "Au moment de servir, parsemez de pistaches concassées et d'une pincée de cannelle."
+  ],
+  "tips": "L'agar-agar remplace la gélatine et la fécule de maïs : la texture reste ferme même à température ambiante."
+ },
+ {
+  "id": "l06-jus-amande-fleur-oranger",
+  "title": "Lait d'amande glacé à la fleur d'oranger",
+  "category": "boisson",
+  "emoji": "🥛",
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "lait_amande",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "lait d'amande non sucré bien froid"
+   },
+   {
+    "ing": "puree_amande",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "purée d'amande blanche"
+   },
+   {
+    "ing": "eau",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "eau de fleur d'oranger"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cannelle"
+   }
+  ],
+  "steps": [
+   "Placez le lait d'amande, la purée d'amande, l'érythritol et la fleur d'oranger dans un blender.",
+   "Mixez 30 secondes à pleine vitesse jusqu'à ce que la boisson soit mousseuse.",
+   "Versez sur des glaçons dans deux grands verres.",
+   "Saupoudrez d'une pincée de cannelle et servez aussitôt."
+  ],
+  "tips": "La version keto du « jus d'amande » des cafés marocains et des mariages ; ajoutez un demi-avocat pour un smoothie plus nourrissant."
+ },
+ {
+  "id": "l06-cafe-epices-beurre",
+  "title": "Café aux épices marocaines (kahwa mkhaltra) au beurre",
+  "category": "boisson",
+  "emoji": "☕",
+  "prep": 3,
+  "cook": 5,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "cafe",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "café fraîchement infusé"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "mélange kahwa : cannelle, gingembre, cardamome, muscade, poivre noir"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "beurre doux"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "stevia",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "stévia (facultatif)"
+   }
+  ],
+  "steps": [
+   "Faites infuser le café avec le mélange d'épices (dans le filtre ou la cafetière italienne).",
+   "Versez le café chaud dans un blender ou un grand bol avec le beurre, la crème et la stévia.",
+   "Mixez 20 secondes (ou fouettez au mousseur) jusqu'à obtenir une boisson crémeuse et mousseuse.",
+   "Servez aussitôt dans des tasses préchauffées."
+  ],
+  "tips": "Le mélange d'épices se prépare à l'avance : 2 c. à s. de cannelle, 1 de gingembre, 1 de cardamome, ½ de muscade, ½ de poivre noir, dans un bocal."
+ },
+ {
+  "id": "l06-kebda-mchermla",
+  "title": "Kebda mchermla : foie de volaille sauté à la chermoula",
+  "category": "diner",
+  "emoji": "🥘",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Rapide",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "foie_volaille",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "foies de volaille"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 50,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "tomate",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate râpée"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "olives noires"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Nettoyez les foies, coupez-les en deux et épongez-les.",
+   "Faites chauffer l'huile, saisissez les foies 2 min à feu vif sur toutes les faces, puis retirez-les.",
+   "Dans la même poêle, faites revenir l'ail et la tomate râpée 4 min, puis ajoutez les épices, les herbes hachées et le sel.",
+   "Remettez les foies, ajoutez les olives et 50 ml d'eau ; laissez mijoter 5 min : les foies doivent rester légèrement rosés.",
+   "Arrosez de citron et servez chaud."
+  ],
+  "tips": "Riche en fer et très économique ; ne salez les foies qu'en fin de cuisson pour qu'ils restent tendres."
+ },
+ {
+  "id": "l06-soupe-poisson-marocaine",
+  "title": "Soupe de poisson marocaine aux crevettes et vermicelles de konjac",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "merlan",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "filets de merlan ou colin"
+   },
+   {
+    "ing": "crevette",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "celeri",
+    "g": 80,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "tomate",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate râpée"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "coriandre",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cumin, paprika, curcuma et piment"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "konjac",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "vermicelles de konjac"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "eau",
+    "g": 1200,
+    "qty": 1.2,
+    "unit": "",
+    "name": "litre d'eau"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir l'ail, le céleri haché et les épices dans l'huile 4 min ; ajoutez la tomate râpée et laissez compoter 5 min.",
+   "Versez 1,2 l d'eau et la moitié de la coriandre, portez à ébullition et laissez frémir 15 min.",
+   "Ajoutez le merlan en gros morceaux et les vermicelles de konjac rincés ; laissez cuire 5 min.",
+   "Ajoutez les crevettes et poursuivez 3 min, sans faire bouillir fort.",
+   "Hors du feu, ajoutez le jus de citron et le reste de coriandre ; servez bien chaud."
+  ],
+  "tips": "Ajoutez une cuillère de chermoula dans chaque bol au moment de servir pour plus de peps."
+ },
+ {
+  "id": "l06-maakouda-chou-fleur",
+  "title": "Maakouda keto de chou-fleur au fromage",
+  "category": "collation",
+  "emoji": "🧆",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "emmental",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil haché"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et curcuma"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile pour la cuisson"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire le chou-fleur 10 min à la vapeur, puis écrasez-le et pressez-le dans un torchon pour retirer un maximum d'eau.",
+   "Mélangez avec les œufs, le fromage, la farine d'amande, le persil, l'ail écrasé, les épices et le sel.",
+   "Formez 12 petites galettes épaisses de 1,5 cm avec les mains humides.",
+   "Faites-les dorer 3 min de chaque côté dans l'huile chaude à feu moyen, puis égouttez-les sur du papier absorbant.",
+   "Servez chaud avec une sauce harissa-mayonnaise ou une chlada."
+  ],
+  "tips": "La maakouda de rue est à base de pomme de terre : bien essorer le chou-fleur est la clé pour qu'elles se tiennent."
+ },
+ {
+  "id": "l06-courgettes-mchermla",
+  "title": "Courgettes mchermla sautées à l'ail et au cumin",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez les courgettes en bâtonnets de 5 cm.",
+   "Faites-les sauter 8 min à feu vif dans l'huile jusqu'à ce qu'elles soient dorées mais encore fermes.",
+   "Ajoutez l'ail, le cumin, le paprika et le sel ; poursuivez 3 min à feu moyen.",
+   "Hors du feu, ajoutez les herbes ciselées et le jus de citron ; servez tiède ou froid."
+  ],
+  "tips": "Excellentes en entrée froide comme les autres salades cuites marocaines ; se conservent 3 jours au frais."
+ }
+]

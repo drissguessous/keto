@@ -1,0 +1,5444 @@
+[
+ {
+  "id": "l05-sardines-four-salsa-verde",
+  "title": "Sardines rôties au four, salsa verde persil-cornichons",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine",
+    "g": 900,
+    "qty": 900,
+    "unit": "g",
+    "name": "sardines fraîches vidées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil plat"
+   },
+   {
+    "ing": "cornichon",
+    "g": 40,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "salade verte"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C (chaleur tournante 210 °C) et tapissez une plaque de papier cuisson.",
+   "Rincez les sardines vidées sous l'eau froide, épongez-les soigneusement avec du papier absorbant.",
+   "Disposez-les côte à côte sur la plaque, badigeonnez-les avec 1 c. à s. d'huile, salez et poivrez.",
+   "Enfournez 12 à 15 minutes, jusqu'à ce que la peau soit dorée et que la chair se détache de l'arête.",
+   "Pendant ce temps, hachez finement le persil, les cornichons et l'ail. Mélangez avec le jus de citron, la moutarde et le reste d'huile.",
+   "Servez les sardines nappées de salsa verde, avec la salade verte assaisonnée à côté."
+  ],
+  "tips": "Demandez au poissonnier de vider et d'écailler les sardines. La salsa verde se garde 2 jours au frais dans un bocal."
+ },
+ {
+  "id": "l05-papillote-saumon-courgette-citron",
+  "title": "Papillotes de saumon, courgettes et citron",
+  "category": "diner",
+  "emoji": "🍣",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "pavés de saumon (150 g)"
+   },
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "aneth",
+    "g": 10,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "aneth ciselé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Découpez 4 grands rectangles de papier cuisson (40 × 30 cm).",
+   "Taillez les courgettes en fines rondelles (3 mm) avec un couteau ou une mandoline.",
+   "Répartissez les rondelles au centre de chaque feuille, arrosez d'un filet d'huile, salez, poivrez, ajoutez l'ail émincé.",
+   "Posez un pavé de saumon dessus, ajoutez 2 fines rondelles de citron, l'aneth et le reste d'huile.",
+   "Refermez les papillotes en pliant les bords plusieurs fois pour qu'elles soient bien hermétiques.",
+   "Enfournez 18 à 20 minutes. Servez fermées, chacun ouvre la sienne à table."
+  ],
+  "tips": "Les papillotes peuvent être préparées le matin et gardées au réfrigérateur ; ajoutez 3 minutes de cuisson."
+ },
+ {
+  "id": "l05-curry-crevettes-coco",
+  "title": "Curry de crevettes au lait de coco et épinards",
+  "category": "diner",
+  "emoji": "🍤",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "jeunes épinards"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "curry en poudre et curcuma"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 0.5,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites chauffer l'huile de coco dans une sauteuse à feu moyen. Faites revenir l'oignon finement haché 4 minutes.",
+   "Ajoutez l'ail et le gingembre, puis le curry ; remuez 1 minute jusqu'à ce que les épices embaument.",
+   "Versez le lait de coco, salez et laissez frémir 8 minutes pour épaissir légèrement la sauce.",
+   "Ajoutez les crevettes et faites cuire 3 à 4 minutes, jusqu'à ce qu'elles deviennent roses et fermes.",
+   "Incorporez les épinards et laissez-les tomber 1 minute. Ajoutez le jus de citron.",
+   "Parsemez de coriandre et servez avec du riz de chou-fleur."
+  ],
+  "tips": "Les crevettes surgelées conviennent : décongelez-les au réfrigérateur et épongez-les bien avant cuisson."
+ },
+ {
+  "id": "l05-gratin-merlan-epinards",
+  "title": "Gratin de merlan aux épinards et à la crème",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "merlan",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "filets de merlan"
+   },
+   {
+    "ing": "epinard",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "épinards frais"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "emmental",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "beurre"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "noix de muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C et beurrez un plat à gratin.",
+   "Faites fondre les épinards 4 minutes dans une poêle avec le beurre et l'ail haché, puis pressez-les pour éliminer l'eau.",
+   "Étalez les épinards dans le plat. Posez les filets de merlan dessus, salez et poivrez.",
+   "Mélangez la crème avec la muscade, sel et poivre, et nappez-en le poisson.",
+   "Parsemez d'emmental et enfournez 20 à 25 minutes, jusqu'à ce que le dessus soit doré.",
+   "Laissez reposer 5 minutes avant de servir."
+  ],
+  "tips": "Bien essorer les épinards évite un gratin qui rend de l'eau. Le cabillaud fonctionne aussi."
+ },
+ {
+  "id": "l05-tartare-saumon-avocat",
+  "title": "Tartare de saumon à l'avocat et citron vert",
+  "category": "dejeuner",
+  "emoji": "🥑",
+  "prep": 20,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "saumon très frais sans peau"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron vert"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 10,
+    "qty": 1,
+    "unit": "botte",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sesame",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "laitue",
+    "g": 120,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "salade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Placez le saumon 20 minutes au congélateur pour le raffermir, cela facilite la découpe.",
+   "Coupez le saumon en petits dés de 5 mm avec un couteau bien aiguisé et réservez au frais.",
+   "Taillez la chair des avocats en dés et arrosez-les d'un peu de jus de citron pour éviter qu'ils noircissent.",
+   "Hachez très finement l'oignon rouge et ciselez la ciboulette.",
+   "Juste avant de servir, mélangez saumon, oignon, ciboulette, huile, reste du citron, sel et poivre.",
+   "Dressez dans un cercle : une couche d'avocat puis le saumon. Parsemez de sésame et servez sur la salade."
+  ],
+  "tips": "Utilisez du saumon très frais (qualité sashimi) ou préalablement congelé 48 h à -18 °C. Assaisonnez au dernier moment."
+ },
+ {
+  "id": "l05-burgers-thon-salade",
+  "title": "Burgers de thon en feuille de laitue, sauce tartare",
+  "category": "dejeuner",
+  "emoji": "🍔",
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Famille",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_boite",
+    "g": 420,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "boîtes de thon au naturel égoutté (140 g)"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 80,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "cornichon",
+    "g": 30,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue iceberg"
+   },
+   {
+    "ing": "tomate",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Égouttez bien le thon et émiettez-le à la fourchette dans un saladier.",
+   "Ajoutez les œufs, la farine d'amande, le persil, les cébettes émincées, sel et poivre. Mélangez et laissez reposer 10 minutes.",
+   "Formez 8 galettes de 2 cm d'épaisseur avec les mains humides.",
+   "Faites-les dorer 4 minutes de chaque côté dans l'huile chaude, à feu moyen, sans les déplacer trop tôt.",
+   "Mélangez la mayonnaise avec les cornichons hachés pour la sauce tartare.",
+   "Servez chaque galette entre deux grandes feuilles de laitue avec une rondelle de tomate et la sauce."
+  ],
+  "tips": "Les galettes cuites se gardent 3 jours au frais et se réchauffent à la poêle : idéal pour les boîtes-repas."
+ },
+ {
+  "id": "l05-dorade-four-fenouil",
+  "title": "Dorade entière rôtie au fenouil et citron",
+  "category": "diner",
+  "emoji": "🐠",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "dorade",
+    "g": 650,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "dorades vidées et écaillées (600 g chacune)"
+   },
+   {
+    "ing": "fenouil",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "bulbes de fenouil"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 0.5,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 60,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Émincez finement les fenouils et étalez-les dans un grand plat avec 2 c. à s. d'huile, sel et poivre.",
+   "Enfournez le fenouil seul 10 minutes pour qu'il commence à s'attendrir.",
+   "Pendant ce temps, rincez et épongez les dorades. Entaillez la peau 3 fois de chaque côté.",
+   "Glissez dans le ventre des rondelles de citron, l'ail écrasé et quelques branches de persil.",
+   "Posez les dorades sur le fenouil, ajoutez les olives, arrosez du reste d'huile, salez.",
+   "Enfournez 20 à 25 minutes : la chair doit être opaque et se détacher facilement de l'arête centrale.",
+   "Levez les filets à table et servez avec le fenouil fondant et le jus du plat."
+  ],
+  "tips": "Comptez environ 300 g de poisson entier par personne. Le loup (bar) se prépare exactement de la même façon."
+ },
+ {
+  "id": "l05-calamars-poeles-ail-persil",
+  "title": "Calamars poêlés à l'ail et persil, salade de roquette",
+  "category": "dejeuner",
+  "emoji": "🦑",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "calamar",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "calamars nettoyés"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "roquette",
+    "g": 120,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "copeaux de parmesan"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les calamars en anneaux de 1 cm et laissez les tentacules entiers. Épongez-les très soigneusement.",
+   "Faites chauffer 2 c. à s. d'huile dans une grande poêle à feu vif jusqu'à ce qu'elle frémisse.",
+   "Saisissez les calamars en deux fois, 2 minutes par fournée, sans remuer au début pour qu'ils dorent.",
+   "Remettez tout dans la poêle, ajoutez l'ail haché et le piment, remuez 30 secondes.",
+   "Ajoutez le persil haché, le jus de citron, salez et poivrez.",
+   "Servez aussitôt sur la roquette assaisonnée du reste d'huile, avec les copeaux de parmesan."
+  ],
+  "tips": "Une cuisson courte et très vive évite des calamars caoutchouteux : soit 2 minutes, soit plus de 40 minutes en mijoté."
+ },
+ {
+  "id": "l05-moules-creme-ail",
+  "title": "Moules à la crème, ail et persil",
+  "category": "diner",
+  "emoji": "🦪",
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "moules",
+    "g": 550,
+    "qty": 2,
+    "unit": "",
+    "name": "kg de moules en coquille"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oignon",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "échalote ou petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "bouillon",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Grattez et rincez les moules à l'eau froide, retirez les barbes. Jetez celles qui sont cassées ou restent ouvertes.",
+   "Dans un grand faitout, faites fondre le beurre et faites suer l'oignon et l'ail hachés 3 minutes.",
+   "Ajoutez les moules et le bouillon, couvrez et faites cuire à feu vif 5 à 6 minutes en secouant la cocotte.",
+   "Quand toutes les moules sont ouvertes, retirez-les avec une écumoire et gardez-les au chaud.",
+   "Versez la crème dans le jus de cuisson, laissez réduire 3 minutes, poivrez et ajoutez le persil.",
+   "Nappez les moules de sauce et servez dans des assiettes creuses."
+  ],
+  "tips": "Jetez les moules qui restent fermées après cuisson. Pas besoin de saler : les moules le sont naturellement."
+ },
+ {
+  "id": "l05-saumon-croute-amandes",
+  "title": "Saumon en croûte d'amandes et moutarde, haricots verts",
+  "category": "diner",
+  "emoji": "🍣",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "pavés de saumon"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 5,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "moutarde",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "beurre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Posez les pavés peau en dessous sur une plaque recouverte de papier cuisson.",
+   "Badigeonnez le dessus des pavés de moutarde.",
+   "Mélangez la poudre d'amande, le parmesan, le persil et l'huile jusqu'à obtenir un sable humide ; pressez-le sur la moutarde.",
+   "Enfournez 15 à 18 minutes jusqu'à ce que la croûte soit dorée.",
+   "Pendant ce temps, faites cuire les haricots verts 8 minutes à l'eau bouillante salée, égouttez et enrobez de beurre.",
+   "Servez le saumon avec les haricots verts poivrés."
+  ],
+  "tips": "Ajoutez un zeste de citron dans la croûte pour plus de fraîcheur."
+ },
+ {
+  "id": "l05-salade-thon-oeufs-haricots",
+  "title": "Salade-repas thon, œufs mollets et haricots verts",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_huile",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "boîtes de thon à l'huile égoutté"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 120,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 50,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Plongez les œufs dans l'eau bouillante 6 minutes, puis dans l'eau glacée. Écalez-les délicatement.",
+   "Faites cuire les haricots verts 7 minutes à l'eau bouillante salée, puis refroidissez-les à l'eau froide.",
+   "Préparez la vinaigrette en fouettant moutarde, vinaigre, huile, sel et poivre.",
+   "Disposez la laitue dans les assiettes, ajoutez les haricots, les tomates cerises coupées en deux et les olives.",
+   "Émiettez le thon par-dessus et posez les œufs coupés en deux.",
+   "Arrosez de vinaigrette au moment de servir."
+  ],
+  "tips": "À emporter : gardez la vinaigrette dans un petit pot séparé."
+ },
+ {
+  "id": "l05-maquereau-four-moutarde",
+  "title": "Maquereaux au four à la moutarde et chou-fleur rôti",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "maquereau",
+    "g": 640,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "filets de maquereau"
+   },
+   {
+    "ing": "moutarde",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "moutarde à l'ancienne"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C. Détaillez le chou-fleur en petits bouquets.",
+   "Mélangez les bouquets avec 2 c. à s. d'huile, le paprika, sel et poivre, étalez sur une plaque et enfournez 15 minutes.",
+   "Mélangez la moutarde avec le reste d'huile et le jus de citron.",
+   "Badigeonnez la chair des filets de maquereau avec ce mélange.",
+   "Poussez le chou-fleur sur les côtés, posez les filets peau dessous au centre et enfournez encore 10 minutes.",
+   "Parsemez de persil et servez bien chaud."
+  ],
+  "tips": "Le maquereau, riche en oméga-3, est un des poissons les moins chers du marché : parfait pour un dîner économique."
+ },
+ {
+  "id": "l05-cabillaud-beurre-citron-brocoli",
+  "title": "Cabillaud poêlé, beurre citronné et brocoli",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "cabillaud",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "dos de cabillaud"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "brocoli",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Détaillez le brocoli en fleurettes et faites-les cuire 5 minutes à la vapeur.",
+   "Épongez le cabillaud, salez et poivrez des deux côtés.",
+   "Chauffez l'huile dans une poêle à feu moyen-vif et posez le poisson. Laissez dorer 4 minutes sans toucher.",
+   "Retournez, ajoutez le beurre et l'ail écrasé ; arrosez le poisson de beurre mousseux à la cuillère 3 minutes.",
+   "Retirez le poisson, ajoutez le jus de citron et la ciboulette dans le beurre, et passez-y le brocoli 1 minute.",
+   "Servez le cabillaud nappé de beurre citronné avec le brocoli."
+  ],
+  "tips": "Le poisson est cuit quand sa chair devient nacrée et se sépare en lamelles."
+ },
+ {
+  "id": "l05-salade-crevettes-avocat-cocktail",
+  "title": "Salade de crevettes, avocat et concombre sauce cocktail",
+  "category": "dejeuner",
+  "emoji": "🍤",
+  "prep": 20,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "sucrine"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 60,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "paprika"
+   },
+   {
+    "ing": "aneth",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites pocher les crevettes 2 à 3 minutes dans l'eau frémissante salée, puis égouttez et refroidissez-les.",
+   "Mélangez mayonnaise, concentré de tomate, paprika et la moitié du jus de citron pour la sauce cocktail.",
+   "Coupez le concombre et l'avocat en dés, arrosez du reste de citron.",
+   "Détachez les feuilles de sucrine et disposez-les dans les assiettes.",
+   "Ajoutez concombre, avocat et crevettes, nappez de sauce cocktail et parsemez d'aneth."
+  ],
+  "tips": "Préparez la sauce à l'avance : elle gagne en goût après 1 heure au frais."
+ },
+ {
+  "id": "l05-sardines-panees-amande",
+  "title": "Sardines panées à l'amande et au parmesan, mayonnaise citronnée",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 25,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "sardines fraîches ouvertes en filets"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et ail en poudre"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 60,
+    "qty": 60,
+    "unit": "ml",
+    "name": "huile de tournesol"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 60,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus et zeste)"
+   },
+   {
+    "ing": "concombre",
+    "g": 250,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Demandez des sardines ouvertes en papillon, sans arête centrale. Rincez et épongez-les bien.",
+   "Battez les œufs dans une assiette creuse. Dans une autre, mélangez farine d'amande, parmesan, épices, sel et poivre.",
+   "Passez chaque sardine dans l'œuf puis dans la panure, en appuyant pour bien l'enrober.",
+   "Chauffez l'huile dans une grande poêle à feu moyen. Faites dorer les sardines 2 à 3 minutes par face, par petites fournées.",
+   "Égouttez-les sur du papier absorbant.",
+   "Mélangez la mayonnaise avec le zeste et la moitié du jus de citron. Servez avec le concombre en rondelles arrosé du reste de citron."
+  ],
+  "tips": "La panure à l'amande brûle plus vite que la chapelure : gardez un feu moyen et ne surchargez pas la poêle."
+ },
+ {
+  "id": "l05-saumon-teriyaki-wok",
+  "title": "Saumon façon teriyaki et wok de légumes croquants",
+  "category": "diner",
+  "emoji": "🍣",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "pavés de saumon sans peau"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "erythritol",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "brocoli",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "brocoli"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile neutre"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   }
+  ],
+  "steps": [
+   "Mélangez la sauce soja, l'érythritol, le gingembre, l'ail râpé et 2 c. à s. d'eau : c'est la sauce teriyaki.",
+   "Coupez le saumon en gros cubes de 4 cm et les légumes en lanières ou petites fleurettes.",
+   "Saisissez le saumon 2 minutes par face dans 1 c. à s. d'huile très chaude, puis réservez-le.",
+   "Dans le même wok, faites sauter les légumes 4 à 5 minutes à feu vif avec le reste d'huile : ils doivent rester croquants.",
+   "Remettez le saumon, versez la sauce et laissez-la réduire 1 à 2 minutes en enrobant délicatement le poisson.",
+   "Parsemez de sésame et de cébettes et servez aussitôt."
+  ],
+  "tips": "Accompagnez de riz de konjac rincé et poêlé à sec 3 minutes pour un repas plus complet."
+ },
+ {
+  "id": "l05-thon-mi-cuit-sesame-salade-chou",
+  "title": "Thon mi-cuit en croûte de sésame, salade de chou au gingembre",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_frais",
+    "g": 600,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "longes de thon frais (300 g)"
+   },
+   {
+    "ing": "sesame",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 300,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "chou_rouge",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chou rouge"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 0.5,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Émincez très finement les deux choux et mettez-les dans un saladier.",
+   "Fouettez la sauce soja, le vinaigre, le gingembre et 2 c. à s. d'huile ; versez sur le chou, mélangez et laissez mariner 15 minutes.",
+   "Salez légèrement les longes de thon, poivrez-les puis roulez-les dans le sésame en appuyant.",
+   "Chauffez le reste d'huile dans une poêle à feu très vif. Saisissez le thon 1 minute sur chaque face : le centre doit rester rose.",
+   "Laissez reposer 2 minutes puis tranchez en tranches de 1 cm avec un couteau bien aiguisé.",
+   "Servez le thon sur la salade de chou parsemée de coriandre."
+  ],
+  "tips": "Si vous préférez le thon bien cuit, comptez 3 minutes par face, mais il sera plus sec."
+ },
+ {
+  "id": "l05-loup-poele-sauce-vierge",
+  "title": "Filets de loup poêlés, sauce vierge et courgettes grillées",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "loup",
+    "g": 640,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "filets de loup (bar) avec peau"
+   },
+   {
+    "ing": "tomate",
+    "g": 150,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 65,
+    "qty": 5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "basilic",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 40,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préparez la sauce vierge : épépinez et coupez les tomates en petits dés, ajoutez les olives hachées, le basilic ciselé, l'ail haché, le citron et 3 c. à s. d'huile. Salez, poivrez.",
+   "Coupez les courgettes en tranches de 5 mm dans la longueur et faites-les griller 2 minutes par face dans une poêle-gril avec un filet d'huile.",
+   "Entaillez légèrement la peau des filets de loup pour éviter qu'ils se recroquevillent. Épongez, salez.",
+   "Chauffez le reste d'huile dans une poêle à feu moyen-vif et posez les filets côté peau. Pressez-les 30 secondes avec une spatule.",
+   "Laissez cuire 4 minutes côté peau jusqu'à ce qu'elle soit croustillante, retournez et cuisez 1 minute.",
+   "Servez les filets peau vers le haut sur les courgettes, nappés de sauce vierge."
+  ],
+  "tips": "La sauce vierge est meilleure à température ambiante : préparez-la 30 minutes avant pour que les saveurs se mélangent."
+ },
+ {
+  "id": "l05-crevettes-beurre-ail-spaghettis-courgette",
+  "title": "Crevettes au beurre d'ail et spaghettis de courgettes",
+  "category": "diner",
+  "emoji": "🍤",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "courgette",
+    "g": 800,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "beurre",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "piment",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Taillez les courgettes en spaghettis avec un spiraliseur ou un économe à julienne. Salez légèrement et laissez dégorger 10 minutes, puis épongez.",
+   "Chauffez l'huile et la moitié du beurre dans une grande poêle à feu vif. Saisissez les crevettes 1 minute par face, réservez.",
+   "Baissez le feu, ajoutez le reste du beurre, l'ail haché et le piment ; laissez mousser 1 minute sans brunir l'ail.",
+   "Ajoutez les spaghettis de courgette et faites-les sauter 2 minutes : ils doivent rester légèrement croquants.",
+   "Remettez les crevettes, ajoutez le citron et le persil, poivrez.",
+   "Servez aussitôt avec le parmesan râpé."
+  ],
+  "tips": "Ne faites pas trop cuire les spaghettis de courgette, sinon ils rendent de l'eau et deviennent mous."
+ },
+ {
+  "id": "l05-brochettes-calamars-crevettes",
+  "title": "Brochettes de calamars et crevettes marinées au paprika",
+  "category": "dejeuner",
+  "emoji": "🍢",
+  "prep": 25,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "calamar",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "tubes de calamars"
+   },
+   {
+    "ing": "crevette",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "grosses crevettes décortiquées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "paprika fumé et cumin"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "salade verte"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les tubes de calamars en carrés de 4 cm et quadrillez-les légèrement côté intérieur avec la pointe d'un couteau.",
+   "Mélangez l'huile, le paprika, le cumin, l'ail râpé, la moitié du jus de citron, sel et poivre. Ajoutez calamars et crevettes, et laissez mariner 20 minutes au frais.",
+   "Coupez le poivron en carrés de 3 cm. Si vous utilisez des pics en bois, faites-les tremper 20 minutes dans l'eau.",
+   "Enfilez en alternant calamar, crevette et poivron.",
+   "Faites griller 3 à 4 minutes par face sur un gril ou une plancha très chaude.",
+   "Arrosez du reste de citron, parsemez de persil et servez avec la salade."
+  ],
+  "tips": "Ces brochettes se cuisent aussi au barbecue : la marinade au paprika fumé leur donne un goût grillé encore plus marqué."
+ },
+ {
+  "id": "l05-brandade-cabillaud-chou-fleur",
+  "title": "Brandade de cabillaud au chou-fleur gratinée",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "cabillaud",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "filets de cabillaud"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "lait",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "lait (pour pocher)"
+   },
+   {
+    "ing": "eau",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire le chou-fleur en bouquets 12 minutes à l'eau bouillante salée, jusqu'à ce qu'il soit très tendre. Égouttez-le soigneusement.",
+   "Pendant ce temps, pochez le cabillaud 8 minutes dans le mélange lait-eau frémissant avec l'ail. Égouttez (jetez le liquide) et émiettez le poisson.",
+   "Mixez le chou-fleur avec la crème, l'huile et l'ail poché jusqu'à obtenir une purée lisse. Salez, poivrez.",
+   "Préchauffez le four à 200 °C. Mélangez délicatement la purée avec le cabillaud émietté et le persil.",
+   "Versez dans un plat à gratin, lissez et parsemez de parmesan.",
+   "Enfournez 15 à 20 minutes jusqu'à ce que le dessus soit bien doré."
+  ],
+  "tips": "La brandade se prépare la veille et se gratine au dernier moment. Elle se congèle aussi très bien en portions."
+ },
+ {
+  "id": "l05-salade-saumon-fume-avocat-oeuf",
+  "title": "Salade de saumon fumé, avocat, œuf poché et roquette",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon_fume",
+    "g": 300,
+    "qty": 8,
+    "unit": "tranche(s)",
+    "name": "saumon fumé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs très frais"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "roquette",
+    "g": 150,
+    "qty": 3,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "aneth",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre (pour pocher)"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Portez une casserole d'eau à frémissement avec le vinaigre. Cassez chaque œuf dans une tasse.",
+   "Créez un tourbillon avec une cuillère, glissez-y un œuf et pochez-le 3 minutes. Retirez à l'écumoire et égouttez sur du papier. Recommencez.",
+   "Fouettez l'huile, le citron, l'aneth, sel et poivre.",
+   "Répartissez la roquette, les tranches d'avocat et le concombre dans les assiettes.",
+   "Ajoutez le saumon fumé en rubans et posez un œuf poché sur chaque assiette.",
+   "Arrosez de vinaigrette et poivrez généreusement."
+  ],
+  "tips": "Pas à l'aise avec l'œuf poché ? Un œuf mollet (6 minutes dans l'eau bouillante) fera parfaitement l'affaire."
+ },
+ {
+  "id": "l05-merlan-pane-puree-chou-fleur",
+  "title": "Merlan pané au parmesan et purée de chou-fleur",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "merlan",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "filets de merlan"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 5,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 50,
+    "qty": 50,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire le chou-fleur en bouquets 12 minutes à l'eau salée. Égouttez-le bien, puis mixez avec le beurre et la crème. Salez, poivrez, gardez au chaud.",
+   "Coupez les filets de merlan en portions et épongez-les.",
+   "Battez l'œuf dans une assiette. Mélangez farine d'amande, parmesan, sel et poivre dans une autre.",
+   "Passez le poisson dans l'œuf puis dans la panure.",
+   "Faites dorer 3 minutes par face dans l'huile chaude à feu moyen.",
+   "Servez le merlan avec la purée parsemée de ciboulette."
+  ],
+  "tips": "Pour une version au four : 15 minutes à 200 °C sur papier cuisson, avec un filet d'huile sur le dessus."
+ },
+ {
+  "id": "l05-moules-gratinees-parmesan",
+  "title": "Moules gratinées au beurre persillé et parmesan",
+  "category": "dejeuner",
+  "emoji": "🦪",
+  "prep": 30,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "moules",
+    "g": 600,
+    "qty": 2,
+    "unit": "",
+    "name": "kg de moules en coquille"
+   },
+   {
+    "ing": "beurre",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "beurre mou"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "parmesan",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "salade verte"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Nettoyez les moules, puis faites-les ouvrir 5 minutes à feu vif dans une cocotte couverte, sans liquide.",
+   "Retirez la coquille vide de chaque moule et disposez les demi-coquilles garnies sur une plaque.",
+   "Mixez ou écrasez à la fourchette le beurre mou avec l'ail, le persil haché et le poivre.",
+   "Déposez une noisette de beurre persillé sur chaque moule, puis parsemez du mélange parmesan-poudre d'amande.",
+   "Passez sous le gril du four à 230 °C pendant 5 à 7 minutes, jusqu'à ce que ce soit doré et grésillant.",
+   "Servez aussitôt avec la salade verte à l'huile d'olive."
+  ],
+  "tips": "Le beurre persillé se prépare à l'avance et se congèle en boudin dans du film : pratique pour les escargots de mer ou les poissons grillés."
+ },
+ {
+  "id": "l05-maquereau-grille-sauce-yaourt",
+  "title": "Maquereau grillé, sauce yaourt-concombre à la menthe",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "maquereau",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "maquereaux en filets"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "roquette",
+    "g": 100,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Râpez le concombre, pressez-le dans un torchon pour retirer l'eau.",
+   "Mélangez-le au yaourt avec la menthe ciselée, l'ail râpé, sel et poivre. Réservez au frais.",
+   "Badigeonnez les filets de maquereau d'huile, saupoudrez de cumin, salez.",
+   "Faites-les griller 3 minutes côté peau puis 1 à 2 minutes côté chair sur une poêle-gril bien chaude.",
+   "Arrosez de jus de citron et servez sur la roquette avec la sauce yaourt."
+  ],
+  "tips": "La sauce yaourt-concombre se garde 2 jours au frais. Ajoutez une pincée de piment pour les adultes."
+ },
+ {
+  "id": "l05-frittata-thon-epinards",
+  "title": "Frittata au thon, épinards et feta",
+  "category": "dejeuner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 480,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "thon_boite",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "boîtes de thon au naturel égoutté"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "épinards"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 50,
+    "qty": 50,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 100,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Utilisez une poêle de 26 cm allant au four.",
+   "Faites revenir l'oignon émincé 4 minutes dans l'huile, ajoutez les épinards et laissez-les tomber 2 minutes.",
+   "Battez les œufs avec la crème, sel et poivre.",
+   "Répartissez le thon émietté dans la poêle, versez les œufs, ajoutez la feta émiettée et les tomates cerises coupées en deux.",
+   "Laissez prendre 3 minutes sur feu doux, puis enfournez 12 à 15 minutes jusqu'à ce que le centre soit pris.",
+   "Laissez tiédir 5 minutes, découpez en parts et servez avec une salade."
+  ],
+  "tips": "Délicieuse froide : une part dans la boîte-repas avec quelques crudités fait un déjeuner complet."
+ },
+ {
+  "id": "l05-papillote-dorade-tomates-olives",
+  "title": "Dorade en papillote aux tomates cerises, olives et basilic",
+  "category": "diner",
+  "emoji": "🐠",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "dorade",
+    "g": 640,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "filets de dorade"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 200,
+    "qty": 16,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "basilic",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "grosse courgette"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C et préparez 4 feuilles de papier cuisson.",
+   "Coupez la courgette en demi-rondelles fines et répartissez-les au centre des feuilles.",
+   "Posez un filet de dorade sur chaque lit de courgette, salez, poivrez.",
+   "Ajoutez les tomates cerises coupées en deux, les olives, l'ail émincé et une rondelle de citron.",
+   "Arrosez d'huile d'olive et refermez hermétiquement en papillote.",
+   "Enfournez 20 à 25 minutes. Parsemez de basilic frais à l'ouverture."
+  ],
+  "tips": "Vous pouvez remplacer la dorade par du merlan, plus économique : réduisez alors la cuisson à 15 minutes."
+ },
+ {
+  "id": "l05-saumon-sauce-aneth-asperges",
+  "title": "Saumon poêlé, sauce crème-aneth et asperges rôties",
+  "category": "diner",
+  "emoji": "🍣",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "pavés de saumon"
+   },
+   {
+    "ing": "asperge",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "asperges vertes"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "aneth",
+    "g": 10,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "aneth"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C. Cassez la base dure des asperges, posez-les sur une plaque avec 1 c. à s. d'huile, sel et poivre, et rôtissez 12 minutes.",
+   "Salez les pavés de saumon. Chauffez le reste d'huile dans une poêle à feu moyen-vif.",
+   "Posez le saumon côté peau et laissez cuire 5 minutes sans toucher, puis retournez et cuisez 2 minutes.",
+   "Retirez le saumon. Versez la crème et la moutarde dans la poêle, laissez réduire 2 minutes.",
+   "Hors du feu, ajoutez l'aneth et le jus de citron, poivrez.",
+   "Servez le saumon sur les asperges, nappé de sauce."
+  ],
+  "tips": "Hors saison des asperges, utilisez des haricots verts ou des brocolis rôtis de la même façon."
+ },
+ {
+  "id": "l05-rillettes-sardines-concombre",
+  "title": "Rillettes de sardines au fromage frais sur bateaux de concombre",
+  "category": "dejeuner",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine_boite",
+    "g": 340,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "boîtes de sardines à l'huile égouttées"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "concombre",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "concombres"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs durs"
+   },
+   {
+    "ing": "radis",
+    "g": 100,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "radis"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment d'Espelette ou paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Égouttez les sardines et retirez l'arête centrale si vous le souhaitez.",
+   "Écrasez-les à la fourchette avec le fromage frais, la moutarde, le jus de citron, sel, poivre et la ciboulette ciselée.",
+   "Coupez les concombres en deux dans la longueur et évidez les graines avec une petite cuillère.",
+   "Garnissez les bateaux de concombre de rillettes et saupoudrez de paprika.",
+   "Servez avec les œufs durs coupés en quartiers et les radis."
+  ],
+  "tips": "Les rillettes se gardent 3 jours au frais dans un bocal : parfaites aussi en collation sur des crackers de graines."
+ },
+ {
+  "id": "l05-poke-bowl-saumon-chou-fleur",
+  "title": "Poke bowl de saumon, riz de chou-fleur et avocat",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 25,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "saumon très frais"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 500,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "chou_rouge",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "chou rouge"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sésame"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de sésame ou d'olive"
+   },
+   {
+    "ing": "algue_nori",
+    "g": 6,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "feuilles de nori"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment ou sriracha"
+   }
+  ],
+  "steps": [
+   "Mixez le chou-fleur en grains de la taille du riz. Faites-le cuire 4 minutes à la poêle à sec, assaisonnez de vinaigre et laissez refroidir.",
+   "Coupez le saumon en cubes de 1,5 cm et faites-le mariner 10 minutes au frais dans la sauce soja et l'huile.",
+   "Coupez l'avocat et le concombre en tranches, émincez finement le chou rouge.",
+   "Mélangez la mayonnaise et le piment pour une mayonnaise épicée.",
+   "Répartissez le riz de chou-fleur dans 4 bols, puis disposez saumon, avocat, concombre et chou rouge en secteurs.",
+   "Ajoutez la nori découpée en lanières, le sésame et un filet de mayonnaise épicée."
+  ],
+  "tips": "Le saumon cru doit être très frais ou préalablement congelé 48 h. Remplacez-le par du thon cru ou des crevettes cuites selon le marché."
+ },
+ {
+  "id": "l05-cabillaud-curry-vert-courgettes",
+  "title": "Cabillaud en sauce curry vert, courgettes et basilic",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "cabillaud",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "dos de cabillaud en cubes"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "basilic",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "coriandre",
+    "g": 20,
+    "qty": 1,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "piment",
+    "g": 10,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "piment vert"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   }
+  ],
+  "steps": [
+   "Mixez la coriandre, la moitié du basilic, le piment, le gingembre, l'ail et le jus de citron avec 2 c. à s. de lait de coco : c'est la pâte de curry vert maison.",
+   "Faites revenir la pâte 2 minutes dans l'huile de coco à feu moyen.",
+   "Versez le reste du lait de coco et la sauce soja, portez à frémissement.",
+   "Ajoutez la courgette en demi-rondelles et le poivron en lanières, laissez cuire 6 minutes.",
+   "Déposez les cubes de cabillaud dans la sauce et pochez-les 5 à 6 minutes à feu doux sans remuer trop, pour qu'ils restent entiers.",
+   "Parsemez du reste de basilic et servez."
+  ],
+  "tips": "Ajustez le piment selon les enfants : retirez les graines ou mettez-en la moitié."
+ },
+ {
+  "id": "l05-gratin-fruits-de-mer-poireau",
+  "title": "Gratin de fruits de mer à la crème et poireau",
+  "category": "diner",
+  "emoji": "🦐",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "calamar",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "anneaux de calamar"
+   },
+   {
+    "ing": "moules",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "chair de moules cuites"
+   },
+   {
+    "ing": "poireau",
+    "g": 70,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "blanc de poireau"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "emmental",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "champignon",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C.",
+   "Émincez finement le blanc de poireau et les champignons. Faites-les revenir 6 minutes dans le beurre jusqu'à ce que l'eau soit évaporée.",
+   "Ajoutez les calamars et faites cuire 2 minutes, puis les crevettes 1 minute.",
+   "Hors du feu, incorporez les moules, la crème, le persil, sel et poivre.",
+   "Répartissez dans 4 plats individuels ou un plat à gratin et couvrez d'emmental.",
+   "Enfournez 12 à 15 minutes jusqu'à ce que le fromage soit doré et bouillonnant."
+  ],
+  "tips": "Un mélange de fruits de mer surgelé fonctionne très bien : décongelez-le et égouttez-le soigneusement avant de l'utiliser."
+ },
+ {
+  "id": "l05-sardines-grillees-salade-poivrons",
+  "title": "Sardines grillées à la plancha, salade de poivrons grillés",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine",
+    "g": 900,
+    "qty": 900,
+    "unit": "g",
+    "name": "sardines fraîches entières"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 240,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "poivrons rouges"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 8,
+    "qty": null,
+    "unit": "pincée",
+    "name": "gros sel"
+   }
+  ],
+  "steps": [
+   "Faites griller les poivrons entiers sous le gril du four ou sur la flamme 15 minutes en les retournant, jusqu'à ce que la peau noircisse.",
+   "Mettez-les dans un sac ou un saladier couvert 10 minutes, puis pelez-les, épépinez-les et coupez-les en lanières.",
+   "Assaisonnez les poivrons d'ail haché, vinaigre, 2 c. à s. d'huile et persil.",
+   "Rincez et séchez les sardines, frottez-les de gros sel et d'un peu d'huile.",
+   "Faites-les griller sur une plancha ou un gril très chaud 3 à 4 minutes par face, jusqu'à ce que la peau soit croustillante.",
+   "Servez aussitôt avec la salade de poivrons."
+  ],
+  "tips": "Les sardines grillées entières n'ont pas besoin d'être vidées si elles sont très fraîches ; demandez-les écaillées."
+ },
+ {
+  "id": "l05-tacos-laitue-crevettes-guacamole",
+  "title": "Tacos de laitue aux crevettes épicées et guacamole",
+  "category": "dejeuner",
+  "emoji": "🌮",
+  "prep": 20,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "paprika, cumin et ail en poudre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert"
+   },
+   {
+    "ing": "tomate",
+    "g": 80,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite tomate"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 20,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 0.5,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "grandes feuilles de laitue romaine"
+   },
+   {
+    "ing": "chou_rouge",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "chou rouge émincé"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préparez le guacamole : écrasez les avocats avec la moitié du citron, l'oignon rouge haché fin, la tomate en dés, la moitié de la coriandre, sel.",
+   "Mélangez les crevettes avec les épices, l'huile et une pincée de sel.",
+   "Faites-les sauter 3 minutes à feu vif dans une poêle, jusqu'à ce qu'elles soient roses et dorées.",
+   "Arrosez du reste de citron.",
+   "Garnissez chaque feuille de laitue de chou rouge, de crevettes et d'une cuillerée de guacamole, puis parsemez de coriandre."
+  ],
+  "tips": "Laissez chacun composer ses tacos à table : les enfants adorent."
+ },
+ {
+  "id": "l05-loup-croute-sel-legumes",
+  "title": "Loup en croûte de sel aux herbes, légumes vapeur à l'huile d'olive",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "loup",
+    "g": 650,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "loups (bars) vidés non écaillés (600 g chacun)"
+   },
+   {
+    "ing": "sel",
+    "g": 0,
+    "qty": 2,
+    "unit": "",
+    "name": "kg de gros sel (non consommé)"
+   },
+   {
+    "ing": "blanc_oeuf",
+    "g": 90,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "blancs d'œufs"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "herbes : thym, persil"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "brocoli",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "brocoli"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C. Mélangez le gros sel avec les blancs d'œufs et 2 c. à s. d'eau pour obtenir un sable humide.",
+   "Glissez les herbes et quelques rondelles de citron dans le ventre des poissons.",
+   "Étalez une couche de sel de 1 cm dans un plat, posez les poissons et recouvrez-les entièrement de sel en tassant.",
+   "Enfournez 30 à 35 minutes.",
+   "Pendant ce temps, faites cuire brocoli et haricots verts 8 minutes à la vapeur.",
+   "Cassez la croûte au dos d'une cuillère, retirez la peau et levez les filets.",
+   "Servez avec les légumes arrosés d'huile d'olive, de citron et de poivre."
+  ],
+  "tips": "Le sel n'est pas consommé : il crée une étuve qui garde la chair très moelleuse et juste assaisonnée."
+ },
+ {
+  "id": "l05-calamars-farcis-sauce-tomate",
+  "title": "Calamars farcis aux épinards et feta, sauce tomate",
+  "category": "diner",
+  "emoji": "🦑",
+  "prep": 30,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "calamar",
+    "g": 600,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "tubes de calamars moyens avec tentacules"
+   },
+   {
+    "ing": "epinard",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "feta",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Hachez les tentacules des calamars. Faites-les revenir 2 minutes dans 1 c. à s. d'huile avec l'ail haché, puis ajoutez les épinards et laissez tomber 3 minutes. Pressez pour éliminer l'eau.",
+   "Mélangez ce hachis avec la feta émiettée, l'œuf, le persil et du poivre.",
+   "Farcissez les tubes aux deux tiers avec une petite cuillère (la farce gonfle) et fermez avec un cure-dent.",
+   "Faites dorer les calamars farcis 2 minutes de chaque côté dans le reste d'huile.",
+   "Versez les tomates concassées et l'origan, salez légèrement, couvrez et laissez mijoter 30 minutes à feu doux.",
+   "Retirez les cure-dents et servez nappé de sauce."
+  ],
+  "tips": "Une cuisson longue et douce rend les calamars très tendres. Plat encore meilleur réchauffé le lendemain."
+ },
+ {
+  "id": "l05-salade-nicoise-thon-frais",
+  "title": "Salade niçoise au thon frais snacké",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_frais",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "steak de thon frais"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "tomate",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "tomates"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit poivron vert"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 60,
+    "qty": 16,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "radis",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "radis"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 minutes à l'eau bouillante, refroidissez-les et écalez-les.",
+   "Faites cuire les haricots verts 6 minutes à l'eau salée et refroidissez-les.",
+   "Badigeonnez le thon d'1 c. à s. d'huile, salez, poivrez, et saisissez-le 2 minutes par face dans une poêle très chaude. Tranchez-le.",
+   "Coupez tomates en quartiers, poivron en fines lanières, radis en rondelles.",
+   "Disposez sur la laitue les légumes, les olives, les œufs en quartiers et le thon.",
+   "Arrosez d'une vinaigrette faite avec le reste d'huile, le vinaigre, sel et poivre."
+  ],
+  "tips": "Version économique : remplacez le thon frais par 2 boîtes de thon à l'huile."
+ },
+ {
+  "id": "l05-saumon-gratine-brocoli-cheddar",
+  "title": "Gratin de saumon et brocoli au cheddar",
+  "category": "diner",
+  "emoji": "🍣",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "saumon sans peau"
+   },
+   {
+    "ing": "brocoli",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "cheddar",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C et beurrez un plat à gratin.",
+   "Détaillez le brocoli en petites fleurettes et faites-les blanchir 3 minutes à l'eau bouillante salée. Égouttez.",
+   "Coupez le saumon en cubes de 3 cm.",
+   "Répartissez brocoli et saumon dans le plat.",
+   "Battez la crème avec l'œuf, la moutarde, la moitié du cheddar, la ciboulette, sel et poivre ; versez sur le saumon.",
+   "Couvrez du reste de cheddar et enfournez 20 à 25 minutes, jusqu'à ce que ce soit doré."
+  ],
+  "tips": "Le gratin se prépare la veille et se garde cru, couvert au réfrigérateur ; ajoutez 5 minutes de cuisson."
+ },
+ {
+  "id": "l05-crevettes-saute-chou-sesame",
+  "title": "Sauté de crevettes, chou chinois et champignons au sésame",
+  "category": "diner",
+  "emoji": "🍤",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 400,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou blanc ou chinois"
+   },
+   {
+    "ing": "champignon",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment"
+   }
+  ],
+  "steps": [
+   "Émincez le chou en lanières de 1 cm, les champignons en lamelles et les cébettes en tronçons.",
+   "Faites chauffer 2 c. à s. d'huile dans un wok à feu très vif et saisissez les crevettes 2 minutes. Réservez.",
+   "Ajoutez le reste d'huile, l'ail, le gingembre et le piment, remuez 30 secondes.",
+   "Ajoutez les champignons et le chou, faites sauter 4 minutes en remuant constamment.",
+   "Remettez les crevettes, ajoutez la sauce soja et les cébettes, mélangez 1 minute.",
+   "Parsemez de sésame grillé et servez."
+  ],
+  "tips": "Coupez tous les ingrédients avant d'allumer le feu : la cuisson au wok va très vite."
+ },
+ {
+  "id": "l05-dorade-grillee-tahini",
+  "title": "Filets de dorade grillés, sauce tahini et salade d'herbes",
+  "category": "dejeuner",
+  "emoji": "🐠",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "dorade",
+    "g": 640,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "filets de dorade"
+   },
+   {
+    "ing": "tahini",
+    "g": 60,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "tahini"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil plat"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 100,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "eau",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Fouettez le tahini avec la moitié du jus de citron, l'ail râpé, l'eau et une pincée de sel jusqu'à obtenir une sauce lisse et nappante.",
+   "Hachez grossièrement persil et menthe, ajoutez concombre en dés et tomates cerises coupées. Assaisonnez avec 2 c. à s. d'huile et le reste du citron.",
+   "Badigeonnez les filets de dorade avec le reste d'huile et saupoudrez de cumin, sel et poivre.",
+   "Faites-les griller 3 minutes côté peau puis 1 à 2 minutes côté chair dans une poêle-gril bien chaude.",
+   "Servez les filets sur la salade d'herbes et nappez de sauce tahini."
+  ],
+  "tips": "Si la sauce tahini épaissit en attendant, détendez-la avec une cuillère d'eau."
+ },
+ {
+  "id": "l05-omelette-crevettes-ciboulette",
+  "title": "Omelette roulée aux crevettes et ciboulette",
+  "category": "dejeuner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "crevette",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "crevettes cuites décortiquées"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 40,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "beurre"
+   },
+   {
+    "ing": "roquette",
+    "g": 60,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Battez les œufs avec la ciboulette, sel et poivre.",
+   "Faites chauffer la moitié du beurre dans une poêle de 24 cm à feu moyen et faites sauter les crevettes 1 minute. Réservez.",
+   "Ajoutez le reste du beurre, versez la moitié des œufs et laissez prendre 2 minutes en ramenant les bords au centre.",
+   "Quand le dessus est encore baveux, étalez la moitié du fromage frais et des crevettes, roulez l'omelette et glissez-la sur une assiette.",
+   "Recommencez pour la seconde omelette.",
+   "Servez avec la roquette arrosée d'huile d'olive."
+  ],
+  "tips": "Ajoutez quelques dés d'avocat dans la garniture pour plus de gras et de fondant."
+ },
+ {
+  "id": "l05-boulettes-sardines-sauce-tomate-basilic",
+  "title": "Boulettes de sardines fraîches, sauce tomate au basilic",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 30,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Économique",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "filets de sardines sans arêtes"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "persil",
+    "g": 20,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "basilic",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette en spaghettis"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Hachez les filets de sardines au couteau ou par impulsions au mixeur, sans les réduire en purée.",
+   "Mélangez avec l'œuf, la farine d'amande, le persil, la moitié de l'ail haché, sel et poivre. Réfrigérez 15 minutes.",
+   "Formez des boulettes de la taille d'une noix avec les mains humides.",
+   "Faites-les dorer 4 minutes dans 2 c. à s. d'huile en les retournant délicatement. Réservez.",
+   "Dans la même poêle, faites revenir le reste d'ail 30 secondes, ajoutez les tomates, salez et laissez mijoter 10 minutes.",
+   "Remettez les boulettes dans la sauce et laissez mijoter 8 minutes à couvert.",
+   "Faites sauter les spaghettis de courgette 2 minutes dans le reste d'huile et servez avec les boulettes, le basilic et le parmesan."
+  ],
+  "tips": "Les boulettes se congèlent crues sur une plaque, puis en sac : sortez-les directement dans la sauce, avec 5 minutes de cuisson en plus."
+ },
+ {
+  "id": "l05-merlan-papillote-coco-citronnelle",
+  "title": "Merlan en papillote au lait de coco et gingembre",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 18,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Monde",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "merlan",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "filets de merlan"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "epinard",
+    "g": 150,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "jeunes pousses d'épinards"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 0.5,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "curcuma"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Mélangez le lait de coco, le gingembre, le curcuma, la sauce soja et le jus de citron vert.",
+   "Coupez le poivron en fines lanières.",
+   "Sur 4 feuilles de papier cuisson, déposez une poignée d'épinards, puis un filet de merlan, quelques lanières de poivron.",
+   "Relevez les bords et versez 3 c. à s. de sauce coco sur chaque poisson. Fermez hermétiquement.",
+   "Enfournez 15 à 18 minutes.",
+   "Ouvrez, parsemez de coriandre et servez avec du riz de chou-fleur."
+  ],
+  "tips": "Pliez bien les bords en plusieurs fois : la sauce ne doit pas s'échapper pendant la cuisson."
+ },
+ {
+  "id": "l05-saumon-fume-roules-fromage-concombre",
+  "title": "Assiette de roulés de saumon fumé au fromage frais et salade de concombre",
+  "category": "dejeuner",
+  "emoji": "🍣",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon_fume",
+    "g": 400,
+    "qty": 12,
+    "unit": "tranche(s)",
+    "name": "saumon fumé"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "aneth",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "aneth"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "concombre",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 100,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "roquette",
+    "g": 100,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le fromage frais avec la moitié de l'aneth, le zeste du citron et du poivre.",
+   "Étalez une fine couche sur chaque tranche de saumon fumé et roulez-la serrée. Réfrigérez 10 minutes puis coupez en tronçons de 3 cm.",
+   "Coupez le concombre en fines rondelles et mélangez-le avec le yaourt, le reste d'aneth, le jus de citron, sel et poivre.",
+   "Faites griller les graines de courge 2 minutes à sec dans une poêle.",
+   "Dressez la roquette, la salade de concombre et les roulés, et parsemez de graines de courge."
+  ],
+  "tips": "Le saumon fumé est déjà salé : salez très légèrement la salade de concombre."
+ },
+ {
+  "id": "l05-thon-poele-poivrons-oignons",
+  "title": "Steaks de thon poêlés aux poivrons fondants et olives",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_frais",
+    "g": 640,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "steaks de thon (160 g)"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "poivrons rouges"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika doux"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Émincez les poivrons en lanières et l'oignon en fines lamelles.",
+   "Faites-les fondre 15 minutes à feu moyen dans 3 c. à s. d'huile avec l'ail, en remuant souvent.",
+   "Ajoutez le paprika, les olives et le vinaigre, salez et laissez cuire 3 minutes. Gardez au chaud.",
+   "Badigeonnez les steaks de thon du reste d'huile, salez et poivrez.",
+   "Saisissez-les dans une poêle très chaude 2 minutes par face pour un cœur rosé, 3 minutes pour un thon plus cuit.",
+   "Servez sur les poivrons et parsemez de persil."
+  ],
+  "tips": "Ne prolongez pas la cuisson du thon : au-delà de 3 minutes par face, il devient sec."
+ },
+ {
+  "id": "l05-salade-calamars-tiede-roquette",
+  "title": "Salade tiède de calamars, roquette, feta et olives",
+  "category": "dejeuner",
+  "emoji": "🦑",
+  "prep": 15,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "calamar",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "anneaux de calamars"
+   },
+   {
+    "ing": "roquette",
+    "g": 150,
+    "qty": 3,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "feta",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 60,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 120,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Épongez soigneusement les anneaux de calamars.",
+   "Préparez la vinaigrette : 3 c. à s. d'huile, jus de citron, origan, sel et poivre.",
+   "Disposez la roquette, les tomates cerises coupées, le concombre en dés, les olives et la feta émiettée dans un grand plat.",
+   "Chauffez le reste d'huile à feu très vif, saisissez les calamars avec l'ail écrasé 2 minutes en remuant.",
+   "Versez les calamars chauds sur la salade, arrosez de vinaigrette et servez immédiatement."
+  ],
+  "tips": "La chaleur des calamars fait légèrement fondre la feta : servez sans attendre."
+ },
+ {
+  "id": "l05-maquereau-escabeche-legumes",
+  "title": "Maquereaux en escabèche aux légumes croquants",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Sans lactose",
+   "Batch cooking",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "maquereau",
+    "g": 640,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "filets de maquereau"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 65,
+    "qty": 5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "carotte",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "carotte"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "laurier, thym et grains de coriandre"
+   },
+   {
+    "ing": "eau",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "salade verte"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Taillez la carotte en très fines rondelles, l'oignon rouge en lamelles et le poivron en fines lanières.",
+   "Faites revenir les légumes et l'ail 3 minutes dans 2 c. à s. d'huile, ajoutez vinaigre, eau, épices, sel et poivre ; laissez frémir 5 minutes.",
+   "Salez les filets de maquereau et faites-les dorer 2 minutes côté peau, 1 minute côté chair dans le reste d'huile.",
+   "Disposez les filets dans un plat creux et versez la marinade chaude avec les légumes par-dessus.",
+   "Laissez refroidir, puis réfrigérez au moins 4 heures (idéalement une nuit).",
+   "Servez froid avec la salade verte, arrosé d'un peu de marinade."
+  ],
+  "tips": "L'escabèche se garde 4 jours au réfrigérateur et s'améliore avec le temps."
+ },
+ {
+  "id": "l05-chaudree-poisson-chou-fleur",
+  "title": "Chaudrée de poisson blanc et fruits de mer au chou-fleur",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "cabillaud",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "cabillaud ou merlan en cubes"
+   },
+   {
+    "ing": "crevette",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "moules",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chair de moules"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "celeri",
+    "g": 80,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "branche de céleri"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "bouillon",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre dans une cocotte, faites suer l'oignon et le céleri émincés 5 minutes.",
+   "Ajoutez le chou-fleur en petits bouquets et le bouillon, portez à ébullition et laissez cuire 12 minutes.",
+   "Prélevez un tiers du chou-fleur avec un peu de bouillon, mixez-le en purée et remettez-la dans la cocotte pour épaissir.",
+   "Ajoutez la crème et portez à frémissement.",
+   "Déposez le poisson et laissez pocher 4 minutes, puis ajoutez crevettes et moules et cuisez 2 minutes.",
+   "Rectifiez l'assaisonnement et servez dans des bols parsemés de ciboulette."
+  ],
+  "tips": "Une soupe-repas réconfortante : préparez la base la veille et ajoutez les produits de la mer au moment de réchauffer."
+ },
+ {
+  "id": "l05-crevettes-gratinees-ail-fromage",
+  "title": "Crevettes gratinées à l'ail et à la mozzarella, salade verte",
+  "category": "diner",
+  "emoji": "🍤",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "grosses crevettes décortiquées"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan et piment"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C.",
+   "Faites revenir l'ail haché 30 secondes dans 1 c. à s. d'huile, ajoutez les tomates et l'origan, laissez réduire 5 minutes.",
+   "Répartissez la sauce dans 4 cassolettes, ajoutez les crevettes crues, salez et poivrez.",
+   "Couvrez de mozzarella râpée.",
+   "Enfournez 10 à 12 minutes, jusqu'à ce que le fromage soit doré et les crevettes roses.",
+   "Parsemez de persil et servez avec la laitue assaisonnée du reste d'huile et du vinaigre."
+  ],
+  "tips": "Servez dans les cassolettes, encore grésillantes, avec une cuillère pour récupérer la sauce."
+ },
+ {
+  "id": "l05-cabillaud-paprika-puree-celeri",
+  "title": "Dos de cabillaud rôti au paprika fumé, purée céleri-chou-fleur",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "cabillaud",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "dos de cabillaud"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "paprika fumé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "celeri_rave",
+    "g": 300,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit céleri-rave"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 250,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 60,
+    "qty": 60,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Épluchez le céleri-rave, coupez-le en cubes, détaillez le chou-fleur en bouquets et faites cuire le tout 20 minutes à l'eau bouillante salée jusqu'à ce qu'il soit tendre.",
+   "Préchauffez le four à 200 °C. Mélangez le paprika fumé, l'ail râpé, l'huile et une pincée de sel.",
+   "Badigeonnez les dos de cabillaud de ce mélange et posez-les dans un plat.",
+   "Enfournez 12 à 15 minutes, jusqu'à ce que la chair soit nacrée.",
+   "Égouttez les légumes et mixez-les avec le beurre et la crème. Salez, poivrez.",
+   "Servez le cabillaud sur la purée, avec un filet de citron et du persil."
+  ],
+  "tips": "Le céleri-rave fait une purée douce et légèrement sucrée, très appréciée des enfants."
+ },
+ {
+  "id": "l05-wraps-nori-thon-avocat",
+  "title": "Wraps de nori au thon, avocat et omelette",
+  "category": "dejeuner",
+  "emoji": "🍙",
+  "prep": 20,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_huile",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "boîtes de thon à l'huile égoutté"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 60,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "algue_nori",
+    "g": 24,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "feuilles de nori"
+   },
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "laitue",
+    "g": 80,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "feuilles de laitue"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "huile"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Battez les œufs avec une pincée de sel et faites une omelette fine dans une poêle huilée. Laissez refroidir et coupez-la en lanières.",
+   "Mélangez le thon émietté avec la mayonnaise et du poivre.",
+   "Coupez l'avocat et le concombre en bâtonnets.",
+   "Posez une feuille de nori côté brillant dessous, puis une feuille de laitue, du thon, de l'omelette, de l'avocat et du concombre sur le tiers inférieur.",
+   "Roulez serré, humidifiez le bord de la nori avec un doigt mouillé pour sceller. Coupez en deux.",
+   "Servez avec la sauce soja pour tremper."
+  ],
+  "tips": "Préparez-les au dernier moment : la nori ramollit au contact de l'humidité."
+ },
+ {
+  "id": "l05-loup-four-artichauts-citron",
+  "title": "Filets de loup au four, artichauts et citron confit",
+  "category": "diner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "loup",
+    "g": 640,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "filets de loup (bar)"
+   },
+   {
+    "ing": "artichaut",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "cœurs d'artichaut (surgelés ou en bocal)"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 30,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron confit (écorce)"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 100,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C.",
+   "Coupez les cœurs d'artichaut en quartiers et mélangez-les dans un plat avec les tomates cerises, l'ail émincé, 2 c. à s. d'huile, sel et poivre. Enfournez 10 minutes.",
+   "Pendant ce temps, rincez l'écorce de citron confit et coupez-la en fines lanières.",
+   "Posez les filets de loup sur les légumes, peau dessous, ajoutez les olives et le citron confit, et arrosez du reste d'huile.",
+   "Enfournez 10 à 12 minutes jusqu'à ce que la chair soit opaque.",
+   "Parsemez de persil et servez."
+  ],
+  "tips": "Le citron confit est salé : n'ajoutez que peu de sel sur le poisson."
+ },
+ {
+  "id": "l05-salade-saumon-roti-brocoli-amandes",
+  "title": "Salade-repas de saumon rôti, brocoli et amandes grillées",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "saumon sans peau"
+   },
+   {
+    "ing": "brocoli",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli"
+   },
+   {
+    "ing": "amande_effilee",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "amandes effilées"
+   },
+   {
+    "ing": "epinard",
+    "g": 120,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "pousses d'épinards"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C. Détaillez le brocoli en petites fleurettes et mélangez-les avec 1 c. à s. d'huile, sel et poivre sur une plaque.",
+   "Posez le saumon sur la même plaque, assaisonnez-le de paprika, sel et poivre.",
+   "Enfournez 12 à 15 minutes : le brocoli doit être légèrement grillé et le saumon juste cuit.",
+   "Faites griller les amandes à sec 2 minutes dans une poêle.",
+   "Fouettez la moutarde, le citron et le reste d'huile.",
+   "Disposez les épinards, le brocoli, l'avocat en tranches et le saumon effeuillé ; arrosez de vinaigrette et parsemez d'amandes."
+  ],
+  "tips": "Se prépare en boîtes-repas pour 3 jours : ajoutez l'avocat et la vinaigrette le jour même."
+ },
+ {
+  "id": "l05-moules-curry-coco",
+  "title": "Moules au curry et lait de coco",
+  "category": "diner",
+  "emoji": "🦪",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "moules",
+    "g": 600,
+    "qty": 2,
+    "unit": "",
+    "name": "kg de moules en coquille"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "curry doux"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 0.5,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "crevette",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   }
+  ],
+  "steps": [
+   "Grattez et rincez les moules, retirez les barbes, jetez celles qui sont cassées.",
+   "Dans un grand faitout, faites revenir l'oignon, l'ail et le gingembre hachés 3 minutes dans l'huile de coco.",
+   "Ajoutez le curry et remuez 30 secondes, puis versez le lait de coco.",
+   "Ajoutez les moules, couvrez et faites cuire à feu vif 5 minutes en secouant la cocotte.",
+   "Ajoutez les crevettes, couvrez à nouveau et cuisez 2 minutes, jusqu'à ce que toutes les moules soient ouvertes.",
+   "Parsemez de coriandre et servez dans des assiettes creuses avec la sauce."
+  ],
+  "tips": "Les crevettes complètent la portion de protéines : les moules seules sont un peu légères pour un plat principal."
+ },
+ {
+  "id": "l05-galettes-saumon-sauce-yaourt-aneth",
+  "title": "Galettes de saumon et courgette, sauce yaourt à l'aneth",
+  "category": "dejeuner",
+  "emoji": "🍣",
+  "prep": 20,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon",
+    "g": 450,
+    "qty": 450,
+    "unit": "g",
+    "name": "saumon sans peau"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 5,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "aneth",
+    "g": 10,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "aneth"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "salade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Râpez la courgette, salez-la et laissez-la dégorger 10 minutes, puis pressez-la fortement dans un torchon.",
+   "Hachez le saumon au couteau en petits dés.",
+   "Mélangez saumon, courgette, œuf, farine d'amande, cébettes, la moitié de l'aneth, sel et poivre. Formez 8 galettes.",
+   "Faites-les dorer 4 minutes par face dans l'huile à feu moyen.",
+   "Mélangez le yaourt avec le reste d'aneth, le jus de citron, sel et poivre.",
+   "Servez les galettes avec la sauce et la salade."
+  ],
+  "tips": "Une bonne façon d'utiliser les chutes de saumon, souvent vendues moins cher chez le poissonnier."
+ }
+]

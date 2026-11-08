@@ -1,0 +1,5764 @@
+[
+ {
+  "id": "l04-steak-sauce-poivre",
+  "title": "Steak au poivre et crème, haricots verts",
+  "category": "diner",
+  "emoji": "🥩",
+  "prep": 10,
+  "cook": 15,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 360,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "steaks de faux-filet (180 g chacun)"
+   },
+   {
+    "ing": "poivre",
+    "g": 6,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "poivre noir concassé"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Sortez les steaks du réfrigérateur 20 minutes avant la cuisson. Salez-les et pressez le poivre concassé sur les deux faces.",
+   "Faites cuire les haricots verts 8 minutes à l'eau bouillante salée, égouttez-les et gardez-les au chaud.",
+   "Chauffez l'huile et la moitié du beurre dans une poêle à feu vif. Saisissez les steaks 2 à 3 minutes par face pour une cuisson à point, puis réservez-les sur une assiette sous une feuille d'aluminium.",
+   "Baissez le feu, versez la crème et la moutarde dans la poêle en grattant les sucs. Laissez réduire 2 à 3 minutes jusqu'à ce que la sauce nappe la cuillère.",
+   "Ajoutez le reste du beurre et le jus rendu par la viande, mélangez, rectifiez le sel.",
+   "Servez les steaks nappés de sauce avec les haricots verts poêlés 1 minute dans la sauce restante."
+  ],
+  "tips": "Pour une sauce plus douce, remplacez la moitié du poivre noir par du poivre vert en saumure écrasé."
+ },
+ {
+  "id": "l04-burger-sans-pain-laitue",
+  "title": "Burgers sans pain en feuilles de laitue",
+  "category": "dejeuner",
+  "emoji": "🍔",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "cheddar",
+    "g": 80,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "cheddar"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "grosse laitue iceberg"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "cornichon",
+    "g": 60,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika fumé"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "huile"
+   }
+  ],
+  "steps": [
+   "Mélangez le bœuf haché avec le paprika, le sel et le poivre sans trop travailler la viande. Formez 4 galettes de 2 cm d'épaisseur et creusez légèrement le centre avec le pouce.",
+   "Détachez 8 grandes feuilles de laitue, rincez-les et séchez-les bien. Tranchez finement la tomate, l'oignon et les cornichons.",
+   "Mélangez la mayonnaise et la moutarde pour la sauce.",
+   "Chauffez une poêle huilée à feu vif. Cuisez les galettes 3 à 4 minutes, retournez-les, posez une tranche de cheddar et couvrez 2 minutes pour faire fondre.",
+   "Superposez deux feuilles de laitue, tartinez de sauce, ajoutez la galette, la tomate, l'oignon et les cornichons, puis refermez avec deux autres feuilles.",
+   "Enveloppez la moitié basse dans du papier cuisson pour manger à la main sans que tout tombe."
+  ],
+  "tips": "Les galettes crues se congèlent séparées par du papier cuisson ; cuisez-les directement surgelées 5 minutes par face."
+ },
+ {
+  "id": "l04-chili-sans-haricots",
+  "title": "Chili con carne sans haricots",
+  "category": "diner",
+  "emoji": "🌶️",
+  "prep": 15,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Batch cooking",
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de tomates concassées (400 g)"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "cumin, paprika et origan"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "piment en poudre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 80,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "cheddar",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Émincez l'oignon, hachez l'ail et coupez le poivron en petits dés.",
+   "Chauffez l'huile dans une cocotte, faites revenir l'oignon et le poivron 5 minutes à feu moyen.",
+   "Ajoutez le bœuf haché, montez le feu et faites-le dorer 6 à 8 minutes en l'émiettant à la cuillère en bois.",
+   "Incorporez l'ail, le concentré, les épices et le piment ; remuez 1 minute pour torréfier les épices.",
+   "Versez les tomates concassées et 100 ml d'eau, salez. Couvrez et laissez mijoter 30 minutes à feu doux en remuant de temps en temps.",
+   "Servez dans des bols avec une cuillère de crème fraîche, le cheddar râpé et la coriandre ciselée."
+  ],
+  "tips": "Encore meilleur le lendemain : se garde 3 jours au réfrigérateur et 3 mois au congélateur."
+ },
+ {
+  "id": "l04-boulettes-sauce-tomate-mozzarella",
+  "title": "Boulettes de bœuf gratinées sauce tomate-mozzarella",
+  "category": "diner",
+  "emoji": "🧆",
+  "prep": 20,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de tomates concassées"
+   },
+   {
+    "ing": "basilic",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 125,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boule de mozzarella"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le bœuf, l'œuf, le parmesan, la poudre d'amande, 1 gousse d'ail râpée, le persil haché, le sel et le poivre.",
+   "Formez une vingtaine de boulettes de la taille d'une noix avec les mains humides.",
+   "Dorez-les 6 minutes dans une poêle avec 1 c. à s. d'huile à feu moyen-vif, en les roulant pour colorer toutes les faces.",
+   "Dans une sauteuse, faites revenir l'autre gousse d'ail hachée dans le reste d'huile, ajoutez les tomates et le sel, laissez réduire 10 minutes.",
+   "Préchauffez le four à 200 °C. Disposez les boulettes dans un plat, nappez de sauce, couvrez de mozzarella en morceaux.",
+   "Enfournez 12 minutes jusqu'à ce que le fromage bouillonne, puis parsemez de basilic."
+  ],
+  "tips": "Doublez la quantité de boulettes et congelez-les crues sur une plaque avant de les mettre en sachet."
+ },
+ {
+  "id": "l04-boeuf-bourguignon-sans-vin",
+  "title": "Bœuf mijoté façon bourguignon aux champignons",
+  "category": "dejeuner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 150,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Batch cooking",
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_ragout",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "g",
+    "name": "paleron de bœuf en cubes"
+   },
+   {
+    "ing": "champignon",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "carotte",
+    "g": 80,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "carotte"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "bouillon",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "bouillon de bœuf"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym et laurier séchés"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Séchez la viande avec du papier absorbant, salez et poivrez.",
+   "Dans une cocotte, faites dorer la viande en 3 fois dans l'huile très chaude, 4 minutes par fournée, et réservez.",
+   "Baissez le feu, faites revenir l'oignon émincé et la carotte en rondelles 5 minutes, puis l'ail et le concentré 1 minute.",
+   "Déglacez avec le vinaigre, remettez la viande, ajoutez le bouillon et le thym-laurier. Portez à frémissement.",
+   "Couvrez et laissez mijoter 2 h 15 à feu très doux (ou au four à 150 °C) jusqu'à ce que la viande se défasse à la fourchette.",
+   "Pendant ce temps, faites sauter les champignons coupés en quatre dans le beurre 8 minutes à feu vif.",
+   "Ajoutez les champignons 15 minutes avant la fin, découvrez pour réduire la sauce si besoin, parsemez de persil."
+  ],
+  "tips": "Servez avec une purée de chou-fleur. Le plat se réchauffe très bien et se congèle en portions."
+ },
+ {
+  "id": "l04-lasagnes-courgette",
+  "title": "Lasagnes de courgettes à la bolognaise",
+  "category": "diner",
+  "emoji": "🍝",
+  "prep": 30,
+  "cook": 45,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Batch cooking",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 800,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "grosses courgettes"
+   },
+   {
+    "ing": "boeuf_hache",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "ricotta",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "basilic",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les courgettes en longues tranches de 4 mm à la mandoline. Salez-les, laissez dégorger 15 minutes, puis épongez-les fortement.",
+   "Faites griller les tranches 2 minutes par face sur une poêle-gril sèche pour chasser l'eau.",
+   "Faites revenir l'oignon haché dans l'huile, ajoutez le bœuf et dorez 8 minutes. Ajoutez l'ail, l'origan, les tomates, sel et poivre ; mijotez 15 minutes jusqu'à sauce épaisse.",
+   "Mélangez la ricotta, l'œuf, la moitié du parmesan et le basilic ciselé.",
+   "Préchauffez le four à 190 °C. Dans un plat de 20 x 30 cm, alternez courgettes, bolognaise, ricotta et mozzarella, en 3 couches.",
+   "Terminez par la mozzarella restante et le parmesan. Enfournez 30 minutes.",
+   "Laissez reposer 10 minutes hors du four avant de découper pour que les parts se tiennent."
+  ],
+  "tips": "Le dégorgement et le grillage des courgettes sont indispensables, sinon les lasagnes rendent beaucoup d'eau."
+ },
+ {
+  "id": "l04-moussaka-keto",
+  "title": "Moussaka keto à l'agneau et béchamel au fromage",
+  "category": "diner",
+  "emoji": "🍆",
+  "prep": 30,
+  "cook": 50,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 700,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "grosses aubergines"
+   },
+   {
+    "ing": "agneau_epaule",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "épaule d'agneau hachée"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "cannelle, cumin et origan"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "fromage frais"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "parmesan",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en tranches de 1 cm, badigeonnez-les d'huile, salez et rôtissez-les 20 minutes sur plaque.",
+   "Faites revenir l'oignon haché dans 1 c. à s. d'huile, ajoutez l'agneau et dorez 8 minutes.",
+   "Ajoutez l'ail, les épices et les tomates, salez, laissez mijoter 15 minutes à découvert jusqu'à ce que la sauce soit épaisse. Ajoutez le persil.",
+   "Pour la béchamel keto, chauffez la crème avec le fromage frais en fouettant, retirez du feu, incorporez les œufs battus et la moitié du parmesan.",
+   "Dans un plat, alternez aubergines et viande, terminez par les aubergines puis versez la béchamel et le reste de parmesan.",
+   "Baissez le four à 180 °C et enfournez 30 minutes jusqu'à ce que le dessus soit doré.",
+   "Laissez tiédir 15 minutes avant de servir."
+  ],
+  "tips": "Peut se préparer la veille : assemblez, couvrez et réfrigérez, puis ajoutez 10 minutes de cuisson."
+ },
+ {
+  "id": "l04-hachis-parmentier-chou-fleur",
+  "title": "Hachis parmentier à la purée de chou-fleur",
+  "category": "dejeuner",
+  "emoji": "🥧",
+  "prep": 20,
+  "cook": 35,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 900,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "gros chou-fleur"
+   },
+   {
+    "ing": "boeuf_hache",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "bouillon",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "bouillon de bœuf"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 80,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "emmental",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le chou-fleur en fleurettes et faites-le cuire 12 minutes à la vapeur jusqu'à ce qu'il soit très tendre.",
+   "Égouttez-le parfaitement, puis mixez-le avec le beurre, la crème, la muscade, le sel et le poivre en purée lisse.",
+   "Dans une poêle huilée, faites revenir l'oignon haché 4 minutes, ajoutez le bœuf et faites-le dorer 8 minutes.",
+   "Ajoutez l'ail, le concentré et le bouillon, laissez réduire 5 minutes, ajoutez le persil.",
+   "Préchauffez le four à 200 °C. Étalez la viande dans un plat, couvrez de purée et parsemez d'emmental.",
+   "Enfournez 20 minutes puis 3 minutes sous le gril pour une croûte dorée."
+  ],
+  "tips": "Laissez la purée s'égoutter dans une passoire 5 minutes avant de mixer : elle sera plus ferme."
+ },
+ {
+  "id": "l04-brochettes-agneau-tzatziki",
+  "title": "Brochettes d'agneau marinées, sauce tzatziki",
+  "category": "diner",
+  "emoji": "🍢",
+  "prep": 25,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "épaule d'agneau désossée"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "origan et paprika"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez l'agneau en cubes de 3 cm. Mélangez avec le jus de citron, l'huile, 1 gousse d'ail râpée, les épices, sel et poivre ; marinez 1 heure au frais (ou la nuit).",
+   "Râpez le concombre, pressez-le dans un torchon pour retirer l'eau, puis mélangez-le au yaourt avec l'autre gousse d'ail et la menthe ciselée. Salez.",
+   "Coupez le poivron et l'oignon en carrés de 3 cm.",
+   "Enfilez sur des piques en alternant viande et légumes.",
+   "Faites griller 10 à 12 minutes sur un gril ou une poêle-gril très chaude, en tournant toutes les 3 minutes.",
+   "Laissez reposer 3 minutes et servez avec le tzatziki bien frais."
+  ],
+  "tips": "Si vous utilisez des piques en bois, faites-les tremper 30 minutes dans l'eau pour qu'elles ne brûlent pas."
+ },
+ {
+  "id": "l04-cotelettes-agneau-herbes-puree-celeri",
+  "title": "Côtelettes d'agneau aux herbes et purée de céleri",
+  "category": "diner",
+  "emoji": "🍖",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_cotelette",
+    "g": 800,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "côtelettes d'agneau"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym et romarin séchés"
+   },
+   {
+    "ing": "celeri_rave",
+    "g": 400,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "céleri-rave"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 60,
+    "qty": 60,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Frottez les côtelettes avec 1 c. à s. d'huile, l'ail écrasé, le thym-romarin, sel et poivre ; laissez reposer 15 minutes.",
+   "Épluchez le céleri-rave, coupez-le en cubes et cuisez-le 20 minutes à l'eau salée jusqu'à ce qu'il soit tendre.",
+   "Égouttez et mixez le céleri avec le beurre et la crème chaude, salez, poivrez.",
+   "Chauffez le reste de l'huile dans une grande poêle à feu vif. Saisissez les côtelettes 2 à 3 minutes par face, en dorant aussi le gras sur la tranche.",
+   "Laissez reposer 3 minutes, arrosez d'un filet de citron et parsemez de persil.",
+   "Servez 3 côtelettes par personne sur la purée de céleri."
+  ],
+  "tips": "La purée de céleri-rave est riche en glucides : gardez la portion à environ 100 g par personne."
+ },
+ {
+  "id": "l04-roti-boeuf-legumes",
+  "title": "Rôti de bœuf et légumes rôtis",
+  "category": "dejeuner",
+  "emoji": "🥩",
+  "prep": 15,
+  "cook": 45,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 1000,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "rôti de bœuf (1 kg)"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "moutarde",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym séché"
+   },
+   {
+    "ing": "brocoli",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli"
+   },
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Sortez le rôti 1 heure avant la cuisson. Préchauffez le four à 220 °C.",
+   "Badigeonnez-le de moutarde mélangée à 1 c. à s. d'huile, au thym, sel et poivre.",
+   "Saisissez-le de toutes parts 5 minutes dans une poêle très chaude, puis placez-le dans un plat avec les gousses d'ail en chemise et le beurre.",
+   "Coupez les légumes en morceaux, mélangez avec le reste d'huile et du sel, et disposez-les autour du rôti.",
+   "Enfournez 35 à 40 minutes pour une cuisson rosée (55 °C à cœur), en arrosant à mi-cuisson.",
+   "Laissez reposer le rôti 10 minutes sous aluminium avant de le trancher finement. Servez avec les légumes et le jus du plat."
+  ],
+  "tips": "Les restes, tranchés finement et froids, font d'excellentes salades le lendemain."
+ },
+ {
+  "id": "l04-escalope-veau-champignons",
+  "title": "Escalopes de veau à la crème de champignons",
+  "category": "diner",
+  "emoji": "🍄",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "escalopes de veau"
+   },
+   {
+    "ing": "champignon",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "oignon",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "échalote ou oignon"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "pousses d'épinard"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Aplatissez les escalopes entre deux feuilles de papier cuisson, salez et poivrez.",
+   "Chauffez l'huile et la moitié du beurre à feu vif, cuisez les escalopes 2 minutes par face. Réservez au chaud.",
+   "Dans la même poêle, faites revenir l'oignon haché et les champignons émincés avec le reste du beurre 6 minutes.",
+   "Versez la crème et la moutarde, laissez réduire 3 minutes, remettez les escalopes 1 minute pour les réchauffer.",
+   "Faites tomber les épinards 2 minutes dans une autre poêle avec une pincée de sel.",
+   "Servez les escalopes nappées de sauce, parsemées de persil, avec les épinards."
+  ],
+  "tips": "Le veau cuit très vite : au-delà de 2 minutes par face, il devient sec."
+ },
+ {
+  "id": "l04-merguez-poelee-poivrons-oeufs",
+  "title": "Poêlée de merguez aux poivrons et œufs",
+  "category": "dejeuner",
+  "emoji": "🌭",
+  "prep": 10,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "merguez",
+    "g": 500,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "merguez halal"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites dorer les merguez 8 minutes dans une grande poêle sans matière grasse, puis coupez-les en tronçons de 3 cm.",
+   "Videz le gras en excès, ajoutez l'huile, l'oignon et les poivrons en lanières ; faites revenir 6 minutes.",
+   "Ajoutez les tomates concassées et le cumin, salez légèrement, laissez réduire 5 minutes, puis remettez les merguez.",
+   "Creusez 4 puits dans la sauce, cassez un œuf dans chacun, couvrez et cuisez 5 à 6 minutes jusqu'à ce que les blancs soient pris.",
+   "Parsemez de coriandre et servez directement dans la poêle."
+  ],
+  "tips": "Piquez les merguez avant cuisson pour qu'elles rendent leur gras sans éclater."
+ },
+ {
+  "id": "l04-steak-hache-oeuf-cheval-salade",
+  "title": "Steak haché à cheval, salade d'avocat",
+  "category": "dejeuner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "steaks hachés de 150 g"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "roquette",
+    "g": 60,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Salez et poivrez les steaks hachés.",
+   "Chauffez une poêle avec 1 c. à c. d'huile à feu vif et cuisez les steaks 3 minutes par face. Réservez.",
+   "Dans la même poêle à feu moyen, faites cuire les œufs au plat 3 minutes en gardant le jaune coulant.",
+   "Coupez l'avocat en dés et les tomates en deux ; mélangez avec la roquette, le reste d'huile, le jus de citron et du sel.",
+   "Posez un œuf sur chaque steak et servez avec la salade."
+  ],
+  "tips": "Arrosez les blancs d'œufs d'une cuillère de gras chaud de la poêle pour qu'ils cuisent sans retourner."
+ },
+ {
+  "id": "l04-bowl-burger-deconstruit",
+  "title": "Bowl burger déconstruit sauce secrète",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue romaine"
+   },
+   {
+    "ing": "cheddar",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "cheddar en dés"
+   },
+   {
+    "ing": "cornichon",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 150,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et ail en poudre"
+   },
+   {
+    "ing": "sesame",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites dorer le bœuf haché 8 minutes dans une poêle chaude avec le paprika, l'ail en poudre, le sel et le poivre, en l'émiettant.",
+   "Préparez la sauce : mélangez la mayonnaise, le concentré, la moutarde, le vinaigre et 2 cornichons hachés finement.",
+   "Émincez la romaine, coupez les tomates en deux, l'oignon en fines lamelles et le reste des cornichons en rondelles.",
+   "Répartissez la salade dans 4 bols, ajoutez la viande chaude, le cheddar, les tomates, l'oignon et les cornichons.",
+   "Nappez de sauce et parsemez de sésame grillé 1 minute à sec à la poêle."
+  ],
+  "tips": "Pour le bureau, gardez la viande et la sauce dans des boîtes séparées et réchauffez seulement la viande."
+ },
+ {
+  "id": "l04-gratin-courgettes-viande-hachee",
+  "title": "Gratin de courgettes à la viande hachée",
+  "category": "diner",
+  "emoji": "🧀",
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 700,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "boeuf_hache",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "emmental",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "herbes de Provence"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les courgettes en rondelles de 5 mm et faites-les revenir 8 minutes à feu vif dans la moitié de l'huile pour leur faire perdre leur eau. Salez.",
+   "Dans une autre poêle, faites revenir l'oignon haché avec le reste d'huile, ajoutez le bœuf, l'ail et les herbes ; cuisez 8 minutes.",
+   "Préchauffez le four à 190 °C. Battez les œufs avec la crème, la moitié de l'emmental, sel et poivre.",
+   "Dans un plat à gratin, alternez une couche de courgettes, la viande, puis le reste des courgettes.",
+   "Versez l'appareil œufs-crème, parsemez du reste d'emmental et enfournez 25 minutes jusqu'à ce que ce soit pris et doré."
+  ],
+  "tips": "Ajoutez une poignée de menthe fraîche ciselée dans la viande pour une note plus fraîche."
+ },
+ {
+  "id": "l04-agneau-roti-romarin-haricots",
+  "title": "Gigot d'agneau rôti à l'ail et haricots verts",
+  "category": "dejeuner",
+  "emoji": "🍖",
+  "prep": 15,
+  "cook": 90,
+  "servings": 8,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 1300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "gigot d'agneau de 1,6 kg avec os (~1,3 kg de viande)"
+   },
+   {
+    "ing": "ail",
+    "g": 30,
+    "qty": 6,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "romarin et thym séchés"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "eau",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Sortez le gigot 1 heure avant. Préchauffez le four à 180 °C.",
+   "Faites des petites incisions dans la viande et glissez-y 3 gousses d'ail coupées en éclats.",
+   "Frottez le gigot avec l'huile, le romarin-thym, le zeste de citron, sel et poivre. Placez-le dans un plat avec le reste de l'ail en chemise et l'eau.",
+   "Enfournez 1 h 20 à 1 h 30 en arrosant toutes les 20 minutes avec le jus ; ajoutez un peu d'eau si le fond brûle.",
+   "Laissez reposer 15 minutes sous aluminium. Pendant ce temps, cuisez les haricots verts 8 minutes à l'eau salée et poêlez-les dans le beurre.",
+   "Tranchez le gigot, arrosez du jus de cuisson et du jus de citron, et servez avec les haricots."
+  ],
+  "tips": "Les restes effilochés se réchauffent à la poêle avec un peu de jus pour un déjeuner express."
+ },
+ {
+  "id": "l04-kefta-courgette-farcie",
+  "title": "Courgettes farcies à la viande et au fromage",
+  "category": "diner",
+  "emoji": "🥒",
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 800,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "courgettes rondes ou longues"
+   },
+   {
+    "ing": "kefta",
+    "g": 450,
+    "qty": 450,
+    "unit": "g",
+    "name": "viande hachée bœuf-agneau"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.33,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et cumin"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les courgettes en deux dans la longueur et évidez-les avec une cuillère en laissant 5 mm de chair.",
+   "Hachez la chair retirée et l'oignon, faites-les revenir 5 minutes dans l'huile.",
+   "Ajoutez la viande, le persil, les épices, sel et poivre ; faites cuire 6 minutes en émiettant.",
+   "Garnissez les barquettes de courgette avec la farce et placez-les dans un plat.",
+   "Versez les tomates concassées autour, couvrez d'aluminium et enfournez 20 minutes.",
+   "Retirez l'aluminium, parsemez de mozzarella et remettez 10 minutes jusqu'à ce que le fromage soit doré."
+  ],
+  "tips": "Salez l'intérieur des courgettes 10 minutes avant de les farcir et épongez-les : elles rendront moins d'eau."
+ },
+ {
+  "id": "l04-boeuf-saute-brocoli-gingembre",
+  "title": "Bœuf sauté au brocoli et gingembre",
+  "category": "diner",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "rumsteck ou faux-filet"
+   },
+   {
+    "ing": "brocoli",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "brocoli"
+   },
+   {
+    "ing": "gingembre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre frais râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile neutre"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "erythritol",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "piment",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment"
+   }
+  ],
+  "steps": [
+   "Placez la viande 20 minutes au congélateur pour la trancher plus facilement en fines lamelles contre le grain.",
+   "Mélangez la sauce soja, l'érythritol, le gingembre, l'ail haché et 2 c. à s. d'eau.",
+   "Détaillez le brocoli en petites fleurettes et blanchissez-les 2 minutes à l'eau bouillante, puis égouttez.",
+   "Chauffez la moitié de l'huile dans un wok à feu très vif, saisissez la viande en 2 fois 1 minute, réservez.",
+   "Ajoutez le reste d'huile, faites sauter le brocoli 2 minutes, remettez la viande et versez la sauce ; enrobez 1 minute.",
+   "Servez parsemé de sésame, de cébettes émincées et d'une pincée de piment."
+  ],
+  "tips": "Servez sur du riz de chou-fleur ou des nouilles de konjac pour un plat plus copieux."
+ },
+ {
+  "id": "l04-blanquette-veau-champignons",
+  "title": "Blanquette de veau keto aux champignons",
+  "category": "dejeuner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 90,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Monde",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "g",
+    "name": "veau à blanquette en morceaux"
+   },
+   {
+    "ing": "champignon",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "carotte",
+    "g": 80,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "carotte"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "poireau",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "blanc de poireau"
+   },
+   {
+    "ing": "bouillon",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "ml",
+    "name": "bouillon de volaille"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 36,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym et laurier"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mettez la viande dans une cocotte, couvrez d'eau froide, portez à ébullition 2 minutes puis égouttez et rincez (cela évite l'écume).",
+   "Remettez la viande avec le bouillon, la carotte, l'oignon, le poireau coupés en morceaux et le thym-laurier. Mijotez 1 h 15 à couvert à feu doux.",
+   "Faites sauter les champignons coupés en quatre dans le beurre 6 minutes.",
+   "Retirez la viande et les légumes avec une écumoire. Faites réduire le bouillon à feu vif jusqu'à environ 400 ml.",
+   "Hors du feu, fouettez la crème avec les jaunes et le jus de citron, versez une louche de bouillon chaud dessus, puis reversez le tout dans la cocotte.",
+   "Remettez à feu très doux sans faire bouillir 3 minutes jusqu'à épaississement, ajoutez viande, carottes et champignons, rectifiez l'assaisonnement et parsemez de persil."
+  ],
+  "tips": "La sauce ne doit plus bouillir une fois les jaunes ajoutés, sinon elle tranche."
+ },
+ {
+  "id": "l04-pain-viande-cheddar",
+  "title": "Pain de viande au cheddar et sauce tomate",
+  "category": "dejeuner",
+  "emoji": "🍞",
+  "prep": 15,
+  "cook": 50,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "cheddar",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et chemisez un moule à cake de papier cuisson.",
+   "Mélangez le bœuf, les œufs, la poudre d'amande, l'oignon et l'ail finement hachés, le persil, le paprika, la moutarde, sel et poivre.",
+   "Étalez la moitié de la viande dans le moule, parsemez de cheddar, puis couvrez du reste de viande en tassant.",
+   "Mélangez le concentré, le vinaigre, l'érythritol et 2 c. à s. d'eau ; badigeonnez le dessus du pain de viande.",
+   "Enfournez 50 minutes, jusqu'à 70 °C à cœur.",
+   "Laissez reposer 10 minutes avant de démouler et de trancher."
+  ],
+  "tips": "En tranches froides, il remplace la charcuterie dans les boîtes à lunch."
+ },
+ {
+  "id": "l04-brochettes-kefta-salade-concombre",
+  "title": "Brochettes de kefta grillées, salade concombre-feta",
+  "category": "dejeuner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.33,
+    "unit": "pièce(s)",
+    "name": "oignon râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "concombre",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 40,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez la viande avec l'oignon râpé et pressé, les herbes hachées, les épices, sel et poivre. Laissez reposer 15 minutes au frais.",
+   "Formez des boudins allongés autour de 8 piques plates en serrant bien.",
+   "Coupez le concombre, la tomate et la feta en dés, ajoutez les olives, l'huile, le citron et du poivre.",
+   "Faites griller les brochettes 8 à 10 minutes sur un gril bien chaud ou sous le gril du four, en les tournant 3 fois.",
+   "Servez les brochettes sur la salade."
+  ],
+  "tips": "Mouillez vos mains pour façonner la viande : elle collera mieux à la pique."
+ },
+ {
+  "id": "l04-cheeseburger-casserole",
+  "title": "Cheeseburger au four en gratin",
+  "category": "diner",
+  "emoji": "🍔",
+  "prep": 15,
+  "cook": 30,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 800,
+    "qty": 800,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 400,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "cheddar",
+    "g": 180,
+    "qty": 180,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "cornichon",
+    "g": 60,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "moutarde",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "sesame",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sésame"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Râpez le chou-fleur en semoule et faites-le cuire 3 minutes au micro-ondes.",
+   "Faites revenir l'oignon haché et le bœuf 8 minutes. Ajoutez le concentré, la moutarde, sel et poivre.",
+   "Mélangez la viande, la semoule de chou-fleur et les cornichons hachés, puis étalez dans un plat beurré.",
+   "Battez les œufs avec la crème et la moitié du cheddar ; versez sur la viande.",
+   "Parsemez du reste de cheddar et du sésame, enfournez 25 minutes.",
+   "Servez avec une salade verte et quelques rondelles de cornichons."
+  ],
+  "tips": "Toute la saveur d'un cheeseburger sans pain : idéal pour les enfants qui réclament du burger."
+ },
+ {
+  "id": "l04-paleron-braise-legumes-racines",
+  "title": "Paleron braisé aux légumes racines",
+  "category": "diner",
+  "emoji": "🥘",
+  "prep": 20,
+  "cook": 180,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Batch cooking",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_ragout",
+    "g": 1200,
+    "qty": 1200,
+    "unit": "g",
+    "name": "paleron de bœuf en gros morceaux"
+   },
+   {
+    "ing": "navet",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "navets"
+   },
+   {
+    "ing": "celeri",
+    "g": 150,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "bouillon",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "bouillon de bœuf"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym, laurier et poivre en grains"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 150 °C. Salez la viande et faites-la dorer dans l'huile d'une cocotte en fonte, 3 minutes par face, en 2 fois.",
+   "Ajoutez l'oignon émincé et le céleri en tronçons ; faites revenir 5 minutes, puis l'ail 1 minute.",
+   "Versez les tomates, le bouillon et les herbes ; portez à frémissement.",
+   "Couvrez et enfournez 2 h 30.",
+   "Ajoutez les navets épluchés en quartiers et poursuivez 30 minutes au four.",
+   "Sortez la viande, effilochez-la légèrement, nappez de sauce et parsemez de persil."
+  ],
+  "tips": "Cuit au four, le bœuf n'attache pas et reste moelleux ; on peut aussi utiliser une mijoteuse 8 h en position basse."
+ },
+ {
+  "id": "l04-salade-tiede-boeuf-thai",
+  "title": "Salade tiède de bœuf à la thaïlandaise",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 350,
+    "qty": 350,
+    "unit": "g",
+    "name": "faux-filet"
+   },
+   {
+    "ing": "laitue",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite laitue"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert (jus)"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "piment",
+    "g": 5,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit piment frais"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile neutre"
+   },
+   {
+    "ing": "cacahuete",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "cacahuètes grillées"
+   }
+  ],
+  "steps": [
+   "Badigeonnez la viande d'huile, puis saisissez-la 3 minutes par face dans une poêle très chaude. Laissez reposer 5 minutes.",
+   "Mélangez le jus de citron vert, la sauce soja et le piment émincé.",
+   "Coupez le concombre en demi-rondelles, l'oignon en lamelles fines, et effeuillez les herbes.",
+   "Tranchez la viande en fines lamelles, mélangez-la encore tiède avec la sauce.",
+   "Disposez la laitue, les légumes et les herbes, ajoutez la viande et parsemez de cacahuètes concassées."
+  ],
+  "tips": "Une viande saignante à rosée donne la meilleure texture ; trop cuite, elle devient caoutchouteuse."
+ },
+ {
+  "id": "l04-merguez-gratin-aubergine",
+  "title": "Gratin d'aubergines aux merguez et mozzarella",
+  "category": "diner",
+  "emoji": "🍆",
+  "prep": 15,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "merguez",
+    "g": 400,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "merguez halal"
+   },
+   {
+    "ing": "aubergine",
+    "g": 600,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 125,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "mozzarella"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "basilic",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en cubes, mélangez avec l'huile et du sel, rôtissez 20 minutes.",
+   "Pendant ce temps, faites dorer les merguez 6 minutes à la poêle, puis coupez-les en rondelles.",
+   "Dans la poêle dégraissée, faites revenir l'ail haché 30 secondes, ajoutez les tomates et laissez réduire 5 minutes.",
+   "Mélangez aubergines, merguez et sauce dans un plat à gratin.",
+   "Couvrez de mozzarella en tranches et de parmesan, enfournez 15 minutes.",
+   "Parsemez de basilic au moment de servir."
+  ],
+  "tips": "Les merguez apportent déjà sel et épices : salez peu la sauce."
+ },
+ {
+  "id": "l04-tartare-boeuf-avocat",
+  "title": "Tartare de bœuf au couteau et avocat",
+  "category": "dejeuner",
+  "emoji": "🥩",
+  "prep": 20,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Rapide",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "filet ou rumsteck très frais"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 36,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs extra-frais"
+   },
+   {
+    "ing": "cornichon",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "oignon rouge haché"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "roquette",
+    "g": 40,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Gardez la viande au réfrigérateur jusqu'au dernier moment. Coupez-la au couteau en petits dés de 3 mm (ne la hachez pas à la machine).",
+   "Hachez finement les cornichons, l'oignon et le persil.",
+   "Mélangez la viande avec la moutarde, l'huile, les condiments hachés, sel et poivre.",
+   "Coupez l'avocat en dés, citronnez-le.",
+   "Dressez dans un emporte-pièce : une couche d'avocat, puis le tartare. Creusez un petit puits et posez le jaune d'œuf.",
+   "Servez aussitôt avec la roquette."
+  ],
+  "tips": "Achetez la viande le jour même chez le boucher en précisant qu'elle est pour un tartare. Déconseillé aux femmes enceintes et aux jeunes enfants."
+ },
+ {
+  "id": "l04-veau-piccata-citron",
+  "title": "Piccata de veau au citron et courgettes",
+  "category": "diner",
+  "emoji": "🍋",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 600,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "fines escalopes de veau"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 60,
+    "qty": 1.5,
+    "unit": "pièce(s)",
+    "name": "citrons"
+   },
+   {
+    "ing": "bouillon",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "courgette",
+    "g": 500,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Salez, poivrez les escalopes et passez-les dans la poudre d'amande.",
+   "Chauffez l'huile et la moitié du beurre ; dorez les escalopes 1 min 30 par face. Réservez au chaud.",
+   "Déglacez la poêle avec le bouillon et le jus d'1 citron, laissez réduire 2 minutes, puis montez la sauce avec le reste du beurre.",
+   "Coupez les courgettes en rubans à l'économe et faites-les sauter 2 minutes à feu vif avec une pincée de sel.",
+   "Remettez les escalopes dans la sauce 30 secondes, ajoutez le persil et des rondelles du demi-citron restant.",
+   "Servez sur les rubans de courgettes parsemés de parmesan."
+  ],
+  "tips": "Faites-vous préparer des escalopes très fines par le boucher pour une cuisson éclair."
+ },
+ {
+  "id": "l04-entrecote-beurre-persille",
+  "title": "Entrecôte grillée au beurre persillé et asperges",
+  "category": "diner",
+  "emoji": "🥩",
+  "prep": 10,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "entrecôte de 400 g"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre mou"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "asperge",
+    "g": 250,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "asperges vertes"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Écrasez le beurre mou avec le persil haché, l'ail râpé, le citron et une pincée de sel. Roulez-le en boudin dans du film et placez-le 15 minutes au congélateur.",
+   "Cassez la base dure des asperges. Faites-les rôtir 8 minutes dans une poêle avec la moitié de l'huile et du sel, en les roulant.",
+   "Séchez l'entrecôte, salez-la. Saisissez-la dans une poêle en fonte fumante avec le reste d'huile, 3 minutes par face pour une cuisson saignante-à point.",
+   "Saisissez aussi la bordure de gras 1 minute en tenant la viande avec une pince.",
+   "Laissez reposer 5 minutes, tranchez, poivrez et posez des rondelles de beurre persillé dessus.",
+   "Servez avec les asperges."
+  ],
+  "tips": "Le beurre persillé se conserve 3 mois au congélateur : coupez des rondelles à la demande."
+ },
+ {
+  "id": "l04-boulettes-agneau-feta-menthe",
+  "title": "Boulettes d'agneau feta-menthe, sauce yaourt",
+  "category": "dejeuner",
+  "emoji": "🧆",
+  "prep": 20,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "agneau haché"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta émiettée"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "oignon",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et coriandre moulue"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "roquette",
+    "g": 80,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez l'agneau haché avec la feta, la moitié de la menthe ciselée, l'oignon râpé, les épices, la poudre d'amande et du poivre (peu de sel, la feta est salée).",
+   "Formez 16 boulettes et réservez-les 10 minutes au frais pour qu'elles se tiennent.",
+   "Préparez la sauce : yaourt, ail râpé, jus de citron, reste de menthe et une pincée de sel.",
+   "Dorez les boulettes dans l'huile à feu moyen 10 à 12 minutes en les tournant régulièrement.",
+   "Servez sur un lit de roquette avec la sauce yaourt."
+  ],
+  "tips": "Ces boulettes se cuisent aussi au four : 15 minutes à 200 °C sur plaque."
+ },
+ {
+  "id": "l04-emince-veau-creme-poivrons",
+  "title": "Émincé de veau à la crème de poivrons",
+  "category": "dejeuner",
+  "emoji": "🫑",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "émincé de veau"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 250,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "poivrons rouges"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.33,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika doux"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 400,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou-fleur (en riz)"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Râpez le chou-fleur en grains et faites-le sauter 5 minutes à la poêle avec 1 c. à c. d'huile et du sel. Réservez.",
+   "Saisissez l'émincé de veau dans 1 c. à s. d'huile très chaude 3 minutes. Réservez.",
+   "Faites revenir l'oignon émincé et les poivrons en lanières 8 minutes à feu moyen avec le reste d'huile.",
+   "Ajoutez l'ail et le paprika 30 secondes, puis la crème ; laissez épaissir 3 minutes.",
+   "Remettez le veau et son jus 1 minute dans la sauce, salez, poivrez.",
+   "Servez sur le riz de chou-fleur, parsemé de persil."
+  ],
+  "tips": "Ajoutez une pointe de piment fort au paprika pour une version façon goulash."
+ },
+ {
+  "id": "l04-goulash-boeuf-paprika",
+  "title": "Goulash de bœuf au paprika",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 120,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Batch cooking",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_ragout",
+    "g": 1100,
+    "qty": 1100,
+    "unit": "g",
+    "name": "bœuf à mijoter en cubes"
+   },
+   {
+    "ing": "oignon",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 20,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "paprika doux et carvi"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "bouillon",
+    "g": 700,
+    "qty": 700,
+    "unit": "ml",
+    "name": "bouillon de bœuf"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites dorer la viande en 3 fois dans l'huile très chaude, salez, réservez.",
+   "Dans la cocotte, faites fondre l'oignon émincé 8 minutes à feu doux jusqu'à ce qu'il soit doré.",
+   "Hors du feu, ajoutez le paprika et l'ail et remuez 30 secondes (le paprika brûle facilement).",
+   "Remettez sur le feu avec le concentré, les tomates, le poivron en dés, la viande et le bouillon.",
+   "Couvrez et laissez mijoter 1 h 45 à feu doux jusqu'à ce que la viande soit fondante.",
+   "Ajoutez le vinaigre, rectifiez l'assaisonnement et parsemez de persil."
+  ],
+  "tips": "Servez avec une cuillère de crème aigre (crème fraîche + citron) si vous ne cherchez pas un plat sans lactose."
+ },
+ {
+  "id": "l04-burger-agneau-champignon-portobello",
+  "title": "Burger d'agneau entre deux champignons grillés",
+  "category": "diner",
+  "emoji": "🍄",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "agneau haché"
+   },
+   {
+    "ing": "champignon",
+    "g": 400,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "gros champignons (type portobello)"
+   },
+   {
+    "ing": "chevre",
+    "g": 100,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "bûche de chèvre"
+   },
+   {
+    "ing": "roquette",
+    "g": 40,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et romarin"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez l'agneau haché avec l'ail râpé, les épices, sel et poivre ; formez 4 galettes un peu plus larges que les champignons.",
+   "Retirez les pieds des champignons, badigeonnez les chapeaux d'huile, salez et grillez-les 4 minutes par face. Ils servent de pain.",
+   "Cuisez les galettes 4 minutes par face dans une poêle chaude.",
+   "Posez une tranche de chèvre sur chaque galette pendant la dernière minute, couvercle fermé.",
+   "Montez : chapeau de champignon, mayonnaise, roquette, galette au chèvre, oignon rouge, puis un second chapeau.",
+   "Maintenez avec une pique et servez aussitôt."
+  ],
+  "tips": "Épongez bien les champignons grillés sur du papier absorbant pour éviter un burger détrempé."
+ },
+ {
+  "id": "l04-roti-veau-moutarde",
+  "title": "Rôti de veau à la moutarde et champignons",
+  "category": "dejeuner",
+  "emoji": "🥩",
+  "prep": 15,
+  "cook": 75,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 1000,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "rôti de veau (1 kg)"
+   },
+   {
+    "ing": "moutarde",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "moutarde à l'ancienne"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "champignon",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "bouillon",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "thym"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C. Salez, poivrez le rôti et dorez-le de toutes parts 8 minutes dans une cocotte avec l'huile et le beurre.",
+   "Badigeonnez-le de moutarde, ajoutez l'oignon émincé et le thym autour, versez le bouillon.",
+   "Couvrez et enfournez 50 minutes en arrosant 2 fois.",
+   "Ajoutez les champignons coupés en quatre, découvrez et poursuivez 15 minutes.",
+   "Sortez le rôti et laissez-le reposer sous aluminium. Posez la cocotte sur le feu, versez la crème et faites réduire 3 minutes.",
+   "Tranchez le rôti et servez nappé de sauce aux champignons."
+  ],
+  "tips": "Le veau est maigre : ne dépassez pas 65 °C à cœur pour garder une viande rosée et juteuse."
+ },
+ {
+  "id": "l04-chou-farci-viande-hachee",
+  "title": "Chou blanc braisé à la viande hachée",
+  "category": "dejeuner",
+  "emoji": "🥬",
+  "prep": 15,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_blanc",
+    "g": 600,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "boeuf_hache",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "paprika, cumin et carvi"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "aneth",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "aneth ou persil"
+   },
+   {
+    "ing": "bouillon",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Émincez le chou en fines lanières, l'oignon en lamelles, hachez l'ail.",
+   "Dans une grande sauteuse, dorez le bœuf haché 6 minutes dans l'huile, puis réservez.",
+   "Faites revenir l'oignon et le chou 8 minutes à feu moyen-vif en remuant jusqu'à ce qu'ils commencent à colorer.",
+   "Ajoutez l'ail, les épices, les tomates, le bouillon et la viande ; salez, poivrez.",
+   "Couvrez et laissez mijoter 15 minutes en remuant de temps en temps, jusqu'à ce que le chou soit fondant.",
+   "Parsemez d'aneth et servez."
+  ],
+  "tips": "Tout le goût du chou farci sans façonnage : prêt en 45 minutes et encore meilleur réchauffé."
+ },
+ {
+  "id": "l04-agneau-curry-coco",
+  "title": "Curry d'agneau au lait de coco et épinards",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 15,
+  "cook": 90,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Batch cooking",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "g",
+    "name": "épaule d'agneau en cubes"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de lait de coco (400 ml)"
+   },
+   {
+    "ing": "epinard",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "oignon",
+    "g": 80,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre frais"
+   },
+   {
+    "ing": "epices",
+    "g": 20,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "curry, garam masala et curcuma"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "eau",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites dorer l'agneau en 2 fois dans l'huile de coco, réservez.",
+   "Faites revenir l'oignon haché 6 minutes, ajoutez l'ail et le gingembre râpés puis les épices ; remuez 1 minute.",
+   "Ajoutez les tomates, l'agneau, l'eau et du sel. Couvrez et mijotez 1 heure à feu doux.",
+   "Versez le lait de coco et poursuivez 20 minutes à découvert jusqu'à ce que la sauce épaississe.",
+   "Incorporez les épinards et laissez-les tomber 3 minutes.",
+   "Servez parsemé de coriandre, avec du riz de chou-fleur."
+  ],
+  "tips": "L'épaule d'agneau est idéale ici : son gras fond pendant la cuisson et rend la sauce onctueuse."
+ },
+ {
+  "id": "l04-steak-chimichurri",
+  "title": "Bavette grillée sauce chimichurri",
+  "category": "diner",
+  "emoji": "🌿",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "bavette ou onglet"
+   },
+   {
+    "ing": "persil",
+    "g": 40,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil plat"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 20,
+    "qty": 4,
+    "unit": "c. à c.",
+    "name": "vinaigre de vin"
+   },
+   {
+    "ing": "piment",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment en flocons"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Hachez finement le persil, la coriandre et l'ail. Mélangez avec 3 c. à s. d'huile, le vinaigre, l'origan, le piment et du sel. Laissez reposer 15 minutes.",
+   "Coupez le poivron et les courgettes en lanières, mélangez-les au reste d'huile et grillez-les 6 minutes à la poêle-gril.",
+   "Salez la bavette et saisissez-la sur le gril très chaud 3 à 4 minutes par face.",
+   "Laissez reposer 5 minutes, puis tranchez finement en biais, contre le sens des fibres.",
+   "Servez avec les légumes grillés et le chimichurri à la cuillère."
+  ],
+  "tips": "Le chimichurri se garde 3 jours au frais et relève aussi les œufs ou le poisson."
+ },
+ {
+  "id": "l04-aubergines-farcies-boeuf-yaourt",
+  "title": "Aubergines rôties farcies au bœuf et yaourt",
+  "category": "dejeuner",
+  "emoji": "🍆",
+  "prep": 15,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 600,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines moyennes"
+   },
+   {
+    "ing": "boeuf_hache",
+    "g": 550,
+    "qty": 550,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.33,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "cumin, cannelle et piment doux"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "pistache",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "pistaches concassées"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en deux, quadrillez la chair, badigeonnez d'huile, salez et rôtissez-les 25 minutes face coupée vers le haut.",
+   "Faites revenir l'oignon haché et le bœuf 8 minutes, ajoutez l'ail, les épices et la tomate en dés ; cuisez 5 minutes.",
+   "Écrasez légèrement la chair des aubergines à la fourchette pour former un creux.",
+   "Garnissez de viande et remettez au four 10 minutes.",
+   "Servez nappé de yaourt salé, parsemé de menthe et de pistaches."
+  ],
+  "tips": "Inspiré du karnıyarık turc : vous pouvez remplacer le bœuf par de l'agneau haché."
+ },
+ {
+  "id": "l04-bowl-boeuf-cumin-riz-chou-fleur",
+  "title": "Bowl de bœuf haché au cumin et riz de chou-fleur",
+  "category": "dejeuner",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "cheddar",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin et paprika fumé"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron vert"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 60,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Râpez le chou-fleur en grains, faites-le sauter 5 minutes à feu vif avec la moitié de l'huile et du sel, ajoutez un trait de citron vert.",
+   "Dans une autre poêle, faites dorer le bœuf avec le poivron en dés et le reste d'huile 8 minutes.",
+   "Ajoutez les épices et 3 c. à s. d'eau ; laissez réduire 2 minutes, salez.",
+   "Coupez l'avocat en tranches et arrosez-le de citron vert.",
+   "Composez les bols : riz de chou-fleur, viande, avocat, cheddar, crème fraîche et coriandre."
+  ],
+  "tips": "Préparez riz et viande à l'avance pour 3 jours de déjeuners ; ajoutez l'avocat au dernier moment."
+ },
+ {
+  "id": "l04-brochettes-boeuf-soja-sesame",
+  "title": "Brochettes de bœuf marinées au soja et sésame",
+  "category": "diner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "rumsteck en cubes"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "sesame",
+    "g": 15,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 40,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "champignon",
+    "g": 200,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "champignons"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 250,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre de riz ou de cidre"
+   }
+  ],
+  "steps": [
+   "Mélangez la sauce soja, l'huile, le gingembre, l'ail râpé et 1 c. à s. de sésame ; prélevez 1 c. à s. de ce mélange pour la salade. Marinez le bœuf dedans 30 minutes.",
+   "Coupez le poivron en carrés et les cébettes en tronçons de 3 cm ; gardez les champignons entiers.",
+   "Émincez très finement le chou et assaisonnez-le avec le vinaigre, la marinade prélevée et le reste du sésame.",
+   "Montez les brochettes en alternant bœuf, poivron, champignon et cébette.",
+   "Grillez-les 8 à 10 minutes en les tournant, en les badigeonnant du reste de marinade à mi-cuisson.",
+   "Servez sur la salade de chou croquante."
+  ],
+  "tips": "Ne réutilisez jamais crue la marinade qui a touché la viande ; celle du badigeonnage cuit sur le gril."
+ },
+ {
+  "id": "l04-cotelettes-agneau-moutarde-gratin-chou-fleur",
+  "title": "Carré d'agneau en croûte de moutarde et gratin de chou-fleur",
+  "category": "diner",
+  "emoji": "🍖",
+  "prep": 20,
+  "cook": 30,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_cotelette",
+    "g": 800,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "carrés d'agneau (8 côtes chacun)"
+   },
+   {
+    "ing": "moutarde",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 500,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "emmental",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Faites cuire les fleurettes de chou-fleur 8 minutes à la vapeur, puis mettez-les dans un plat avec la crème, l'emmental, sel et poivre.",
+   "Salez et poivrez les carrés, puis saisissez-les côté gras 3 minutes dans l'huile, et 1 minute sur les autres faces.",
+   "Mélangez la poudre d'amande, le persil haché et l'ail râpé.",
+   "Badigeonnez le dessus des carrés de moutarde et pressez la chapelure d'amande dessus.",
+   "Enfournez les carrés et le gratin ensemble 15 à 18 minutes pour une viande rosée.",
+   "Laissez reposer la viande 5 minutes, découpez entre les os et servez avec le gratin."
+  ],
+  "tips": "Demandez au boucher de « manchonner » les carrés (os dégagés) pour une belle présentation."
+ },
+ {
+  "id": "l04-merguez-brochettes-legumes",
+  "title": "Brochettes de merguez et légumes, sauce harissa-yaourt",
+  "category": "dejeuner",
+  "emoji": "🌭",
+  "prep": 15,
+  "cook": 12,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "merguez",
+    "g": 500,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "merguez halal"
+   },
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 120,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "harissa",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "harissa"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez les merguez en tronçons de 4 cm, les courgettes en rondelles épaisses, le poivron et l'oignon en carrés.",
+   "Montez 8 brochettes en alternant merguez et légumes, terminez par une tomate cerise.",
+   "Badigeonnez les légumes d'huile et salez-les légèrement.",
+   "Grillez 10 à 12 minutes au barbecue ou sous le gril du four en tournant régulièrement.",
+   "Mélangez le yaourt, la harissa et le jus de citron, et servez la sauce avec les brochettes."
+  ],
+  "tips": "Ajustez la harissa selon les enfants : servez-en une version douce sans harissa à part."
+ },
+ {
+  "id": "l04-osso-buco-veau-gremolata",
+  "title": "Osso buco de veau à la gremolata",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 20,
+  "cook": 120,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 1000,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "jarret de veau en tranches épaisses (~1,4 kg avec os)"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "poudre d'amande"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "carotte",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite carotte"
+   },
+   {
+    "ing": "celeri",
+    "g": 80,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "branche de céleri"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "bouillon",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "zeste de citron"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Entaillez la peau autour des tranches pour éviter qu'elles se recroquevillent. Salez, poivrez et poudrez légèrement de poudre d'amande.",
+   "Dorez les tranches 4 minutes par face dans l'huile et le beurre d'une cocotte, puis réservez.",
+   "Faites revenir l'oignon, la carotte et le céleri en petits dés 6 minutes.",
+   "Ajoutez les tomates et le bouillon, remettez la viande en une seule couche. Couvrez et laissez mijoter 1 h 45 à feu doux, en retournant à mi-cuisson.",
+   "Préparez la gremolata : hachez ensemble le persil, le zeste de citron et l'ail.",
+   "Servez la viande nappée de sauce et parsemée de gremolata."
+  ],
+  "tips": "La moelle dans l'os est un régal : servez une petite cuillère pour la déguster."
+ },
+ {
+  "id": "l04-steaks-haches-champignons-puree-brocoli",
+  "title": "Steaks hachés sauce champignons, purée de brocoli",
+  "category": "dejeuner",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 600,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "steaks hachés de 150 g"
+   },
+   {
+    "ing": "champignon",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 120,
+    "qty": 120,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "brocoli",
+    "g": 500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "gros brocoli"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire le brocoli en fleurettes 10 minutes à la vapeur, puis mixez-le avec la moitié du beurre, le parmesan, sel et poivre.",
+   "Cuisez les steaks hachés 3 minutes par face dans une poêle chaude avec 10 g de beurre. Réservez au chaud.",
+   "Dans la même poêle, faites sauter les champignons émincés et l'ail avec le reste du beurre 5 minutes.",
+   "Versez la crème, laissez épaissir 2 minutes, salez et poivrez.",
+   "Servez les steaks nappés de sauce, parsemés de ciboulette, avec la purée de brocoli."
+  ],
+  "tips": "La purée de brocoli au parmesan plaît souvent aux enfants qui boudent le légume entier."
+ },
+ {
+  "id": "l04-lasagnes-aubergine-agneau-ricotta",
+  "title": "Lasagnes d'aubergines à l'agneau et à la menthe",
+  "category": "dejeuner",
+  "emoji": "🍆",
+  "prep": 30,
+  "cook": 40,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 700,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "grosses aubergines"
+   },
+   {
+    "ing": "agneau_epaule",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "agneau haché"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "ricotta",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en tranches de 5 mm dans la longueur, huilez-les, salez et rôtissez-les 15 minutes.",
+   "Faites revenir l'oignon haché, ajoutez l'agneau et dorez 8 minutes. Ajoutez ail, épices et tomates ; mijotez 15 minutes.",
+   "Mélangez la ricotta avec la menthe ciselée, sel et poivre.",
+   "Baissez le four à 180 °C. Alternez dans un plat : aubergines, agneau, ricotta, en 3 couches.",
+   "Couvrez de mozzarella et enfournez 25 minutes.",
+   "Laissez reposer 10 minutes avant de couper."
+  ],
+  "tips": "Version plus légère que la moussaka, avec une touche de fraîcheur grâce à la menthe."
+ },
+ {
+  "id": "l04-boeuf-stroganoff",
+  "title": "Bœuf Stroganoff aux nouilles de courgette",
+  "category": "diner",
+  "emoji": "🍝",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "rumsteck en lanières"
+   },
+   {
+    "ing": "champignon",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "courgette",
+    "g": 600,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Taillez les courgettes en spaghettis au spiraliseur, salez-les légèrement et laissez-les égoutter 10 minutes.",
+   "Saisissez les lanières de bœuf poudrées de paprika dans la moitié du beurre à feu très vif, 1 à 2 minutes, en 2 fois. Réservez.",
+   "Faites revenir l'oignon émincé et les champignons dans le reste du beurre 6 minutes.",
+   "Ajoutez la crème et la moutarde, laissez frémir 2 minutes, puis remettez la viande et son jus. Salez, poivrez.",
+   "Poêlez les nouilles de courgette 2 minutes à feu vif, épongez-les.",
+   "Servez le bœuf sur les nouilles, parsemé de persil."
+  ],
+  "tips": "Ne faites pas bouillir la sauce après avoir remis la viande, pour qu'elle reste tendre."
+ },
+ {
+  "id": "l04-hachis-agneau-celeri-gratine",
+  "title": "Parmentier d'agneau au céleri et chou-fleur",
+  "category": "diner",
+  "emoji": "🥧",
+  "prep": 20,
+  "cook": 40,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "épaule d'agneau hachée"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 600,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "celeri_rave",
+    "g": 200,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "céleri-rave"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "romarin et thym"
+   },
+   {
+    "ing": "bouillon",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Cuisez le chou-fleur et le céleri-rave en morceaux 20 minutes à l'eau salée. Égouttez soigneusement.",
+   "Mixez-les avec le beurre et la crème chaude en purée lisse ; salez, poivrez.",
+   "Faites revenir l'oignon haché, ajoutez l'agneau et dorez 8 minutes. Ajoutez ail, herbes, concentré et bouillon ; laissez réduire 8 minutes.",
+   "Préchauffez le four à 200 °C. Étalez l'agneau dans un plat, recouvrez de purée et striez la surface à la fourchette.",
+   "Parsemez de parmesan et enfournez 20 minutes jusqu'à ce que le dessus soit doré."
+  ],
+  "tips": "Le céleri-rave donne une saveur proche de la pomme de terre ; mélangé au chou-fleur, il reste léger en glucides."
+ },
+ {
+  "id": "l04-salade-cesar-boeuf",
+  "title": "Salade César au bœuf grillé",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 350,
+    "qty": 350,
+    "unit": "g",
+    "name": "faux-filet"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue romaine"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan en copeaux"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 minutes dans l'eau bouillante, refroidissez-les et écalez-les.",
+   "Saisissez le faux-filet huilé et salé 3 minutes par face. Laissez reposer 5 minutes, puis tranchez.",
+   "Mélangez la mayonnaise, le jus de citron, la moutarde, l'ail râpé, la moitié du parmesan râpé et un peu de poivre ; détendez d'1 c. à s. d'eau.",
+   "Coupez la romaine en morceaux et mélangez-la avec la sauce.",
+   "Disposez dessus la viande, les œufs en quartiers et les copeaux de parmesan."
+  ],
+  "tips": "Pour du croquant, ajoutez des chips de parmesan : petits tas de parmesan râpé passés 6 minutes au four à 200 °C."
+ },
+ {
+  "id": "l04-boulettes-boeuf-sauce-coco-curry",
+  "title": "Boulettes de bœuf au curry et lait de coco",
+  "category": "dejeuner",
+  "emoji": "🍛",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_hache",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "curry en poudre"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "epinard",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mélangez le bœuf avec l'œuf, la moitié de la coriandre hachée, la moitié du gingembre, 1 gousse d'ail râpée et du sel. Formez 20 boulettes.",
+   "Dorez-les dans l'huile de coco 6 minutes, puis réservez.",
+   "Dans la même sauteuse, faites revenir le reste d'ail et de gingembre avec le curry 1 minute.",
+   "Ajoutez les tomates et le lait de coco, remettez les boulettes ; laissez mijoter 12 minutes à couvert.",
+   "Incorporez les épinards 2 minutes, parsemez du reste de coriandre et servez."
+  ],
+  "tips": "Servez avec des nouilles de konjac rincées et poêlées pour un plat complet."
+ },
+ {
+  "id": "l04-veau-saltimbocca-dinde-fumee",
+  "title": "Saltimbocca de veau à la dinde fumée et sauge",
+  "category": "diner",
+  "emoji": "🥩",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "veau",
+    "g": 500,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "petites escalopes de veau"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 100,
+    "qty": 8,
+    "unit": "tranche(s)",
+    "name": "tranches de dinde fumée"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "feuilles de sauge"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "bouillon",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "epinard",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Aplatissez les escalopes, poivrez-les, posez dessus une tranche de dinde fumée et une feuille de sauge ; maintenez avec un cure-dent.",
+   "Chauffez l'huile et la moitié du beurre, saisissez les escalopes côté dinde 1 minute 30, puis l'autre face 1 minute. Réservez.",
+   "Déglacez avec le bouillon et le citron, laissez réduire 2 minutes, ajoutez le reste du beurre.",
+   "Faites tomber les épinards 2 minutes avec l'ail écrasé dans une autre poêle.",
+   "Servez les saltimbocca arrosées de sauce, avec les épinards."
+  ],
+  "tips": "Pas besoin de sel : la dinde fumée assaisonne déjà la viande."
+ },
+ {
+  "id": "l04-merguez-shakshuka-feta",
+  "title": "Merguez et œufs cocotte à la feta et épinards",
+  "category": "diner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "merguez",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "merguez halal"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "epinard",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Coupez les merguez en rondelles et faites-les dorer 6 minutes dans une poêle allant au four.",
+   "Retirez l'excès de gras, ajoutez l'huile, l'ail et les épinards ; laissez-les tomber 3 minutes.",
+   "Versez la crème et émiettez la moitié de la feta.",
+   "Creusez 6 puits et cassez un œuf dans chacun. Émiettez le reste de feta autour.",
+   "Enfournez 10 à 12 minutes, jusqu'à ce que les blancs soient pris et les jaunes encore coulants.",
+   "Parsemez de ciboulette et de poivre avant de servir."
+  ],
+  "tips": "Sans four, couvrez la poêle et cuisez à feu doux 8 minutes."
+ },
+ {
+  "id": "l04-epaule-agneau-confite-7h",
+  "title": "Épaule d'agneau confite 7 heures",
+  "category": "dejeuner",
+  "emoji": "🍖",
+  "prep": 15,
+  "cook": 420,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 1500,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "épaule d'agneau de 2 kg avec os (~1,5 kg de viande)"
+   },
+   {
+    "ing": "ail",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tête d'ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 6,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "thym, romarin et laurier"
+   },
+   {
+    "ing": "oignon",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "bouillon",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 120 °C. Frottez l'épaule d'huile, sel, poivre et herbes.",
+   "Placez-la dans une cocotte sur l'oignon coupé en quartiers, avec la tête d'ail coupée en deux à l'horizontale.",
+   "Versez le bouillon et le jus de citron, couvrez hermétiquement (papier aluminium sous le couvercle).",
+   "Enfournez 7 heures sans ouvrir ; arrosez une fois à mi-temps si possible.",
+   "Augmentez à 220 °C, découvrez et laissez dorer 15 minutes. Cuisez les haricots verts 8 minutes à l'eau salée pendant ce temps.",
+   "Effilochez la viande à la cuillère, arrosez du jus et servez avec les haricots verts et les gousses d'ail confites."
+  ],
+  "tips": "Lancez la cuisson le matin pour le dîner, ou la veille au soir pour un déjeuner du week-end."
+ },
+ {
+  "id": "l04-chou-fleur-gratin-boeuf-bolognaise",
+  "title": "Gratin de chou-fleur à la bolognaise",
+  "category": "dejeuner",
+  "emoji": "🧀",
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 700,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "boeuf_hache",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "bœuf haché"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.33,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "emmental",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les fleurettes de chou-fleur 8 minutes à la vapeur, elles doivent rester légèrement fermes.",
+   "Faites revenir l'oignon haché dans l'huile, ajoutez le bœuf et dorez 6 minutes. Ajoutez ail, origan et tomates ; mijotez 10 minutes.",
+   "Préchauffez le four à 200 °C. Mélangez le chou-fleur avec la crème, sel et poivre.",
+   "Étalez la bolognaise dans un plat, ajoutez le chou-fleur à la crème par-dessus.",
+   "Couvrez d'emmental et enfournez 20 minutes jusqu'à ce que ce soit gratiné."
+  ],
+  "tips": "Remplacez la moitié du chou-fleur par du brocoli pour varier les couleurs."
+ },
+ {
+  "id": "l04-pave-boeuf-sauce-cheddar-choux-bruxelles",
+  "title": "Pavé de bœuf sauce au cheddar fondu et chou de Bruxelles",
+  "category": "diner",
+  "emoji": "🥩",
+  "prep": 10,
+  "cook": 20,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "boeuf_steak",
+    "g": 360,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "pavés de rumsteck"
+   },
+   {
+    "ing": "chou_bruxelles",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "choux de Bruxelles"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "cheddar",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "noix",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les choux de Bruxelles en deux et blanchissez-les 4 minutes à l'eau salée. Égouttez.",
+   "Poêlez-les face coupée vers le bas dans le beurre 6 minutes jusqu'à ce qu'ils soient bien dorés ; ajoutez les noix concassées en fin de cuisson.",
+   "Salez les pavés et saisissez-les dans l'huile très chaude 3 minutes par face. Réservez sous aluminium.",
+   "Dans la poêle de la viande, chauffez la crème avec la moutarde, ajoutez le cheddar et fouettez jusqu'à sauce lisse.",
+   "Servez les pavés nappés de sauce, avec les choux de Bruxelles."
+  ],
+  "tips": "Bien dorer les choux de Bruxelles leur retire leur amertume : c'est le secret pour les faire aimer."
+ },
+ {
+  "id": "l04-saute-agneau-courgettes-citron-confit",
+  "title": "Sauté d'agneau aux courgettes, citron confit et olives",
+  "category": "diner",
+  "emoji": "🫒",
+  "prep": 15,
+  "cook": 60,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "agneau_epaule",
+    "g": 700,
+    "qty": 700,
+    "unit": "g",
+    "name": "épaule d'agneau en cubes"
+   },
+   {
+    "ing": "courgette",
+    "g": 500,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 15,
+    "unit": "pièce(s)",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 30,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron confit"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "herbes de Provence"
+   },
+   {
+    "ing": "bouillon",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "bouillon"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Dorez les cubes d'agneau dans l'huile en 2 fois, 5 minutes chacun, puis réservez.",
+   "Faites revenir l'oignon émincé 4 minutes, ajoutez l'ail et les herbes.",
+   "Remettez la viande, versez le bouillon et laissez mijoter 40 minutes à couvert, à feu doux.",
+   "Ajoutez les courgettes en gros tronçons, les olives et l'écorce de citron confit en lanières. Poursuivez 15 minutes à découvert.",
+   "Parsemez de persil et poivrez ; goûtez avant de saler, olives et citron confit sont déjà salés."
+  ],
+  "tips": "Une version provençale et rapide du sauté d'agneau, sans cuisson au tajine."
+ }
+]

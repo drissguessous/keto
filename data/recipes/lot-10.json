@@ -1,0 +1,3548 @@
+[
+ {
+  "id": "l10-chips-parmesan-paprika",
+  "title": "Chips de parmesan au paprika fumé",
+  "category": "collation",
+  "emoji": "🧀",
+  "prep": 5,
+  "cook": 8,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "parmesan",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "parmesan râpé finement"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika fumé"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "ail en poudre"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre noir"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C et tapissez deux plaques de papier cuisson.",
+   "Mélangez le parmesan râpé avec le paprika fumé, l'ail en poudre et le poivre.",
+   "Déposez des petits tas d'une cuillère à soupe bombée, espacés de 5 cm, puis aplatissez-les légèrement en disques de 6 cm.",
+   "Enfournez 6 à 8 minutes, jusqu'à ce que les bords soient dorés et que les chips ne bullent plus.",
+   "Laissez refroidir 5 minutes sur la plaque : elles durcissent en refroidissant. Décollez-les délicatement avec une spatule."
+  ],
+  "tips": "Pour des tuiles, posez les chips encore chaudes sur un rouleau à pâtisserie. Elles se gardent 5 jours dans une boîte hermétique."
+ },
+ {
+  "id": "l10-crackers-graines",
+  "title": "Crackers croustillants aux cinq graines",
+  "category": "collation",
+  "emoji": "🌻",
+  "prep": 15,
+  "cook": 50,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "graine_courge",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "graine_tournesol",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "graines de tournesol"
+   },
+   {
+    "ing": "sesame",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "graine_lin",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "graines de lin moulues"
+   },
+   {
+    "ing": "graine_chia",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "graines de chia"
+   },
+   {
+    "ing": "psyllium",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "psyllium blond"
+   },
+   {
+    "ing": "eau",
+    "g": 220,
+    "qty": 220,
+    "unit": "ml",
+    "name": "eau tiède"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 160 °C.",
+   "Dans un saladier, mélangez toutes les graines, le psyllium, les épices et le sel.",
+   "Ajoutez l'eau tiède et l'huile d'olive, mélangez puis laissez gonfler 10 minutes : le mélange devient compact et collant.",
+   "Étalez la pâte entre deux feuilles de papier cuisson au rouleau, sur 3 mm d'épaisseur, puis retirez la feuille du dessus.",
+   "Prédécoupez des carrés de 5 cm avec la lame d'un couteau, sans séparer.",
+   "Enfournez 35 minutes, retournez la plaque de crackers, puis prolongez 15 minutes jusqu'à ce qu'ils soient secs et dorés.",
+   "Laissez refroidir complètement sur grille avant de casser en carrés."
+  ],
+  "tips": "Ils restent croustillants 2 semaines dans un bocal fermé. Parfaits avec le houmous de chou-fleur ou une tartinade de jben."
+ },
+ {
+  "id": "l10-oeufs-mimosa-thon-harissa",
+  "title": "Œufs mimosa au thon et à la harissa",
+  "category": "collation",
+  "emoji": "🥚",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "thon_boite",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "thon au naturel égoutté"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "harissa",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "harissa"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "persil",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil ciselé"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Plongez les œufs dans l'eau bouillante et laissez cuire 10 minutes, puis refroidissez-les 5 minutes dans de l'eau glacée.",
+   "Écalez les œufs, coupez-les en deux dans la longueur et retirez les jaunes.",
+   "Écrasez les jaunes à la fourchette avec le thon émietté, la mayonnaise, la harissa, le jus de citron, le cumin et le sel.",
+   "Garnissez les blancs avec la farce à la cuillère ou à la poche, en formant un dôme.",
+   "Parsemez de persil et réservez au frais au moins 20 minutes avant de servir."
+  ],
+  "tips": "Dosez la harissa selon les enfants : préparez une moitié sans piment. Se conservent 24 h au réfrigérateur, filmés."
+ },
+ {
+  "id": "l10-rouleaux-dinde-fromage-concombre",
+  "title": "Rouleaux de dinde fumée, fromage frais et concombre",
+  "category": "collation",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde_fumee",
+    "g": 160,
+    "qty": 12,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "concombre",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit concombre"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette ciselée"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le fromage à la crème avec la ciboulette et le poivre.",
+   "Coupez le concombre en bâtonnets de la largeur des tranches de dinde, en retirant les graines.",
+   "Étalez une fine couche de fromage sur chaque tranche de dinde.",
+   "Posez un bâtonnet de concombre au bord et roulez serré. Piquez d'un cure-dent si besoin.",
+   "Réservez 15 minutes au frais puis coupez en deux pour l'apéritif."
+  ],
+  "tips": "Variez avec un bâtonnet de poivron ou une feuille de roquette. Idéal dans la boîte à goûter, bien au frais."
+ },
+ {
+  "id": "l10-bouchees-chou-fleur-cheddar",
+  "title": "Bouchées de chou-fleur au cheddar",
+  "category": "collation",
+  "emoji": "🥦",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "cheddar",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et ail en poudre"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Râpez le chou-fleur ou mixez-le en semoule.",
+   "Faites-le cuire 4 minutes au micro-ondes, puis pressez-le fortement dans un torchon propre pour retirer toute l'eau.",
+   "Mélangez le chou-fleur avec le cheddar, l'œuf, la farine d'amande, la ciboulette, les épices, le sel et le poivre.",
+   "Formez 16 petits boudins ou boulettes avec les mains humides et posez-les sur une plaque recouverte de papier cuisson.",
+   "Enfournez 20 à 25 minutes en les retournant à mi-cuisson, jusqu'à ce qu'ils soient bien dorés.",
+   "Laissez tiédir 5 minutes pour qu'ils se raffermissent avant de servir."
+  ],
+  "tips": "L'essorage du chou-fleur est la clé : plus il est sec, plus les bouchées sont croustillantes. Servez avec le ketchup keto."
+ },
+ {
+  "id": "l10-houmous-chou-fleur-tahini",
+  "title": "Houmous de chou-fleur et ses bâtonnets de légumes",
+  "category": "collation",
+  "emoji": "🥕",
+  "prep": 15,
+  "cook": 15,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 450,
+    "qty": 450,
+    "unit": "g",
+    "name": "chou-fleur en fleurettes"
+   },
+   {
+    "ing": "tahini",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "tahini"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "celeri",
+    "g": 150,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   }
+  ],
+  "steps": [
+   "Faites cuire le chou-fleur 12 à 15 minutes à la vapeur, jusqu'à ce qu'il soit très tendre. Égouttez et laissez tiédir.",
+   "Mixez le chou-fleur avec le tahini, 2 c. à s. d'huile d'olive, le jus de citron, l'ail, le cumin et le sel jusqu'à obtenir une crème lisse.",
+   "Goûtez et rectifiez en citron et en sel. Réfrigérez 30 minutes : le houmous épaissit.",
+   "Coupez le concombre, le céleri et le poivron en bâtonnets de 8 cm.",
+   "Versez le houmous dans un bol, creusez un sillon, arrosez du reste d'huile et saupoudrez de paprika. Servez avec les bâtonnets."
+  ],
+  "tips": "Se garde 4 jours au réfrigérateur. Pour un goût plus grillé, rôtissez le chou-fleur 25 min à 210 °C au lieu de la vapeur."
+ },
+ {
+  "id": "l10-noix-epicees-ras-el-hanout",
+  "title": "Mélange de noix grillées au ras el hanout",
+  "category": "collation",
+  "emoji": "🥜",
+  "prep": 5,
+  "cook": 15,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Marocain",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "amandes entières"
+   },
+   {
+    "ing": "noix",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "noisette",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "noisettes"
+   },
+   {
+    "ing": "blanc_oeuf",
+    "g": 30,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "blanc d'œuf"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ras el hanout"
+   },
+   {
+    "ing": "piment",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment de Cayenne"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "fleur de sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 160 °C.",
+   "Battez le blanc d'œuf à la fourchette jusqu'à ce qu'il mousse légèrement.",
+   "Ajoutez les noix, enrobez-les bien, puis saupoudrez du ras el hanout, du piment et du sel. Mélangez.",
+   "Étalez en une seule couche sur une plaque recouverte de papier cuisson.",
+   "Enfournez 15 minutes en remuant à mi-cuisson, jusqu'à ce que les noix soient sèches et parfumées.",
+   "Laissez refroidir complètement : l'enrobage devient croustillant en refroidissant."
+  ],
+  "tips": "Portion conseillée : une petite poignée (40 g). Se conservent 3 semaines dans un bocal."
+ },
+ {
+  "id": "l10-fat-bombs-salees-ciboulette-noix",
+  "title": "Fat bombs salées au fromage frais, ciboulette et noix",
+  "category": "collation",
+  "emoji": "🧆",
+  "prep": 15,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "fromage_creme",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre mou"
+   },
+   {
+    "ing": "cheddar",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ciboulette ciselée"
+   },
+   {
+    "ing": "noix",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "ail en poudre"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Travaillez le fromage à la crème et le beurre mou à la fourchette jusqu'à obtenir une pommade.",
+   "Incorporez le cheddar, 1 c. à s. de ciboulette, l'ail en poudre et le poivre.",
+   "Réfrigérez 30 minutes pour raffermir la préparation.",
+   "Hachez finement les noix et mélangez-les avec le reste de ciboulette dans une assiette.",
+   "Formez 12 boules de la taille d'une noix et roulez-les dans le mélange noix-ciboulette.",
+   "Réservez au moins 1 heure au réfrigérateur avant de déguster."
+  ],
+  "tips": "Conservation 5 jours au frais. Variante : roulez-les dans du sésame grillé ou du paprika."
+ },
+ {
+  "id": "l10-brochettes-halloumi-tomates",
+  "title": "Brochettes de halloumi grillé et tomates cerises",
+  "category": "collation",
+  "emoji": "🍢",
+  "prep": 10,
+  "cook": 8,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 150,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "courgette",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "menthe ciselée"
+   }
+  ],
+  "steps": [
+   "Coupez le halloumi en 16 cubes de 2 cm et la courgette en demi-rondelles épaisses.",
+   "Mélangez l'huile, l'origan et le jus de citron, puis enrobez-en le fromage et les légumes.",
+   "Enfilez sur 8 petites brochettes en alternant halloumi, tomate et courgette.",
+   "Faites griller 6 à 8 minutes à la poêle-gril ou au barbecue bien chaud, en tournant, jusqu'à ce que le halloumi soit doré.",
+   "Parsemez de menthe et servez aussitôt, le halloumi durcit en refroidissant."
+  ],
+  "tips": "Faites tremper les brochettes en bois 20 minutes dans l'eau pour qu'elles ne brûlent pas."
+ },
+ {
+  "id": "l10-champignons-farcis-chevre",
+  "title": "Champignons farcis au chèvre et au persil",
+  "category": "collation",
+  "emoji": "🍄",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "champignon",
+    "g": 400,
+    "qty": 16,
+    "unit": "pièce(s)",
+    "name": "gros champignons de Paris"
+   },
+   {
+    "ing": "chevre",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "fromage de chèvre frais"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil ciselé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Nettoyez les champignons avec un papier humide et retirez les pieds.",
+   "Hachez finement les pieds et faites-les revenir 4 minutes dans l'huile avec l'ail, jusqu'à évaporation de l'eau.",
+   "Mélangez cette poêlée avec le chèvre, le persil, le sel et le poivre.",
+   "Garnissez généreusement les têtes de champignons et saupoudrez de parmesan.",
+   "Disposez dans un plat et enfournez 15 à 18 minutes, jusqu'à ce que le dessus soit gratiné."
+  ],
+  "tips": "Préparez-les à l'avance et enfournez au dernier moment. Remplacez le chèvre par du jben pour un goût plus doux."
+ },
+ {
+  "id": "l10-tartinade-jben-herbes",
+  "title": "Tartinade de jben aux herbes et à l'huile d'olive",
+  "category": "collation",
+  "emoji": "🌿",
+  "prep": 10,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Marocain",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "jben",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "jben"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil ciselé"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "menthe",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "menthe ciselée"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "petite gousse d'ail"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "zaatar ou thym séché"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   },
+   {
+    "ing": "radis",
+    "g": 150,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "radis"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   }
+  ],
+  "steps": [
+   "Égouttez le jben 10 minutes dans une passoire fine s'il rend du petit-lait.",
+   "Écrasez-le à la fourchette avec 1 c. à s. d'huile d'olive, l'ail râpé, le sel et le poivre.",
+   "Incorporez le persil, la coriandre et la menthe.",
+   "Dressez dans un bol, arrosez du reste d'huile et saupoudrez de zaatar.",
+   "Servez avec les radis coupés en deux et le concombre en rondelles épaisses, ou sur les crackers de graines."
+  ],
+  "tips": "À consommer dans les 3 jours. Ajoutez quelques olives noires hachées pour un côté plus corsé."
+ },
+ {
+  "id": "l10-dip-avocat-feta",
+  "title": "Dip crémeux avocat-feta et légumes croquants",
+  "category": "collation",
+  "emoji": "🥑",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats mûrs"
+   },
+   {
+    "ing": "feta",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 60,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "aneth",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth ciselé"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   },
+   {
+    "ing": "celeri",
+    "g": 150,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   }
+  ],
+  "steps": [
+   "Prélevez la chair des avocats et mettez-la dans le bol d'un mixeur.",
+   "Ajoutez la feta émiettée, le yaourt grec, le jus de citron et le poivre. Mixez jusqu'à obtenir une crème lisse.",
+   "Incorporez l'aneth à la cuillère et goûtez : la feta sale déjà, n'ajoutez du sel qu'au besoin.",
+   "Coupez le céleri et le poivron en bâtonnets et servez autour du dip."
+  ],
+  "tips": "Pour éviter qu'il noircisse, filmez au contact. Se garde 24 h au frais."
+ },
+ {
+  "id": "l10-roules-saumon-fume-fromage",
+  "title": "Roulés de saumon fumé au fromage frais et aneth",
+  "category": "collation",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon_fume",
+    "g": 150,
+    "qty": 6,
+    "unit": "tranche(s)",
+    "name": "saumon fumé"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "aneth",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth ciselé"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "concombre",
+    "g": 100,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le fromage à la crème avec l'aneth, le jus de citron et le poivre.",
+   "Étalez les tranches de saumon sur un film alimentaire en les faisant légèrement se chevaucher pour former un rectangle.",
+   "Recouvrez d'une couche régulière de fromage puis roulez serré à l'aide du film.",
+   "Fermez les extrémités du film et réservez 1 heure au réfrigérateur.",
+   "Coupez en tronçons de 2 cm et posez chacun sur une rondelle de concombre."
+  ],
+  "tips": "Vérifiez que le saumon fumé est bien certifié sans alcool ajouté dans la saumure."
+ },
+ {
+  "id": "l10-boulettes-kefta-cocktail",
+  "title": "Mini boulettes de kefta à la menthe, sauce yaourt",
+  "category": "collation",
+  "emoji": "🧆",
+  "prep": 20,
+  "cook": 12,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 500,
+    "qty": 500,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "menthe",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "menthe hachée"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin, paprika, cannelle"
+   },
+   {
+    "ing": "sel",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "sel"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   }
+  ],
+  "steps": [
+   "Mélangez la kefta avec l'oignon râpé bien pressé, le persil, la moitié de la menthe, les épices et le sel. Pétrissez 2 minutes.",
+   "Formez une trentaine de boulettes de la taille d'une noix, avec les mains huilées.",
+   "Faites chauffer l'huile dans une grande poêle à feu moyen-vif et saisissez les boulettes 8 à 10 minutes en les roulant, jusqu'à ce qu'elles soient dorées et cuites à cœur.",
+   "Mélangez le yaourt grec avec le jus de citron, le reste de menthe et une pincée de sel.",
+   "Piquez chaque boulette d'un cure-dent et servez chaud avec la sauce yaourt."
+  ],
+  "tips": "Les boulettes crues se congèlent à plat sur une plaque puis en sachet. Cuisez-les sans décongeler, 2 minutes de plus."
+ },
+ {
+  "id": "l10-chips-courgette-parmesan",
+  "title": "Chips de courgette au parmesan",
+  "category": "collation",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 500,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes moyennes"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 120 °C (chaleur tournante).",
+   "Coupez les courgettes en rondelles très fines (2 mm) à la mandoline.",
+   "Étalez-les sur du papier absorbant, salez légèrement et laissez dégorger 10 minutes, puis épongez-les bien.",
+   "Badigeonnez d'huile, rangez-les sans chevauchement sur deux plaques et saupoudrez de parmesan et de paprika.",
+   "Enfournez 40 à 50 minutes en surveillant à partir de 35 minutes : retirez les chips dorées au fur et à mesure.",
+   "Laissez-les croustiller 10 minutes sur une grille."
+  ],
+  "tips": "Elles ramollissent avec l'humidité : dégustez-les le jour même, ou repassez-les 5 minutes au four."
+ },
+ {
+  "id": "l10-bouchees-thon-avocat-concombre",
+  "title": "Bouchées de concombre au tartare de thon et avocat",
+  "category": "collation",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "concombre",
+    "g": 300,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "grand concombre"
+   },
+   {
+    "ing": "thon_boite",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de thon au naturel"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 25,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le concombre en rondelles épaisses de 1,5 cm et creusez légèrement le centre avec une cuillère parisienne.",
+   "Égouttez et émiettez le thon. Coupez l'avocat en tout petits dés et arrosez-le de citron.",
+   "Mélangez délicatement le thon, l'avocat, la mayonnaise, la ciboulette, le sel et le poivre.",
+   "Déposez une petite cuillerée de tartare sur chaque rondelle de concombre, saupoudrez de paprika et servez frais."
+  ],
+  "tips": "Préparez le tartare jusqu'à 2 h à l'avance, mais garnissez les concombres au dernier moment pour qu'ils restent croquants."
+ },
+ {
+  "id": "l10-oeufs-mimosa-avocat",
+  "title": "Œufs mimosa à l'avocat et au citron vert",
+  "category": "collation",
+  "emoji": "🥑",
+  "prep": 15,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron vert"
+   },
+   {
+    "ing": "coriandre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment frais haché"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Cuisez les œufs 10 minutes dans l'eau bouillante, puis plongez-les dans l'eau glacée 5 minutes et écalez-les.",
+   "Coupez-les en deux et retirez les jaunes.",
+   "Écrasez les jaunes avec la chair d'avocat, le jus de citron vert, le sel et le piment jusqu'à obtenir une crème lisse.",
+   "Garnissez les blancs à la poche à douille cannelée.",
+   "Décorez de coriandre et servez rapidement."
+  ],
+  "tips": "Version enfant : sans piment, avec une pointe de cumin. À servir dans les 6 heures."
+ },
+ {
+  "id": "l10-crackers-parmesan-lin",
+  "title": "Crackers au parmesan et graines de lin",
+  "category": "collation",
+  "emoji": "🧀",
+  "prep": 10,
+  "cook": 15,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "graine_lin",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "graines de lin moulues"
+   },
+   {
+    "ing": "parmesan",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "romarin séché"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C.",
+   "Mélangez la farine d'amande, le lin, le parmesan, le romarin et le sel, puis ajoutez l'œuf et pétrissez en boule.",
+   "Étalez la pâte entre deux feuilles de papier cuisson sur 2 à 3 mm.",
+   "Retirez la feuille du dessus, découpez en rectangles au couteau et piquez à la fourchette.",
+   "Enfournez 12 à 15 minutes jusqu'à ce que les bords soient bien dorés.",
+   "Séparez les crackers et laissez-les refroidir sur grille : ils deviennent croustillants."
+  ],
+  "tips": "Se gardent une semaine en boîte métallique. Délicieux avec la tartinade de jben ou le tzatziki."
+ },
+ {
+  "id": "l10-olives-marinees-citron-confit",
+  "title": "Olives marinées au citron confit et harissa",
+  "category": "collation",
+  "emoji": "🫒",
+  "prep": 10,
+  "cook": 0,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Sans lactose",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "olive_verte",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "olives noires"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 30,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "écorce de citron confit"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "harissa",
+    "g": 8,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "harissa"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail émincé"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   }
+  ],
+  "steps": [
+   "Rincez les olives à l'eau froide et égouttez-les bien.",
+   "Coupez l'écorce de citron confit en fines lanières, après avoir retiré la pulpe.",
+   "Mélangez l'huile d'olive, la harissa, l'ail, le cumin et la coriandre.",
+   "Ajoutez les olives et le citron confit, mélangez bien.",
+   "Laissez mariner au moins 2 heures au réfrigérateur, idéalement une nuit, en remuant de temps en temps."
+  ],
+  "tips": "Elles se conservent 10 jours au frais dans un bocal, recouvertes d'huile. Sortez-les 20 minutes avant de servir."
+ },
+ {
+  "id": "l10-bouchees-poulet-sesame",
+  "title": "Bouchées de poulet croustillantes au sésame",
+  "category": "collation",
+  "emoji": "🍗",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "sesame",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C. Coupez le poulet en cubes de 3 cm.",
+   "Faites mariner 10 minutes avec la sauce soja, le gingembre et le poivre.",
+   "Battez l'œuf dans une assiette creuse ; mélangez sésame et farine d'amande dans une autre.",
+   "Trempez chaque cube dans l'œuf puis roulez-le dans le mélange sésame.",
+   "Rangez sur une plaque huilée, arrosez d'un filet d'huile et enfournez 14 à 16 minutes en retournant à mi-cuisson.",
+   "Servez chaud avec l'aïoli maison ou le ketchup keto."
+  ],
+  "tips": "Vérifiez la cuisson : la chair doit être blanche à cœur. Se réchauffent 5 min au four, pas au micro-ondes."
+ },
+ {
+  "id": "l10-halloumi-frites-zaatar",
+  "title": "Frites de halloumi au zaatar",
+  "category": "collation",
+  "emoji": "🧀",
+  "prep": 5,
+  "cook": 8,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "farine_coco",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "farine de coco"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "zaatar"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   }
+  ],
+  "steps": [
+   "Coupez le halloumi en bâtonnets de 1,5 cm d'épaisseur et épongez-les.",
+   "Roulez-les dans la farine de coco mélangée à la moitié du zaatar, en tapotant pour retirer l'excédent.",
+   "Faites chauffer l'huile dans une poêle antiadhésive à feu moyen-vif.",
+   "Faites dorer les bâtonnets 1 à 2 minutes par face, jusqu'à ce qu'ils soient croustillants.",
+   "Égouttez sur papier absorbant, arrosez de citron, saupoudrez du reste de zaatar et servez immédiatement."
+  ],
+  "tips": "Accompagnez-les de tzatziki ou de la sauce blanche à l'ail."
+ },
+ {
+  "id": "l10-tartinade-sardines-citron",
+  "title": "Rillettes de sardines au citron et fromage frais",
+  "category": "collation",
+  "emoji": "🐟",
+  "prep": 10,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "sardine_boite",
+    "g": 200,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "boîtes de sardines à l'huile égouttées"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "persil",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil ciselé"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cumin"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   },
+   {
+    "ing": "celeri",
+    "g": 150,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "branches de céleri"
+   }
+  ],
+  "steps": [
+   "Égouttez les sardines et retirez l'arête centrale si vous le souhaitez.",
+   "Écrasez-les à la fourchette avec le fromage à la crème, la moutarde, le jus de citron et le cumin.",
+   "Ajoutez le persil, poivrez généreusement et mélangez.",
+   "Tassez dans un ramequin et réservez 30 minutes au frais.",
+   "Servez avec des bâtonnets de céleri ou sur des crackers de graines."
+  ],
+  "tips": "Économique et riche en oméga-3. Se garde 3 jours au réfrigérateur."
+ },
+ {
+  "id": "l10-baba-ganoush-keto",
+  "title": "Caviar d'aubergine fumé au tahini",
+  "category": "collation",
+  "emoji": "🍆",
+  "prep": 10,
+  "cook": 35,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 600,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines"
+   },
+   {
+    "ing": "tahini",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "tahini"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika fumé"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "radis",
+    "g": 150,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "radis pour servir"
+   }
+  ],
+  "steps": [
+   "Piquez les aubergines et faites-les griller directement sur la flamme du gaz ou sous le gril du four à 240 °C, 30 à 35 minutes, en les tournant, jusqu'à ce que la peau soit noircie et la chair fondante.",
+   "Mettez-les dans un saladier couvert 10 minutes, puis retirez la peau et égouttez la chair 10 minutes dans une passoire.",
+   "Écrasez la chair à la fourchette avec le tahini, le jus de citron, l'ail râpé, le cumin et le sel.",
+   "Dressez dans une assiette creuse, arrosez d'huile d'olive, saupoudrez de paprika fumé et de persil.",
+   "Servez avec les radis et des bâtonnets de légumes."
+  ],
+  "tips": "Le grillage sur flamme donne le goût fumé ; au four, ajoutez un peu plus de paprika fumé."
+ },
+ {
+  "id": "l10-roules-courgette-chevre",
+  "title": "Roulés de courgette grillée au chèvre et basilic",
+  "category": "collation",
+  "emoji": "🌀",
+  "prep": 20,
+  "cook": 10,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes longues"
+   },
+   {
+    "ing": "chevre",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "chèvre frais"
+   },
+   {
+    "ing": "basilic",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "amandes concassées"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les courgettes dans la longueur en fines lamelles de 3 mm à la mandoline.",
+   "Badigeonnez-les d'huile et faites-les griller 1 à 2 minutes par face dans une poêle-gril bien chaude. Laissez refroidir à plat.",
+   "Mélangez le chèvre avec le basilic ciselé, le sel et le poivre.",
+   "Étalez une cuillère à café de chèvre sur chaque lamelle, parsemez d'amandes et roulez serré.",
+   "Piquez d'un cure-dent et servez à température ambiante."
+  ],
+  "tips": "Préparez les lamelles la veille et gardez-les au frais entre deux feuilles de papier cuisson."
+ },
+ {
+  "id": "l10-noix-pecan-cannelle-salees",
+  "title": "Pécans et amandes caramélisées sans sucre, touche de sel",
+  "category": "collation",
+  "emoji": "🌰",
+  "prep": 5,
+  "cook": 12,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "pecan",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "noix de pécan"
+   },
+   {
+    "ing": "amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "amandes"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 25,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cannelle"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "fleur de sel"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre dans une poêle à feu moyen.",
+   "Ajoutez les pécans et les amandes et faites-les torréfier 5 minutes en remuant.",
+   "Saupoudrez d'érythritol et de cannelle et remuez sans cesse 2 à 3 minutes, jusqu'à ce qu'ils soient enrobés et brillants.",
+   "Étalez aussitôt sur du papier cuisson, saupoudrez de fleur de sel et séparez-les avec une fourchette.",
+   "Laissez refroidir 15 minutes avant de déguster."
+  ],
+  "tips": "Une petite poignée suffit (25 g). Gardez-les 2 semaines dans un bocal."
+ },
+ {
+  "id": "l10-mayonnaise-maison",
+  "title": "Mayonnaise maison inratable au mixeur plongeant",
+  "category": "accompagnement",
+  "emoji": "🥚",
+  "prep": 5,
+  "cook": 0,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf entier à température ambiante"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 200,
+    "qty": 220,
+    "unit": "ml",
+    "name": "huile de tournesol"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Sortez l'œuf du réfrigérateur 30 minutes à l'avance : tous les ingrédients doivent être à la même température.",
+   "Dans un verre haut et étroit à peine plus large que le mixeur, mettez l'œuf, la moutarde, le jus de citron et le sel, puis versez l'huile par-dessus.",
+   "Plongez le mixeur jusqu'au fond, mettez en marche et ne bougez pas pendant 10 secondes : la mayonnaise se forme par le bas.",
+   "Remontez très lentement le mixeur pour incorporer le reste de l'huile, en 20 secondes environ.",
+   "Goûtez, poivrez et ajustez le citron. Transférez dans un bocal propre."
+  ],
+  "tips": "Se garde 4 jours au réfrigérateur dans un bocal fermé. Avec un œuf très frais uniquement ; évitez-la pour les femmes enceintes."
+ },
+ {
+  "id": "l10-aioli-provencal",
+  "title": "Aïoli à l'ail et à l'huile d'olive",
+  "category": "accompagnement",
+  "emoji": "🧄",
+  "prep": 10,
+  "cook": 0,
+  "servings": 10,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "jaune_oeuf",
+    "g": 36,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 120,
+    "qty": 130,
+    "unit": "ml",
+    "name": "huile d'olive douce"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 60,
+    "qty": 70,
+    "unit": "ml",
+    "name": "huile de tournesol"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Pelez l'ail, retirez le germe et écrasez-le en purée fine au mortier avec le sel.",
+   "Ajoutez les jaunes d'œufs et mélangez au pilon ou au fouet 30 secondes.",
+   "Versez les huiles mélangées en mince filet, sans cesser de fouetter, jusqu'à ce que la sauce soit épaisse et brillante.",
+   "Ajoutez le jus de citron à la fin, en fouettant, puis rectifiez l'assaisonnement.",
+   "Réservez au frais au moins 30 minutes pour que l'ail infuse."
+  ],
+  "tips": "Si l'aïoli tranche, repartez d'un jaune neuf et incorporez la sauce ratée petit à petit. Parfait avec le poisson grillé et les légumes vapeur."
+ },
+ {
+  "id": "l10-pesto-basilic-amandes",
+  "title": "Pesto de basilic aux amandes et parmesan",
+  "category": "accompagnement",
+  "emoji": "🌿",
+  "prep": 10,
+  "cook": 3,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "basilic",
+    "g": 50,
+    "qty": 2,
+    "unit": "botte",
+    "name": "basilic (feuilles)"
+   },
+   {
+    "ing": "amande",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "amandes émondées"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 100,
+    "qty": 110,
+    "unit": "ml",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites dorer les amandes 3 minutes à sec dans une poêle, puis laissez refroidir.",
+   "Mixez les amandes et l'ail en poudre grossière.",
+   "Ajoutez le basilic, le parmesan, le jus de citron et le sel et mixez par impulsions.",
+   "Versez l'huile en filet, mixeur en marche, jusqu'à obtenir une sauce encore un peu texturée.",
+   "Versez dans un bocal et couvrez d'une fine couche d'huile."
+  ],
+  "tips": "Le pesto noircit à l'air : couvrez toujours d'huile. Il se congèle très bien en bacs à glaçons."
+ },
+ {
+  "id": "l10-sauce-blanche-ail",
+  "title": "Sauce blanche à l'ail façon snack",
+  "category": "accompagnement",
+  "emoji": "🥛",
+  "prep": 5,
+  "cook": 0,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 50,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail râpé"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "persil",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil ciselé"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Râpez l'ail très finement avec une microplane.",
+   "Fouettez le yaourt grec avec la mayonnaise jusqu'à ce que le mélange soit lisse.",
+   "Ajoutez l'ail, le jus de citron, le cumin, le sel et le poivre, puis le persil.",
+   "Réservez au moins 1 heure au réfrigérateur pour que l'ail se diffuse."
+  ],
+  "tips": "Idéale avec les brochettes de poulet ou la kefta. Se garde 3 jours au frais."
+ },
+ {
+  "id": "l10-ketchup-keto",
+  "title": "Ketchup keto maison sans sucre",
+  "category": "accompagnement",
+  "emoji": "🍅",
+  "prep": 5,
+  "cook": 25,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "tomate_concassee",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de tomates concassées (400 g)"
+   },
+   {
+    "ing": "concentre_tomate",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "concentré de tomate"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika, cannelle, clou de girofle moulu"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "petite gousse d'ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans une casserole, faites revenir l'ail écrasé 1 minute dans l'huile à feu moyen.",
+   "Ajoutez les tomates concassées, le concentré, le vinaigre, l'érythritol, les épices et le sel.",
+   "Laissez mijoter à découvert 20 à 25 minutes à feu doux en remuant souvent, jusqu'à ce que la sauce ait réduit de moitié.",
+   "Mixez finement au mixeur plongeant, puis passez au tamis pour un ketchup bien lisse.",
+   "Laissez refroidir et versez dans un bocal stérilisé."
+  ],
+  "tips": "Se conserve 2 semaines au réfrigérateur. Les enfants l'adorent avec les bouchées de chou-fleur."
+ },
+ {
+  "id": "l10-vinaigrette-moutarde-ancienne",
+  "title": "Vinaigrette à la moutarde et au vinaigre de cidre",
+  "category": "accompagnement",
+  "emoji": "🥗",
+  "prep": 5,
+  "cook": 0,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "huile_olive",
+    "g": 90,
+    "qty": 7,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "moutarde",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "moutarde à l'ancienne"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "petite gousse d'ail"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Dans un bocal, mettez la moutarde, le vinaigre, l'ail râpé, le sel et le poivre.",
+   "Fermez et secouez pour dissoudre le sel.",
+   "Ajoutez l'huile d'olive, refermez et secouez vigoureusement 20 secondes jusqu'à émulsion.",
+   "Ajoutez la ciboulette juste avant de servir et secouez à nouveau."
+  ],
+  "tips": "Préparez-en pour la semaine sans la ciboulette. Secouez avant chaque utilisation."
+ },
+ {
+  "id": "l10-chermoula-sauce",
+  "title": "Chermoula, sauce marocaine aux herbes",
+  "category": "accompagnement",
+  "emoji": "🌿",
+  "prep": 15,
+  "cook": 0,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "coriandre",
+    "g": 40,
+    "qty": 1,
+    "unit": "botte",
+    "name": "coriandre"
+   },
+   {
+    "ing": "persil",
+    "g": 30,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil plat"
+   },
+   {
+    "ing": "ail",
+    "g": 15,
+    "qty": 3,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 80,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "piment",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment fort"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 15,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "écorce de citron confit"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Lavez et séchez soigneusement les herbes, puis hachez-les finement au couteau avec les tiges tendres.",
+   "Pilez l'ail avec le sel au mortier.",
+   "Hachez très finement l'écorce de citron confit.",
+   "Mélangez herbes, ail, citron confit, cumin, paprika et piment, puis ajoutez le jus de citron et l'huile.",
+   "Laissez reposer 30 minutes avant d'utiliser, comme marinade ou comme sauce."
+  ],
+  "tips": "Pour mariner le poisson, comptez 1 h au frais. Se garde 5 jours couverte d'huile."
+ },
+ {
+  "id": "l10-tzatziki-concombre",
+  "title": "Tzatziki au concombre, ail et menthe",
+  "category": "accompagnement",
+  "emoji": "🥒",
+  "prep": 15,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "yaourt_grec",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "menthe ciselée"
+   },
+   {
+    "ing": "aneth",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "aneth"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Râpez le concombre avec la peau, salez-le et laissez dégorger 10 minutes dans une passoire.",
+   "Pressez-le fortement à la main pour retirer un maximum d'eau.",
+   "Mélangez le yaourt avec l'ail râpé, le jus de citron, la menthe et l'aneth.",
+   "Incorporez le concombre, arrosez d'huile d'olive et réservez 30 minutes au frais."
+  ],
+  "tips": "Bien presser le concombre évite un tzatziki liquide. Se garde 3 jours."
+ },
+ {
+  "id": "l10-sauce-tahini-citron",
+  "title": "Sauce tahini au citron et à l'ail",
+  "category": "accompagnement",
+  "emoji": "🥣",
+  "prep": 5,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "tahini",
+    "g": 90,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "tahini"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus)"
+   },
+   {
+    "ing": "eau",
+    "g": 70,
+    "qty": 70,
+    "unit": "ml",
+    "name": "eau froide"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cumin"
+   },
+   {
+    "ing": "persil",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Fouettez le tahini avec le jus de citron : il va épaissir et figer, c'est normal.",
+   "Ajoutez l'eau froide petit à petit en fouettant jusqu'à obtenir une sauce lisse et nappante.",
+   "Incorporez l'ail, le cumin et le sel.",
+   "Parsemez de persil au moment de servir."
+  ],
+  "tips": "Ajustez la texture avec de l'eau : plus épaisse en dip, plus fluide pour napper le chou-fleur rôti."
+ },
+ {
+  "id": "l10-vinaigrette-argan-citron",
+  "title": "Vinaigrette à l'huile d'argan et citron",
+  "category": "accompagnement",
+  "emoji": "🍋",
+  "prep": 5,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "huile_argan",
+    "g": 45,
+    "qty": 3.5,
+    "unit": "c. à s.",
+    "name": "huile d'argan alimentaire"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "coriandre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "coriandre ciselée"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le jus de citron, le cumin, le sel et le poivre dans un bol.",
+   "Versez les huiles en filet en fouettant.",
+   "Ajoutez la coriandre juste avant de servir.",
+   "Versez sur une salade de tomates-concombre ou des légumes grillés."
+  ],
+  "tips": "L'huile d'argan est fragile : ne la chauffez pas et conservez-la à l'abri de la lumière."
+ },
+ {
+  "id": "l10-pesto-roquette-noix",
+  "title": "Pesto de roquette aux noix et feta",
+  "category": "accompagnement",
+  "emoji": "🥬",
+  "prep": 10,
+  "cook": 0,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "roquette",
+    "g": 80,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "noix",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "feta",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 90,
+    "qty": 100,
+    "unit": "ml",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mixez les noix et l'ail en poudre grossière.",
+   "Ajoutez la roquette, la feta émiettée et le jus de citron, mixez par impulsions.",
+   "Versez l'huile en filet, mixeur en marche, jusqu'à obtenir une sauce homogène.",
+   "Poivrez et goûtez : la feta apporte le sel."
+  ],
+  "tips": "Parfait sur des nouilles de courgette ou un blanc de poulet grillé. Se garde 4 jours couvert d'huile."
+ },
+ {
+  "id": "l10-sauce-fromagere-cheddar",
+  "title": "Sauce fromagère onctueuse au cheddar",
+  "category": "accompagnement",
+  "emoji": "🧀",
+  "prep": 5,
+  "cook": 8,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "cheddar",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "paprika et muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel, poivre"
+   }
+  ],
+  "steps": [
+   "Faites chauffer la crème à feu doux dans une casserole sans la faire bouillir.",
+   "Ajoutez le fromage à la crème et fouettez jusqu'à ce qu'il soit fondu.",
+   "Incorporez le cheddar poignée par poignée en remuant, jusqu'à obtenir une sauce lisse, 3 à 4 minutes.",
+   "Ajoutez la moutarde, le paprika, la muscade, salez et poivrez.",
+   "Servez chaud sur du brocoli, du chou-fleur ou en dip."
+  ],
+  "tips": "Elle épaissit en refroidissant : réchauffez-la doucement avec une cuillère de crème."
+ },
+ {
+  "id": "l10-cafe-keto-beurre",
+  "title": "Café keto au beurre et à l'huile de coco",
+  "category": "boisson",
+  "emoji": "☕",
+  "prep": 5,
+  "cook": 0,
+  "servings": 1,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "cafe",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "café chaud fraîchement infusé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre doux"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cannelle"
+   },
+   {
+    "ing": "stevia",
+    "g": 0,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "stévia (facultatif)"
+   }
+  ],
+  "steps": [
+   "Préparez un café bien chaud.",
+   "Versez-le dans un blender avec le beurre, l'huile de coco et la cannelle.",
+   "Mixez 20 secondes jusqu'à obtenir une boisson mousseuse et crémeuse, comme un latte.",
+   "Sucrez à la stévia si besoin et buvez aussitôt."
+  ],
+  "tips": "Sans blender, utilisez un mousseur à lait. Commencez par une demi-dose de matière grasse si vous n'en avez pas l'habitude."
+ },
+ {
+  "id": "l10-the-menthe-sans-sucre",
+  "title": "Thé à la menthe marocain sans sucre",
+  "category": "boisson",
+  "emoji": "🍵",
+  "prep": 5,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "the_vert",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "eau pour le thé vert (gunpowder, 1 c. à s.)"
+   },
+   {
+    "ing": "menthe",
+    "g": 25,
+    "qty": 1,
+    "unit": "botte",
+    "name": "menthe fraîche"
+   },
+   {
+    "ing": "stevia",
+    "g": 1,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "stévia en poudre"
+   }
+  ],
+  "steps": [
+   "Ébouillantez la théière, puis mettez 1 c. à s. de thé vert gunpowder.",
+   "Versez un verre d'eau bouillante, faites tourner 30 secondes et jetez cette première eau pour « laver » le thé.",
+   "Ajoutez la menthe lavée, la stévia, puis le reste de l'eau bouillante. Laissez infuser 4 minutes.",
+   "Versez un verre et reversez-le dans la théière deux ou trois fois pour bien mélanger.",
+   "Servez de haut dans de petits verres pour faire mousser."
+  ],
+  "tips": "Ajoutez une branche d'absinthe (chiba) ou de verveine en hiver. La stévia se dose moins que le sucre : goûtez avant d'en remettre."
+ },
+ {
+  "id": "l10-smoothie-vert-avocat-epinard",
+  "title": "Smoothie vert avocat, épinards et concombre",
+  "category": "boisson",
+  "emoji": "🥬",
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 100,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "epinard",
+    "g": 50,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "jeunes pousses d'épinards"
+   },
+   {
+    "ing": "concombre",
+    "g": 120,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "feuilles de menthe"
+   },
+   {
+    "ing": "stevia",
+    "g": 0,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "stévia"
+   }
+  ],
+  "steps": [
+   "Lavez les épinards et coupez le concombre en morceaux.",
+   "Mettez tous les ingrédients dans le blender, le lait d'amande en premier.",
+   "Mixez 1 minute à pleine puissance jusqu'à ce que ce soit parfaitement lisse.",
+   "Ajoutez quelques glaçons et mixez encore 10 secondes. Servez aussitôt."
+  ],
+  "tips": "Ajoutez 1 c. à s. de graines de chia pour un smoothie plus rassasiant."
+ },
+ {
+  "id": "l10-lassi-keto-cardamome",
+  "title": "Lassi keto à la cardamome",
+  "category": "boisson",
+  "emoji": "🥛",
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "eau",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "eau froide"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 2,
+    "unit": "pincée",
+    "name": "cardamome moulue"
+   },
+   {
+    "ing": "pistache",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "pistaches concassées"
+   }
+  ],
+  "steps": [
+   "Mettez le yaourt, l'eau froide, la crème, l'érythritol et la cardamome dans le blender.",
+   "Mixez 30 secondes jusqu'à obtenir une boisson mousseuse.",
+   "Versez sur des glaçons dans deux verres.",
+   "Parsemez de pistaches concassées et servez bien frais."
+  ],
+  "tips": "Version salée : remplacez l'érythritol par une pincée de sel et de cumin grillé."
+ },
+ {
+  "id": "l10-chocolat-chaud-keto",
+  "title": "Chocolat chaud keto onctueux",
+  "category": "boisson",
+  "emoji": "🍫",
+  "prep": 5,
+  "cook": 5,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "lait_amande",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "cacao",
+    "g": 15,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "erythritol",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "sel",
+    "g": 0,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans une casserole, fouettez le cacao et l'érythritol avec 3 c. à s. de lait d'amande pour former une pâte lisse.",
+   "Ajoutez le reste du lait et la crème, puis faites chauffer à feu moyen en fouettant.",
+   "Ajoutez le chocolat noir haché et fouettez jusqu'à ce qu'il soit fondu, sans faire bouillir.",
+   "Hors du feu, ajoutez la vanille et la pincée de sel.",
+   "Faites mousser au fouet ou au mixeur plongeant et servez bien chaud."
+  ],
+  "tips": "Une pincée de cannelle ou de piment donne une version épicée. Idéal pour le goûter des enfants en hiver."
+ },
+ {
+  "id": "l10-citronnade-stevia-menthe",
+  "title": "Citronnade maison à la stévia et à la menthe",
+  "category": "boisson",
+  "emoji": "🍋",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "citron",
+    "g": 120,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "citrons (jus)"
+   },
+   {
+    "ing": "eau",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "ml",
+    "name": "eau fraîche"
+   },
+   {
+    "ing": "stevia",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "stévia en poudre"
+   },
+   {
+    "ing": "menthe",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "feuilles de menthe"
+   }
+  ],
+  "steps": [
+   "Pressez les citrons et filtrez le jus.",
+   "Dissolvez la stévia dans 100 ml d'eau en fouettant.",
+   "Versez dans une carafe avec le jus de citron, le reste de l'eau et les feuilles de menthe légèrement froissées.",
+   "Réfrigérez 1 heure et servez sur glaçons."
+  ],
+  "tips": "Remplacez la moitié de l'eau par de l'eau gazeuse au moment de servir pour une version pétillante."
+ },
+ {
+  "id": "l10-eau-aromatisee-concombre-menthe",
+  "title": "Eau aromatisée concombre, citron et menthe",
+  "category": "boisson",
+  "emoji": "💧",
+  "prep": 5,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "eau",
+    "g": 1000,
+    "qty": 1000,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "concombre",
+    "g": 100,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron en rondelles"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe fraîche"
+   }
+  ],
+  "steps": [
+   "Lavez le concombre et le citron, puis coupez-les en fines rondelles.",
+   "Froissez légèrement les feuilles de menthe entre vos mains pour libérer leur parfum.",
+   "Mettez le tout dans une carafe et couvrez d'eau froide.",
+   "Laissez infuser 2 heures au réfrigérateur et servez sur glaçons."
+  ],
+  "tips": "Remplissez à nouveau la carafe d'eau une fois dans la journée, puis renouvelez les fruits. À boire dans les 24 h."
+ },
+ {
+  "id": "l10-golden-milk-coco",
+  "title": "Golden milk au curcuma et lait de coco",
+  "category": "boisson",
+  "emoji": "🌕",
+  "prep": 5,
+  "cook": 5,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "lait_amande",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "curcuma et cannelle"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "poivre",
+    "g": 0,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "poivre noir"
+   },
+   {
+    "ing": "stevia",
+    "g": 0,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "stévia"
+   }
+  ],
+  "steps": [
+   "Versez le lait d'amande et le lait de coco dans une casserole.",
+   "Ajoutez le curcuma, la cannelle, le gingembre et le poivre noir, qui aide à l'absorption du curcuma.",
+   "Faites chauffer 5 minutes à feu doux en fouettant, sans bouillir.",
+   "Filtrez, sucrez à la stévia et faites mousser avant de servir."
+  ],
+  "tips": "Attention, le curcuma tache : rincez casserole et tasses aussitôt."
+ },
+ {
+  "id": "l10-cafe-glace-coco",
+  "title": "Café glacé crémeux à la coco",
+  "category": "boisson",
+  "emoji": "🧊",
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "cafe",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "café fort refroidi"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cannelle"
+   }
+  ],
+  "steps": [
+   "Préparez le café à l'avance et laissez-le refroidir complètement au réfrigérateur.",
+   "Mixez le lait de coco avec l'érythritol, la vanille et la cannelle 15 secondes pour le faire mousser.",
+   "Remplissez deux grands verres de glaçons et versez le café.",
+   "Ajoutez la mousse de coco par-dessus et mélangez au moment de boire."
+  ],
+  "tips": "Congelez du café en bacs à glaçons : la boisson ne se dilue pas."
+ },
+ {
+  "id": "l10-smoothie-framboise-coco",
+  "title": "Smoothie framboise, coco et chia",
+  "category": "boisson",
+  "emoji": "🍓",
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "framboise",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "framboises (fraîches ou surgelées)"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "graine_chia",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de chia"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 2,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "vanille"
+   }
+  ],
+  "steps": [
+   "Mettez les framboises, le lait de coco, le lait d'amande, l'érythritol et la vanille dans le blender.",
+   "Mixez 1 minute jusqu'à obtenir une texture lisse.",
+   "Ajoutez les graines de chia et mixez 5 secondes seulement.",
+   "Laissez reposer 5 minutes pour que le chia épaississe légèrement, puis servez."
+  ],
+  "tips": "Avec des framboises surgelées, le smoothie devient presque une glace à boire."
+ },
+ {
+  "id": "l10-the-vert-gingembre-citron",
+  "title": "Infusion de thé vert au gingembre et citron",
+  "category": "boisson",
+  "emoji": "🫚",
+  "prep": 5,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "the_vert",
+    "g": 500,
+    "qty": 500,
+    "unit": "ml",
+    "name": "eau pour le thé vert (2 sachets)"
+   },
+   {
+    "ing": "gingembre",
+    "g": 15,
+    "qty": 3,
+    "unit": "tranche(s)",
+    "name": "gingembre frais"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "stevia",
+    "g": 0,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "stévia"
+   }
+  ],
+  "steps": [
+   "Faites frémir l'eau avec les tranches de gingembre 5 minutes.",
+   "Retirez du feu et laissez refroidir 2 minutes : le thé vert ne doit pas infuser dans l'eau bouillante.",
+   "Ajoutez le thé vert et laissez infuser 3 minutes, puis retirez-le.",
+   "Ajoutez le jus de citron, sucrez à la stévia et servez chaud ou glacé."
+  ],
+  "tips": "Au-delà de 3 minutes, le thé vert devient amer. Délicieux glacé l'été."
+ },
+ {
+  "id": "l10-milkshake-vanille-proteine",
+  "title": "Milk-shake vanille protéiné",
+  "category": "boisson",
+  "emoji": "🥤",
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "lait_amande",
+    "g": 350,
+    "qty": 350,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "whey",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "whey nature"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "eau",
+    "g": 100,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "glaçons"
+   }
+  ],
+  "steps": [
+   "Mettez le lait d'amande, la crème, la vanille et l'érythritol dans le blender.",
+   "Ajoutez la whey par-dessus pour éviter qu'elle colle au fond.",
+   "Ajoutez les glaçons et mixez 45 secondes jusqu'à obtenir une texture épaisse et mousseuse.",
+   "Servez aussitôt dans de grands verres."
+  ],
+  "tips": "Idéal après le sport. Ajoutez 1 c. à s. de beurre de cacahuète pour une version plus gourmande."
+ },
+ {
+  "id": "l10-smoothie-fraise-amande",
+  "title": "Smoothie fraise-amande au yaourt grec",
+  "category": "boisson",
+  "emoji": "🍓",
+  "prep": 5,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "fraise",
+    "g": 100,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "fraises"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "puree_amande",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "purée d'amande"
+   },
+   {
+    "ing": "erythritol",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   }
+  ],
+  "steps": [
+   "Lavez et équeutez les fraises.",
+   "Mettez tous les ingrédients dans le blender.",
+   "Mixez 1 minute jusqu'à ce que ce soit bien lisse et mousseux.",
+   "Servez frais avec quelques glaçons."
+  ],
+  "tips": "Congelez les fraises de saison en été pour en profiter toute l'année."
+ }
+]

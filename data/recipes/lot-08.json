@@ -1,0 +1,4907 @@
+[
+ {
+  "id": "l08-quiche-sans-pate-epinards-feta",
+  "title": "Quiche sans pâte épinards et feta",
+  "category": "dejeuner",
+  "emoji": "🥧",
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "epinard",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "épinards frais"
+   },
+   {
+    "ing": "feta",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "feta émiettée"
+   },
+   {
+    "ing": "emmental",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "noix de muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez ou huilez un moule à tarte de 24 cm.",
+   "Faites revenir l'oignon dans l'huile d'olive 3 min à feu moyen, ajoutez les épinards et laissez-les tomber 4–5 min en remuant.",
+   "Égouttez soigneusement les épinards dans une passoire en les pressant avec le dos d'une cuillère pour retirer l'eau.",
+   "Battez les œufs avec la crème, la muscade, peu de sel (la feta est salée) et du poivre.",
+   "Répartissez les épinards et la feta émiettée dans le moule, versez l'appareil et parsemez d'emmental.",
+   "Enfournez 30–35 min jusqu'à ce que la quiche soit gonflée, dorée et que la lame d'un couteau ressorte propre.",
+   "Laissez tiédir 10 min avant de découper pour que les parts se tiennent bien."
+  ],
+  "tips": "Se conserve 3 jours au réfrigérateur ; se réchauffe 1 min au micro-ondes ou se mange froide dans la boîte à déjeuner."
+ },
+ {
+  "id": "l08-halloumi-grille-salade-concombre-menthe",
+  "title": "Halloumi grillé, salade concombre-menthe",
+  "category": "dejeuner",
+  "emoji": "🧀",
+  "prep": 15,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "concombre",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 100,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "menthe",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe fraîche"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 40,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 20,
+    "qty": 1,
+    "unit": "tranche(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le halloumi en tranches de 1 cm et séchez-les avec du papier absorbant.",
+   "Coupez le concombre en demi-rondelles, les tomates cerises en deux et émincez finement l'oignon rouge.",
+   "Mélangez les légumes avec les olives, la menthe ciselée, 1 c. à s. d'huile, le jus de citron et du poivre.",
+   "Chauffez une poêle ou un gril à feu vif avec un filet d'huile et saisissez le halloumi 2 min de chaque côté jusqu'à ce qu'il soit bien doré.",
+   "Disposez la salade dans les assiettes, posez le halloumi chaud dessus et arrosez du reste d'huile d'olive."
+  ],
+  "tips": "Servez le halloumi tout de suite : il durcit en refroidissant. Un filet de jus de citron juste avant de servir le rend encore meilleur."
+ },
+ {
+  "id": "l08-curry-tofu-chou-fleur-coco",
+  "title": "Curry de tofu et chou-fleur au lait de coco",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "tofu",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "tofu ferme"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 400,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou-fleur en bouquets"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "epinard",
+    "g": 100,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "épinards"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 14,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "curry en poudre et curcuma"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Égouttez le tofu, pressez-le 10 min entre deux torchons sous un poids, puis coupez-le en cubes de 2 cm.",
+   "Faites dorer les cubes dans 1 c. à s. d'huile de coco à feu vif 6–8 min en les retournant ; réservez.",
+   "Dans la même cocotte, faites revenir l'oignon haché 3 min avec le reste d'huile, puis l'ail et le gingembre 1 min.",
+   "Ajoutez les épices et remuez 30 s pour les torréfier, puis versez le lait de coco et salez.",
+   "Ajoutez le chou-fleur, couvrez et laissez mijoter 12 min à feu doux jusqu'à ce qu'il soit tendre.",
+   "Remettez le tofu, ajoutez les épinards et laissez cuire 2 min. Parsemez de coriandre au moment de servir."
+  ],
+  "tips": "Servez avec du riz de chou-fleur. Le curry est encore meilleur le lendemain : il se garde 3 jours au frais."
+ },
+ {
+  "id": "l08-gratin-courgettes-chevre",
+  "title": "Gratin de courgettes au chèvre",
+  "category": "diner",
+  "emoji": "🧀",
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 700,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "chevre",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "bûche de chèvre"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "herbes de Provence"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Coupez les courgettes en rondelles de 5 mm.",
+   "Faites-les sauter 8 min à feu vif dans l'huile avec l'ail haché et une pincée de sel, pour qu'elles rendent leur eau ; égouttez.",
+   "Battez les œufs avec la crème, le parmesan, les herbes et du poivre.",
+   "Disposez les courgettes dans un plat à gratin, versez l'appareil et posez dessus les rondelles de chèvre.",
+   "Enfournez 25 min jusqu'à ce que le chèvre soit doré et que l'appareil soit pris."
+  ],
+  "tips": "Ne sautez pas l'étape de précuisson : sinon les courgettes rendent trop d'eau et le gratin est liquide."
+ },
+ {
+  "id": "l08-shakshuka-feta-poivrons",
+  "title": "Shakshuka aux poivrons et feta",
+  "category": "dejeuner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 25,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Marocain",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit poivron rouge"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "feta",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites revenir l'oignon émincé et les poivrons en lanières dans l'huile 8 min à feu moyen.",
+   "Ajoutez l'ail, le cumin et le paprika, remuez 1 min, puis versez les tomates concassées et salez.",
+   "Laissez mijoter 8 min à découvert jusqu'à ce que la sauce épaississe.",
+   "Creusez 6 puits avec une cuillère et cassez un œuf dans chacun.",
+   "Couvrez et laissez cuire 5–7 min à feu doux jusqu'à ce que les blancs soient pris et les jaunes encore coulants.",
+   "Émiettez la feta, parsemez de coriandre et servez directement dans la poêle."
+  ],
+  "tips": "Ajoutez une pointe de harissa avec les tomates pour une version plus relevée."
+ },
+ {
+  "id": "l08-salade-cesar-poulet-parmesan",
+  "title": "Salade César keto au poulet",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "laitue",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "cœur de romaine"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan en copeaux"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 min dans l'eau bouillante, refroidissez-les à l'eau froide et écalez-les.",
+   "Salez et poivrez les blancs de poulet et faites-les cuire dans l'huile 5–6 min par face à feu moyen ; laissez reposer 3 min puis tranchez.",
+   "Préparez la sauce : mélangez la mayonnaise, la moutarde, le jus de citron, l'ail râpé, 1 c. à s. de parmesan râpé et 1 c. à s. d'eau.",
+   "Lavez et coupez la romaine, mélangez-la avec la sauce.",
+   "Répartissez dans les assiettes, ajoutez le poulet, les œufs coupés en quartiers et les copeaux de parmesan."
+  ],
+  "tips": "Pour du croustillant sans croûtons, faites fondre de petits tas de parmesan 5 min au four à 200 °C : vous obtenez des tuiles."
+ },
+ {
+  "id": "l08-galettes-courgette-feta",
+  "title": "Galettes de courgette à la feta et à l'aneth",
+  "category": "dejeuner",
+  "emoji": "🥒",
+  "prep": 20,
+  "cook": 15,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 500,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "feta",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "aneth",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "aneth"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "oignons verts"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec (sauce)"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Râpez les courgettes, salez légèrement et laissez dégorger 10 min dans une passoire.",
+   "Pressez-les très fort dans un torchon propre pour en retirer le maximum d'eau.",
+   "Mélangez les courgettes avec les œufs, la feta émiettée, la farine d'amande, le parmesan, l'aneth et les oignons verts ciselés, poivrez.",
+   "Chauffez l'huile dans une poêle à feu moyen. Déposez des cuillerées de pâte et aplatissez-les en galettes de 8 cm.",
+   "Faites cuire 3–4 min par face jusqu'à ce qu'elles soient bien dorées, puis égouttez sur du papier absorbant.",
+   "Servez chaud avec le yaourt grec mélangé à un peu d'aneth haché."
+  ],
+  "tips": "Les galettes se congèlent cuites ; réchauffez-les 8 min au four à 200 °C pour retrouver le croustillant."
+ },
+ {
+  "id": "l08-salade-nicoise-thon",
+  "title": "Salade niçoise au thon",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_huile",
+    "g": 160,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de thon à l'huile égoutté"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "laitue",
+    "g": 120,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "salade verte"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 40,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 min à l'eau bouillante, refroidissez et écalez-les.",
+   "Faites cuire les haricots verts 7 min à l'eau bouillante salée, puis plongez-les dans l'eau glacée pour garder leur couleur.",
+   "Préparez la vinaigrette en fouettant la moutarde, le vinaigre, l'huile, le sel et le poivre.",
+   "Disposez la salade, la tomate en quartiers, le poivron en fines lanières et les haricots dans un grand plat.",
+   "Ajoutez le thon émietté, les œufs en quartiers et les olives, puis arrosez de vinaigrette."
+  ],
+  "tips": "Ajoutez quelques filets d'anchois ou des câpres pour une version encore plus authentique."
+ },
+ {
+  "id": "l08-tofu-saute-brocoli-sesame",
+  "title": "Tofu sauté au brocoli et sésame",
+  "category": "diner",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 15,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "tofu",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tofu ferme"
+   },
+   {
+    "ing": "brocoli",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petit brocoli"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile neutre"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 15,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignons verts"
+   },
+   {
+    "ing": "tahini",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "tahini"
+   },
+   {
+    "ing": "piment",
+    "g": 5,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment frais (facultatif)"
+   }
+  ],
+  "steps": [
+   "Pressez le tofu 10 min dans un torchon, puis coupez-le en cubes.",
+   "Faites-le dorer dans 1 c. à s. d'huile au wok ou à la poêle à feu vif 6–8 min ; réservez.",
+   "Ajoutez le reste d'huile et le brocoli en petits bouquets, faites sauter 3 min puis ajoutez 3 c. à s. d'eau et couvrez 3 min.",
+   "Ajoutez l'ail, le gingembre et le piment, remuez 1 min.",
+   "Remettez le tofu, versez la sauce soja mélangée au tahini et faites sauter 1 min pour enrober.",
+   "Parsemez de sésame grillé et d'oignons verts émincés avant de servir."
+  ],
+  "tips": "Pour un tofu bien croustillant, roulez les cubes dans 1 c. à c. de psyllium avant de les faire dorer."
+ },
+ {
+  "id": "l08-frittata-champignons-chevre",
+  "title": "Frittata aux champignons et chèvre",
+  "category": "diner",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 20,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 420,
+    "qty": 7,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "champignon",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "champignons de Paris"
+   },
+   {
+    "ing": "chevre",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "chèvre frais"
+   },
+   {
+    "ing": "epinard",
+    "g": 80,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "pousses d'épinards"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four en position gril. Émincez les champignons.",
+   "Dans une poêle de 24 cm allant au four, faites dorer les champignons dans le beurre 6–7 min à feu vif, ajoutez l'ail et les épinards 1 min.",
+   "Battez les œufs avec la crème, le persil haché, du sel et du poivre.",
+   "Versez sur les légumes, baissez le feu et laissez cuire 6–8 min sans remuer jusqu'à ce que les bords soient pris.",
+   "Émiettez le chèvre sur le dessus et passez 3–4 min sous le gril jusqu'à ce que la frittata soit gonflée et dorée."
+  ],
+  "tips": "Coupée en carrés, la frittata froide fait une excellente collation ou un déjeuner à emporter."
+ },
+ {
+  "id": "l08-aubergines-gratinees-mozzarella",
+  "title": "Aubergines gratinées à la tomate et mozzarella",
+  "category": "diner",
+  "emoji": "🍆",
+  "prep": 20,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 600,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 250,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "boules de mozzarella"
+   },
+   {
+    "ing": "parmesan",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "ricotta",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "basilic",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en tranches de 1 cm dans la longueur.",
+   "Badigeonnez-les d'huile, salez et faites-les rôtir 20 min sur une plaque recouverte de papier cuisson.",
+   "Pendant ce temps, faites mijoter les tomates avec l'ail haché, sel et poivre 10 min.",
+   "Mélangez la ricotta, les œufs, la moitié du parmesan et le basilic ciselé.",
+   "Dans un plat, alternez sauce tomate, aubergines, mélange ricotta et mozzarella tranchée ; terminez par la mozzarella et le reste de parmesan.",
+   "Baissez le four à 180 °C et enfournez 20 min jusqu'à ce que le dessus soit doré et bouillonnant.",
+   "Laissez reposer 10 min avant de servir pour que les couches se tiennent."
+  ],
+  "tips": "Se prépare la veille : assemblez, couvrez et réfrigérez, puis ajoutez 10 min de cuisson."
+ },
+ {
+  "id": "l08-salade-poulet-avocat-oeuf",
+  "title": "Salade-repas poulet, avocat et œuf mollet",
+  "category": "dejeuner",
+  "emoji": "🥑",
+  "prep": 15,
+  "cook": 15,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "roquette",
+    "g": 80,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "concombre",
+    "g": 120,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika et cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Assaisonnez le poulet de paprika, cumin, sel et poivre, puis faites-le cuire dans 1 c. à s. d'huile 5–6 min par face. Laissez reposer et tranchez.",
+   "Faites cuire les œufs 6 min 30 dans l'eau bouillante, puis refroidissez-les immédiatement et écalez-les délicatement.",
+   "Faites griller les graines de courge 2 min à sec dans une poêle.",
+   "Mélangez la roquette et le concombre en dés avec le reste d'huile, le citron et une pincée de sel.",
+   "Ajoutez l'avocat en tranches, le poulet, les œufs coupés en deux et les graines de courge."
+  ],
+  "tips": "Arrosez l'avocat de citron s'il doit attendre : il ne noircira pas."
+ },
+ {
+  "id": "l08-jben-oeufs-brouilles-zaatar",
+  "title": "Œufs brouillés au jben, tomate et zaatar",
+  "category": "petit-dej",
+  "emoji": "🍳",
+  "prep": 5,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "jben",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "jben"
+   },
+   {
+    "ing": "tomate",
+    "g": 80,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite tomate"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "zaatar"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez la tomate en petits dés et épongez-les.",
+   "Battez les œufs avec une pincée de sel et de poivre.",
+   "Faites fondre le beurre à feu doux, versez les œufs et remuez lentement avec une spatule 3–4 min jusqu'à obtenir des grumeaux crémeux.",
+   "Hors du feu, incorporez le jben émietté et la tomate.",
+   "Servez arrosé d'huile d'olive et saupoudré de zaatar."
+  ],
+  "tips": "Retirez les œufs du feu quand ils sont encore un peu baveux : la chaleur résiduelle finit la cuisson."
+ },
+ {
+  "id": "l08-salade-thon-avocat-oeufs-mimosa",
+  "title": "Salade-repas thon, avocat et œufs mimosa",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_boite",
+    "g": 160,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boîte de thon au naturel égoutté"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "laitue",
+    "g": 100,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "salade verte"
+   },
+   {
+    "ing": "cornichon",
+    "g": 30,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 10 min à l'eau bouillante, refroidissez-les et écalez-les.",
+   "Coupez les œufs en deux, retirez les jaunes et écrasez-les à la fourchette avec la mayonnaise et la moitié de la ciboulette.",
+   "Mélangez le thon émietté avec les cornichons hachés, le jus de citron et du poivre.",
+   "Garnissez les blancs d'œufs avec le mélange jaune-mayonnaise.",
+   "Dressez la salade assaisonnée d'huile d'olive, ajoutez le thon, l'avocat en tranches et les œufs mimosa, puis parsemez du reste de ciboulette."
+  ],
+  "tips": "Préparez les œufs durs la veille : ils se gardent 4 jours au frais dans leur coquille."
+ },
+ {
+  "id": "l08-curry-oeufs-epinards",
+  "title": "Curry d'œufs durs aux épinards",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 10,
+  "cook": 20,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Économique",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 480,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "epinard",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "creme_coco",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème de coco"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "garam masala et curcuma"
+   },
+   {
+    "ing": "ghee",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "ghee"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 10 min à l'eau bouillante, refroidissez-les et écalez-les.",
+   "Faites fondre le ghee, ajoutez l'oignon haché et faites-le revenir 4 min, puis l'ail et le gingembre 1 min.",
+   "Ajoutez les épices, remuez 30 s, puis versez les tomates et laissez réduire 5 min.",
+   "Incorporez la crème de coco et les épinards, salez et laissez cuire 4 min jusqu'à ce que les épinards soient fondus.",
+   "Incisez légèrement les œufs en croix pour qu'ils absorbent la sauce, ajoutez-les et laissez mijoter 3 min.",
+   "Parsemez de coriandre et servez."
+  ],
+  "tips": "Accompagnez de riz de chou-fleur ou de riz de konjac pour un repas complet."
+ },
+ {
+  "id": "l08-chou-fleur-gratine-cheddar",
+  "title": "Gratin de chou-fleur au cheddar et œufs",
+  "category": "diner",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 800,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "cheddar",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "moutarde",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "noix de muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Détaillez le chou-fleur en bouquets.",
+   "Faites-les cuire 8 min à l'eau bouillante salée (ils doivent rester un peu fermes), puis égouttez très bien.",
+   "Faites chauffer la crème avec le fromage à la crème, la moutarde et les deux tiers du cheddar jusqu'à ce que tout soit fondu ; hors du feu, ajoutez les œufs battus, la muscade, sel et poivre.",
+   "Beurrez un plat à gratin, disposez le chou-fleur et nappez de sauce.",
+   "Parsemez du reste de cheddar et enfournez 25 min jusqu'à ce que le dessus soit doré."
+  ],
+  "tips": "Version économique : remplacez le cheddar par de l'edam râpé."
+ },
+ {
+  "id": "l08-halloumi-brochettes-legumes",
+  "title": "Brochettes de halloumi et légumes grillés",
+  "category": "diner",
+  "emoji": "🍢",
+  "prep": 20,
+  "cook": 12,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "courgette",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "champignon",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon rouge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan et paprika fumé"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Si vous utilisez des pics en bois, faites-les tremper 20 min dans l'eau.",
+   "Coupez le halloumi, la courgette, le poivron et l'oignon en cubes de 2,5 cm ; gardez les champignons entiers.",
+   "Mélangez l'huile, le citron, l'origan, le paprika et le poivre ; enrobez-en les cubes.",
+   "Montez les brochettes en alternant fromage et légumes.",
+   "Faites-les griller 10–12 min au gril, à la plancha ou au barbecue en les retournant régulièrement.",
+   "Servez avec le yaourt grec mélangé à la menthe ciselée."
+  ],
+  "tips": "Le halloumi ne fond pas à la cuisson : il est idéal pour le barbecue."
+ },
+ {
+  "id": "l08-salade-grecque-feta-oeufs",
+  "title": "Salade grecque complète feta et œufs",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "feta",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "tomate",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite tomate"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 50,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 20,
+    "qty": 2,
+    "unit": "tranche(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 min à l'eau bouillante, refroidissez-les et écalez-les.",
+   "Coupez le concombre et la tomate en gros morceaux, le poivron et l'oignon rouge en fines lamelles.",
+   "Mélangez les légumes avec les olives, l'huile, le vinaigre, l'origan et du poivre.",
+   "Répartissez dans les assiettes, ajoutez les œufs en quartiers et posez la feta en bloc ou en gros cubes.",
+   "Arrosez la feta d'un filet d'huile et d'une pincée d'origan avant de servir."
+  ],
+  "tips": "Laissez la salade reposer 10 min avant d'ajouter les œufs : les légumes s'imprègnent de la vinaigrette."
+ },
+ {
+  "id": "l08-poivrons-farcis-ricotta-epinards",
+  "title": "Poivrons farcis ricotta, épinards et parmesan",
+  "category": "diner",
+  "emoji": "🫑",
+  "prep": 20,
+  "cook": 35,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "poivron_rouge",
+    "g": 400,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "poivrons moyens"
+   },
+   {
+    "ing": "ricotta",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "parmesan",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "basilic",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Coupez les poivrons en deux dans la longueur et épépinez-les.",
+   "Faites tomber les épinards avec l'ail dans l'huile 3 min, puis égouttez-les en les pressant et hachez-les.",
+   "Mélangez la ricotta, les œufs, le parmesan, les épinards, le basilic ciselé, sel et poivre.",
+   "Garnissez les demi-poivrons et posez-les dans un plat huilé.",
+   "Couvrez de papier aluminium et enfournez 20 min, puis retirez l'aluminium, parsemez de mozzarella et poursuivez 15 min.",
+   "Servez quand le fromage est doré et que les poivrons sont tendres."
+  ],
+  "tips": "Les poivrons rouges sont plus sucrés : pour réduire les glucides, utilisez des poivrons verts."
+ },
+ {
+  "id": "l08-salade-tiede-chevre-noix",
+  "title": "Salade tiède au chèvre chaud, noix et œuf poché",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "chevre",
+    "g": 160,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "chèvre en bûche"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "laitue",
+    "g": 120,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "mesclun"
+   },
+   {
+    "ing": "noix",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "thym séché"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Posez les tranches de chèvre sur du papier cuisson, saupoudrez de farine d'amande et de thym.",
+   "Enfournez 6–8 min jusqu'à ce que le chèvre soit fondant et légèrement doré.",
+   "Pendant ce temps, portez une casserole d'eau à frémissement avec 1 c. à s. de vinaigre, créez un tourbillon et pochez chaque œuf 3 min.",
+   "Préparez la vinaigrette avec la moutarde, le vinaigre restant, l'huile, sel et poivre ; assaisonnez le mesclun.",
+   "Dressez la salade, ajoutez les noix concassées, le chèvre chaud et l'œuf poché égoutté."
+  ],
+  "tips": "Cassez chaque œuf dans une petite tasse avant de le glisser dans l'eau : le pochage est plus facile."
+ },
+ {
+  "id": "l08-galettes-chou-fleur-cheddar",
+  "title": "Galettes de chou-fleur au cheddar",
+  "category": "dejeuner",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 25,
+  "servings": 3,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 500,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "gros chou-fleur"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "cheddar",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème fraîche (sauce)"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Râpez le chou-fleur ou mixez-le en grains de la taille du riz.",
+   "Faites-le cuire 4 min au micro-ondes, laissez tiédir puis pressez-le très fort dans un torchon pour en extraire l'eau.",
+   "Mélangez avec les œufs, le cheddar, la farine d'amande, l'ail râpé, la ciboulette, sel et poivre.",
+   "Formez 9 galettes de 1 cm d'épaisseur sur une plaque recouverte de papier cuisson huilé, badigeonnez-les d'huile.",
+   "Enfournez 20 min, retournez délicatement et poursuivez 5 min jusqu'à ce qu'elles soient dorées.",
+   "Servez avec la crème fraîche mélangée à un peu de ciboulette."
+  ],
+  "tips": "Le secret est d'essorer à fond le chou-fleur : sans eau, les galettes se tiennent parfaitement."
+ },
+ {
+  "id": "l08-tajine-legumes-oeufs-olives",
+  "title": "Tajine de légumes aux œufs et olives",
+  "category": "diner",
+  "emoji": "🍲",
+  "prep": 15,
+  "cook": 30,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Marocain",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "courgette",
+    "g": 250,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 60,
+    "qty": 15,
+    "unit": "pièce(s)",
+    "name": "olives vertes"
+   },
+   {
+    "ing": "citron_confit",
+    "g": 20,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "citron confit"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin, paprika, curcuma, gingembre"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil et coriandre"
+   },
+   {
+    "ing": "jben",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "jben"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Dans un tajine ou une sauteuse, faites revenir l'oignon émincé dans l'huile 4 min.",
+   "Ajoutez les épices, la tomate râpée et 100 ml d'eau, puis les courgettes et le poivron en bâtonnets. Salez.",
+   "Couvrez et laissez mijoter 15 min à feu doux.",
+   "Ajoutez les olives et le citron confit en lanières, puis cassez les œufs sur les légumes.",
+   "Couvrez et laissez cuire 6–8 min jusqu'à ce que les blancs soient pris.",
+   "Émiettez le jben, parsemez d'herbes et servez dans le tajine."
+  ],
+  "tips": "Utilisez un diffuseur sous le tajine en terre pour éviter qu'il ne se fende sur le feu."
+ },
+ {
+  "id": "l08-salade-poulet-tahini-chou",
+  "title": "Salade de poulet au chou croquant et sauce tahini",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 20,
+  "cook": 15,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 450,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "blancs de poulet"
+   },
+   {
+    "ing": "chou_rouge",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chou rouge"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "concombre",
+    "g": 120,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "tahini",
+    "g": 45,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "tahini"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Assaisonnez le poulet de cumin, paprika et sel, puis faites-le cuire dans 1 c. à s. d'huile 5–6 min par face. Laissez reposer et effilochez ou tranchez.",
+   "Émincez finement les deux choux, coupez le concombre en dés et hachez le persil.",
+   "Préparez la sauce : fouettez le tahini, le citron, l'ail râpé, une pincée de sel et 3–4 c. à s. d'eau froide jusqu'à obtenir une sauce lisse.",
+   "Mélangez les légumes avec le reste d'huile et la moitié de la sauce.",
+   "Ajoutez le poulet et nappez du reste de sauce tahini."
+  ],
+  "tips": "Le chou se tient 3 jours une fois assaisonné : préparez trois boîtes à déjeuner d'un coup."
+ },
+ {
+  "id": "l08-mini-quiches-brocoli-emmental",
+  "title": "Mini-quiches sans pâte brocoli et emmental",
+  "category": "collation",
+  "emoji": "🧁",
+  "prep": 15,
+  "cook": 22,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "brocoli",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "brocoli"
+   },
+   {
+    "ing": "emmental",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 40,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre (moules)"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez 12 empreintes de moule à muffins.",
+   "Faites cuire les petits bouquets de brocoli 3 min à l'eau bouillante, égouttez et hachez grossièrement.",
+   "Battez les œufs avec la crème, les trois quarts de l'emmental, sel et poivre.",
+   "Répartissez le brocoli et le poivron en petits dés dans les empreintes, versez l'appareil aux trois quarts et parsemez du reste d'emmental.",
+   "Enfournez 20–22 min jusqu'à ce qu'elles soient gonflées et dorées ; laissez tiédir 5 min avant de démouler."
+  ],
+  "tips": "Elles se gardent 4 jours au frais et se congèlent : parfaites pour les goûters et les boîtes à déjeuner des enfants."
+ },
+ {
+  "id": "l08-brouillade-tofu-legumes-curcuma",
+  "title": "Brouillade de tofu aux légumes et curcuma",
+  "category": "petit-dej",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "tofu",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tofu ferme"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "epinard",
+    "g": 60,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "épinards"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon vert"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "curcuma et cumin"
+   },
+   {
+    "ing": "avocat",
+    "g": 70,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Égouttez le tofu et émiettez-le grossièrement à la fourchette.",
+   "Faites revenir le poivron en petits dés et l'oignon vert dans l'huile 3 min à feu moyen.",
+   "Ajoutez le tofu, le curcuma, le cumin, sel et poivre, et faites cuire 5 min en remuant pour qu'il dore légèrement.",
+   "Incorporez les épinards et laissez-les tomber 1 min.",
+   "Servez chaud avec l'avocat en tranches."
+  ],
+  "tips": "Une pincée de sel noir (kala namak) donne un vrai goût d'œuf à la brouillade."
+ },
+ {
+  "id": "l08-lasagnes-courgettes-ricotta",
+  "title": "Lasagnes de courgettes à la ricotta et épinards",
+  "category": "diner",
+  "emoji": "🍝",
+  "prep": 25,
+  "cook": 40,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 800,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "grosses courgettes"
+   },
+   {
+    "ing": "ricotta",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "epinard",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "parmesan",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "basilic",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Taillez les courgettes en fines lanières de 3–4 mm dans la longueur (mandoline ou couteau).",
+   "Salez-les, étalez-les sur deux plaques et faites-les précuire 10 min au four pour qu'elles perdent leur eau ; épongez-les.",
+   "Faites mijoter les tomates avec 1 gousse d'ail hachée et 1 c. à s. d'huile 10 min ; salez, poivrez.",
+   "Faites tomber les épinards avec le reste d'ail et d'huile 3 min, pressez-les et hachez-les. Mélangez-les avec la ricotta, les œufs, la moitié du parmesan et le basilic.",
+   "Dans un plat de 20 × 30 cm, alternez : sauce tomate, courgettes, ricotta, mozzarella. Faites 3 couches et terminez par la mozzarella et le parmesan.",
+   "Baissez le four à 180 °C et enfournez 30 min, jusqu'à ce que le dessus soit bien doré.",
+   "Laissez reposer 15 min avant de découper, pour des parts nettes."
+  ],
+  "tips": "Se conserve 4 jours au réfrigérateur et se congèle en portions individuelles."
+ },
+ {
+  "id": "l08-pizza-chou-fleur-champignons",
+  "title": "Pizza à pâte de chou-fleur, champignons et olives",
+  "category": "diner",
+  "emoji": "🍕",
+  "prep": 25,
+  "cook": 30,
+  "servings": 3,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 500,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "gros chou-fleur"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "mozzarella râpée (pâte + garniture)"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "mozzarella",
+    "g": 125,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "boule de mozzarella"
+   },
+   {
+    "ing": "champignon",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "champignons"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 30,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 220 °C. Mixez le chou-fleur en semoule, faites-le cuire 5 min au micro-ondes et laissez tiédir.",
+   "Essorez-le très fort dans un torchon : il doit être presque sec.",
+   "Mélangez-le avec l'œuf, 75 g de mozzarella râpée, le parmesan, l'origan et une pincée de sel.",
+   "Étalez la pâte en un disque de 28 cm et 5 mm d'épaisseur sur du papier cuisson ; enfournez 15 min jusqu'à ce qu'elle soit dorée.",
+   "Étalez la sauce tomate, ajoutez la mozzarella tranchée, le reste de mozzarella râpée, les champignons émincés et les olives.",
+   "Remettez au four 10–12 min, puis arrosez d'un filet d'huile d'olive avant de servir."
+  ],
+  "tips": "Ne garnissez pas trop la pâte et précuisez-la bien : c'est ce qui la rend croustillante."
+ },
+ {
+  "id": "l08-salade-crevettes-avocat-concombre",
+  "title": "Salade-repas crevettes, avocat et concombre",
+  "category": "dejeuner",
+  "emoji": "🦐",
+  "prep": 15,
+  "cook": 5,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "laitue",
+    "g": 80,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "salade verte"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 min, refroidissez-les et écalez-les.",
+   "Faites sauter les crevettes dans 1 c. à s. d'huile avec l'ail haché et le piment 2–3 min à feu vif, jusqu'à ce qu'elles soient roses.",
+   "Coupez l'avocat et le concombre en dés, ciselez la coriandre.",
+   "Fouettez le reste d'huile avec le jus de citron et le sel.",
+   "Mélangez salade, avocat, concombre et vinaigrette, ajoutez les crevettes tièdes et les œufs en quartiers."
+  ],
+  "tips": "Avec des crevettes surgelées, décongelez-les la veille au réfrigérateur et séchez-les bien avant de les saisir."
+ },
+ {
+  "id": "l08-halloumi-harissa-epinards",
+  "title": "Halloumi poêlé à la harissa sur épinards à l'ail",
+  "category": "diner",
+  "emoji": "🧀",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 225,
+    "qty": 225,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "epinard",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "harissa",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "harissa"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le halloumi en 6 tranches et badigeonnez-les avec la harissa délayée dans 1 c. à c. d'huile.",
+   "Faites revenir l'ail émincé dans 1 c. à s. d'huile 1 min, ajoutez les épinards et faites-les tomber 3 min ; arrosez de citron, poivrez et répartissez dans les assiettes.",
+   "Dans la même poêle, faites cuire les œufs au plat dans le reste d'huile.",
+   "Saisissez le halloumi 1–2 min par face à feu vif jusqu'à ce qu'il caramélise.",
+   "Posez le halloumi et les œufs sur les épinards et parsemez de graines de courge grillées."
+  ],
+  "tips": "Dosez la harissa selon les goûts de la famille ; pour les enfants, remplacez-la par du paprika doux."
+ },
+ {
+  "id": "l08-zaalouk-oeufs-gratines",
+  "title": "Zaalouk d'aubergines aux œufs gratinés",
+  "category": "diner",
+  "emoji": "🍆",
+  "prep": 15,
+  "cook": 35,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 500,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines moyennes"
+   },
+   {
+    "ing": "tomate",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate mûre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "ail",
+    "g": 10,
+    "qty": 2,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 7,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre et persil"
+   },
+   {
+    "ing": "edam",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "edam râpé"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Pelez les aubergines une bande sur deux et coupez-les en dés. Faites-les cuire 10 min à la vapeur ou à l'eau bouillante salée, puis égouttez.",
+   "Dans une poêle allant au four, faites chauffer l'huile, ajoutez la tomate râpée, l'ail haché, le cumin et le paprika ; laissez cuire 3 min.",
+   "Ajoutez les aubergines et écrasez-les à la fourchette ; laissez cuire 12–15 min en remuant jusqu'à ce que le zaalouk soit bien compoté. Salez, ajoutez les herbes et le citron.",
+   "Préchauffez le four en position gril. Creusez 5 puits dans le zaalouk et cassez-y les œufs.",
+   "Couvrez et laissez cuire 4 min sur le feu, puis parsemez d'edam et passez 3 min sous le gril."
+  ],
+  "tips": "Le zaalouk se garde 4 jours au frais : préparez-en une double portion et servez le reste froid en accompagnement."
+ },
+ {
+  "id": "l08-tofu-marine-salade-concombre-sesame",
+  "title": "Tofu mariné grillé, salade de concombre au sésame",
+  "category": "dejeuner",
+  "emoji": "🥢",
+  "prep": 20,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "tofu",
+    "g": 350,
+    "qty": 350,
+    "unit": "g",
+    "name": "tofu ferme"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "concombre",
+    "g": 250,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "sesame",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile neutre"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 15,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon vert"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment"
+   },
+   {
+    "ing": "erythritol",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "érythritol"
+   }
+  ],
+  "steps": [
+   "Pressez le tofu 10 min, coupez-le en 6 tranches épaisses.",
+   "Mélangez la sauce soja, le gingembre, l'ail râpé et 1 c. à s. d'huile ; faites mariner le tofu 15 min en le retournant.",
+   "Coupez le concombre en fines rondelles, mélangez-le avec le vinaigre, l'érythritol, le piment, une pincée de sel et la moitié du sésame.",
+   "Faites griller les tranches de tofu dans une poêle chaude avec le reste d'huile 3–4 min par face, en badigeonnant de marinade.",
+   "Servez le tofu sur la salade de concombre, parsemé d'oignon vert et du reste de sésame."
+  ],
+  "tips": "La marinade peut se faire le matin : le tofu n'en sera que plus parfumé le soir."
+ },
+ {
+  "id": "l08-oeufs-cocotte-epinards-creme",
+  "title": "Œufs cocotte crème, épinards et parmesan",
+  "category": "petit-dej",
+  "emoji": "🥚",
+  "prep": 10,
+  "cook": 15,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "epinard",
+    "g": 120,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "épinards"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez 4 ramequins.",
+   "Faites tomber les épinards dans le reste de beurre 2 min, salez, poivrez et répartissez-les dans les ramequins.",
+   "Ajoutez ½ c. à s. de crème dans chaque ramequin et cassez un œuf par-dessus. Parsemez de parmesan.",
+   "Placez les ramequins dans un plat, versez de l'eau chaude à mi-hauteur et enfournez 12–14 min : le blanc doit être pris et le jaune coulant.",
+   "Parsemez de ciboulette et servez aussitôt."
+  ],
+  "tips": "Accompagnez de mouillettes de fromage (bâtonnets d'edam ou de halloumi grillé)."
+ },
+ {
+  "id": "l08-pancakes-ricotta-framboises",
+  "title": "Pancakes à la ricotta et framboises",
+  "category": "petit-dej",
+  "emoji": "🥞",
+  "prep": 10,
+  "cook": 12,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "ricotta",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "erythritol",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "framboise",
+    "g": 90,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "framboises"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 90,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "yaourt grec"
+   }
+  ],
+  "steps": [
+   "Fouettez la ricotta avec les œufs, l'érythritol et la vanille jusqu'à ce que le mélange soit lisse.",
+   "Ajoutez la farine d'amande et la levure, mélangez sans trop travailler. Laissez reposer 5 min.",
+   "Faites chauffer une poêle antiadhésive à feu moyen-doux avec un peu de beurre.",
+   "Versez des petites louches de pâte (8 cm), laissez cuire 2–3 min jusqu'à ce que des bulles apparaissent, retournez délicatement et cuisez 1–2 min.",
+   "Servez avec le yaourt grec et les framboises."
+  ],
+  "tips": "Ces pancakes sont fragiles : gardez-les petits et retournez-les avec une spatule large."
+ },
+ {
+  "id": "l08-crepes-jben-epinards",
+  "title": "Crêpes keto farcies au jben et épinards",
+  "category": "dejeuner",
+  "emoji": "🌯",
+  "prep": 20,
+  "cook": 25,
+  "servings": 3,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "psyllium",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "psyllium"
+   },
+   {
+    "ing": "jben",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "jben"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon vert"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mixez les œufs, le fromage à la crème, la farine d'amande et le psyllium ; laissez reposer 5 min.",
+   "Dans une poêle de 20 cm légèrement beurrée, à feu moyen, faites 6 crêpes fines : 1–2 min par face. Empilez-les.",
+   "Faites tomber les épinards avec l'oignon vert dans un peu de beurre 3 min, égouttez-les en les pressant, salez légèrement, ajoutez le cumin.",
+   "Mélangez les épinards avec le jben émietté et du poivre.",
+   "Garnissez chaque crêpe, roulez-la et rangez-les dans un plat ; parsemez de mozzarella.",
+   "Passez 8–10 min au four à 200 °C jusqu'à ce que le fromage gratine."
+  ],
+  "tips": "Les crêpes nature se gardent 3 jours au frais, séparées par du papier cuisson."
+ },
+ {
+  "id": "l08-salade-saumon-fume-oeufs-avocat",
+  "title": "Salade-repas saumon fumé, œufs et avocat",
+  "category": "dejeuner",
+  "emoji": "🐟",
+  "prep": 15,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "saumon_fume",
+    "g": 150,
+    "qty": 6,
+    "unit": "tranche(s)",
+    "name": "saumon fumé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "roquette",
+    "g": 80,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "concombre",
+    "g": 100,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "aneth",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 7 min pour un jaune encore moelleux, refroidissez et écalez.",
+   "Mélangez le yaourt grec avec l'aneth ciselé, la moitié du jus de citron et du poivre.",
+   "Assaisonnez la roquette et le concombre en rubans avec l'huile et le reste de citron.",
+   "Dressez la salade, ajoutez l'avocat tranché, le saumon fumé en lanières et les œufs coupés en deux.",
+   "Nappez de sauce au yaourt et servez."
+  ],
+  "tips": "Le saumon fumé est déjà salé : n'ajoutez pas de sel à la salade."
+ },
+ {
+  "id": "l08-courgettes-farcies-chevre-menthe",
+  "title": "Courgettes farcies au chèvre, menthe et œuf",
+  "category": "diner",
+  "emoji": "🥒",
+  "prep": 20,
+  "cook": 30,
+  "servings": 3,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 600,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "courgettes"
+   },
+   {
+    "ing": "chevre",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chèvre frais"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan"
+   },
+   {
+    "ing": "menthe",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "amande_effilee",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "amandes effilées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Coupez les courgettes en deux dans la longueur et évidez-les à la cuillère en laissant 5 mm de chair.",
+   "Hachez la chair retirée et faites-la revenir 5 min dans 1 c. à s. d'huile avec l'ail ; laissez tiédir.",
+   "Mélangez-la avec le chèvre, les œufs, la moitié du parmesan, la menthe ciselée, sel et poivre.",
+   "Salez l'intérieur des barquettes, garnissez-les et posez-les dans un plat huilé.",
+   "Parsemez du reste de parmesan et des amandes effilées, puis enfournez 25–30 min jusqu'à ce que la farce soit dorée."
+  ],
+  "tips": "Remplacez le chèvre par du jben pour une version plus douce que les enfants adorent."
+ },
+ {
+  "id": "l08-salade-poulet-tandoori-raita",
+  "title": "Salade de poulet tandoori et raïta au concombre",
+  "category": "diner",
+  "emoji": "🍗",
+  "prep": 15,
+  "cook": 20,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Monde",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_cuisse",
+    "g": 500,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "hauts de cuisse désossés"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec (marinade + raïta)"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "épices tandoori"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.75,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "menthe",
+    "g": 6,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "laitue",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "laitue"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 20,
+    "qty": 2,
+    "unit": "tranche(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mélangez 80 g de yaourt avec les épices tandoori, l'ail râpé, le citron et le sel ; enrobez le poulet et laissez mariner au moins 30 min (idéalement une nuit).",
+   "Préchauffez le four à 220 °C. Posez le poulet sur une plaque huilée et enfournez 18–20 min, puis passez 2 min sous le gril pour le colorer.",
+   "Préparez la raïta : râpez le concombre, pressez-le et mélangez-le avec le reste du yaourt, la menthe ciselée et une pincée de sel.",
+   "Coupez la laitue et l'oignon rouge en fines lamelles.",
+   "Tranchez le poulet et servez-le sur la salade, nappé de raïta."
+  ],
+  "tips": "Le poulet mariné se congèle cru : sortez-le la veille pour un dîner prêt en 20 min."
+ },
+ {
+  "id": "l08-asperges-oeufs-mollets-parmesan",
+  "title": "Asperges vertes, œufs mollets et parmesan",
+  "category": "dejeuner",
+  "emoji": "🌿",
+  "prep": 10,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "asperge",
+    "g": 400,
+    "qty": 1,
+    "unit": "botte",
+    "name": "asperges vertes"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "parmesan",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "parmesan en copeaux"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "noisette",
+    "g": 20,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "noisettes concassées"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Cassez la base dure des asperges à l'endroit où elle plie naturellement.",
+   "Faites cuire les œufs 6 min 30 dans l'eau bouillante, refroidissez-les à l'eau glacée et écalez-les.",
+   "Faites revenir les asperges dans l'huile à feu moyen-vif 6–8 min en les roulant, jusqu'à ce qu'elles soient tendres et colorées ; salez.",
+   "Faites fondre le beurre jusqu'à ce qu'il devienne noisette, ajoutez le jus de citron.",
+   "Dressez les asperges, posez les œufs ouverts, arrosez de beurre noisette et parsemez de parmesan et de noisettes."
+  ],
+  "tips": "Hors saison des asperges, la recette fonctionne avec des haricots verts ou du brocoli."
+ },
+ {
+  "id": "l08-curry-legumes-paneer-halloumi",
+  "title": "Curry crémeux de légumes et halloumi façon paneer",
+  "category": "diner",
+  "emoji": "🍛",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "haricot_vert",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "epinard",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "garam masala, curcuma, cumin"
+   },
+   {
+    "ing": "ghee",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "ghee"
+   },
+   {
+    "ing": "coriandre",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez le halloumi en cubes de 2 cm et faites-les dorer dans 1 c. à s. de ghee 4–5 min ; réservez.",
+   "Faites revenir l'oignon haché dans le reste de ghee 4 min, puis l'ail et le gingembre 1 min.",
+   "Ajoutez les épices, remuez 30 s, versez les tomates et laissez réduire 5 min.",
+   "Ajoutez le chou-fleur en petits bouquets, les haricots verts coupés en tronçons et 100 ml d'eau ; couvrez et laissez cuire 10 min.",
+   "Versez la crème, ajoutez les épinards et le halloumi, laissez mijoter 3 min. Goûtez avant de saler : le halloumi l'est déjà.",
+   "Parsemez de coriandre et servez."
+  ],
+  "tips": "Le halloumi remplace très bien le paneer indien, difficile à trouver au Maroc, et garde sa tenue dans la sauce."
+ },
+ {
+  "id": "l08-cake-sale-olives-feta",
+  "title": "Cake salé aux olives, feta et herbes",
+  "category": "collation",
+  "emoji": "🍞",
+  "prep": 15,
+  "cook": 40,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "feta",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "olive_verte",
+    "g": 80,
+    "qty": 20,
+    "unit": "pièce(s)",
+    "name": "olives vertes dénoyautées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 52,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "emmental",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil et thym"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et chemisez un moule à cake de papier cuisson.",
+   "Battez les œufs avec l'huile et le yaourt grec.",
+   "Ajoutez la farine d'amande, la levure et le poivre, mélangez jusqu'à obtenir une pâte homogène.",
+   "Incorporez la feta en dés, les olives coupées en rondelles, l'emmental et les herbes hachées.",
+   "Versez dans le moule et enfournez 40 min : la pointe d'un couteau doit ressortir sèche.",
+   "Laissez refroidir 15 min avant de démouler et trancher."
+  ],
+  "tips": "Tranché, il se congèle très bien ; parfait pour l'apéritif ou le goûter."
+ },
+ {
+  "id": "l08-champignons-farcis-chevre-noix",
+  "title": "Grands champignons farcis au chèvre et aux noix",
+  "category": "dejeuner",
+  "emoji": "🍄",
+  "prep": 15,
+  "cook": 20,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "champignon",
+    "g": 350,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "gros champignons de Paris"
+   },
+   {
+    "ing": "chevre",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chèvre frais"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "noix",
+    "g": 25,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "noix"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "roquette",
+    "g": 60,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Retirez les pieds des champignons et hachez-les finement.",
+   "Faites revenir les pieds hachés avec l'ail dans 1 c. à c. d'huile 4 min jusqu'à évaporation de l'eau.",
+   "Mélangez avec le chèvre, l'œuf, les noix concassées, la moitié du parmesan, le persil, sel et poivre.",
+   "Badigeonnez les chapeaux d'huile, garnissez-les généreusement et parsemez du reste de parmesan.",
+   "Enfournez 18–20 min jusqu'à ce qu'ils soient dorés. Servez sur la roquette arrosée d'un filet d'huile."
+  ],
+  "tips": "Choisissez des champignons bien fermés et de taille égale pour une cuisson homogène."
+ },
+ {
+  "id": "l08-salade-thon-haricots-verts-oeuf",
+  "title": "Salade tiède de haricots verts, thon et œufs à la moutarde",
+  "category": "dejeuner",
+  "emoji": "🫛",
+  "prep": 15,
+  "cook": 12,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Économique",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "haricot_vert",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "haricots verts"
+   },
+   {
+    "ing": "thon_huile",
+    "g": 240,
+    "qty": 1.5,
+    "unit": "pièce(s)",
+    "name": "boîtes de thon à l'huile égoutté"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon rouge"
+   },
+   {
+    "ing": "moutarde",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "moutarde à l'ancienne"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre de cidre"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 min, refroidissez-les et écalez-les.",
+   "Faites cuire les haricots verts 7–8 min à l'eau bouillante salée ; ils doivent rester légèrement croquants. Égouttez.",
+   "Fouettez la moutarde, le vinaigre, l'huile, sel et poivre ; ajoutez l'oignon rouge très finement émincé.",
+   "Versez la vinaigrette sur les haricots encore tièdes pour qu'ils s'en imprègnent.",
+   "Ajoutez le thon en morceaux, les œufs en quartiers et le persil haché."
+  ],
+  "tips": "Servie tiède ou froide, elle se transporte très bien en boîte à déjeuner."
+ },
+ {
+  "id": "l08-omelette-espagnole-chou-fleur",
+  "title": "Tortilla espagnole au chou-fleur et poivron",
+  "category": "diner",
+  "emoji": "🍳",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Économique",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 480,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "chou_fleur",
+    "g": 350,
+    "qty": 350,
+    "unit": "g",
+    "name": "chou-fleur"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "oignon",
+    "g": 50,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "emmental",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika fumé"
+   },
+   {
+    "ing": "persil",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le chou-fleur en fines tranches de 5 mm et précuisez-le 5 min à la vapeur.",
+   "Dans une poêle antiadhésive de 24 cm, faites revenir l'oignon et le poivron émincés dans 2 c. à s. d'huile 5 min, ajoutez le chou-fleur et faites dorer 5 min.",
+   "Battez les œufs avec l'emmental, le paprika, le persil, sel et poivre ; versez sur les légumes.",
+   "Laissez cuire 8 min à feu doux, couvercle posé, en décollant les bords à la spatule.",
+   "Retournez la tortilla à l'aide d'une assiette, ajoutez le reste d'huile et faites cuire encore 3–4 min.",
+   "Laissez tiédir 5 min et coupez en parts."
+  ],
+  "tips": "Se déguste aussi froide le lendemain, en cubes, pour l'apéritif ou le pique-nique."
+ },
+ {
+  "id": "l08-veloute-brocoli-cheddar-oeuf",
+  "title": "Velouté brocoli-cheddar et œuf poché",
+  "category": "diner",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 25,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "brocoli",
+    "g": 400,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "gros brocoli"
+   },
+   {
+    "ing": "cheddar",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "eau",
+    "g": 600,
+    "qty": 600,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre (pochage)"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre et faites suer l'oignon émincé 3 min sans coloration.",
+   "Ajoutez le brocoli en morceaux (tiges épluchées comprises), l'eau et une pincée de sel ; laissez cuire 15 min à couvert.",
+   "Mixez finement, puis ajoutez la crème et le cheddar et remuez à feu doux jusqu'à ce qu'il soit fondu ; poivrez.",
+   "Pochez les œufs 3 min dans une eau frémissante vinaigrée, égouttez-les sur du papier absorbant.",
+   "Servez le velouté bien chaud, un œuf poché au centre, parsemé de graines de courge grillées."
+  ],
+  "tips": "Sans les œufs, le velouté se congèle 2 mois ; pochez les œufs au moment de servir."
+ },
+ {
+  "id": "l08-salade-roquette-halloumi-avocat-graines",
+  "title": "Salade de roquette, halloumi, avocat et graines",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 10,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "halloumi"
+   },
+   {
+    "ing": "roquette",
+    "g": 100,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "roquette"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "graine_tournesol",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de tournesol"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 8 min, refroidissez-les et écalez-les.",
+   "Faites griller les graines à sec 2 min dans une poêle ; réservez.",
+   "Coupez le halloumi en bâtonnets et faites-les dorer 1–2 min par face dans la même poêle bien chaude.",
+   "Fouettez l'huile, le citron, la moutarde et le poivre.",
+   "Mélangez la roquette avec la vinaigrette, ajoutez l'avocat en lamelles, les œufs en quartiers, le halloumi chaud et les graines."
+  ],
+  "tips": "Ajoutez quelques fraises en lamelles en été pour une touche sucrée-salée."
+ },
+ {
+  "id": "l08-tofu-kefta-tomate-oeufs",
+  "title": "Boulettes de tofu aux épices kefta, sauce tomate et œufs",
+  "category": "diner",
+  "emoji": "🧆",
+  "prep": 25,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "tofu",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "tofu ferme"
+   },
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs (1 pour les boulettes)"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "tomate_concassee",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "epices",
+    "g": 10,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "cumin, paprika, ras el hanout"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "botte",
+    "name": "persil et coriandre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Pressez le tofu 10 min dans un torchon, puis émiettez-le finement.",
+   "Mélangez-le avec 1 œuf, la farine d'amande, le parmesan, la moitié des épices et des herbes hachées, sel et poivre. Formez 16 boulettes.",
+   "Faites-les dorer dans 2 c. à s. d'huile 6–8 min en les retournant délicatement ; réservez.",
+   "Dans un tajine ou une sauteuse, faites revenir l'oignon haché et l'ail dans le reste d'huile, ajoutez le reste des épices et les tomates ; laissez mijoter 8 min.",
+   "Ajoutez les boulettes, cassez les 4 œufs restants dans la sauce, couvrez et laissez cuire 6–7 min.",
+   "Parsemez du reste des herbes et servez bien chaud."
+  ],
+  "tips": "Version inspirée du tajine kefta aux œufs, entièrement végétarienne et riche en protéines."
+ },
+ {
+  "id": "l08-salade-dinde-fumee-chou-noix",
+  "title": "Salade croquante de dinde fumée, chou et noix",
+  "category": "dejeuner",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "dinde_fumee",
+    "g": 180,
+    "qty": 8,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "chou_blanc",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "chou blanc"
+   },
+   {
+    "ing": "emmental",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "emmental en dés"
+   },
+   {
+    "ing": "noix",
+    "g": 30,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "noix"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "cornichon",
+    "g": 30,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "cornichons"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 3,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Émincez très finement le chou blanc et salez-le légèrement ; laissez-le 10 min puis pressez-le pour l'attendrir.",
+   "Mélangez la mayonnaise, le yaourt, la moutarde, sel et poivre.",
+   "Coupez la dinde fumée en lanières et les cornichons en rondelles.",
+   "Mélangez le chou, la dinde, l'emmental, les cornichons et la sauce.",
+   "Parsemez de noix concassées et de ciboulette au moment de servir."
+  ],
+  "tips": "Sans cuisson, c'est l'idée parfaite pour les soirs pressés ou un déjeuner au bureau."
+ },
+ {
+  "id": "l08-gratin-aubergines-feta-menthe",
+  "title": "Gratin d'aubergines à la feta et aux œufs",
+  "category": "diner",
+  "emoji": "🍆",
+  "prep": 15,
+  "cook": 40,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "aubergine",
+    "g": 600,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "aubergines"
+   },
+   {
+    "ing": "feta",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "menthe",
+    "g": 8,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "menthe"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "emmental",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les aubergines en rondelles de 1 cm, badigeonnez-les d'huile et faites-les rôtir 20 min.",
+   "Battez les œufs avec le yaourt, l'ail râpé, le cumin, la menthe ciselée et du poivre.",
+   "Disposez les aubergines dans un plat en les faisant se chevaucher, parsemez de feta émiettée.",
+   "Versez l'appareil aux œufs et parsemez d'emmental.",
+   "Baissez le four à 180 °C et enfournez 20 min, jusqu'à ce que l'appareil soit pris et doré."
+  ],
+  "tips": "Le yaourt rend l'appareil léger et acidulé : c'est l'esprit d'une moussaka végétarienne."
+ },
+ {
+  "id": "l08-poke-bowl-thon-konjac",
+  "title": "Bowl thon mariné, riz de konjac et avocat",
+  "category": "dejeuner",
+  "emoji": "🍣",
+  "prep": 20,
+  "cook": 5,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "thon_frais",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "thon frais très frais"
+   },
+   {
+    "ing": "konjac",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "riz de konjac"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "concombre",
+    "g": 100,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de sésame ou neutre"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "algue_nori",
+    "g": 3,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "feuille de nori"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 15,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "oignon vert"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron vert"
+   }
+  ],
+  "steps": [
+   "Coupez le thon en cubes de 1,5 cm et faites-le mariner 10 min au frais avec la sauce soja, l'huile, le gingembre et le citron.",
+   "Rincez abondamment le riz de konjac, faites-le bouillir 2 min puis faites-le sécher 3 min à sec dans une poêle chaude.",
+   "Coupez l'avocat et le concombre en dés, l'oignon vert en rondelles et le nori en fines lanières.",
+   "Répartissez le konjac dans deux bols, ajoutez le thon mariné, l'avocat et le concombre.",
+   "Parsemez de sésame, d'oignon vert et de nori, et arrosez du reste de marinade."
+  ],
+  "tips": "Le thon doit être de qualité sashimi ; à défaut, saisissez-le 30 s par face avant de le couper."
+ },
+ {
+  "id": "l08-feta-rotie-legumes-oeufs",
+  "title": "Feta rôtie au four, légumes du soleil et œufs",
+  "category": "diner",
+  "emoji": "🧀",
+  "prep": 10,
+  "cook": 30,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "feta",
+    "g": 200,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "bloc de feta"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 150,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "courgette",
+    "g": 250,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 40,
+    "qty": 10,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan et thym"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "basilic",
+    "g": 5,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "basilic"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez la courgette et le poivron en morceaux de 2 cm.",
+   "Mettez les légumes, les tomates cerises, les olives et l'ail émincé dans un plat, arrosez d'huile, ajoutez les herbes et le poivre ; mélangez.",
+   "Posez le bloc de feta au centre et enfournez 20 min.",
+   "Sortez le plat, creusez 4 emplacements entre les légumes et cassez-y les œufs.",
+   "Remettez au four 8–10 min jusqu'à ce que les blancs soient pris.",
+   "Écrasez légèrement la feta dans les légumes, parsemez de basilic et servez."
+  ],
+  "tips": "Un plat unique sans surveillance : tout cuit dans le même plat, la vaisselle est réduite au minimum."
+ }
+]

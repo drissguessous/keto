@@ -1,0 +1,4166 @@
+[
+ {
+  "id": "l01-omelette-roulee-saumon-fume",
+  "title": "Omelette roulée au saumon fumé et ciboulette",
+  "category": "petit-dej",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "saumon_fume",
+    "g": 80,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "saumon fumé"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette ciselée"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Battez les œufs avec la crème liquide, une petite pincée de sel et du poivre jusqu'à obtenir un mélange homogène et légèrement mousseux.",
+   "Faites fondre le beurre dans une grande poêle antiadhésive (26–28 cm) à feu moyen-doux.",
+   "Versez les œufs et inclinez la poêle pour former une fine couche. Laissez cuire 3–4 min sans remuer, jusqu'à ce que le dessus soit presque pris.",
+   "Couvrez 1 min hors du feu pour finir la cuisson, puis faites glisser l'omelette sur une planche.",
+   "Tartinez de fromage à la crème, parsemez de ciboulette et répartissez les tranches de saumon fumé.",
+   "Roulez l'omelette bien serrée, coupez-la en tronçons de 3 cm et servez aussitôt."
+  ],
+  "tips": "Préparez le rouleau la veille, filmez-le serré et gardez-le au réfrigérateur : il se tranche encore plus net et se mange froid."
+ },
+ {
+  "id": "l01-omelette-kefta-coriandre",
+  "title": "Omelette marocaine à la kefta et coriandre",
+  "category": "petit-dej",
+  "emoji": "🍳",
+  "prep": 10,
+  "cook": 12,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Famille",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon finement haché"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre fraîche"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 0.5,
+    "unit": "botte",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez la kefta avec la moitié de la coriandre et du persil hachés, le cumin, le paprika, du sel et du poivre. Formez de petites boulettes de la taille d'une noisette.",
+   "Chauffez l'huile dans une poêle de 24 cm à feu moyen et faites revenir l'oignon 3 min jusqu'à ce qu'il soit translucide.",
+   "Ajoutez les boulettes et faites-les dorer 5–6 min en les retournant régulièrement.",
+   "Battez les œufs avec une pincée de sel et versez-les sur les boulettes.",
+   "Baissez le feu, couvrez et laissez cuire 3–4 min jusqu'à ce que les œufs soient juste pris.",
+   "Parsemez du reste d'herbes et servez directement dans la poêle."
+  ],
+  "tips": "Préparez les boulettes à l'avance et congelez-les crues à plat : vous les ajoutez directement dans la poêle le matin, en prolongeant de 2 min."
+ },
+ {
+  "id": "l01-omelette-soufflee-cheddar",
+  "title": "Omelette soufflée au cheddar",
+  "category": "petit-dej",
+  "emoji": "🧀",
+  "prep": 10,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "cheddar",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Séparez les blancs des jaunes. Battez les jaunes avec du sel et du poivre.",
+   "Montez les blancs en neige ferme avec une pincée de sel, puis incorporez-les délicatement aux jaunes à la spatule, en soulevant la masse.",
+   "Faites fondre le beurre dans une poêle de 24 cm à feu doux, versez l'appareil et lissez la surface.",
+   "Couvrez et laissez cuire 5–6 min à feu doux, jusqu'à ce que le dessous soit doré et que l'omelette ait gonflé.",
+   "Parsemez la moitié de cheddar, couvrez encore 1 min pour le faire fondre.",
+   "Pliez l'omelette en deux, parsemez de ciboulette et servez immédiatement avant qu'elle ne retombe."
+  ],
+  "tips": "Pour un dessus bien pris, passez la poêle (si elle va au four) 2 min sous le gril avant de plier."
+ },
+ {
+  "id": "l01-omelette-champignons-chevre",
+  "title": "Omelette aux champignons poêlés et chèvre",
+  "category": "petit-dej",
+  "emoji": "🍄",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "champignon",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "champignons de Paris émincés"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "chevre",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "fromage de chèvre"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "persil",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites fondre la moitié du beurre dans une poêle à feu vif. Ajoutez les champignons et laissez-les dorer 5 min sans trop remuer, jusqu'à évaporation de leur eau.",
+   "Ajoutez l'ail et le persil, salez, poivrez, faites sauter 1 min puis réservez dans une assiette.",
+   "Battez les œufs avec une pincée de sel. Faites fondre le reste du beurre dans la poêle à feu moyen.",
+   "Versez les œufs et ramenez les bords vers le centre avec une spatule pendant 2 min, jusqu'à ce qu'ils soient presque pris.",
+   "Garnissez une moitié de champignons et de chèvre émietté, repliez et laissez 1 min pour faire fondre le fromage.",
+   "Coupez en deux et servez chaud."
+  ],
+  "tips": "Ajoutez une poignée d'épinards avec l'ail pour une version plus verte, ou remplacez le chèvre par du jben."
+ },
+ {
+  "id": "l01-oeufs-brouilles-cremeux-ciboulette",
+  "title": "Œufs brouillés crémeux au beurre et ciboulette",
+  "category": "petit-dej",
+  "emoji": "🥚",
+  "prep": 5,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Végétarien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 300,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre froid en dés"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette ciselée"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Cassez les œufs dans une petite casserole froide, ajoutez la moitié du beurre en dés. Ne salez pas encore.",
+   "Placez sur feu moyen-doux et remuez sans arrêt avec une spatule, en raclant le fond et les bords.",
+   "Toutes les 30 secondes, retirez la casserole du feu 10 secondes en continuant à remuer, pour garder une texture crémeuse (4–5 min au total).",
+   "Quand les œufs sont presque pris mais encore brillants, hors du feu, incorporez le reste du beurre et la crème fraîche : cela stoppe la cuisson.",
+   "Salez, poivrez, parsemez de ciboulette et servez aussitôt."
+  ],
+  "tips": "Le secret est de ne jamais laisser les œufs attacher : feu doux, patience et spatule en mouvement constant."
+ },
+ {
+  "id": "l01-oeufs-brouilles-tomate-cumin",
+  "title": "Œufs brouillés à la tomate et au cumin façon beldi",
+  "category": "petit-dej",
+  "emoji": "🍅",
+  "prep": 8,
+  "cook": 10,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "tomate",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "tomate moyenne râpée"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail écrasé"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin moulu et paprika doux"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre hachée"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Chauffez l'huile d'olive dans une poêle à feu moyen et faites revenir l'ail 30 secondes sans le colorer.",
+   "Ajoutez la tomate râpée, le cumin, le paprika et une pincée de sel. Laissez réduire 4–5 min jusqu'à obtenir une sauce épaisse.",
+   "Battez légèrement les œufs et versez-les sur la sauce.",
+   "Remuez doucement à la spatule pendant 2–3 min à feu doux, jusqu'à ce que les œufs soient pris en gros morceaux moelleux.",
+   "Parsemez de coriandre, poivrez et servez avec un filet d'huile d'olive."
+  ],
+  "tips": "Râper la tomate (côté peau vers la main) permet d'obtenir une pulpe sans peau qui réduit vite."
+ },
+ {
+  "id": "l01-oeufs-brouilles-jben-menthe",
+  "title": "Œufs brouillés au jben et à la menthe",
+  "category": "petit-dej",
+  "emoji": "🌿",
+  "prep": 5,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "jben",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "jben émietté"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 6,
+    "unit": "",
+    "name": "feuilles de menthe ciselées"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 30,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Battez les œufs avec une petite pincée de sel (le jben est déjà salé) et du poivre.",
+   "Chauffez l'huile d'olive dans une poêle à feu moyen-doux, versez les œufs.",
+   "Remuez doucement avec une spatule 2 min, jusqu'à ce que les œufs commencent à prendre.",
+   "Ajoutez le jben émietté et remuez encore 1 min : il doit tiédir et s'assouplir sans fondre complètement.",
+   "Parsemez de menthe fraîche et servez avec les olives noires."
+  ],
+  "tips": "Sans jben, utilisez de la feta émiettée, en réduisant encore le sel."
+ },
+ {
+  "id": "l01-oeufs-brouilles-saumon-aneth",
+  "title": "Œufs brouillés au saumon fumé et à l'aneth",
+  "category": "petit-dej",
+  "emoji": "🐟",
+  "prep": 5,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "saumon_fume",
+    "g": 60,
+    "qty": 3,
+    "unit": "tranche(s)",
+    "name": "saumon fumé en lanières"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "aneth",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth ciselé"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Battez les œufs avec la crème fraîche et du poivre. Ne salez pas : le saumon apporte le sel.",
+   "Faites fondre le beurre dans une poêle antiadhésive à feu doux.",
+   "Versez les œufs et remuez lentement à la spatule 3–4 min, jusqu'à obtenir une texture crémeuse.",
+   "Hors du feu, ajoutez le saumon fumé et l'aneth, mélangez délicatement.",
+   "Arrosez de quelques gouttes de citron et servez sans attendre."
+  ],
+  "tips": "Le saumon ajouté hors du feu reste fondant et ne se dessèche pas."
+ },
+ {
+  "id": "l01-tortilla-courgette-oignon",
+  "title": "Tortilla keto à la courgette et à l'oignon",
+  "category": "petit-dej",
+  "emoji": "🥘",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes moyennes"
+   },
+   {
+    "ing": "oignon",
+    "g": 60,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les courgettes en fines rondelles (3 mm). Salez-les légèrement et laissez dégorger 10 min, puis épongez-les dans un torchon.",
+   "Chauffez 2 c. à s. d'huile dans une poêle de 22–24 cm à feu moyen. Faites cuire l'oignon et les courgettes 8–10 min, jusqu'à ce qu'ils soient tendres et légèrement dorés.",
+   "Battez les œufs avec du sel et du poivre, ajoutez les légumes égouttés et le persil, laissez reposer 2 min.",
+   "Remettez la dernière cuillère d'huile dans la poêle, versez le mélange et laissez cuire 5–6 min à feu doux, en décollant les bords.",
+   "Posez une grande assiette sur la poêle, retournez la tortilla d'un geste sûr puis faites-la glisser à nouveau dans la poêle.",
+   "Laissez cuire encore 3–4 min et servez tiède ou froide, en parts."
+  ],
+  "tips": "Elle se garde 3 jours au réfrigérateur : parfaite à emporter pour le petit-déjeuner ou le goûter."
+ },
+ {
+  "id": "l01-omelette-cachir-emmental",
+  "title": "Omelette au cachir et à l'emmental",
+  "category": "petit-dej",
+  "emoji": "🧀",
+  "prep": 5,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "cachir",
+    "g": 60,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "cachir de volaille en dés"
+   },
+   {
+    "ing": "emmental",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "persil",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez le cachir en petits dés et faites-le dorer 2 min à sec dans une poêle à feu moyen. Réservez.",
+   "Battez les œufs avec une petite pincée de sel et du poivre.",
+   "Faites fondre le beurre dans la poêle, versez les œufs et ramenez les bords vers le centre pendant 2 min.",
+   "Parsemez de cachir et d'emmental, laissez fondre 1 min à couvert.",
+   "Pliez l'omelette, parsemez de persil et servez coupée en deux."
+  ],
+  "tips": "Choisissez un cachir de qualité avec peu d'amidon : lisez l'étiquette, certains contiennent de la fécule."
+ },
+ {
+  "id": "l01-omelette-crevettes-ail",
+  "title": "Omelette aux crevettes, ail et piment",
+  "category": "petit-dej",
+  "emoji": "🦐",
+  "prep": 10,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "crevette",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "crevettes décortiquées"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail émincé"
+   },
+   {
+    "ing": "piment",
+    "g": 5,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "piment frais émincé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Épongez bien les crevettes. Chauffez 1 c. à s. d'huile dans une poêle à feu vif.",
+   "Faites sauter les crevettes avec l'ail et le piment 2 min, jusqu'à ce qu'elles soient roses. Salez et réservez.",
+   "Battez les œufs avec le persil, du sel et du poivre.",
+   "Ajoutez le reste d'huile dans la poêle à feu moyen, versez les œufs et laissez prendre 2 min en ramenant les bords.",
+   "Répartissez les crevettes sur une moitié, repliez et laissez 1 min. Servez chaud."
+  ],
+  "tips": "Les crevettes surgelées conviennent : décongelez-les au réfrigérateur la veille et séchez-les bien avant cuisson."
+ },
+ {
+  "id": "l01-omelette-verte-herbes",
+  "title": "Omelette verte aux trois herbes",
+  "category": "petit-dej",
+  "emoji": "🌿",
+  "prep": 10,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Économique",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "persil",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil plat"
+   },
+   {
+    "ing": "coriandre",
+    "g": 15,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 6,
+    "unit": "",
+    "name": "feuilles de menthe"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "cébette émincée"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Hachez finement toutes les herbes et la cébette.",
+   "Battez les œufs avec les herbes, le cumin, du sel et du poivre : le mélange doit être très vert.",
+   "Chauffez l'huile dans une poêle de 22 cm à feu moyen, versez l'appareil.",
+   "Laissez cuire 3 min sans remuer, couvrez et poursuivez 2 min à feu doux jusqu'à ce que le dessus soit pris.",
+   "Retournez sur une assiette, coupez en quartiers et servez chaud ou froid."
+  ],
+  "tips": "Inspirée de la kuku persane, elle se déguste aussi froide avec un yaourt grec à l'ail."
+ },
+ {
+  "id": "l01-oeufs-cocotte-epinards-creme",
+  "title": "Œufs cocotte aux épinards et à la crème",
+  "category": "petit-dej",
+  "emoji": "🥚",
+  "prep": 10,
+  "cook": 14,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "épinards frais"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 80,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "noix de muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et faites chauffer de l'eau pour le bain-marie.",
+   "Faites tomber les épinards 2 min dans une poêle avec 10 g de beurre, salez, ajoutez la muscade et pressez-les pour retirer l'eau.",
+   "Beurrez 4 ramequins avec le reste du beurre, répartissez les épinards au fond puis 1 c. à s. de crème dans chaque.",
+   "Cassez un œuf dans chaque ramequin, versez encore 1 c. à s. de crème autour du jaune, salez, poivrez et parsemez de parmesan.",
+   "Placez les ramequins dans un plat, versez l'eau chaude jusqu'à mi-hauteur et enfournez 10–12 min : le blanc doit être pris et le jaune coulant.",
+   "Servez aussitôt avec une cuillère."
+  ],
+  "tips": "Surveillez la fin de cuisson : 1 min de trop suffit à durcir le jaune. Retirez-les quand le blanc tremble encore légèrement."
+ },
+ {
+  "id": "l01-oeufs-cocotte-dinde-fumee-champignons",
+  "title": "Œufs cocotte à la dinde fumée et aux champignons",
+  "category": "petit-dej",
+  "emoji": "🍄",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "champignon",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "champignons émincés"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 80,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "emmental",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C.",
+   "Faites revenir les champignons dans le beurre 5 min à feu vif, salez et poivrez.",
+   "Coupez la dinde fumée en lanières et répartissez-la avec les champignons au fond de 4 ramequins.",
+   "Cassez un œuf par ramequin, ajoutez 1 c. à s. de crème fraîche et parsemez d'emmental.",
+   "Enfournez au bain-marie 12–14 min, jusqu'à ce que le blanc soit pris et le fromage doré.",
+   "Poivrez et servez brûlant."
+  ],
+  "tips": "Préparez la garniture champignons-dinde la veille : le matin il ne reste qu'à casser les œufs."
+ },
+ {
+  "id": "l01-oeufs-cocotte-tomate-feta",
+  "title": "Œufs cocotte à la tomate, feta et origan",
+  "category": "petit-dej",
+  "emoji": "🍅",
+  "prep": 8,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "tomate_concassee",
+    "g": 160,
+    "qty": 160,
+    "unit": "g",
+    "name": "tomates concassées"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "feta",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "feta émiettée"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail haché"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "origan séché"
+   },
+   {
+    "ing": "basilic",
+    "g": 3,
+    "qty": 4,
+    "unit": "",
+    "name": "feuilles de basilic"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C.",
+   "Faites revenir l'ail dans l'huile 30 s, ajoutez les tomates concassées et l'origan, laissez réduire 5 min.",
+   "Répartissez la sauce dans 4 ramequins, creusez un petit puits au centre.",
+   "Cassez un œuf dans chaque puits et parsemez de feta tout autour.",
+   "Enfournez 10–12 min, jusqu'à ce que le blanc soit pris.",
+   "Poivrez, décorez de basilic et servez."
+  ],
+  "tips": "Inutile de saler : la feta suffit. Ajoutez une pincée de piment d'Espelette ou de harissa pour relever."
+ },
+ {
+  "id": "l01-muffins-oeufs-epinards-feta",
+  "title": "Muffins aux œufs, épinards et feta",
+  "category": "petit-dej",
+  "emoji": "🧁",
+  "prep": 15,
+  "cook": 20,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 480,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "epinard",
+    "g": 100,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "épinards hachés"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta émiettée"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "tomates cerises en quartiers"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 50,
+    "qty": 50,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "huile d'olive (pour le moule)"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et huilez un moule à 12 muffins (ou utilisez un moule en silicone).",
+   "Battez les œufs avec la crème, une petite pincée de sel et du poivre.",
+   "Répartissez les épinards hachés, la feta et les tomates cerises dans les alvéoles.",
+   "Versez l'appareil aux œufs aux trois quarts de la hauteur.",
+   "Enfournez 18–20 min, jusqu'à ce que les muffins soient gonflés et qu'une lame en ressorte propre.",
+   "Laissez tiédir 5 min avant de démouler."
+  ],
+  "tips": "Ils se conservent 4 jours au réfrigérateur et se congèlent : 30 s au micro-ondes et le petit-déjeuner est prêt (2 muffins par personne)."
+ },
+ {
+  "id": "l01-muffins-oeufs-kefta-poivron",
+  "title": "Muffins aux œufs, kefta et poivron rouge",
+  "category": "petit-dej",
+  "emoji": "🧁",
+  "prep": 15,
+  "cook": 22,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Batch cooking",
+   "Marocain",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "kefta",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "oeuf",
+    "g": 420,
+    "qty": 7,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron rouge en petits dés"
+   },
+   {
+    "ing": "oignon",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon haché"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre hachée"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et huilez un moule à 12 muffins.",
+   "Faites revenir la kefta et l'oignon dans l'huile 5–6 min à feu vif en émiettant, avec le cumin, le paprika, du sel et du poivre.",
+   "Répartissez la viande, les dés de poivron et la coriandre dans les alvéoles.",
+   "Battez les œufs avec une pincée de sel et versez-les dans les alvéoles.",
+   "Enfournez 18–20 min, jusqu'à ce qu'ils soient bien pris et dorés.",
+   "Démoulez après 5 min de repos."
+  ],
+  "tips": "À emporter au travail ou à l'école : ils se mangent aussi froids, avec une petite salade de concombre."
+ },
+ {
+  "id": "l01-muffins-oeufs-brocoli-cheddar",
+  "title": "Muffins aux œufs, brocoli et cheddar",
+  "category": "petit-dej",
+  "emoji": "🥦",
+  "prep": 15,
+  "cook": 22,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "brocoli",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "fleurettes de brocoli"
+   },
+   {
+    "ing": "oeuf",
+    "g": 480,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "cheddar",
+    "g": 90,
+    "qty": 90,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 50,
+    "qty": 50,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 10,
+    "unit": "g",
+    "name": "beurre (pour le moule)"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez un moule à 12 muffins.",
+   "Faites cuire les fleurettes de brocoli 3 min à l'eau bouillante salée, égouttez, puis hachez-les grossièrement.",
+   "Battez les œufs avec la crème, la moutarde, du sel et du poivre, puis ajoutez les deux tiers du cheddar.",
+   "Répartissez le brocoli dans les alvéoles, versez l'appareil et parsemez du reste de cheddar.",
+   "Enfournez 18–20 min, jusqu'à ce que le dessus soit doré.",
+   "Laissez tiédir 5 min avant de démouler."
+  ],
+  "tips": "Les enfants les adorent : coupez le brocoli très finement pour qu'il passe inaperçu."
+ },
+ {
+  "id": "l01-frittata-courgette-menthe-feta",
+  "title": "Frittata courgette, menthe et feta",
+  "category": "petit-dej",
+  "emoji": "🥘",
+  "prep": 15,
+  "cook": 20,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 300,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "petites courgettes râpées"
+   },
+   {
+    "ing": "oeuf",
+    "g": 480,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "feta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "feta"
+   },
+   {
+    "ing": "menthe",
+    "g": 8,
+    "qty": 10,
+    "unit": "",
+    "name": "feuilles de menthe"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C. Râpez les courgettes, salez-les légèrement et pressez-les fort dans un torchon pour retirer l'eau.",
+   "Dans une poêle de 26 cm allant au four, chauffez l'huile et faites revenir l'ail et les courgettes 4 min à feu moyen.",
+   "Battez les œufs avec la menthe ciselée et du poivre, versez sur les courgettes.",
+   "Émiettez la feta sur le dessus et laissez cuire 3–4 min à feu doux, sans remuer, jusqu'à ce que les bords prennent.",
+   "Enfournez 10–12 min, jusqu'à ce que le centre soit pris et la surface dorée.",
+   "Laissez reposer 5 min, puis coupez en parts."
+  ],
+  "tips": "Bien essorer les courgettes évite une frittata détrempée : c'est l'étape clé."
+ },
+ {
+  "id": "l01-frittata-poulet-poivrons",
+  "title": "Frittata au poulet, poivrons et paprika fumé",
+  "category": "petit-dej",
+  "emoji": "🍗",
+  "prep": 15,
+  "cook": 22,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Batch cooking",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "poulet_blanc",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "blanc de poulet cuit, effiloché"
+   },
+   {
+    "ing": "oeuf",
+    "g": 420,
+    "qty": 7,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron rouge en lanières"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 80,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron vert en lanières"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "petit oignon émincé"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika fumé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C.",
+   "Dans une poêle de 26 cm allant au four, faites revenir l'oignon et les poivrons dans l'huile 6–7 min à feu moyen.",
+   "Ajoutez le poulet effiloché et le paprika fumé, salez, mélangez 1 min.",
+   "Versez les œufs battus avec du sel et du poivre, laissez prendre 3 min à feu doux.",
+   "Enfournez 12–14 min, jusqu'à ce que le centre soit ferme.",
+   "Laissez reposer 5 min et servez en parts, chaud ou froid."
+  ],
+  "tips": "Idéal pour recycler un reste de poulet rôti du dîner."
+ },
+ {
+  "id": "l01-frittata-chou-fleur-curcuma",
+  "title": "Frittata de chou-fleur au curcuma et à la coriandre",
+  "category": "petit-dej",
+  "emoji": "🥘",
+  "prep": 15,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Économique",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou-fleur en petites fleurettes"
+   },
+   {
+    "ing": "oeuf",
+    "g": 420,
+    "qty": 7,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "parmesan",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "curcuma et cumin"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 190 °C.",
+   "Faites cuire le chou-fleur 5 min à la vapeur pour l'attendrir, puis égouttez-le bien.",
+   "Dans une poêle allant au four, faites dorer le chou-fleur dans l'huile 5 min avec le curcuma et le cumin.",
+   "Battez les œufs avec le parmesan, la coriandre, du sel et du poivre, versez sur le chou-fleur.",
+   "Laissez prendre 3 min à feu doux, puis enfournez 12 min.",
+   "Laissez tiédir 5 min et coupez en parts."
+  ],
+  "tips": "Le curcuma colore la frittata d'un joli jaune : ajoutez une pincée de poivre pour en renforcer les bienfaits."
+ },
+ {
+  "id": "l01-oeufs-pochees-sauce-epinards-coco",
+  "title": "Œufs pochés dans une sauce épinards au lait de coco",
+  "category": "petit-dej",
+  "emoji": "🥬",
+  "prep": 10,
+  "cook": 15,
+  "servings": 3,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "epinard",
+    "g": 300,
+    "qty": 3,
+    "unit": "poignée",
+    "name": "épinards frais"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "curcuma et cumin"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "piment frais"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Chauffez l'huile de coco dans une sauteuse de 26 cm à feu moyen. Faites revenir l'ail, le gingembre et le piment 1 min.",
+   "Ajoutez le curcuma et le cumin, puis les épinards par poignées en remuant jusqu'à ce qu'ils tombent (3 min).",
+   "Versez le lait de coco, salez et laissez mijoter 4 min jusqu'à ce que la sauce épaississe.",
+   "Creusez 6 puits avec une cuillère et cassez un œuf dans chacun.",
+   "Couvrez et laissez cuire 5–7 min à feu doux, jusqu'à ce que les blancs soient pris et les jaunes encore coulants.",
+   "Servez directement dans la sauteuse."
+  ],
+  "tips": "Une alternative verte et parfumée à la chakchouka, inspirée des currys d'œufs indiens."
+ },
+ {
+  "id": "l01-oeufs-au-plat-sauce-verte-harissa",
+  "title": "Œufs mijotés aux poivrons verts et harissa",
+  "category": "petit-dej",
+  "emoji": "🌶️",
+  "prep": 10,
+  "cook": 20,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "poivron_vert",
+    "g": 250,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "poivrons verts en lanières"
+   },
+   {
+    "ing": "courgette",
+    "g": 150,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "courgette en dés"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "harissa",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "harissa"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "carvi ou cumin"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Chauffez l'huile dans une sauteuse à feu moyen. Faites revenir les poivrons 8 min, jusqu'à ce qu'ils soient tendres.",
+   "Ajoutez la courgette, l'ail, la harissa et le carvi. Salez, couvrez et cuisez 5 min.",
+   "Ajoutez 3 c. à s. d'eau si le mélange attache, puis creusez 6 puits.",
+   "Cassez un œuf dans chaque puits, couvrez et laissez cuire 5–6 min à feu doux.",
+   "Parsemez de persil haché et servez."
+  ],
+  "tips": "Version sans tomate, plus verte et plus légère en glucides que la chakchouka traditionnelle."
+ },
+ {
+  "id": "l01-shakshuka-blanche-yaourt",
+  "title": "Œufs pochés turcs au yaourt à l'ail et beurre pimenté",
+  "category": "petit-dej",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "yaourt_grec",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail râpé"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs très frais"
+   },
+   {
+    "ing": "beurre",
+    "g": 25,
+    "qty": 25,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "paprika ou piment d'Alep"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "aneth",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth ou menthe"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Mélangez le yaourt avec l'ail râpé et une pincée de sel. Étalez-le dans 2 assiettes creuses et laissez-le revenir à température ambiante.",
+   "Portez une casserole d'eau à frémissement avec le vinaigre. Cassez chaque œuf dans une tasse.",
+   "Créez un léger tourbillon et faites glisser les œufs un à un ; pochez-les 3 min, puis sortez-les à l'écumoire et égouttez-les sur du papier absorbant.",
+   "Faites fondre le beurre dans une petite casserole jusqu'à ce qu'il mousse, retirez du feu et ajoutez le paprika.",
+   "Posez 2 œufs sur chaque assiette de yaourt, arrosez de beurre pimenté et parsemez d'aneth. Servez aussitôt."
+  ],
+  "tips": "C'est le « çılbır » turc. Des œufs très frais tiennent beaucoup mieux au pochage."
+ },
+ {
+  "id": "l01-wrap-oeuf-dinde-avocat",
+  "title": "Wrap d'œuf à la dinde fumée et à l'avocat",
+  "category": "petit-dej",
+  "emoji": "🌯",
+  "prep": 10,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 80,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "laitue",
+    "g": 30,
+    "qty": 2,
+    "unit": "",
+    "name": "feuilles de laitue"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 6,
+    "qty": 0.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Battez 2 œufs avec une pincée de sel. Huilez légèrement une poêle de 24 cm à feu moyen.",
+   "Versez les œufs, inclinez la poêle pour couvrir tout le fond et laissez cuire 1 min 30, puis retournez 30 s. Répétez avec les 2 autres œufs.",
+   "Laissez tiédir les crêpes d'œufs sur une planche.",
+   "Tartinez chacune de mayonnaise, puis disposez la laitue, la dinde fumée et l'avocat en lamelles.",
+   "Poivrez, roulez serré et coupez en deux en biais."
+  ],
+  "tips": "Les crêpes d'œufs se préparent la veille et se gardent 2 jours au frais, séparées par du papier cuisson."
+ },
+ {
+  "id": "l01-wrap-oeuf-thon-concombre",
+  "title": "Wrap d'œuf au thon, concombre et fromage frais",
+  "category": "petit-dej",
+  "emoji": "🌯",
+  "prep": 10,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "thon_boite",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite boîte de thon au naturel"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "concombre",
+    "g": 80,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "concombre en bâtonnets"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 6,
+    "qty": 0.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le thon égoutté avec le fromage à la crème, le citron, la ciboulette et du poivre.",
+   "Battez les œufs avec une pincée de sel. Cuisez 2 crêpes d'œufs fines dans une poêle de 24 cm légèrement huilée (1 min 30 d'un côté, 30 s de l'autre).",
+   "Laissez-les tiédir puis étalez la crème de thon sur chacune.",
+   "Disposez les bâtonnets de concombre sur un bord.",
+   "Roulez serré, emballez dans du papier cuisson et coupez en deux."
+  ],
+  "tips": "Parfait pour un petit-déjeuner à emporter : le papier cuisson évite que le wrap se déroule."
+ },
+ {
+  "id": "l01-burrito-oeuf-kefta-fromage",
+  "title": "Burrito keto aux œufs brouillés, kefta et cheddar",
+  "category": "petit-dej",
+  "emoji": "🌯",
+  "prep": 15,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "kefta",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "cheddar",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 50,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "poivron vert en dés"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et paprika"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Battez 4 œufs avec une pincée de sel et cuisez 2 grandes crêpes d'œufs dans une poêle de 26 cm légèrement huilée. Réservez.",
+   "Dans la même poêle, faites revenir la kefta avec le poivron et les épices 5 min en émiettant.",
+   "Ajoutez les 2 œufs restants battus et brouillez-les 1–2 min avec la viande.",
+   "Garnissez chaque crêpe d'œufs de cette farce, de cheddar et d'une cuillère de crème fraîche.",
+   "Repliez les côtés puis roulez comme un burrito. Repassez 1 min par face dans la poêle pour faire fondre le fromage."
+  ],
+  "tips": "Ajoutez une cuillère de harissa à la crème fraîche pour une sauce relevée."
+ },
+ {
+  "id": "l01-galettes-courgette-fromage",
+  "title": "Galettes de courgette au parmesan",
+  "category": "petit-dej",
+  "emoji": "🥞",
+  "prep": 15,
+  "cook": 12,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "courgette",
+    "g": 400,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "courgettes moyennes"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "parmesan",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 40,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "aneth",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth ou persil"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Râpez les courgettes, salez-les et laissez-les dégorger 10 min dans une passoire.",
+   "Pressez-les fortement dans un torchon propre pour retirer le maximum d'eau.",
+   "Mélangez les courgettes avec les œufs, le parmesan, la farine d'amande, l'ail, l'aneth et du poivre.",
+   "Chauffez l'huile dans une grande poêle à feu moyen. Déposez des cuillerées de pâte et aplatissez-les à 1 cm d'épaisseur.",
+   "Faites cuire 3 min par face, jusqu'à ce qu'elles soient bien dorées. Égouttez sur du papier absorbant.",
+   "Servez chaudes avec un yaourt grec à l'ail."
+  ],
+  "tips": "Ne surchargez pas la poêle : 4 galettes à la fois maximum pour qu'elles restent croustillantes."
+ },
+ {
+  "id": "l01-galettes-chou-fleur-cheddar",
+  "title": "Galettes de chou-fleur au cheddar et cumin",
+  "category": "petit-dej",
+  "emoji": "🥞",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 400,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "chou-fleur moyen"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "cheddar",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 26,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mixez le chou-fleur en semoule fine. Faites-le cuire 4 min au micro-ondes (ou 5 min à la poêle sèche), puis laissez tiédir.",
+   "Pressez la semoule dans un torchon pour retirer l'humidité.",
+   "Mélangez avec les œufs, le cheddar, la farine d'amande, le cumin, la ciboulette, du sel et du poivre.",
+   "Formez 8 galettes de 8 cm avec les mains humides.",
+   "Faites-les dorer 4 min par face dans l'huile chaude à feu moyen, en les retournant délicatement.",
+   "Servez chaudes, avec un œuf au plat si vous le souhaitez."
+  ],
+  "tips": "Vous pouvez aussi les cuire au four à 200 °C, 20 min sur papier cuisson, en les retournant à mi-cuisson."
+ },
+ {
+  "id": "l01-hash-brown-celeri-rave",
+  "title": "Galettes croustillantes de céleri-rave façon rösti",
+  "category": "petit-dej",
+  "emoji": "🥔",
+  "prep": 15,
+  "cook": 15,
+  "servings": 3,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "celeri_rave",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "céleri-rave épluché"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "cébette"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 39,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Râpez le céleri-rave avec une râpe à gros trous. Salez et laissez reposer 5 min, puis pressez-le dans un torchon.",
+   "Mélangez avec l'œuf, la farine d'amande, la cébette émincée, le paprika et du poivre.",
+   "Chauffez l'huile dans une poêle à feu moyen. Déposez 6 tas de mélange et aplatissez-les finement à la spatule.",
+   "Faites cuire 5 min sans y toucher, jusqu'à ce que le dessous soit bien doré et croustillant.",
+   "Retournez et poursuivez 4–5 min. Égouttez sur du papier absorbant et servez chaud."
+  ],
+  "tips": "Accompagnez d'un œuf au plat et de quelques tranches de saumon fumé pour un brunch complet."
+ },
+ {
+  "id": "l01-avocat-farci-thon-mayo",
+  "title": "Avocat garni au thon, mayonnaise citronnée et paprika",
+  "category": "petit-dej",
+  "emoji": "🥑",
+  "prep": 10,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats mûrs"
+   },
+   {
+    "ing": "thon_boite",
+    "g": 100,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "petite boîte de thon"
+   },
+   {
+    "ing": "mayonnaise",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "mayonnaise"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "oignon rouge haché fin"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "paprika"
+   },
+   {
+    "ing": "persil",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "persil"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez les avocats en deux, retirez les noyaux et arrosez la chair de quelques gouttes de citron.",
+   "Égouttez le thon et émiettez-le à la fourchette.",
+   "Mélangez le thon avec la mayonnaise, le reste du citron, l'oignon rouge, le persil, du sel et du poivre.",
+   "Creusez légèrement chaque demi-avocat, ajoutez la chair prélevée à la farce et garnissez généreusement.",
+   "Saupoudrez de paprika et servez frais."
+  ],
+  "tips": "Le citron empêche l'avocat de noircir : préparez-les au dernier moment ou filmez au contact."
+ },
+ {
+  "id": "l01-avocat-oeuf-mollet-dukkah",
+  "title": "Avocat à l'œuf mollet et au dukkah d'amandes",
+  "category": "petit-dej",
+  "emoji": "🥑",
+  "prep": 10,
+  "cook": 6,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "amande",
+    "g": 20,
+    "qty": 15,
+    "unit": "",
+    "name": "amandes"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cumin et coriandre en graines"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Plongez les œufs dans l'eau bouillante 6 min, puis dans de l'eau glacée. Écalez-les délicatement.",
+   "Torréfiez à sec les amandes, le sésame, le cumin et la coriandre 3 min dans une poêle, puis concassez-les au mortier avec une pincée de sel : c'est le dukkah.",
+   "Coupez les avocats en deux, dénoyautez-les et arrosez de citron et d'huile d'olive.",
+   "Posez un demi-œuf mollet dans le creux de chaque demi-avocat.",
+   "Parsemez généreusement de dukkah et servez."
+  ],
+  "tips": "Le dukkah se garde 2 semaines dans un bocal : faites-en une plus grosse quantité pour vos salades."
+ },
+ {
+  "id": "l01-avocat-saumon-fume-fromage-frais",
+  "title": "Avocat garni au saumon fumé et fromage frais à l'aneth",
+  "category": "petit-dej",
+  "emoji": "🥑",
+  "prep": 10,
+  "cook": 0,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "saumon_fume",
+    "g": 80,
+    "qty": 4,
+    "unit": "tranche(s)",
+    "name": "saumon fumé"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "aneth",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "aneth"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le fromage à la crème avec l'aneth, quelques gouttes de citron et du poivre.",
+   "Coupez les avocats en deux, dénoyautez-les et arrosez-les de citron.",
+   "Garnissez le creux de chaque demi-avocat d'une cuillère de fromage aneth.",
+   "Roulez les tranches de saumon en petites roses et posez-les par-dessus.",
+   "Poivrez et servez aussitôt."
+  ],
+  "tips": "Remplacez le saumon par des crevettes cuites pour varier."
+ },
+ {
+  "id": "l01-avocat-gratine-oeuf-cheddar",
+  "title": "Avocat gratiné à l'œuf, cheddar et ciboulette",
+  "category": "petit-dej",
+  "emoji": "🥑",
+  "prep": 5,
+  "cook": 15,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "petits œufs"
+   },
+   {
+    "ing": "cheddar",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "cheddar râpé"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment doux"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 200 °C. Coupez les avocats en deux, retirez les noyaux et agrandissez légèrement le creux avec une cuillère.",
+   "Calez les demi-avocats dans un petit plat (avec du papier aluminium froissé pour qu'ils tiennent droits).",
+   "Séparez les œufs ; déposez un demi-blanc puis un jaune dans chaque creux. Salez et poivrez.",
+   "Parsemez de cheddar et enfournez 12–15 min, jusqu'à ce que le blanc soit pris.",
+   "Saupoudrez de piment doux et de ciboulette, servez chaud."
+  ],
+  "tips": "Utiliser seulement une partie du blanc évite qu'il ne déborde : gardez le reste pour une omelette."
+ },
+ {
+  "id": "l01-guacamole-oeufs-durs-bowl",
+  "title": "Bowl guacamole, œufs durs et graines de courge",
+  "category": "petit-dej",
+  "emoji": "🥗",
+  "prep": 15,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre"
+   },
+   {
+    "ing": "oignon_rouge",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "oignon rouge haché"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "piment",
+    "g": 3,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "piment"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 9 min dans l'eau bouillante, refroidissez-les et écalez-les.",
+   "Écrasez la chair des avocats avec le citron, l'oignon rouge, le piment, la moitié de la coriandre et du sel.",
+   "Torréfiez les graines de courge 2 min dans une poêle sèche.",
+   "Répartissez le guacamole dans 2 bols, ajoutez les œufs coupés en quartiers et les tomates cerises coupées en deux.",
+   "Parsemez de graines de courge et du reste de coriandre, servez."
+  ],
+  "tips": "Les œufs durs se gardent 4 jours au réfrigérateur dans leur coquille : faites-en une douzaine le dimanche."
+ },
+ {
+  "id": "l01-bowl-oeufs-mollets-halloumi",
+  "title": "Bowl salé halloumi grillé, œufs mollets et épinards",
+  "category": "petit-dej",
+  "emoji": "🥗",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "halloumi",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "halloumi en tranches"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "epinard",
+    "g": 80,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "jeunes pousses d'épinards"
+   },
+   {
+    "ing": "concombre",
+    "g": 100,
+    "qty": 0.3,
+    "unit": "pièce(s)",
+    "name": "concombre"
+   },
+   {
+    "ing": "olive_noire",
+    "g": 30,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "olives noires"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "zaatar ou origan"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Plongez les œufs 6 min 30 dans l'eau bouillante, puis dans de l'eau glacée. Écalez-les.",
+   "Faites griller le halloumi 2 min par face dans une poêle chaude sans matière grasse.",
+   "Mélangez l'huile d'olive, le citron et le poivre pour la vinaigrette.",
+   "Répartissez les épinards et le concombre en rondelles dans 2 bols, arrosez de vinaigrette.",
+   "Ajoutez le halloumi, les œufs coupés en deux et les olives, saupoudrez de zaatar."
+  ],
+  "tips": "Le halloumi se mange chaud : grillez-le au dernier moment, il devient caoutchouteux en refroidissant."
+ },
+ {
+  "id": "l01-toast-keto-avocat-oeuf-poche",
+  "title": "Toast keto minute à l'avocat écrasé et œuf poché",
+  "category": "petit-dej",
+  "emoji": "🥑",
+  "prep": 10,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs (pour le pain)"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "avocat",
+    "g": 140,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "avocat"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs à pocher"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "piment d'Alep ou paprika"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Pain minute : dans 2 mugs ou petits bols carrés, mélangez pour chacun 3 c. à s. de farine d'amande, 1 œuf, la moitié du beurre fondu, ½ c. à c. de levure et une pincée de sel. Faites cuire 90 secondes au micro-ondes (800 W), démoulez et coupez chaque pain en 2 tranches.",
+   "Faites dorer les tranches 1 min par face dans une poêle sèche ou au grille-pain.",
+   "Écrasez l'avocat à la fourchette avec le citron, du sel et du poivre.",
+   "Portez de l'eau vinaigrée à frémissement, faites glisser les œufs et pochez-les 3 min. Égouttez-les sur du papier absorbant.",
+   "Tartinez les toasts d'avocat, posez un œuf poché sur deux d'entre eux et saupoudrez de piment."
+  ],
+  "tips": "Le pain minute peut aussi être cuit au four : 12 min à 180 °C dans un petit moule beurré."
+ },
+ {
+  "id": "l01-croque-keto-dinde-emmental",
+  "title": "Croque keto à la dinde fumée et à l'emmental",
+  "category": "petit-dej",
+  "emoji": "🥪",
+  "prep": 10,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Famille",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs (pour le pain)"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 60,
+    "qty": 3,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "emmental",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "moutarde",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "moutarde"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "crème fraîche"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Pain minute : dans 2 mugs ou petits bols carrés, mélangez pour chacun 3 c. à s. de farine d'amande, 1 œuf, la moitié du beurre fondu, ½ c. à c. de levure et une pincée de sel. Faites cuire 90 secondes au micro-ondes (800 W), démoulez et coupez chaque pain en 2 tranches.",
+   "Préchauffez le gril du four. Mélangez la crème fraîche avec la moutarde et du poivre.",
+   "Tartinez 2 tranches de ce mélange, garnissez de dinde fumée et de la moitié de l'emmental, puis refermez avec les 2 autres tranches.",
+   "Nappez le dessus du reste de crème et parsemez du reste d'emmental.",
+   "Passez 4–5 min sous le gril, jusqu'à ce que le fromage soit doré et bouillonnant. Servez aussitôt."
+  ],
+  "tips": "À la poêle : faites dorer les croques 2 min par face dans un peu de beurre, couvercle posé pour faire fondre le fromage."
+ },
+ {
+  "id": "l01-toast-keto-ricotta-tomates-basilic",
+  "title": "Tartines keto à la ricotta, tomates cerises et basilic",
+  "category": "petit-dej",
+  "emoji": "🍅",
+  "prep": 10,
+  "cook": 4,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs (pour le pain)"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "ricotta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "basilic",
+    "g": 3,
+    "qty": 6,
+    "unit": "",
+    "name": "feuilles de basilic"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Pain minute : dans 2 mugs ou petits bols carrés, mélangez pour chacun 3 c. à s. de farine d'amande, 1 œuf, la moitié du beurre fondu, ½ c. à c. de levure et une pincée de sel. Faites cuire 90 secondes au micro-ondes (800 W), démoulez et coupez chaque pain en 2 tranches.",
+   "Faites griller les tranches 1 min par face.",
+   "Assaisonnez la ricotta d'une pincée de sel et de poivre, tartinez-la sur les toasts.",
+   "Coupez les tomates cerises en deux, disposez-les par-dessus.",
+   "Arrosez d'huile d'olive, ajoutez le basilic ciselé et servez."
+  ],
+  "tips": "Variante marocaine : remplacez la ricotta par du jben et le basilic par de la menthe."
+ },
+ {
+  "id": "l01-crepes-salees-epinards-fromage",
+  "title": "Crêpes salées keto aux épinards et fromage frais",
+  "category": "petit-dej",
+  "emoji": "🥞",
+  "prep": 15,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "fromage à la crème (pour la pâte)"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "epinard",
+    "g": 200,
+    "qty": 2,
+    "unit": "poignée",
+    "name": "épinards"
+   },
+   {
+    "ing": "ricotta",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mixez les œufs, le fromage à la crème, la farine d'amande et une pincée de sel jusqu'à obtenir une pâte lisse. Laissez reposer 5 min.",
+   "Faites tomber les épinards avec l'ail dans 5 g de beurre (2 min), pressez-les, hachez-les puis mélangez-les avec la ricotta, le parmesan, du sel et du poivre.",
+   "Beurrez légèrement une poêle de 20 cm à feu moyen-doux. Versez une petite louche de pâte et étalez-la en inclinant la poêle.",
+   "Faites cuire 2 min, jusqu'à ce que les bords se détachent, retournez délicatement à la spatule et cuisez 30 s. Répétez pour obtenir 8 crêpes.",
+   "Garnissez chaque crêpe de farce, roulez-les et servez tièdes."
+  ],
+  "tips": "Ces crêpes sont fragiles : gardez-les petites (20 cm) et retournez-les avec une large spatule."
+ },
+ {
+  "id": "l01-galette-complete-keto",
+  "title": "Galette complète keto à l'œuf, dinde et emmental",
+  "category": "petit-dej",
+  "emoji": "🥞",
+  "prep": 10,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "graine_lin",
+    "g": 15,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "graines de lin moulues"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs (2 pour la pâte, 2 pour garnir)"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "ml",
+    "name": "lait d'amande"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 60,
+    "qty": 3,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "emmental",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "emmental râpé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Fouettez la farine d'amande, le lin, 2 œufs, le lait d'amande et une pincée de sel. Laissez reposer 5 min pour que le lin épaississe la pâte.",
+   "Faites fondre un peu de beurre dans une poêle de 26 cm à feu moyen. Versez la moitié de la pâte et étalez-la finement. Cuisez 2 min puis retournez.",
+   "Parsemez la moitié de l'emmental, posez la moitié de la dinde et cassez un œuf au centre.",
+   "Couvrez et laissez cuire 3–4 min, jusqu'à ce que le blanc soit pris.",
+   "Rabattez les bords en carré autour du jaune, poivrez et servez. Recommencez pour la seconde galette."
+  ],
+  "tips": "Ajoutez quelques champignons poêlés pour une version « forestière »."
+ },
+ {
+  "id": "l01-bowl-yaourt-sale-concombre",
+  "title": "Bowl de yaourt grec salé, concombre, menthe et graines",
+  "category": "petit-dej",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 3,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "yaourt_grec",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "concombre",
+    "g": 150,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "concombre en dés"
+   },
+   {
+    "ing": "menthe",
+    "g": 5,
+    "qty": 8,
+    "unit": "",
+    "name": "feuilles de menthe"
+   },
+   {
+    "ing": "ail",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "gousse(s)",
+    "name": "ail râpé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "graine_courge",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "graines de courge"
+   },
+   {
+    "ing": "graine_lin",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de lin moulues"
+   },
+   {
+    "ing": "noix",
+    "g": 20,
+    "qty": 4,
+    "unit": "",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Mélangez le yaourt avec l'ail râpé, une pincée de sel et du poivre.",
+   "Torréfiez les graines de courge et les noix concassées 3 min dans une poêle sèche, puis mélangez-les avec le lin moulu.",
+   "Répartissez le yaourt dans 2 bols et creusez légèrement le centre.",
+   "Ajoutez le concombre en dés et la menthe ciselée.",
+   "Parsemez de graines grillées et arrosez d'huile d'olive."
+  ],
+  "tips": "Ajoutez un œuf mollet ou quelques olives pour un bol plus nourrissant."
+ },
+ {
+  "id": "l01-riz-chou-fleur-saute-oeufs",
+  "title": "Riz de chou-fleur sauté aux œufs et à la cébette",
+  "category": "petit-dej",
+  "emoji": "🍚",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Rapide",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "chou_fleur",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "chou-fleur mixé en semoule"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 30,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "cébettes"
+   },
+   {
+    "ing": "sauce_soja",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "sauce soja"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile"
+   },
+   {
+    "ing": "ail",
+    "g": 5,
+    "qty": 1,
+    "unit": "gousse(s)",
+    "name": "ail"
+   },
+   {
+    "ing": "gingembre",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "gingembre râpé"
+   },
+   {
+    "ing": "sesame",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "graines de sésame"
+   }
+  ],
+  "steps": [
+   "Chauffez 1 c. à s. d'huile dans un wok ou une grande poêle à feu vif. Faites revenir l'ail, le gingembre et le blanc des cébettes 1 min.",
+   "Ajoutez la semoule de chou-fleur et faites sauter 5 min, en remuant, jusqu'à ce qu'elle soit tendre mais encore ferme.",
+   "Poussez le chou-fleur sur le côté, ajoutez le reste d'huile et versez les œufs battus. Brouillez-les 1 min puis mélangez-les au chou-fleur.",
+   "Arrosez de sauce soja et faites sauter encore 1 min.",
+   "Parsemez du vert des cébettes et de sésame, servez chaud."
+  ],
+  "tips": "Ajoutez des restes de poulet ou de crevettes pour en faire un repas complet."
+ },
+ {
+  "id": "l01-oeufs-benedicte-keto",
+  "title": "Œufs bénédicte keto sur galette et sauce hollandaise",
+  "category": "petit-dej",
+  "emoji": "🍳",
+  "prep": 20,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Moyen",
+  "tags": [
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs (pour le pain)"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs à pocher"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 40,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs (sauce)"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre (sauce)"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "dinde_fumee",
+    "g": 40,
+    "qty": 2,
+    "unit": "tranche(s)",
+    "name": "dinde fumée"
+   },
+   {
+    "ing": "vinaigre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "vinaigre"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Pain minute : dans 2 mugs ou petits bols carrés, mélangez pour chacun 3 c. à s. de farine d'amande, 1 œuf, la moitié du beurre fondu, ½ c. à c. de levure et une pincée de sel. Faites cuire 90 secondes au micro-ondes (800 W), démoulez et coupez chaque pain en 2 tranches.",
+   "Hollandaise : faites fondre le beurre de la sauce. Au bain-marie frémissant, fouettez les jaunes avec 1 c. à s. d'eau jusqu'à ce qu'ils épaississent et blanchissent (2–3 min).",
+   "Hors du feu, versez le beurre fondu en filet sans cesser de fouetter, puis ajoutez le citron et une pincée de sel. Gardez au chaud au-dessus de l'eau tiède.",
+   "Pochez les œufs 3 min dans de l'eau frémissante vinaigrée, puis égouttez-les.",
+   "Faites griller les 4 tranches. Pour chaque assiette, garnissez une tranche de dinde fumée et d'un œuf poché, nappez de hollandaise, et servez la seconde tranche à côté pour saucer."
+  ],
+  "tips": "Si la hollandaise tranche, fouettez une cuillère d'eau chaude dans un bol propre et incorporez-y la sauce petit à petit."
+ },
+ {
+  "id": "l01-gaufres-salees-fromage-chaffles",
+  "title": "Gaufres salées au fromage (chaffles) et herbes",
+  "category": "petit-dej",
+  "emoji": "🧇",
+  "prep": 5,
+  "cook": 12,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "mozzarella_rapee",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "mozzarella râpée"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "ciboulette",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "ciboulette"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "ail en poudre"
+   },
+   {
+    "ing": "beurre",
+    "g": 5,
+    "qty": 5,
+    "unit": "g",
+    "name": "beurre (pour le gaufrier)"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 40,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "fromage à la crème (pour servir)"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le gaufrier et badigeonnez-le légèrement de beurre.",
+   "Mélangez les œufs, la mozzarella, la farine d'amande, la ciboulette, l'ail en poudre et du poivre.",
+   "Versez un quart de la pâte au centre du gaufrier, refermez et faites cuire 3–4 min, jusqu'à ce que la gaufre soit dorée et croustillante.",
+   "Répétez pour obtenir 4 gaufres et laissez-les 1 min sur une grille pour qu'elles croustillent.",
+   "Servez tartinées de fromage à la crème."
+  ],
+  "tips": "Elles servent aussi de pain à sandwich : garnissez-les de dinde fumée et de laitue."
+ },
+ {
+  "id": "l01-quiche-sans-pate-epinards-chevre",
+  "title": "Quiche sans pâte aux épinards et au chèvre",
+  "category": "petit-dej",
+  "emoji": "🥧",
+  "prep": 15,
+  "cook": 30,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide"
+   },
+   {
+    "ing": "epinard",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "épinards"
+   },
+   {
+    "ing": "chevre",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "bûche de chèvre"
+   },
+   {
+    "ing": "oignon",
+    "g": 40,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "epices",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "muscade"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez un moule à tarte de 24 cm.",
+   "Faites revenir l'oignon dans le reste du beurre 3 min, ajoutez les épinards et laissez-les tomber 3 min. Pressez-les pour retirer l'eau.",
+   "Fouettez les œufs avec la crème, la muscade, du sel et du poivre.",
+   "Étalez les épinards dans le moule, versez l'appareil et disposez les rondelles de chèvre sur le dessus.",
+   "Enfournez 28–30 min, jusqu'à ce que la quiche soit gonflée, dorée et ferme au centre.",
+   "Laissez tiédir 10 min avant de découper en 6 parts."
+  ],
+  "tips": "Se conserve 4 jours au réfrigérateur ; réchauffez une part 1 min au micro-ondes ou mangez-la froide."
+ },
+ {
+  "id": "l01-scotch-eggs-kefta",
+  "title": "Œufs en manteau de kefta au four (scotch eggs)",
+  "category": "petit-dej",
+  "emoji": "🥚",
+  "prep": 20,
+  "cook": 25,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Marocain",
+   "Batch cooking",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "kefta",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "viande hachée kefta"
+   },
+   {
+    "ing": "persil",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "persil haché"
+   },
+   {
+    "ing": "coriandre",
+    "g": 10,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "coriandre hachée"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 1.5,
+    "unit": "c. à c.",
+    "name": "cumin, paprika et ras el hanout"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande (chapelure)"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 13,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Faites cuire les œufs 7 min dans l'eau bouillante, plongez-les dans l'eau glacée et écalez-les.",
+   "Préchauffez le four à 200 °C. Mélangez la kefta avec les herbes, les épices, du sel et du poivre ; divisez en 4 portions.",
+   "Aplatissez chaque portion dans la paume de la main humide, posez un œuf au centre et enveloppez-le entièrement en lissant bien la viande.",
+   "Roulez chaque boule dans la farine d'amande, posez-les sur une plaque couverte de papier cuisson et badigeonnez d'huile.",
+   "Enfournez 22–25 min, en les retournant à mi-cuisson, jusqu'à ce que la viande soit bien dorée.",
+   "Laissez reposer 5 min et coupez en deux pour servir."
+  ],
+  "tips": "Pour un jaune encore crémeux, réduisez la cuisson des œufs à 6 min et manipulez-les avec délicatesse."
+ },
+ {
+  "id": "l01-tofu-brouille-curcuma",
+  "title": "Tofu brouillé au curcuma, épinards et tomates cerises",
+  "category": "petit-dej",
+  "emoji": "🌱",
+  "prep": 10,
+  "cook": 10,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "tofu",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "tofu ferme"
+   },
+   {
+    "ing": "epinard",
+    "g": 80,
+    "qty": 1,
+    "unit": "poignée",
+    "name": "épinards"
+   },
+   {
+    "ing": "tomate_cerise",
+    "g": 80,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "tomates cerises"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "curcuma et cumin"
+   },
+   {
+    "ing": "oignon_vert",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "cébette"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Égouttez le tofu et pressez-le entre deux torchons 5 min pour retirer l'eau.",
+   "Chauffez l'huile dans une poêle à feu moyen, faites revenir la cébette 1 min.",
+   "Émiettez le tofu à la main dans la poêle, ajoutez le curcuma, le cumin, du sel et du poivre. Faites cuire 5 min en remuant.",
+   "Ajoutez le lait de coco pour rendre le mélange crémeux, puis les épinards et les tomates coupées en deux. Cuisez 2 min.",
+   "Servez aussitôt, bien poivré."
+  ],
+  "tips": "Une version 100 % végétale des œufs brouillés, idéale pour les membres de la famille qui ne mangent pas d'œufs."
+ },
+ {
+  "id": "l01-poelee-merguez-oeufs-poivrons",
+  "title": "Poêlée de merguez, œufs au plat et poivrons grillés",
+  "category": "petit-dej",
+  "emoji": "🌭",
+  "prep": 10,
+  "cook": 15,
+  "servings": 3,
+  "difficulty": "Facile",
+  "tags": [
+   "Marocain",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "merguez",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "merguez halal"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "poivron_rouge",
+    "g": 100,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron rouge"
+   },
+   {
+    "ing": "poivron_vert",
+    "g": 100,
+    "qty": 0.5,
+    "unit": "pièce(s)",
+    "name": "poivron vert"
+   },
+   {
+    "ing": "oignon",
+    "g": 30,
+    "qty": 0.25,
+    "unit": "pièce(s)",
+    "name": "oignon émincé"
+   },
+   {
+    "ing": "huile_olive",
+    "g": 6,
+    "qty": 0.5,
+    "unit": "c. à s.",
+    "name": "huile d'olive"
+   },
+   {
+    "ing": "persil",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "persil haché"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Coupez les merguez en tronçons de 3 cm et faites-les dorer 5 min dans une grande poêle à feu moyen, sans matière grasse. Retirez une partie de la graisse rendue.",
+   "Ajoutez l'huile, l'oignon et les poivrons en lanières. Faites revenir 6–7 min jusqu'à ce qu'ils soient tendres et légèrement grillés.",
+   "Creusez 3 espaces dans la poêle et cassez-y les œufs. Salez légèrement le blanc.",
+   "Couvrez et laissez cuire 3–4 min à feu doux, jusqu'à ce que les blancs soient pris.",
+   "Parsemez de persil et servez directement dans la poêle."
+  ],
+  "tips": "Choisissez des merguez de boucherie halal à forte teneur en viande, sans chapelure."
+ },
+ {
+  "id": "l01-oeufs-coque-mouillettes-asperges",
+  "title": "Œufs à la coque et mouillettes d'asperges au parmesan",
+  "category": "petit-dej",
+  "emoji": "🥚",
+  "prep": 5,
+  "cook": 8,
+  "servings": 2,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs extra-frais"
+   },
+   {
+    "ing": "asperge",
+    "g": 200,
+    "qty": 12,
+    "unit": "pièce(s)",
+    "name": "asperges vertes"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 15,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "parmesan",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "parmesan râpé"
+   },
+   {
+    "ing": "sel",
+    "g": 2,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   },
+   {
+    "ing": "poivre",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "poivre"
+   }
+  ],
+  "steps": [
+   "Coupez la base dure des asperges. Faites-les sauter 4–5 min dans le beurre à feu moyen, jusqu'à ce qu'elles soient tendres et légèrement dorées. Salez.",
+   "Pendant ce temps, portez une casserole d'eau à ébullition et plongez-y délicatement les œufs à température ambiante avec une cuillère.",
+   "Comptez 3 min 30 de cuisson pour un jaune bien coulant, puis sortez-les.",
+   "Roulez les asperges chaudes dans le parmesan.",
+   "Placez les œufs dans des coquetiers, décalottez-les et trempez-y les mouillettes d'asperges."
+  ],
+  "tips": "Hors saison des asperges, utilisez des bâtonnets de courgette poêlés ou des lanières de halloumi grillé."
+ }
+]

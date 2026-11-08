@@ -1,0 +1,3583 @@
+[
+ {
+  "id": "l11-moelleux-chocolat",
+  "title": "Moelleux au chocolat noir et amande",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 15,
+  "cook": 22,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chocolat_noir",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "beurre",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C. Beurrez un moule rond de 22 cm et tapissez le fond de papier cuisson.",
+   "Faites fondre le chocolat et le beurre au bain-marie à feu doux, en remuant, puis laissez tiédir 5 minutes.",
+   "Fouettez les œufs avec l'érythritol, la vanille et le sel pendant 3 minutes jusqu'à ce que le mélange blanchisse et double de volume.",
+   "Versez le chocolat fondu sur les œufs en mélangeant délicatement à la maryse.",
+   "Incorporez la farine d'amande tamisée en soulevant la pâte, sans trop travailler.",
+   "Versez dans le moule et enfournez 20 à 22 minutes : le centre doit rester légèrement tremblotant.",
+   "Laissez refroidir 15 minutes avant de démouler ; servez tiède ou froid."
+  ],
+  "tips": "Se conserve 4 jours au réfrigérateur ; passez une part 15 secondes au micro-ondes pour retrouver le cœur fondant."
+ },
+ {
+  "id": "l11-fondant-coeur-coulant",
+  "title": "Fondants à cœur coulant",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 10,
+  "cook": 9,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "chocolat_noir",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 18,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "jaune d'œuf"
+   },
+   {
+    "ing": "erythritol",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "farine d'amande bombée"
+   },
+   {
+    "ing": "cacao",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cacao non sucré (pour les moules)"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 210 °C. Beurrez 4 ramequins et saupoudrez-les de cacao en tapotant pour retirer l'excédent.",
+   "Faites fondre le chocolat et le beurre au bain-marie, lissez et laissez tiédir.",
+   "Fouettez les œufs, le jaune et l'érythritol 2 minutes, puis ajoutez le chocolat fondu.",
+   "Incorporez la farine d'amande et répartissez dans les ramequins aux trois quarts.",
+   "Enfournez 8 à 9 minutes exactement : les bords sont pris, le centre bombé et souple.",
+   "Attendez 1 minute, passez une lame sur les bords et retournez sur l'assiette. Servez aussitôt."
+  ],
+  "tips": "Préparez les ramequins jusqu'à 24 h à l'avance au réfrigérateur ; ajoutez alors 2 minutes de cuisson."
+ },
+ {
+  "id": "l11-cake-citron",
+  "title": "Cake moelleux au citron et glaçage léger",
+  "category": "dessert",
+  "emoji": "🍋",
+  "prep": 15,
+  "cook": 40,
+  "servings": 10,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "farine_coco",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine de coco"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "beurre",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "citron",
+    "g": 60,
+    "qty": 1.5,
+    "unit": "pièce(s)",
+    "name": "citrons (jus et zestes)"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 60,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C et chemisez un moule à cake de papier cuisson.",
+   "Fouettez les œufs avec 80 g d'érythritol, puis ajoutez le beurre fondu, le yaourt, les zestes et 40 ml de jus de citron.",
+   "Mélangez à part la farine d'amande, la farine de coco, la levure et le sel, puis incorporez aux ingrédients liquides.",
+   "Versez dans le moule et enfournez 40 minutes ; couvrez d'aluminium à mi-cuisson si le dessus colore trop.",
+   "Vérifiez la cuisson avec une lame : elle doit ressortir sèche. Laissez refroidir complètement sur grille.",
+   "Mixez les 20 g d'érythritol restants en poudre, mélangez au reste du jus de citron et nappez le cake froid."
+  ],
+  "tips": "Le cake est encore meilleur le lendemain ; il se congèle en tranches emballées individuellement."
+ },
+ {
+  "id": "l11-carrot-cake-leger",
+  "title": "Carrot cake léger aux noix et cannelle",
+  "category": "dessert",
+  "emoji": "🥕",
+  "prep": 20,
+  "cook": 35,
+  "servings": 10,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 180,
+    "qty": 180,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "carotte",
+    "g": 120,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "grosse carotte râpée finement"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 50,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "huile de coco fondue"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "noix",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "cerneaux de noix concassés"
+   },
+   {
+    "ing": "epices",
+    "g": 5,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cannelle et pincée de muscade"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "stevia",
+    "g": 1,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "stévia (pour le glaçage)"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 175 °C et beurrez un moule carré de 20 cm.",
+   "Râpez la carotte finement et pressez-la dans un torchon pour retirer l'excès d'eau.",
+   "Fouettez les œufs avec l'érythritol et l'huile de coco, puis ajoutez la carotte.",
+   "Incorporez la farine d'amande, la levure, la cannelle, la muscade et les noix.",
+   "Versez dans le moule et enfournez 30 à 35 minutes jusqu'à ce que la lame ressorte sèche. Laissez refroidir.",
+   "Fouettez le fromage à la crème avec la vanille et la stévia, puis étalez sur le gâteau froid avant de couper en 10 carrés."
+  ],
+  "tips": "Gardez le glaçage à part si vous préparez le gâteau à l'avance ; il se conserve 4 jours au frais."
+ },
+ {
+  "id": "l11-gateau-coco",
+  "title": "Gâteau tout coco moelleux",
+  "category": "dessert",
+  "emoji": "🥥",
+  "prep": 10,
+  "cook": 30,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "noix_coco_rapee",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "noix de coco râpée"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et huilez un moule de 22 cm.",
+   "Fouettez les œufs avec l'érythritol jusqu'à obtenir un mélange mousseux.",
+   "Ajoutez le lait de coco, l'huile de coco fondue et la vanille.",
+   "Incorporez la noix de coco râpée, la farine d'amande et la levure ; laissez reposer 5 minutes pour que la coco s'hydrate.",
+   "Versez dans le moule et enfournez 30 minutes jusqu'à ce que le dessus soit bien doré.",
+   "Laissez refroidir dans le moule avant de démouler et de découper en 8 parts."
+  ],
+  "tips": "Parsemez de coco râpée toastée à sec 2 minutes à la poêle pour une finition croustillante."
+ },
+ {
+  "id": "l11-cheesecake-new-york",
+  "title": "Cheesecake new-yorkais keto",
+  "category": "dessert",
+  "emoji": "🍰",
+  "prep": 25,
+  "cook": 60,
+  "servings": 10,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "beurre",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 110,
+    "qty": 110,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 600,
+    "qty": 600,
+    "unit": "g",
+    "name": "fromage à la crème type Philadelphia"
+   },
+   {
+    "ing": "creme_fraiche",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "crème fraîche épaisse"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "citron",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C. Mélangez la farine d'amande, le beurre fondu et 20 g d'érythritol, tassez au fond d'un moule à charnière de 22 cm.",
+   "Faites précuire la base 10 minutes puis laissez refroidir. Baissez le four à 150 °C.",
+   "Battez le fromage à la crème (à température ambiante) avec 90 g d'érythritol à vitesse lente jusqu'à ce qu'il soit lisse.",
+   "Ajoutez la crème fraîche, la vanille et le citron, puis les œufs un à un sans fouetter trop vite pour ne pas incorporer d'air.",
+   "Versez sur la base, placez un plat d'eau chaude sur la grille du bas et enfournez 50 minutes : le centre doit encore trembler.",
+   "Éteignez le four et laissez le cheesecake 1 heure porte entrouverte, puis réfrigérez au moins 6 heures avant de démouler."
+  ],
+  "tips": "Servez avec un coulis de framboises chauffées 5 minutes avec une pincée de stévia."
+ },
+ {
+  "id": "l11-cheesecake-framboise-sans-cuisson",
+  "title": "Cheesecake framboise sans cuisson à l'agar-agar",
+  "category": "dessert",
+  "emoji": "🍓",
+  "prep": 25,
+  "cook": 3,
+  "servings": 8,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "amandes en poudre grossière"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide 30 % très froide"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "framboise",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "framboises"
+   },
+   {
+    "ing": "agar_agar",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "agar-agar (2 g)"
+   },
+   {
+    "ing": "eau",
+    "g": 50,
+    "qty": 50,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   }
+  ],
+  "steps": [
+   "Mixez les amandes avec le beurre fondu et 10 g d'érythritol, tassez au fond d'un cercle de 20 cm posé sur une assiette et réservez au froid.",
+   "Mixez 100 g de framboises avec le citron. Diluez l'agar-agar dans l'eau, portez à ébullition et faites bouillir 2 minutes en remuant.",
+   "Hors du feu, ajoutez la purée de framboises à l'agar-agar chaud et mélangez vivement.",
+   "Lissez le fromage à la crème avec 60 g d'érythritol, puis incorporez rapidement le mélange framboise encore tiède.",
+   "Montez la crème liquide en chantilly ferme et incorporez-la délicatement à la maryse.",
+   "Versez sur la base, décorez avec les framboises restantes et réfrigérez 4 heures minimum avant de retirer le cercle."
+  ],
+  "tips": "Travaillez vite après l'ajout de l'agar-agar : il prend dès qu'il descend sous 40 °C."
+ },
+ {
+  "id": "l11-mousse-chocolat",
+  "title": "Mousse au chocolat aérienne",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 20,
+  "cook": 5,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "chocolat_noir",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "oeuf",
+    "g": 360,
+    "qty": 6,
+    "unit": "pièce(s)",
+    "name": "œufs extra-frais"
+   },
+   {
+    "ing": "erythritol",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites fondre le chocolat au bain-marie et laissez-le tiédir à environ 35 °C.",
+   "Séparez les blancs des jaunes. Incorporez les jaunes un par un au chocolat en mélangeant vivement.",
+   "Montez les blancs avec le sel en neige souple, ajoutez l'érythritol et fouettez jusqu'à ce qu'ils soient fermes et brillants.",
+   "Mélangez un tiers des blancs au chocolat pour l'assouplir, puis incorporez le reste délicatement en soulevant à la maryse.",
+   "Répartissez dans 6 verrines et réfrigérez au moins 4 heures."
+  ],
+  "tips": "Utilisez des œufs très frais et consommez sous 48 h ; pour les enfants, servez-la avec quelques framboises."
+ },
+ {
+  "id": "l11-mousse-citron-coco",
+  "title": "Mousse légère citron et coco",
+  "category": "dessert",
+  "emoji": "🍋",
+  "prep": 15,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "creme_coco",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "crème de coco bien froide (partie solide)"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus et zeste)"
+   },
+   {
+    "ing": "erythritol",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "noix_coco_rapee",
+    "g": 15,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "coco râpée toastée"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Placez la boîte de crème de coco 12 heures au réfrigérateur, ainsi que le saladier et les fouets 15 minutes au congélateur.",
+   "Prélevez uniquement la partie solide de la crème de coco et fouettez-la 3 minutes jusqu'à ce qu'elle soit mousseuse.",
+   "Ajoutez l'érythritol, la vanille, le zeste puis le jus de citron petit à petit en continuant de fouetter.",
+   "Répartissez dans 4 coupes, parsemez de coco toastée et réfrigérez 1 heure."
+  ],
+  "tips": "Gardez le liquide de coco restant pour un smoothie ou un curry."
+ },
+ {
+  "id": "l11-creme-vanille",
+  "title": "Crème vanille onctueuse façon flan",
+  "category": "dessert",
+  "emoji": "🍮",
+  "prep": 10,
+  "cook": 35,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "creme_liquide",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 90,
+    "qty": 5,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 150 °C et disposez 6 ramequins dans un grand plat.",
+   "Chauffez la crème et le lait d'amande jusqu'à frémissement, puis retirez du feu.",
+   "Fouettez les jaunes avec l'érythritol et la vanille sans faire mousser, puis versez le liquide chaud en filet en remuant.",
+   "Filtrez, répartissez dans les ramequins et versez de l'eau chaude dans le plat jusqu'à mi-hauteur.",
+   "Enfournez 35 minutes : la crème doit être prise sur les bords et légèrement tremblotante au centre.",
+   "Laissez refroidir puis réfrigérez au moins 3 heures."
+  ],
+  "tips": "Gardez les blancs pour des rochers coco ou une mousse au chocolat."
+ },
+ {
+  "id": "l11-creme-brulee-fleur-oranger",
+  "title": "Crème brûlée à la fleur d'oranger",
+  "category": "dessert",
+  "emoji": "🍮",
+  "prep": 15,
+  "cook": 45,
+  "servings": 4,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "creme_liquide",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 72,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "eau",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "eau de fleur d'oranger"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 100 °C.",
+   "Faites chauffer la crème jusqu'à frémissement, retirez du feu et ajoutez la vanille et la fleur d'oranger.",
+   "Fouettez les jaunes avec 40 g d'érythritol, puis versez la crème chaude doucement en mélangeant.",
+   "Répartissez dans 4 plats à crème brûlée peu profonds et enfournez 45 minutes, jusqu'à ce que la crème soit prise.",
+   "Laissez refroidir puis réfrigérez 4 heures minimum.",
+   "Au moment de servir, saupoudrez les 20 g d'érythritol restants et caramélisez au chalumeau ou 2 minutes sous le gril bien chaud."
+  ],
+  "tips": "L'érythritol caramélise moins que le sucre : étalez-le en couche très fine et surveillez sous le gril."
+ },
+ {
+  "id": "l11-panna-cotta-vanille-fruits-rouges",
+  "title": "Panna cotta vanille et coulis de fruits rouges",
+  "category": "dessert",
+  "emoji": "🍓",
+  "prep": 15,
+  "cook": 5,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "creme_liquide",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "agar_agar",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "agar-agar (2 g)"
+   },
+   {
+    "ing": "erythritol",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "framboise",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "framboises"
+   },
+   {
+    "ing": "fraise",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "fraises"
+   }
+  ],
+  "steps": [
+   "Versez la crème et le lait d'amande dans une casserole, ajoutez l'agar-agar en pluie en fouettant.",
+   "Ajoutez 40 g d'érythritol et la vanille, portez à ébullition puis laissez bouillir 2 minutes en remuant.",
+   "Répartissez dans 6 verrines et laissez refroidir 15 minutes avant de placer au réfrigérateur 3 heures.",
+   "Pour le coulis, chauffez les fruits avec 10 g d'érythritol 5 minutes en écrasant à la fourchette, puis laissez refroidir.",
+   "Nappez les panna cotta de coulis juste avant de servir."
+  ],
+  "tips": "Comptez 2 g d'agar-agar pour 500 ml de liquide : au-delà la texture devient cassante."
+ },
+ {
+  "id": "l11-panna-cotta-coco-framboise",
+  "title": "Panna cotta coco et framboises",
+  "category": "dessert",
+  "emoji": "🥥",
+  "prep": 15,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "lait_coco",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "agar_agar",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "agar-agar (2 g)"
+   },
+   {
+    "ing": "erythritol",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "framboise",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "framboises"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   }
+  ],
+  "steps": [
+   "Fouettez le lait de coco avec l'agar-agar et 30 g d'érythritol dans une casserole à froid.",
+   "Portez à ébullition et laissez bouillir 2 minutes sans cesser de remuer.",
+   "Répartissez dans 4 verres et laissez prendre 2 heures au réfrigérateur.",
+   "Écrasez les framboises avec le citron et 10 g d'érythritol, puis répartissez sur les panna cotta avant de servir."
+  ],
+  "tips": "Version totalement végétale, idéale pour les enfants intolérants au lactose."
+ },
+ {
+  "id": "l11-cookies-pepites-chocolat",
+  "title": "Cookies aux pépites de chocolat",
+  "category": "dessert",
+  "emoji": "🍪",
+  "prep": 15,
+  "cook": 12,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "beurre",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "beurre mou"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "chocolat noir 85 % concassé"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 175 °C et tapissez une plaque de papier cuisson.",
+   "Crémez le beurre mou avec l'érythritol, puis ajoutez l'œuf et la vanille.",
+   "Incorporez la farine d'amande, la levure et le sel, puis les morceaux de chocolat.",
+   "Réfrigérez la pâte 15 minutes pour qu'elle se tienne.",
+   "Formez 12 boules, aplatissez-les légèrement en espaçant de 5 cm sur la plaque.",
+   "Enfournez 10 à 12 minutes jusqu'à ce que les bords dorent ; laissez durcir 10 minutes sur la plaque avant de déplacer."
+  ],
+  "tips": "Les cookies sont mous à la sortie du four : ils se raffermissent en refroidissant. Boîte hermétique : 5 jours."
+ },
+ {
+  "id": "l11-cookies-beurre-cacahuete",
+  "title": "Cookies au beurre de cacahuète trois ingrédients",
+  "category": "dessert",
+  "emoji": "🥜",
+  "prep": 10,
+  "cook": 12,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "beurre_cacahuete",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "beurre de cacahuète sans sucre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 175 °C et préparez une plaque avec du papier cuisson.",
+   "Mélangez le beurre de cacahuète, l'érythritol, l'œuf et le sel jusqu'à obtenir une pâte homogène.",
+   "Formez 12 boules, posez-les sur la plaque et aplatissez-les en croisillons avec une fourchette.",
+   "Enfournez 10 à 12 minutes, puis laissez refroidir complètement sur la plaque avant de les manipuler."
+  ],
+  "tips": "Ajoutez une pincée de fleur de sel sur chaque cookie avant cuisson pour un contraste sucré-salé."
+ },
+ {
+  "id": "l11-brownie-noix",
+  "title": "Brownie fondant aux noix",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 15,
+  "cook": 22,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chocolat_noir",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "beurre",
+    "g": 110,
+    "qty": 110,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "cacao",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "noix",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "cerneaux de noix"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 175 °C et chemisez un moule carré de 20 cm de papier cuisson.",
+   "Faites fondre le chocolat et le beurre ensemble, puis laissez tiédir.",
+   "Fouettez les œufs et l'érythritol 2 minutes, ajoutez le chocolat fondu.",
+   "Incorporez la farine d'amande, le cacao et le sel, puis les noix concassées.",
+   "Étalez dans le moule et enfournez 20 à 22 minutes : une lame doit ressortir avec quelques miettes humides.",
+   "Laissez refroidir complètement, idéalement 1 heure au frais, avant de couper en 12 carrés."
+  ],
+  "tips": "Le brownie se tranche net après un passage au réfrigérateur ; il se congèle très bien."
+ },
+ {
+  "id": "l11-brownie-tahini",
+  "title": "Brownie marbré au tahini",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 15,
+  "cook": 22,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "chocolat_noir",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "beurre",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 90,
+    "qty": 90,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "cacao",
+    "g": 15,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "tahini",
+    "g": 60,
+    "qty": 4,
+    "unit": "c. à s.",
+    "name": "tahini"
+   },
+   {
+    "ing": "sesame",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "graines de sésame"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 175 °C et chemisez un moule de 20 cm.",
+   "Faites fondre le chocolat avec le beurre et laissez tiédir.",
+   "Fouettez les œufs avec l'érythritol, ajoutez le chocolat, puis la farine d'amande et le cacao.",
+   "Versez dans le moule. Détendez le tahini avec 1 c. à s. d'eau chaude et déposez-le en cuillerées sur la pâte.",
+   "Marbrez avec la pointe d'un couteau en traçant des huit, puis parsemez de sésame.",
+   "Enfournez 20 minutes, laissez refroidir et coupez en 12 carrés."
+  ],
+  "tips": "Mélangez bien le pot de tahini avant usage, l'huile remonte souvent à la surface."
+ },
+ {
+  "id": "l11-crumble-fruits-rouges-amande",
+  "title": "Crumble fruits rouges et amandes",
+  "category": "dessert",
+  "emoji": "🫐",
+  "prep": 15,
+  "cook": 25,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "framboise",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "framboises (fraîches ou surgelées)"
+   },
+   {
+    "ing": "mure",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "mûres"
+   },
+   {
+    "ing": "erythritol",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "amande_effilee",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "amandes effilées"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre froid en dés"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cannelle"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C.",
+   "Mélangez les fruits avec 20 g d'érythritol et la cannelle, puis étalez dans un plat à gratin.",
+   "Sablez du bout des doigts la farine d'amande, 30 g d'érythritol et le beurre froid jusqu'à obtenir de grosses miettes.",
+   "Ajoutez les amandes effilées et répartissez le crumble sur les fruits sans tasser.",
+   "Enfournez 25 minutes jusqu'à ce que le dessus soit doré et que les fruits bouillonnent sur les bords.",
+   "Laissez tiédir 10 minutes avant de servir."
+  ],
+  "tips": "Servez avec une cuillère de yaourt grec ou de crème fraîche épaisse."
+ },
+ {
+  "id": "l11-tarte-citron-sablee",
+  "title": "Tarte au citron sur pâte sablée amande",
+  "category": "dessert",
+  "emoji": "🍋",
+  "prep": 30,
+  "cook": 25,
+  "servings": 8,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 160,
+    "qty": 160,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "beurre",
+    "g": 110,
+    "qty": 110,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "citron",
+    "g": 100,
+    "qty": 2.5,
+    "unit": "pièce(s)",
+    "name": "citrons (jus et zestes)"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C. Mélangez la farine d'amande, 50 g de beurre fondu, 20 g d'érythritol et le sel.",
+   "Tassez la pâte dans un moule à tarte de 22 cm en remontant sur les bords, piquez à la fourchette et faites cuire 12 minutes à blanc.",
+   "Dans une casserole, fouettez les œufs, 80 g d'érythritol, les zestes et le jus de citron.",
+   "Faites épaissir à feu doux sans cesser de fouetter 5 à 7 minutes, jusqu'à la consistance d'une crème épaisse ; ne laissez pas bouillir.",
+   "Hors du feu, ajoutez 60 g de beurre en dés et mixez 1 minute pour lisser.",
+   "Versez sur le fond de tarte refroidi et réfrigérez 3 heures avant de servir."
+  ],
+  "tips": "Le fond de tarte est fragile : laissez-le refroidir complètement dans le moule avant de garnir."
+ },
+ {
+  "id": "l11-tarte-amandine-fraises",
+  "title": "Tarte amandine aux fraises",
+  "category": "dessert",
+  "emoji": "🍓",
+  "prep": 25,
+  "cook": 30,
+  "servings": 8,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 230,
+    "qty": 230,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "beurre",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "fraise",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "fraises"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C. Mélangez 130 g de farine d'amande, 40 g de beurre fondu, 15 g d'érythritol et le sel, puis tassez dans un moule de 22 cm.",
+   "Précuisez le fond 10 minutes.",
+   "Pour la crème d'amande, fouettez 60 g de beurre mou avec 65 g d'érythritol, ajoutez les œufs, la vanille et 100 g de farine d'amande.",
+   "Étalez la crème d'amande sur le fond et enfournez 20 minutes jusqu'à ce qu'elle soit dorée et ferme.",
+   "Laissez refroidir complètement, puis disposez les fraises coupées en deux sur le dessus juste avant de servir."
+  ],
+  "tips": "Remplacez les fraises par des framboises ou des mûres selon la saison."
+ },
+ {
+  "id": "l11-glace-fraise",
+  "title": "Glace express à la fraise",
+  "category": "dessert",
+  "emoji": "🍓",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "fraise",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "fraises surgelées"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "erythritol",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   }
+  ],
+  "steps": [
+   "Sortez les fraises du congélateur 5 minutes pour qu'elles se ramollissent légèrement.",
+   "Mixez-les au blender puissant avec l'érythritol et le citron par impulsions.",
+   "Ajoutez la crème liquide en filet en continuant de mixer jusqu'à obtenir une texture de glace à l'italienne.",
+   "Servez immédiatement, ou placez 30 minutes au congélateur pour une texture plus ferme."
+  ],
+  "tips": "Au-delà de 2 heures au congélateur, sortez-la 15 minutes avant de servir car l'érythritol la fait durcir."
+ },
+ {
+  "id": "l11-sorbet-framboise",
+  "title": "Sorbet framboise intense",
+  "category": "dessert",
+  "emoji": "🍧",
+  "prep": 10,
+  "cook": 3,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose"
+  ],
+  "ingredients": [
+   {
+    "ing": "framboise",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "framboises"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "eau",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "eau"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "jus de citron"
+   }
+  ],
+  "steps": [
+   "Faites chauffer l'eau et l'érythritol 3 minutes jusqu'à dissolution complète, puis laissez refroidir.",
+   "Mixez les framboises avec le sirop et le citron, puis passez au chinois pour retirer les pépins.",
+   "Versez dans un bac et placez au congélateur ; toutes les 30 minutes pendant 3 heures, grattez et mélangez vigoureusement à la fourchette.",
+   "Au moment de servir, mixez rapidement les cristaux pour une texture lisse."
+  ],
+  "tips": "Avec une sorbetière, turbinez 25 minutes après avoir refroidi le mélange 2 heures au frais."
+ },
+ {
+  "id": "l11-glace-vanille-sans-sorbetiere",
+  "title": "Glace vanille sans sorbetière",
+  "category": "dessert",
+  "emoji": "🍨",
+  "prep": 20,
+  "cook": 8,
+  "servings": 8,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "creme_liquide",
+    "g": 400,
+    "qty": 400,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "jaune_oeuf",
+    "g": 72,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "jaunes d'œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "vanille",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Fouettez les jaunes avec l'érythritol. Chauffez le lait d'amande et 100 ml de crème jusqu'à frémissement.",
+   "Versez le liquide chaud sur les jaunes, remettez en casserole et cuisez à feu doux en remuant jusqu'à ce que la crème nappe la cuillère (82 °C), sans bouillir.",
+   "Ajoutez la vanille, filtrez et laissez refroidir complètement au réfrigérateur.",
+   "Montez les 300 ml de crème restante en chantilly souple et incorporez-la à la crème anglaise froide.",
+   "Versez dans une boîte et congelez 6 heures en mélangeant à la fourchette au bout de 1 heure puis de 2 heures."
+  ],
+  "tips": "Sortez la glace 10 à 15 minutes avant de la servir pour qu'elle se travaille facilement."
+ },
+ {
+  "id": "l11-truffes-chocolat-cacao",
+  "title": "Truffes au chocolat roulées au cacao",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 20,
+  "cook": 5,
+  "servings": 10,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "chocolat_noir",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "cacao",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "cacao non sucré pour l'enrobage"
+   }
+  ],
+  "steps": [
+   "Hachez finement le chocolat et placez-le dans un bol.",
+   "Portez la crème et l'érythritol à frémissement et versez sur le chocolat. Attendez 1 minute puis mélangez du centre vers les bords.",
+   "Ajoutez le beurre, lissez la ganache et réfrigérez 2 heures jusqu'à ce qu'elle soit ferme.",
+   "Prélevez des portions avec une cuillère à café, roulez rapidement entre vos paumes en 20 boules.",
+   "Roulez-les dans le cacao et conservez au frais."
+  ],
+  "tips": "Variez l'enrobage : coco râpée, pistaches ou noisettes hachées. Deux truffes par portion."
+ },
+ {
+  "id": "l11-fat-bombs-coco-chocolat",
+  "title": "Fat bombs coco et chocolat",
+  "category": "dessert",
+  "emoji": "🥥",
+  "prep": 15,
+  "cook": 0,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "huile_coco",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "huile de coco"
+   },
+   {
+    "ing": "noix_coco_rapee",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "noix de coco râpée"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "erythritol",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Faites fondre 60 g d'huile de coco à feu très doux, puis mélangez avec la coco râpée, l'érythritol et la vanille.",
+   "Répartissez dans 12 moules à mini-muffins en silicone et tassez avec le dos d'une cuillère.",
+   "Placez 20 minutes au congélateur pour durcir.",
+   "Faites fondre le chocolat avec les 20 g d'huile de coco restants et nappez chaque bouchée.",
+   "Remettez 15 minutes au froid et conservez au réfrigérateur."
+  ],
+  "tips": "Une ou deux bouchées suffisent pour calmer une envie de sucré ; elles se gardent 2 semaines au frais."
+ },
+ {
+  "id": "l11-fat-bombs-cacahuete",
+  "title": "Bouchées glacées cacahuète et chocolat",
+  "category": "dessert",
+  "emoji": "🥜",
+  "prep": 15,
+  "cook": 0,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "beurre_cacahuete",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "beurre de cacahuète sans sucre"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre mou"
+   },
+   {
+    "ing": "erythritol",
+    "g": 25,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "cacahuete",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "cacahuètes grillées non salées"
+   }
+  ],
+  "steps": [
+   "Fouettez le beurre de cacahuète, le fromage à la crème, le beurre mou et l'érythritol jusqu'à obtenir une crème lisse.",
+   "Répartissez dans 12 caissettes en papier placées dans un moule à muffins.",
+   "Faites fondre le chocolat au bain-marie et versez un filet sur chaque bouchée.",
+   "Parsemez de cacahuètes concassées et congelez 1 heure avant de démouler.",
+   "Conservez au congélateur et sortez 5 minutes avant dégustation."
+  ],
+  "tips": "Gardez-les au congélateur dans une boîte : elles se dégustent comme des petits glaçons fondants."
+ },
+ {
+  "id": "l11-mug-cake-chocolat",
+  "title": "Mug cake chocolat en 90 secondes",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 3,
+  "cook": 2,
+  "servings": 1,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 25,
+    "qty": 2.5,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "cacao",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 10,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "carré de chocolat noir 85 %"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre directement dans un grand mug au micro-ondes (20 secondes).",
+   "Ajoutez l'œuf et l'érythritol et fouettez à la fourchette.",
+   "Incorporez la farine d'amande, le cacao et la levure jusqu'à obtenir une pâte lisse.",
+   "Enfoncez le carré de chocolat au centre.",
+   "Faites cuire 70 à 90 secondes à 800 W : le dessus doit être pris mais encore souple. Laissez reposer 1 minute."
+  ],
+  "tips": "Ne prolongez pas la cuisson, le mug cake se dessèche vite ; démoulez-le sur une assiette avec une cuillère de crème fraîche."
+ },
+ {
+  "id": "l11-mug-cake-vanille-framboise",
+  "title": "Mug cake vanille et framboises",
+  "category": "dessert",
+  "emoji": "🍓",
+  "prep": 3,
+  "cook": 2,
+  "servings": 1,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "beurre",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 12,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "framboise",
+    "g": 30,
+    "qty": 8,
+    "unit": "pièce(s)",
+    "name": "framboises"
+   },
+   {
+    "ing": "vanille",
+    "g": 3,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "levure chimique"
+   }
+  ],
+  "steps": [
+   "Faites fondre le beurre dans un mug 15 secondes au micro-ondes.",
+   "Ajoutez l'œuf, l'érythritol et la vanille, fouettez à la fourchette.",
+   "Incorporez la farine d'amande et la levure, puis enfoncez les framboises dans la pâte.",
+   "Faites cuire 80 secondes à 800 W et laissez reposer 1 minute avant de déguster."
+  ],
+  "tips": "Remplacez les framboises par des myrtilles ou des mûres, ou ajoutez un zeste de citron."
+ },
+ {
+  "id": "l11-ghriba-amande",
+  "title": "Ghriba keto aux amandes",
+  "category": "dessert",
+  "emoji": "🌰",
+  "prep": 20,
+  "cook": 15,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "poudre d'amande blanchie"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "erythritol",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "érythritol mixé en poudre (pour l'enrobage)"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "zeste et quelques gouttes de citron"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Mélangez la poudre d'amande, 80 g d'érythritol, la levure et le zeste de citron.",
+   "Ajoutez les œufs battus et la vanille, puis travaillez jusqu'à obtenir une pâte souple qui se tient. Réfrigérez 30 minutes.",
+   "Préchauffez le four à 180 °C et tapissez une plaque de papier cuisson.",
+   "Formez 24 boules de la taille d'une noix, roulez-les généreusement dans l'érythritol en poudre et aplatissez-les légèrement.",
+   "Enfournez 13 à 15 minutes : la surface doit se craqueler et rester claire.",
+   "Laissez refroidir complètement sur la plaque, les ghribas durcissent en refroidissant."
+  ],
+  "tips": "Plus l'enrobage d'érythritol est épais, plus les craquelures sont belles. Deux ghribas par portion."
+ },
+ {
+  "id": "l11-ghriba-coco",
+  "title": "Ghriba à la noix de coco",
+  "category": "dessert",
+  "emoji": "🥥",
+  "prep": 15,
+  "cook": 15,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Marocain",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "noix_coco_rapee",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "noix de coco râpée"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 90,
+    "qty": 90,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "huile_coco",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "huile de coco fondue"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Fouettez les œufs avec 70 g d'érythritol et la vanille jusqu'à ce que le mélange mousse.",
+   "Ajoutez l'huile de coco, la noix de coco râpée, la farine d'amande et la levure ; laissez reposer 15 minutes.",
+   "Préchauffez le four à 180 °C. Mixez les 20 g d'érythritol restants en poudre fine.",
+   "Formez 24 boules, roulez-les dans l'érythritol en poudre et posez-les sur une plaque chemisée.",
+   "Enfournez 15 minutes jusqu'à ce que les ghribas soient craquelées et à peine dorées à la base."
+  ],
+  "tips": "Se conservent une semaine dans une boîte en fer, parfaites avec un thé à la menthe sans sucre."
+ },
+ {
+  "id": "l11-cornes-gazelle",
+  "title": "Cornes de gazelle keto",
+  "category": "dessert",
+  "emoji": "🌙",
+  "prep": 45,
+  "cook": 15,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Marocain"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "farine d'amande (pâte)"
+   },
+   {
+    "ing": "psyllium",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "psyllium blond en poudre"
+   },
+   {
+    "ing": "beurre",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "beurre fondu (pâte)"
+   },
+   {
+    "ing": "oeuf",
+    "g": 60,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "œuf"
+   },
+   {
+    "ing": "amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "amandes émondées (farce)"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "beurre",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "beurre (farce)"
+   },
+   {
+    "ing": "eau",
+    "g": 20,
+    "qty": 4,
+    "unit": "c. à c.",
+    "name": "eau de fleur d'oranger"
+   },
+   {
+    "ing": "epices",
+    "g": 2,
+    "qty": 1,
+    "unit": "pincée",
+    "name": "cannelle"
+   }
+  ],
+  "steps": [
+   "Farce : mixez finement les amandes émondées avec l'érythritol, ajoutez 20 g de beurre, la cannelle et 3 c. à c. de fleur d'oranger, et pétrissez jusqu'à obtenir une pâte malléable.",
+   "Façonnez 24 petits boudins de farce effilés aux extrémités et réservez.",
+   "Pâte : mélangez la farine d'amande et le psyllium, ajoutez l'œuf, 40 g de beurre fondu et 1 c. à c. de fleur d'oranger ; pétrissez et laissez reposer 15 minutes.",
+   "Étalez la pâte très finement (2 mm) entre deux feuilles de papier cuisson et découpez des bandes de 8 cm de large.",
+   "Posez un boudin de farce, rabattez la pâte, soudez en pressant, découpez à la roulette et courbez en croissant.",
+   "Piquez chaque corne à l'aiguille et enfournez 12 à 15 minutes à 170 °C : elles doivent rester pâles.",
+   "Laissez refroidir complètement avant de les manipuler, la pâte est fragile à chaud."
+  ],
+  "tips": "Si la pâte se fissure, travaillez-la entre deux feuilles et réparez du bout du doigt humide. Deux cornes par portion."
+ },
+ {
+  "id": "l11-fekkas-amandes",
+  "title": "Fekkas keto aux amandes et anis",
+  "category": "dessert",
+  "emoji": "🥖",
+  "prep": 20,
+  "cook": 40,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Marocain",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "amandes entières"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "epices",
+    "g": 4,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "graines d'anis vert"
+   },
+   {
+    "ing": "sesame",
+    "g": 15,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "graines de sésame grillées"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "eau",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "eau de fleur d'oranger"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C. Fouettez les œufs avec l'érythritol, le beurre fondu et la fleur d'oranger.",
+   "Ajoutez la farine d'amande, la levure, l'anis, le sésame et les amandes entières ; mélangez en pâte collante.",
+   "Avec les mains mouillées, formez deux boudins de 4 cm de diamètre sur une plaque chemisée.",
+   "Faites cuire 20 minutes jusqu'à ce que les boudins soient fermes et blonds. Laissez refroidir 30 minutes.",
+   "Tranchez les boudins au couteau-scie en biscuits de 1 cm et disposez-les à plat.",
+   "Baissez le four à 140 °C et faites sécher 20 minutes en les retournant à mi-cuisson, jusqu'à ce qu'ils soient croquants."
+  ],
+  "tips": "Bien refroidis, ils se gardent 2 semaines dans une boîte hermétique, comme les fekkas traditionnels."
+ },
+ {
+  "id": "l11-sellou-keto",
+  "title": "Sellou keto aux amandes et sésame",
+  "category": "dessert",
+  "emoji": "🌰",
+  "prep": 20,
+  "cook": 15,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Marocain",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "amande",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "amandes émondées"
+   },
+   {
+    "ing": "sesame",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "graines de sésame"
+   },
+   {
+    "ing": "smen",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "smen ou beurre clarifié"
+   },
+   {
+    "ing": "beurre",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "epices",
+    "g": 8,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "cannelle et anis vert moulu"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Torréfiez la farine d'amande à sec dans une grande poêle à feu moyen-doux 8 à 10 minutes en remuant sans arrêt, jusqu'à ce qu'elle soit blonde et parfumée.",
+   "Faites griller les amandes 10 minutes au four à 180 °C et le sésame 3 minutes à la poêle.",
+   "Mixez les amandes et 70 g de sésame en poudre fine sans aller jusqu'à la pâte.",
+   "Mélangez la farine torréfiée, la poudre amande-sésame, l'érythritol, la cannelle, l'anis et le sel.",
+   "Faites fondre le smen avec le beurre et versez-le progressivement en malaxant jusqu'à ce que le mélange se tienne en le pressant.",
+   "Dressez en dôme, décorez avec le sésame restant et quelques amandes, ou formez de petites boules."
+  ],
+  "tips": "Servez 2 cuillères à soupe par personne ; le sellou se conserve un mois dans un bocal hermétique."
+ },
+ {
+  "id": "l11-rochers-coco",
+  "title": "Rochers coco aux blancs d'œufs",
+  "category": "dessert",
+  "emoji": "🥥",
+  "prep": 10,
+  "cook": 15,
+  "servings": 10,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "noix_coco_rapee",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "noix de coco râpée"
+   },
+   {
+    "ing": "blanc_oeuf",
+    "g": 105,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "blancs d'œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "chocolat noir 85 % (facultatif)"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C.",
+   "Mélangez les blancs, l'érythritol et la vanille à la fourchette sans les monter, puis ajoutez la coco râpée.",
+   "Laissez reposer 10 minutes, puis formez 20 petites pyramides avec les doigts humides sur une plaque chemisée.",
+   "Enfournez 12 à 15 minutes jusqu'à ce que les pointes soient dorées.",
+   "Une fois refroidis, trempez la base dans le chocolat fondu et laissez figer sur du papier cuisson."
+  ],
+  "tips": "Idéal pour utiliser les blancs restants d'une crème brûlée ou d'une crème vanille."
+ },
+ {
+  "id": "l11-financiers-amande",
+  "title": "Financiers au beurre noisette",
+  "category": "dessert",
+  "emoji": "🧈",
+  "prep": 15,
+  "cook": 14,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "blanc_oeuf",
+    "g": 140,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "blancs d'œufs"
+   },
+   {
+    "ing": "beurre",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "beurre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 90,
+    "qty": 90,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "farine_coco",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "farine de coco"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Faites cuire le beurre à feu moyen jusqu'à ce qu'il soit noisette et sente le biscuit, puis filtrez et laissez tiédir.",
+   "Préchauffez le four à 190 °C et beurrez 12 moules à financiers.",
+   "Mélangez la farine d'amande, la farine de coco, l'érythritol et le sel.",
+   "Ajoutez les blancs légèrement battus à la fourchette, puis le beurre noisette tiède.",
+   "Remplissez les moules aux trois quarts et enfournez 12 à 14 minutes jusqu'à ce que les bords soient bien dorés.",
+   "Démoulez tiède et laissez refroidir sur une grille."
+  ],
+  "tips": "Déposez une framboise au centre de chaque financier avant cuisson pour une version fruitée."
+ },
+ {
+  "id": "l11-madeleines-citron",
+  "title": "Madeleines au citron",
+  "category": "dessert",
+  "emoji": "🍋",
+  "prep": 15,
+  "cook": 10,
+  "servings": 12,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "beurre",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "citron",
+    "g": 20,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (zeste et 1 c. à s. de jus)"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   }
+  ],
+  "steps": [
+   "Fouettez les œufs avec l'érythritol 3 minutes jusqu'à ce que le mélange blanchisse.",
+   "Ajoutez la farine d'amande, la levure, le zeste et le jus de citron, puis le beurre fondu tiède.",
+   "Couvrez et réfrigérez la pâte au moins 1 heure : le choc thermique fera apparaître la bosse.",
+   "Préchauffez le four à 210 °C et beurrez un moule à madeleines.",
+   "Remplissez les empreintes aux trois quarts, enfournez 5 minutes puis baissez à 180 °C et poursuivez 5 minutes.",
+   "Démoulez immédiatement et laissez refroidir sur une grille."
+  ],
+  "tips": "Deux madeleines par portion ; elles se gardent 3 jours dans une boîte hermétique."
+ },
+ {
+  "id": "l11-muffins-myrtilles",
+  "title": "Muffins aux myrtilles",
+  "category": "dessert",
+  "emoji": "🫐",
+  "prep": 15,
+  "cook": 22,
+  "servings": 10,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "yaourt_grec",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "yaourt grec"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "myrtille",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "myrtilles"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et garnissez un moule à muffins de 10 caissettes.",
+   "Fouettez les œufs, le yaourt, le beurre fondu, l'érythritol et la vanille.",
+   "Ajoutez la farine d'amande et la levure, mélangez juste ce qu'il faut.",
+   "Incorporez délicatement les myrtilles et répartissez dans les caissettes.",
+   "Enfournez 20 à 22 minutes jusqu'à ce que les muffins soient dorés et qu'une pique ressorte sèche."
+  ],
+  "tips": "Avec des myrtilles surgelées, ne les décongelez pas et ajoutez 3 minutes de cuisson."
+ },
+ {
+  "id": "l11-tiramisu-keto",
+  "title": "Tiramisu keto au café",
+  "category": "dessert",
+  "emoji": "☕",
+  "prep": 30,
+  "cook": 15,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "mascarpone",
+    "g": 250,
+    "qty": 250,
+    "unit": "g",
+    "name": "mascarpone"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 70,
+    "qty": 70,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "cafe",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "café fort refroidi"
+   },
+   {
+    "ing": "cacao",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Biscuit : préchauffez le four à 180 °C. Fouettez 2 œufs avec 30 g d'érythritol 3 minutes, incorporez la farine d'amande et étalez sur 1 cm dans un plat chemisé. Cuisez 12 à 15 minutes puis laissez refroidir.",
+   "Séparez les 2 œufs restants. Fouettez les jaunes avec 40 g d'érythritol et la vanille, puis ajoutez le mascarpone pour obtenir une crème lisse.",
+   "Montez les blancs en neige ferme et incorporez-les délicatement à la crème mascarpone.",
+   "Coupez le biscuit en morceaux, imbibez-les de café et disposez une couche au fond de 6 verrines.",
+   "Recouvrez de crème, puis répétez une seconde couche biscuit-crème.",
+   "Réfrigérez au moins 6 heures et saupoudrez de cacao juste avant de servir."
+  ],
+  "tips": "Utilisez du café décaféiné pour les enfants. Œufs très frais indispensables."
+ },
+ {
+  "id": "l11-clafoutis-framboises",
+  "title": "Clafoutis aux framboises",
+  "category": "dessert",
+  "emoji": "🍓",
+  "prep": 10,
+  "cook": 30,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "framboise",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "framboises"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez un plat à gratin de 24 cm.",
+   "Répartissez les framboises dans le fond du plat.",
+   "Fouettez les œufs avec l'érythritol, puis ajoutez la farine d'amande, la crème, le lait d'amande et la vanille.",
+   "Versez délicatement l'appareil sur les fruits.",
+   "Enfournez 30 minutes jusqu'à ce que le clafoutis soit doré et pris au centre. Servez tiède."
+  ],
+  "tips": "Fonctionne aussi avec des mûres ou des fraises coupées en quatre."
+ },
+ {
+  "id": "l11-bavarois-fraise",
+  "title": "Bavarois léger à la fraise",
+  "category": "dessert",
+  "emoji": "🍓",
+  "prep": 25,
+  "cook": 3,
+  "servings": 6,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "fraise",
+    "g": 300,
+    "qty": 300,
+    "unit": "g",
+    "name": "fraises"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 250,
+    "qty": 250,
+    "unit": "ml",
+    "name": "crème liquide 30 % très froide"
+   },
+   {
+    "ing": "fromage_blanc",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "fromage blanc"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "agar_agar",
+    "g": 2,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "agar-agar (2 g)"
+   },
+   {
+    "ing": "citron",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "jus de citron"
+   }
+  ],
+  "steps": [
+   "Mixez 250 g de fraises avec l'érythritol et le citron.",
+   "Versez la moitié de la purée dans une casserole avec l'agar-agar, portez à ébullition et laissez bouillir 2 minutes.",
+   "Hors du feu, ajoutez le reste de purée, puis le fromage blanc en fouettant. Laissez tiédir 5 minutes en remuant.",
+   "Montez la crème en chantilly ferme et incorporez-la rapidement à la préparation encore souple.",
+   "Versez dans un moule à charlotte ou 6 verrines et réfrigérez 4 heures.",
+   "Décorez avec les fraises restantes tranchées au moment de servir."
+  ],
+  "tips": "Démoulez facilement en trempant le moule 5 secondes dans l'eau chaude."
+ },
+ {
+  "id": "l11-pudding-chia-coco-vanille",
+  "title": "Pudding de chia coco vanille",
+  "category": "dessert",
+  "emoji": "🥥",
+  "prep": 10,
+  "cook": 0,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Rapide",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "graine_chia",
+    "g": 60,
+    "qty": 6,
+    "unit": "c. à s.",
+    "name": "graines de chia"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 100,
+    "qty": 100,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "erythritol",
+    "g": 20,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "framboise",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "framboises"
+   },
+   {
+    "ing": "noix_coco_rapee",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "coco râpée"
+   }
+  ],
+  "steps": [
+   "Fouettez le lait de coco, le lait d'amande, l'érythritol et la vanille.",
+   "Ajoutez les graines de chia et mélangez bien ; attendez 5 minutes et remuez de nouveau pour éviter les grumeaux.",
+   "Répartissez dans 4 pots et réfrigérez au moins 4 heures, ou toute la nuit.",
+   "Garnissez de framboises et de coco râpée au moment de servir."
+  ],
+  "tips": "Se conserve 4 jours au réfrigérateur ; pratique pour préparer les desserts de la semaine."
+ },
+ {
+  "id": "l11-mendiants-chocolat",
+  "title": "Mendiants chocolat, pistaches et amandes",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 15,
+  "cook": 3,
+  "servings": 10,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "chocolat_noir",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "pistache",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "pistaches décortiquées"
+   },
+   {
+    "ing": "amande",
+    "g": 25,
+    "qty": 25,
+    "unit": "g",
+    "name": "amandes grillées"
+   },
+   {
+    "ing": "noisette",
+    "g": 20,
+    "qty": 20,
+    "unit": "g",
+    "name": "noisettes"
+   },
+   {
+    "ing": "noix_coco_rapee",
+    "g": 10,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "coco râpée"
+   }
+  ],
+  "steps": [
+   "Hachez grossièrement les pistaches, les amandes et les noisettes.",
+   "Faites fondre les deux tiers du chocolat au bain-marie jusqu'à 45 °C, retirez du feu et ajoutez le reste haché pour le faire redescendre en remuant.",
+   "Déposez 20 petits disques de chocolat à la cuillère sur une feuille de papier cuisson.",
+   "Parsemez immédiatement de fruits secs et de coco avant que le chocolat ne fige.",
+   "Laissez durcir 1 heure à température ambiante ou 20 minutes au frais."
+  ],
+  "tips": "La méthode d'ajout du chocolat haché permet un chocolat brillant et croquant. Deux mendiants par portion."
+ },
+ {
+  "id": "l11-glace-avocat-chocolat",
+  "title": "Crème glacée chocolat à l'avocat",
+  "category": "dessert",
+  "emoji": "🥑",
+  "prep": 15,
+  "cook": 0,
+  "servings": 6,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Sans lactose",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "avocat",
+    "g": 280,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "avocats bien mûrs (chair)"
+   },
+   {
+    "ing": "lait_coco",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "lait de coco"
+   },
+   {
+    "ing": "cacao",
+    "g": 30,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "erythritol",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "érythritol en poudre"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Prélevez la chair des avocats et placez-la dans un blender.",
+   "Ajoutez le lait de coco, le cacao, l'érythritol, la vanille et le sel.",
+   "Mixez 2 minutes jusqu'à obtenir une crème parfaitement lisse.",
+   "Versez dans une boîte et congelez 4 heures en mélangeant vigoureusement toutes les heures.",
+   "Sortez 10 minutes avant de servir et formez des boules à la cuillère chaude."
+  ],
+  "tips": "Non congelée, la préparation fait aussi une excellente mousse au chocolat express."
+ },
+ {
+  "id": "l11-tarte-chocolat-noisette",
+  "title": "Tarte chocolat et noisettes",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 25,
+  "cook": 15,
+  "servings": 10,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 120,
+    "qty": 120,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "noisette",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "noisettes en poudre"
+   },
+   {
+    "ing": "beurre",
+    "g": 60,
+    "qty": 60,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 150,
+    "qty": 150,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 200,
+    "qty": 200,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "noisette",
+    "g": 30,
+    "qty": 30,
+    "unit": "g",
+    "name": "noisettes torréfiées concassées"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C. Mélangez la farine d'amande, la poudre de noisette, le beurre fondu, 20 g d'érythritol et le sel.",
+   "Tassez dans un moule à tarte de 22 cm, piquez et faites cuire 12 à 15 minutes. Laissez refroidir.",
+   "Portez la crème et 30 g d'érythritol à frémissement, versez sur le chocolat haché, attendez 1 minute puis lissez.",
+   "Versez la ganache sur le fond de tarte froid.",
+   "Parsemez de noisettes concassées et réfrigérez 3 heures avant de couper en 10 parts."
+  ],
+  "tips": "Sortez la tarte 15 minutes avant de servir pour une ganache fondante."
+ },
+ {
+  "id": "l11-cake-marbre",
+  "title": "Cake marbré vanille-chocolat",
+  "category": "dessert",
+  "emoji": "🍰",
+  "prep": 20,
+  "cook": 45,
+  "servings": 10,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 220,
+    "qty": 220,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "beurre",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "lait_amande",
+    "g": 60,
+    "qty": 60,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "cacao",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C et chemisez un moule à cake.",
+   "Fouettez les œufs et l'érythritol, ajoutez le beurre fondu, la vanille et 30 ml de lait d'amande.",
+   "Incorporez la farine d'amande et la levure, puis divisez la pâte en deux.",
+   "Ajoutez le cacao et les 30 ml de lait d'amande restants à une moitié.",
+   "Alternez des cuillerées des deux pâtes dans le moule et marbrez avec un couteau.",
+   "Enfournez 40 à 45 minutes ; couvrez d'aluminium après 25 minutes. Laissez refroidir avant de trancher."
+  ],
+  "tips": "Parfait pour le goûter des enfants ; se conserve 4 jours emballé dans du film."
+ },
+ {
+  "id": "l11-gateau-yaourt",
+  "title": "Gâteau au yaourt keto",
+  "category": "dessert",
+  "emoji": "🥣",
+  "prep": 10,
+  "cook": 35,
+  "servings": 8,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "ing": "yaourt_grec",
+    "g": 125,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "pot de yaourt grec"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 180,
+    "qty": 180,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 180,
+    "qty": 3,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "huile_tournesol",
+    "g": 40,
+    "qty": 3,
+    "unit": "c. à s.",
+    "name": "huile neutre"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "citron",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "zeste de citron"
+   },
+   {
+    "ing": "levure_chimique",
+    "g": 6,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "levure chimique"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 180 °C et beurrez un moule rond de 22 cm.",
+   "Fouettez le yaourt avec les œufs, l'érythritol, l'huile et le zeste de citron.",
+   "Incorporez la farine d'amande et la levure jusqu'à obtenir une pâte homogène.",
+   "Versez dans le moule et enfournez 30 à 35 minutes jusqu'à ce que la lame ressorte sèche.",
+   "Laissez tiédir avant de démouler."
+  ],
+  "tips": "Utilisez le pot de yaourt comme mesure si vous le souhaitez, mais pesez la farine d'amande, plus légère."
+ },
+ {
+  "id": "l11-crepes-ricotta-cannelle",
+  "title": "Crêpes keto à la ricotta et cannelle",
+  "category": "dessert",
+  "emoji": "🥞",
+  "prep": 10,
+  "cook": 15,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide",
+   "Famille"
+  ],
+  "ingredients": [
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 20,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "ricotta",
+    "g": 200,
+    "qty": 200,
+    "unit": "g",
+    "name": "ricotta"
+   },
+   {
+    "ing": "erythritol",
+    "g": 30,
+    "qty": 2,
+    "unit": "c. à s.",
+    "name": "érythritol"
+   },
+   {
+    "ing": "epices",
+    "g": 3,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "cannelle"
+   },
+   {
+    "ing": "beurre",
+    "g": 15,
+    "qty": 1,
+    "unit": "c. à s.",
+    "name": "beurre pour la poêle"
+   }
+  ],
+  "steps": [
+   "Mixez les œufs, le fromage à la crème, la farine d'amande et 10 g d'érythritol ; laissez reposer 5 minutes.",
+   "Chauffez une poêle antiadhésive de 20 cm à feu moyen avec une noisette de beurre.",
+   "Versez une petite louche de pâte, inclinez pour étaler finement et faites cuire 1 à 2 minutes jusqu'à ce que les bords se décollent, puis retournez 30 secondes.",
+   "Mélangez la ricotta avec la cannelle et 20 g d'érythritol.",
+   "Garnissez chaque crêpe de crème ricotta, pliez en quatre et servez tiède."
+  ],
+  "tips": "Ces crêpes sont fragiles : utilisez une large spatule et gardez-les petites. Environ 8 crêpes."
+ },
+ {
+  "id": "l11-fondant-pistache",
+  "title": "Fondant à la pistache et fleur d'oranger",
+  "category": "dessert",
+  "emoji": "🌰",
+  "prep": 15,
+  "cook": 25,
+  "servings": 8,
+  "difficulty": "Moyen",
+  "tags": [
+   "Végétarien",
+   "Monde"
+  ],
+  "ingredients": [
+   {
+    "ing": "pistache",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "pistaches non salées"
+   },
+   {
+    "ing": "farine_amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "oeuf",
+    "g": 240,
+    "qty": 4,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "beurre",
+    "g": 100,
+    "qty": 100,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "eau",
+    "g": 10,
+    "qty": 2,
+    "unit": "c. à c.",
+    "name": "eau de fleur d'oranger"
+   },
+   {
+    "ing": "sel",
+    "g": 1,
+    "qty": null,
+    "unit": "pincée",
+    "name": "sel"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 170 °C et chemisez un moule de 20 cm.",
+   "Mixez 80 g de pistaches en poudre fine ; concassez le reste.",
+   "Fouettez les œufs et l'érythritol 3 minutes, ajoutez le beurre fondu et la fleur d'oranger.",
+   "Incorporez la poudre de pistache, la farine d'amande et le sel.",
+   "Versez dans le moule, parsemez de pistaches concassées et enfournez 22 à 25 minutes : le centre reste moelleux.",
+   "Laissez refroidir dans le moule avant de couper en 8 parts."
+  ],
+  "tips": "Les pistaches sont plus riches en glucides que les amandes : gardez la portion indiquée."
+ },
+ {
+  "id": "l11-creme-dessert-chocolat",
+  "title": "Crème dessert au chocolat",
+  "category": "dessert",
+  "emoji": "🍫",
+  "prep": 10,
+  "cook": 5,
+  "servings": 4,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Famille",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "ing": "lait_amande",
+    "g": 300,
+    "qty": 300,
+    "unit": "ml",
+    "name": "lait d'amande non sucré"
+   },
+   {
+    "ing": "creme_liquide",
+    "g": 150,
+    "qty": 150,
+    "unit": "ml",
+    "name": "crème liquide 30 %"
+   },
+   {
+    "ing": "chocolat_noir",
+    "g": 50,
+    "qty": 50,
+    "unit": "g",
+    "name": "chocolat noir 85 %"
+   },
+   {
+    "ing": "cacao",
+    "g": 15,
+    "qty": 1.5,
+    "unit": "c. à s.",
+    "name": "cacao non sucré"
+   },
+   {
+    "ing": "erythritol",
+    "g": 40,
+    "qty": 40,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "agar_agar",
+    "g": 1,
+    "qty": 0.5,
+    "unit": "c. à c.",
+    "name": "agar-agar (1 g)"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Dans une casserole, fouettez à froid le lait d'amande, la crème, le cacao, l'érythritol et l'agar-agar.",
+   "Portez à ébullition en fouettant et laissez bouillir 2 minutes.",
+   "Hors du feu, ajoutez le chocolat haché et la vanille, puis fouettez jusqu'à ce qu'il soit fondu.",
+   "Répartissez dans 4 pots, laissez refroidir puis réfrigérez 2 heures.",
+   "Fouettez brièvement à la cuillère avant de servir pour une texture plus crémeuse."
+  ],
+  "tips": "Ajoutez une pincée de café soluble pour un goût moka."
+ },
+ {
+  "id": "l11-mini-cheesecakes-citron",
+  "title": "Mini-cheesecakes citron en muffins",
+  "category": "dessert",
+  "emoji": "🍋",
+  "prep": 20,
+  "cook": 20,
+  "servings": 12,
+  "difficulty": "Facile",
+  "tags": [
+   "Végétarien",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "ing": "farine_amande",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "farine d'amande"
+   },
+   {
+    "ing": "beurre",
+    "g": 35,
+    "qty": 35,
+    "unit": "g",
+    "name": "beurre fondu"
+   },
+   {
+    "ing": "fromage_creme",
+    "g": 400,
+    "qty": 400,
+    "unit": "g",
+    "name": "fromage à la crème"
+   },
+   {
+    "ing": "oeuf",
+    "g": 120,
+    "qty": 2,
+    "unit": "pièce(s)",
+    "name": "œufs"
+   },
+   {
+    "ing": "erythritol",
+    "g": 80,
+    "qty": 80,
+    "unit": "g",
+    "name": "érythritol"
+   },
+   {
+    "ing": "citron",
+    "g": 40,
+    "qty": 1,
+    "unit": "pièce(s)",
+    "name": "citron (jus et zeste)"
+   },
+   {
+    "ing": "vanille",
+    "g": 5,
+    "qty": 1,
+    "unit": "c. à c.",
+    "name": "extrait de vanille"
+   }
+  ],
+  "steps": [
+   "Préchauffez le four à 160 °C et garnissez un moule à muffins de 12 caissettes.",
+   "Mélangez la farine d'amande, le beurre et 10 g d'érythritol, tassez 1 cuillère à soupe au fond de chaque caissette.",
+   "Lissez le fromage à la crème avec 70 g d'érythritol, ajoutez les œufs un à un, le zeste, le jus et la vanille.",
+   "Remplissez les caissettes presque jusqu'en haut.",
+   "Enfournez 18 à 20 minutes : le centre doit encore légèrement trembler.",
+   "Laissez refroidir puis réfrigérez 3 heures avant de servir."
+  ],
+  "tips": "Ils se congèlent très bien ; décongelez 2 heures au réfrigérateur."
+ }
+]

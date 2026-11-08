@@ -14,7 +14,47 @@
   const uid = () => Math.random().toString(36).slice(2, 9);
   const RECIPES = (window.RECIPES || []);
   const byId = Object.fromEntries(RECIPES.map((r) => [r.id, r]));
-  const CATS = { "petit-dej": "Petit-déj", dejeuner: "Déjeuner", diner: "Dîner", collation: "Collation", dessert: "Dessert" };
+  const CATS = { "petit-dej": "Petit-déj", dejeuner: "Déjeuner", diner: "Dîner", accompagnement: "Accompagnements", collation: "Collation", dessert: "Dessert", boisson: "Boissons" };
+  const LOOK = window.ING_LOOK || {};
+  const PROTEINS = {
+    volaille: ["poulet_blanc", "poulet_cuisse", "poulet_entier", "dinde", "dinde_fumee", "foie_volaille"],
+    viande: ["boeuf_hache", "boeuf_steak", "boeuf_ragout", "kefta", "agneau_epaule", "agneau_cotelette", "veau", "merguez", "cachir"],
+    poisson: ["saumon", "saumon_fume", "thon_frais", "thon_boite", "thon_huile", "sardine", "sardine_boite", "maquereau", "merlan", "dorade", "loup", "cabillaud", "crevette", "calamar", "moules", "surimi"]
+  };
+  const hasAny = (r, ids) => r.ingredients.some((i) => ids.includes(i.ing));
+  const isVeggie = (r) => !hasAny(r, [...PROTEINS.volaille, ...PROTEINS.viande, ...PROTEINS.poisson]);
+
+  // Illustration générée pour chaque recette (pas de photo) : assiette + ingrédients principaux
+  const CAT_BG = { "petit-dej": ["#fde9c9", "#f7d49a"], dejeuner: ["#e3efd0", "#c9e0a8"], diner: ["#dfe6ef", "#c3d0e2"],
+    accompagnement: ["#e8f1dc", "#d3e6bd"], collation: ["#f6e3d3", "#ecc9ad"], dessert: ["#f6dde4", "#ecc0cd"], boisson: ["#dcefee", "#bfe0de"] };
+  function hash(s) { let h = 2166136261; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+  function illus(r, size) {
+    let seed = hash(r.id);
+    const rnd = () => ((seed = Math.imul(seed ^ (seed >>> 15), 2246822507) >>> 0) % 1000) / 1000;
+    const bg = CAT_BG[r.category] || CAT_BG.dejeuner;
+    const ings = r.ingredients.filter((i) => i.ing && LOOK[i.ing] && !["sel", "poivre", "eau", "bouillon", "erythritol", "stevia", "levure_chimique", "vanille"].includes(i.ing));
+    const top = ings.slice().sort((a, b) => (b.qty == null ? 0 : 1) - (a.qty == null ? 0 : 1)).slice(0, 7);
+    const colors = (top.length ? top : [{ ing: "x" }]).map((i) => (LOOK[i.ing] || ["#c8e278"])[0]);
+    const emojis = [...new Set(top.map((i) => LOOK[i.ing][1]))].filter((e) => e !== r.emoji).slice(0, 4);
+    const isDrink = r.category === "boisson";
+    let food = "";
+    for (let k = 0; k < 9; k++) {
+      const a = rnd() * Math.PI * 2, d = 6 + rnd() * 26, rr = 9 + rnd() * 12;
+      food += `<circle cx="${(60 + Math.cos(a) * d).toFixed(1)}" cy="${(60 + Math.sin(a) * d).toFixed(1)}" r="${rr.toFixed(1)}" fill="${colors[k % colors.length]}" opacity=".9"/>`;
+    }
+    const around = emojis.map((e, k) => {
+      const a = -Math.PI / 2 + (k + 0.5) * (Math.PI * 2 / Math.max(emojis.length, 1)) + rnd() * 0.4;
+      return `<text x="${(60 + Math.cos(a) * 50).toFixed(1)}" y="${(64 + Math.sin(a) * 50).toFixed(1)}" font-size="15" text-anchor="middle">${e}</text>`;
+    }).join("");
+    const plate = isDrink
+      ? `<rect x="38" y="24" width="44" height="74" rx="10" fill="#ffffff" opacity=".9"/><rect x="42" y="40" width="36" height="54" rx="7" fill="${colors[0]}"/>`
+      : `<circle cx="60" cy="60" r="43" fill="#fff"/><circle cx="60" cy="60" r="36" fill="#f4f1ea"/><g clip-path="url(#c${r.id.length})">${food}</g>`;
+    return `<svg viewBox="0 0 120 120" width="${size}" height="${size}" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <defs><linearGradient id="g${hash(r.id)}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${bg[0]}"/><stop offset="1" stop-color="${bg[1]}"/></linearGradient>
+      <clipPath id="c${r.id.length}"><circle cx="60" cy="60" r="34"/></clipPath></defs>
+      <rect width="120" height="120" fill="url(#g${hash(r.id)})"/>${plate}${around}
+      <text x="60" y="${isDrink ? 76 : 72}" font-size="${isDrink ? 26 : 30}" text-anchor="middle">${r.emoji}</text></svg>`;
+  }
   const SLOTS = [["petit-dej", "Petit-déjeuner"], ["dejeuner", "Déjeuner"], ["diner", "Dîner"], ["collation", "Collation"]];
 
   // ---------- Stockage ----------
@@ -248,7 +288,7 @@
         <div style="margin-top:8px">${SLOTS.map(([slot, label]) => {
           const r = menu[slot]; if (!r) return "";
           const eaten = log.meals.some((m) => m.rid === r.id);
-          return `<div class="meal"><a class="emoji" href="#/recette/${r.id}" style="text-decoration:none">${r.emoji}</a>
+          return `<div class="meal"><a class="emoji illus" href="#/recette/${r.id}" style="text-decoration:none">${illus(r, 48)}</a>
             <a class="grow" href="#/recette/${r.id}" style="text-decoration:none;color:inherit">
               <div class="slot">${label}</div><div class="name">${esc(r.title)}</div>
               <div class="meta">${r.macros.carbs} g glucides · ${r.macros.kcal} kcal</div></a>
@@ -303,7 +343,7 @@
     const p = P(); const pool = RECIPES.filter((r) => r.category === slot || (slot === "collation" && r.category === "dessert"));
     openSheet(`<h2>Remplacer : ${SLOTS.find((s) => s[0] === slot)[1]}</h2>
       <div class="recipe-list">${pool.map((r) => `<button class="recipe-item" style="border:0;text-align:left;width:100%" data-r="${r.id}">
-        <div class="emoji">${r.emoji}</div><div class="grow"><h3>${esc(r.title)}</h3><div class="meta">${r.macros.carbs} g glucides · ${r.prep + r.cook} min</div></div></button>`).join("")}</div>`, (el) => {
+        <div class="emoji illus">${illus(r, 58)}</div><div class="grow"><h3>${esc(r.title)}</h3><div class="meta">${r.macros.carbs} g glucides · ${r.prep + r.cook} min</div></div></button>`).join("")}</div>`, (el) => {
       el.querySelectorAll("[data-r]").forEach((b) => b.addEventListener("click", () => {
         p.swaps = p.swaps || {}; p.swaps[k] = p.swaps[k] || {}; p.swaps[k][slot] = b.dataset.r; save(); closeSheet(); render();
       }));
@@ -387,13 +427,19 @@
     for (let i = 0; i < 7; i++) {
       const d = new Date(); d.setDate(d.getDate() + i);
       Object.values(menuFor(p, dkey(d))).forEach((r) => r.ingredients.forEach((ing) => {
-        const key = ing.name.toLowerCase().trim() + "|" + (ing.unit || "");
-        const perServ = ing.qty ? ing.qty / (r.servings || 1) : null;
-        agg[key] = agg[key] || { name: ing.name, unit: ing.unit || "", qty: 0, any: false };
-        if (perServ) agg[key].qty += perServ; else agg[key].any = true;
+        if (["eau", "sel", "poivre"].includes(ing.ing)) return;
+        const key = ing.ing || ing.name.toLowerCase();
+        agg[key] = agg[key] || { name: ing.name, g: 0 };
+        agg[key].g += (ing.g || 0) / (r.servings || 1);
       }));
     }
-    const items = Object.values(agg).sort((a, b) => a.name.localeCompare(b.name, "fr"));
+    const items = Object.entries(agg).map(([k, v]) => {
+      const it = { name: v.name, unit: "g", qty: v.g };
+      if (k === "oeuf") { it.qty = Math.max(1, Math.round(v.g / 60)); it.unit = ""; it.name = "œufs"; }
+      else if (v.g < 5) { it.qty = 0; }
+      else it.qty = v.g >= 50 ? Math.ceil(v.g / 50) * 50 : Math.ceil(v.g / 5) * 5;
+      return it;
+    }).sort((a, b) => a.name.localeCompare(b.name, "fr"));
     const text = items.map((i) => "• " + (i.qty ? fmtQty(i.qty) + " " + i.unit + " " : "") + i.name).join("\n");
     openSheet(`<h2>🛒 Courses pour 7 jours (1 personne)</h2>
       <p class="small muted" style="margin-top:-6px">Multipliez selon le nombre de personnes à table.</p>
@@ -426,36 +472,57 @@
   }
 
   // ---------- Écran : Recettes ----------
-  let recFilter = "tout", recQuery = "";
+  let recFilter = "tout", recFilter2 = "", recQuery = "";
   routes.recettes = () => {
     const p = P();
     setTitle("Recettes keto");
     $("#view").innerHTML = `
       <input class="search" id="q" type="search" placeholder="🔍 Rechercher une recette, un ingrédient…" value="${esc(recQuery)}">
-      <div class="chips" id="chips">${[["tout", "Toutes"], ["fav", "❤️ Favoris"], ...Object.entries(CATS), ["rapide", "⚡ Rapides"], ["marocain", "🇲🇦 Marocaines"]]
+      <div class="chips" id="chips">${[["tout", "Toutes"], ["fav", "❤️ Favoris"], ...Object.entries(CATS)]
         .map(([v, l]) => `<button data-c="${v}" class="${recFilter === v ? "on" : ""}">${l}</button>`).join("")}</div>
-      <div class="recipe-list" id="rlist"></div>`;
+      <div class="chips" id="chips2" style="padding-top:2px">${[["", "Tout"], ["volaille", "🍗 Volaille"], ["viande", "🥩 Viande"], ["poisson", "🐟 Poisson"], ["vege", "🥬 Végétarien"], ["rapide", "⚡ ≤ 20 min"], ["marocain", "🇲🇦 Marocain"], ["low", "📉 ≤ 3 g glucides"]]
+        .map(([v, l]) => `<button data-c="${v}" class="${recFilter2 === v ? "on" : ""}">${l}</button>`).join("")}</div>
+      <div class="small muted" id="rcount" style="margin:6px 4px 0"></div>
+      <div class="recipe-list" id="rlist"></div>
+      <button class="btn light block" id="more" style="margin-top:12px" hidden>Afficher plus de recettes</button>`;
+    const norm = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+    let list = [], shown = 0;
+    const item = (r) => `<a class="recipe-item" href="#/recette/${r.id}"><div class="emoji illus">${illus(r, 58)}</div>
+        <div class="grow"><h3>${esc(r.title)} ${p.favorites.includes(r.id) ? '<span class="fav">♥</span>' : ""}</h3>
+        <div class="meta">${CATS[r.category] || ""} · ${r.prep + r.cook} min · ${r.macros.carbs} g glucides · ${r.macros.kcal} kcal</div></div></a>`;
+    const more = () => {
+      const next = list.slice(shown, shown + 30); shown += next.length;
+      $("#rlist").insertAdjacentHTML("beforeend", next.map(item).join(""));
+      $("#more").hidden = shown >= list.length;
+    };
     const draw = () => {
-      const q = recQuery.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
-      const norm = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
-      const list = RECIPES.filter((r) => {
+      const q = norm(recQuery.trim());
+      list = RECIPES.filter((r) => {
         if (recFilter === "fav" && !p.favorites.includes(r.id)) return false;
         if (CATS[recFilter] && r.category !== recFilter) return false;
-        if (recFilter === "rapide" && r.prep + r.cook > 20) return false;
-        if (recFilter === "marocain" && !(r.tags || []).some((t) => norm(t).includes("maroc"))) return false;
-        if (q && !norm(r.title + " " + r.ingredients.map((i) => i.name).join(" ") + " " + (r.tags || []).join(" ")).includes(q)) return false;
+        if (recFilter2 === "volaille" && !hasAny(r, PROTEINS.volaille)) return false;
+        if (recFilter2 === "viande" && !hasAny(r, PROTEINS.viande)) return false;
+        if (recFilter2 === "poisson" && !hasAny(r, PROTEINS.poisson)) return false;
+        if (recFilter2 === "vege" && !isVeggie(r)) return false;
+        if (recFilter2 === "rapide" && r.prep + r.cook > 20) return false;
+        if (recFilter2 === "marocain" && !(r.tags || []).some((t) => norm(t).includes("maroc"))) return false;
+        if (recFilter2 === "low" && r.macros.carbs > 3) return false;
+        if (q && !(r._s || (r._s = norm(r.title + " " + r.ingredients.map((i) => i.name).join(" ") + " " + (r.tags || []).join(" ")))).includes(q)) return false;
         return true;
       });
-      $("#rlist").innerHTML = list.length ? list.map((r) => `<a class="recipe-item" href="#/recette/${r.id}"><div class="emoji">${r.emoji}</div>
-        <div class="grow"><h3>${esc(r.title)} ${p.favorites.includes(r.id) ? '<span class="fav">♥</span>' : ""}</h3>
-        <div class="meta">${CATS[r.category]} · ${r.prep + r.cook} min · ${r.macros.carbs} g glucides · ${r.macros.kcal} kcal</div></div></a>`).join("")
-        : `<div class="empty">Aucune recette trouvée.</div>`;
+      shown = 0; $("#rlist").innerHTML = list.length ? "" : `<div class="empty">Aucune recette trouvée.</div>`;
+      $("#rcount").textContent = list.length + (list.length > 1 ? " recettes" : " recette");
+      more();
     };
-    $("#q").addEventListener("input", (e) => { recQuery = e.target.value; draw(); });
-    $("#chips").addEventListener("click", (e) => {
-      const b = e.target.closest("button"); if (!b) return; recFilter = b.dataset.c;
-      $("#chips").querySelectorAll("button").forEach((x) => x.classList.toggle("on", x === b)); draw();
+    let timer;
+    $("#q").addEventListener("input", (e) => { recQuery = e.target.value; clearTimeout(timer); timer = setTimeout(draw, 180); });
+    const bindChips = (sel, set) => $(sel).addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return; set(b.dataset.c);
+      $(sel).querySelectorAll("button").forEach((x) => x.classList.toggle("on", x === b)); draw();
     });
+    bindChips("#chips", (v) => (recFilter = v));
+    bindChips("#chips2", (v) => (recFilter2 = v));
+    $("#more").addEventListener("click", more);
     draw();
   };
 
@@ -467,12 +534,15 @@
     const paint = () => {
       const fav = p.favorites.includes(r.id);
       $("#view").innerHTML = `
-        <div class="card r-hero"><div class="big">${r.emoji}</div><h2>${esc(r.title)}</h2>
-          <div class="meta">${CATS[r.category]} · ${r.difficulty} · Préparation ${r.prep} min${r.cook ? ` · Cuisson ${r.cook} min` : ""}</div>
-          <div class="tags">${(r.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</div></div>
-        <div class="card"><h2>Par portion</h2><div class="macros">
+        <div class="card r-hero" style="padding:0;overflow:hidden"><div class="r-illus" style="background:linear-gradient(135deg,${(CAT_BG[r.category] || CAT_BG.dejeuner).join(",")})">${illus(r, 190)}</div>
+          <div style="padding:14px 16px 18px"><h2>${esc(r.title)}</h2>
+          <div class="meta">${CATS[r.category] || ""} · ${r.difficulty} · Préparation ${r.prep} min${r.cook ? ` · Cuisson ${r.cook} min` : ""} · ${r.servings} pers.</div>
+          <div class="tags">${(r.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</div></div></div>
+        <div class="card"><h2>Valeurs nutritionnelles par portion</h2><div class="macros">
           <div><b>${r.macros.carbs}</b><span>Glucides nets (g)</span></div><div><b>${r.macros.protein}</b><span>Protéines (g)</span></div>
           <div><b>${r.macros.fat}</b><span>Lipides (g)</span></div><div><b>${r.macros.kcal}</b><span>kcal</span></div></div>
+          ${(() => { const t = targets(p); const pc = (v, m) => Math.round(v / m * 100);
+            return `<div class="small muted" style="margin-top:10px">Soit ${pc(r.macros.carbs, t.carbs)} % de vos glucides du jour, ${pc(r.macros.protein, t.protein)} % de vos protéines et ${pc(r.macros.kcal, t.kcal)} % de vos calories. Recette entière : ${r.macros.kcal * r.servings} kcal.</div>`; })()}
           <div class="row" style="margin-top:14px;gap:8px">
             <button class="btn grow" id="eat">＋ Ajouter au journal</button>
             <button class="btn light" id="fav" aria-label="Favori">${fav ? "♥" : "♡"}</button></div></div>
@@ -567,7 +637,7 @@
         <button class="btn light block" id="export" style="margin-bottom:8px">📤 Sauvegarder mes données</button>
         <button class="btn light block" id="import" style="margin-bottom:8px">📥 Restaurer une sauvegarde</button>
         <button class="btn danger block" id="del">Supprimer ce profil</button></div>
-      <p class="small muted" style="text-align:center">Keto Famille v1.0 · gratuit · hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
+      <p class="small muted" style="text-align:center">Keto Famille v1.1 · gratuit · hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour"); render(); });
     $("#switch").onclick = showProfileSwitcher;
     $("#export").onclick = () => {
