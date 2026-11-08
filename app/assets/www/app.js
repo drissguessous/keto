@@ -549,11 +549,14 @@
         <p class="small" style="margin:12px 0 0">Calculé à partir de votre profil${p.goal === "perte" ? " avec un déficit modéré de 20 %" : ""}. Les glucides sont la règle d'or ; les calories sont un repère, mangez à votre faim.</p>
       </div>
       <div class="section-title">4 semaines pour s'installer</div>
-      ${PROGRAM.map((w) => `<div class="card week ${w.week === wk ? "current" : ""}"><div class="num">${w.week}</div>
-        <div class="grow"><div class="row spread"><h3 style="font-size:16px">${esc(w.title)}</h3>${w.week === wk ? `<span class="badge">En cours</span>` : w.week < wk ? `<span class="small muted">✓ Terminée</span>` : ""}</div>
+      ${PROGRAM.filter((w) => w.week === wk).map((w) => `<div class="card week current"><div class="num">${w.week}</div>
+        <div class="grow"><div class="row spread"><h3 style="font-size:16px">${esc(w.title)}</h3><span class="badge">En cours</span></div>
         <div class="small muted" style="margin:2px 0 8px">${esc(w.subtitle)}</div>
         <p style="margin:0 0 8px;font-size:14.5px">${esc(w.text)}</p>
         <ul style="margin:0;padding-left:18px;font-size:14px">${w.goals.map((g) => `<li>${esc(g)}</li>`).join("")}</ul></div></div>`).join("")}
+      <div class="card">${PROGRAM.filter((w) => w.week !== wk).map((w) => `<details><summary>Semaine ${w.week} · ${esc(w.title)}${w.week < wk ? " ✓" : ""}</summary>
+        <p class="small muted" style="margin:6px 0 4px">${esc(w.subtitle)}</p><p>${esc(w.text)}</p>
+        <ul style="margin:8px 0 0;padding-left:18px;font-size:14px">${w.goals.map((g) => `<li>${esc(g)}</li>`).join("")}</ul></details>`).join("")}</div>
       <div class="section-title">Menus de la semaine</div>
       <div class="card">${Array.from({ length: 7 }, (_, i) => {
         const d = new Date(); d.setDate(d.getDate() + i); const k = dkey(d); const m = menuFor(p, k);
@@ -563,9 +566,10 @@
       }).join("")}
         <button class="btn light block" id="shop" style="margin-top:10px">🛒 Liste de courses des 7 jours</button></div>
       <div class="section-title">Guide des aliments</div>
-      <div class="card"><h2 style="color:var(--green)">✅ À privilégier</h2>${foodList(FOODS.oui)}</div>
-      <div class="card"><h2 style="color:var(--amber)">⚖️ Avec modération</h2>${foodList(FOODS.modere)}</div>
-      <div class="card"><h2 style="color:var(--red)">⛔ À éviter</h2>${foodList(FOODS.non)}</div>
+      <div class="card">
+        <details><summary>✅ À privilégier</summary>${foodList(FOODS.oui)}</details>
+        <details><summary>⚖️ Avec modération</summary>${foodList(FOODS.modere)}</details>
+        <details><summary>⛔ À éviter</summary>${foodList(FOODS.non)}</details></div>
       <div class="section-title">Questions fréquentes</div>
       <div class="card">${FAQ.map(([q, a]) => `<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join("")}</div>`;
     $("#shop").addEventListener("click", shoppingList);

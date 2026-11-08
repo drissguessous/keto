@@ -1,6 +1,6 @@
 /* Service worker (version web / iPhone) : l'application fonctionne hors ligne
    et les photos déjà vues restent disponibles sans connexion. */
-const APP = "kf-app-v1.2.0";
+const APP = "kf-app-v1.3.0";
 const PHOTOS = "kf-photos-v1";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "content.js", "recipes.js", "photo-keywords.js",
   "icon.png", "icon-192.png", "icon-512.png", "apple-touch-icon.png", "manifest.webmanifest"];

@@ -40,6 +40,7 @@ Prérequis : Java 17+ et Python 3. **Aucun SDK Android n'est nécessaire** : `ap
 python3 tools/ui_test.py shots     # test d'interface (Playwright), captures dans ./shots
 python3 tools/photo_test.py shots  # chargement des photos (réseau simulé)
 python3 tools/pwa_test.py          # version iPhone : installation et hors ligne
+python3 tools/flow_test.py shots   # parcours clés (annuler, retour, validation, ajout membre)
 ```
 
 ## Structure
@@ -53,6 +54,7 @@ python3 tools/pwa_test.py          # version iPhone : installation et hors ligne
 | [`app/assets/www/content.js`](app/assets/www/content.js) | Programme, conseils, guide des aliments, FAQ |
 | [`app/smali/.../MainActivity.smali`](app/smali/ma/bagile/ketofamille/MainActivity.smali) | Activité Android : WebView plein écran |
 | [`app/AndroidManifest.xml`](app/AndroidManifest.xml) | Manifeste (minSdk 24, targetSdk 34) |
+| [`docs/revue-ux.md`](docs/revue-ux.md) | Revue UX experte (30 points, avant/après) |
 | [`build.sh`](build.sh) | Compilation, alignement, signature |
 | [`telechargement/`](telechargement/) | Dernier APK signé, prêt à installer |
 | `signing/` | Clé de signature (à conserver pour publier des mises à jour) |
