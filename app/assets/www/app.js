@@ -650,6 +650,36 @@
 
   // ---------- Écran : Recettes ----------
   let recFilter = "tout", recFilter2 = "", recQuery = "";
+  // Filtres avancés : base du repas, temps, budget, glucides, calories, difficulté, tri
+  const BASES = [
+    ["oeufs", "🥚 Œufs", ["oeuf", "blanc_oeuf", "jaune_oeuf"]],
+    ["poulet", "🍗 Poulet", ["poulet_blanc", "poulet_cuisse", "poulet_entier", "foie_volaille"]],
+    ["dinde", "🦃 Dinde", ["dinde", "dinde_fumee"]],
+    ["boeuf", "🥩 Bœuf / kefta", ["boeuf_hache", "boeuf_steak", "boeuf_ragout", "kefta"]],
+    ["agneau", "🍖 Agneau", ["agneau_epaule", "agneau_cotelette", "merguez"]],
+    ["veau", "🥩 Veau", ["veau"]],
+    ["saumon", "🐟 Saumon", ["saumon", "saumon_fume"]],
+    ["thon", "🐟 Thon", ["thon_frais", "thon_boite", "thon_huile"]],
+    ["sardine", "🐟 Sardines / maquereau", ["sardine", "sardine_boite", "maquereau"]],
+    ["poissonblanc", "🐟 Poisson blanc", ["merlan", "dorade", "loup", "cabillaud"]],
+    ["mer", "🦐 Fruits de mer", ["crevette", "calamar", "moules", "surimi"]],
+    ["fromage", "🧀 Fromage", ["mozzarella", "mozzarella_rapee", "emmental", "cheddar", "parmesan", "feta", "chevre", "halloumi", "edam", "jben", "ricotta", "fromage_creme", "mascarpone"]],
+    ["tofu", "🧊 Tofu", ["tofu"]],
+    ["choufleur", "🥦 Chou-fleur / brocoli", ["chou_fleur", "brocoli"]],
+    ["courgette", "🥒 Courgette", ["courgette"]],
+    ["aubergine", "🍆 Aubergine", ["aubergine"]],
+    ["epinard", "🥬 Épinards / salade", ["epinard", "laitue", "roquette"]],
+    ["champignon", "🍄 Champignons", ["champignon"]],
+    ["avocat", "🥑 Avocat", ["avocat"]],
+    ["amande", "🌰 Amande / noix", ["amande", "farine_amande", "amande_effilee", "noix", "noisette", "pecan", "macadamia"]],
+    ["coco", "🥥 Coco", ["noix_coco_rapee", "farine_coco", "lait_coco", "creme_coco", "huile_coco"]],
+    ["chocolat", "🍫 Chocolat / cacao", ["cacao", "chocolat_noir"]]
+  ];
+  const SORTS = [["", "Pertinence"], ["cost", "Moins cher"], ["time", "Plus rapide"], ["carbs", "Moins de glucides"], ["protein", "Plus de protéines"], ["kcal", "Moins de calories"]];
+  let adv = { bases: [], time: 0, cost: 0, carbs: 0, kcal: 0, diff: "", sort: "" };
+  const advCount = () => adv.bases.length + ["time", "cost", "carbs", "kcal", "diff"].filter((k) => adv[k]).length + (adv.sort ? 1 : 0);
+  // les bases sont recherchées parmi les ingrédients principaux (en poids) de la recette
+  const mainIngs = (r) => r._main || (r._main = r.ingredients.slice().sort((a, b) => (b.g || 0) - (a.g || 0)).slice(0, 4).map((i) => i.ing));
   routes.recettes = () => {
     const p = P();
     setTitle("Recettes keto");
@@ -664,6 +694,7 @@
       <div class="chips-label" id="lblC2">Ingrédient principal et envies</div>
       <div class="chips" id="chips2" role="group" aria-labelledby="lblC2">${[["", "Tout"], ["volaille", "🍗 Volaille"], ["viande", "🥩 Viande"], ["poisson", "🐟 Poisson"], ["vege", "🥬 Végétarien"], ["rapide", "⚡ Rapide (20 min max)"], ["marocain", "🇲🇦 Marocain"], ["low", "📉 Très peu de glucides (3 g max)"], ["eco", "💰 Petit budget (15 DH max)"]]
         .map(([v, l]) => `<button type="button" data-c="${v}" class="${recFilter2 === v ? "on" : ""}" aria-pressed="${recFilter2 === v}">${l}</button>`).join("")}</div>
+      <button type="button" class="btn ghost block" id="advBtn" style="margin-top:10px">⚙️ Plus de filtres : base du repas, temps, budget, tri${advCount() ? ` <span class="badge">${advCount()}</span>` : ""}</button>
       <div class="row spread" style="margin:6px 4px 0"><div class="small muted" id="rcount" aria-live="polite"></div>
         <button type="button" class="link-btn" id="resetF" hidden>Effacer les filtres</button></div>
       <div class="recipe-list" id="rlist"></div>
@@ -692,10 +723,18 @@
         if (recFilter2 === "marocain" && !(r.tags || []).some((t) => norm(t).includes("maroc"))) return false;
         if (recFilter2 === "low" && r.macros.carbs > 3) return false;
         if (recFilter2 === "eco" && !(hasCost(r) && r.cost <= 15)) return false;
+        if (adv.bases.length && !adv.bases.some((b) => { const ids = BASES.filter((x) => x[0] === b)[0][2]; return mainIngs(r).some((i) => ids.includes(i)); })) return false;
+        if (adv.time && r.prep + r.cook > adv.time) return false;
+        if (adv.cost && !(hasCost(r) && r.cost <= adv.cost)) return false;
+        if (adv.carbs && r.macros.carbs > adv.carbs) return false;
+        if (adv.kcal && r.macros.kcal > adv.kcal) return false;
+        if (adv.diff && r.difficulty !== adv.diff) return false;
         if (q && !(r._s || (r._s = norm(r.title + " " + r.ingredients.map((i) => i.name).join(" ") + " " + (r.tags || []).join(" ")))).includes(q)) return false;
         return true;
       });
-      const filtered = recFilter !== "tout" || recFilter2 !== "" || q;
+      const key = { cost: (r) => (hasCost(r) ? r.cost : 999), time: (r) => r.prep + r.cook, carbs: (r) => r.macros.carbs, protein: (r) => -r.macros.protein, kcal: (r) => r.macros.kcal }[adv.sort];
+      if (key) list.sort((a, b) => key(a) - key(b));
+      const filtered = recFilter !== "tout" || recFilter2 !== "" || q || advCount();
       shown = 0; $("#rlist").innerHTML = list.length ? "" : `<div class="empty">Aucune recette ne correspond${filtered ? " à ces choix" : ""}.
         ${filtered ? `<br><button type="button" class="btn light" id="resetF2" style="margin-top:12px">Effacer la recherche et les filtres</button>` : ""}</div>`;
       $("#rcount").textContent = list.length + (list.length > 1 ? " recettes" : " recette");
@@ -707,7 +746,33 @@
     const syncChips = () => ["#chips", "#chips2"].forEach((sel, n) => $(sel).querySelectorAll("button").forEach((x) => {
       const on = x.dataset.c === (n ? recFilter2 : recFilter); x.classList.toggle("on", on); x.setAttribute("aria-pressed", String(on));
     }));
-    const reset = () => { recFilter = "tout"; recFilter2 = ""; recQuery = ""; $("#q").value = ""; syncChips(); draw(); };
+    const reset = () => { recFilter = "tout"; recFilter2 = ""; recQuery = ""; adv = { bases: [], time: 0, cost: 0, carbs: 0, kcal: 0, diff: "", sort: "" }; $("#q").value = ""; syncChips(); paintAdvBtn(); draw(); };
+    const paintAdvBtn = () => { $("#advBtn").innerHTML = "⚙️ Plus de filtres : base du repas, temps, budget, tri" + (advCount() ? ` <span class="badge">${advCount()}</span>` : ""); };
+    const opt = (name, v, label, cur) => `<button type="button" data-k="${name}" data-v="${v}" class="${String(cur) === String(v) ? "on" : ""}" aria-pressed="${String(cur) === String(v)}">${label}</button>`;
+    $("#advBtn").addEventListener("click", () => {
+      const draft = JSON.parse(JSON.stringify(adv));
+      const body = () => `<h2>Filtres et tri</h2>
+        <div class="chips-label">Base du repas (une ou plusieurs)</div>
+        <div class="chips wrap" data-group="bases">${BASES.map(([v, l]) => `<button type="button" data-k="bases" data-v="${v}" class="${draft.bases.includes(v) ? "on" : ""}" aria-pressed="${draft.bases.includes(v)}">${l}</button>`).join("")}</div>
+        ${[["Temps total", "time", [[0, "Peu importe"], [15, "15 min max"], [30, "30 min max"], [45, "45 min max"], [60, "1 h max"]]],
+           ["Budget par portion", "cost", [[0, "Peu importe"], [10, "10 DH max"], [15, "15 DH max"], [25, "25 DH max"], [40, "40 DH max"]]],
+           ["Glucides nets par portion", "carbs", [[0, "Peu importe"], [3, "3 g max"], [5, "5 g max"], [8, "8 g max"]]],
+           ["Calories par portion", "kcal", [[0, "Peu importe"], [300, "300 kcal max"], [500, "500 kcal max"], [700, "700 kcal max"]]],
+           ["Difficulté", "diff", [["", "Peu importe"], ["Facile", "Facile"], ["Moyen", "Moyen"]]],
+           ["Trier par", "sort", SORTS]].map(([t, n, o]) => `<div class="chips-label">${t}</div><div class="chips wrap" data-group="${n}">${o.map(([v, l]) => opt(n, v, l, draft[n])).join("")}</div>`).join("")}
+        <div class="row" style="gap:8px;margin-top:16px"><button type="button" class="btn ghost grow" id="advReset">Tout effacer</button><button type="button" class="btn grow" id="advApply">Voir les recettes</button></div>`;
+      const mount = (el) => {
+        el.querySelectorAll("[data-k]").forEach((b) => b.addEventListener("click", () => {
+          const k = b.dataset.k, v = b.dataset.v;
+          if (k === "bases") { const i = draft.bases.indexOf(v); if (i >= 0) draft.bases.splice(i, 1); else draft.bases.push(v); }
+          else draft[k] = (k === "diff" || k === "sort") ? v : +v;
+          el.innerHTML = body(); mount(el);
+        }));
+        $("#advReset", el).addEventListener("click", () => { draft.bases = []; ["time", "cost", "carbs", "kcal"].forEach((k) => (draft[k] = 0)); draft.diff = ""; draft.sort = ""; el.innerHTML = body(); mount(el); });
+        $("#advApply", el).addEventListener("click", () => { adv = draft; closeSheet(); paintAdvBtn(); draw(); });
+      };
+      openSheet(body(), mount);
+    });
     let timer;
     $("#q").addEventListener("input", (e) => { recQuery = e.target.value; clearTimeout(timer); timer = setTimeout(draw, 180); });
     $("#q").addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); clearTimeout(timer); draw(); e.target.blur(); } });
