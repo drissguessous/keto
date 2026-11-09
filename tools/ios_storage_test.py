@@ -11,7 +11,7 @@ try:
     with sync_playwright() as pw:
         b = pw.chromium.launch()
         # 1) Safari (onglet)
-        ctx = b.new_context(user_agent=UA, viewport={"width": 390, "height": 844}, device_scale_factor=2, is_mobile=True)
+        ctx = b.new_context(user_agent=UA, viewport={"width": 390, "height": 844}, device_scale_factor=2, is_mobile=True, locale="fr-FR")
         pg = ctx.new_page(); pg.on("pageerror", lambda e: errs.append(str(e)))
         pg.goto("http://localhost:8766/index.html"); pg.wait_for_timeout(500)
         b1 = pg.locator("#storeBanner").is_visible(); conseil = pg.locator("text=installez d'abord l'application").count() > 0
@@ -26,7 +26,7 @@ try:
         pg.reload(); pg.wait_for_timeout(300); b3 = pg.locator("#storeBanner").is_visible()
         ctx.close()
         # 2) Application installée (standalone)
-        ctx = b.new_context(user_agent=UA, viewport={"width": 390, "height": 844}, is_mobile=True)
+        ctx = b.new_context(user_agent=UA, viewport={"width": 390, "height": 844}, is_mobile=True, locale="fr-FR")
         ctx.add_init_script("Object.defineProperty(navigator,'standalone',{get:()=>true})")
         pg = ctx.new_page(); pg.on("pageerror", lambda e: errs.append(str(e)))
         pg.goto("http://localhost:8766/index.html"); pg.wait_for_timeout(400)

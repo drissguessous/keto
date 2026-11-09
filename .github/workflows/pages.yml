@@ -20,10 +20,10 @@ jobs:
         run: |
           set -e
           cd app/assets/www
-          for f in index.html app.js styles.css content.js recipes.js photo-keywords.js sw.js manifest.webmanifest icon.png icon-192.png icon-512.png icon-maskable-512.png apple-touch-icon.png; do
+          for f in index.html app.js i18n.js lang/ar.js lang/en.js lang/es.js lang/zgh.js styles.css content.js recipes.js photo-keywords.js sw.js manifest.webmanifest icon.png icon-192.png icon-512.png icon-maskable-512.png apple-touch-icon.png; do
             test -s "$f" || { echo "Fichier manquant : $f"; exit 1; }
           done
-          for f in app.js content.js recipes.js photo-keywords.js sw.js; do node --check "$f"; done
+          for f in app.js i18n.js lang/*.js content.js recipes.js photo-keywords.js sw.js; do node --check "$f"; done
           python3 -c "import json; json.load(open('manifest.webmanifest'))"
       - name: Copier la version web sur gh-pages
         run: |

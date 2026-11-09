@@ -16,6 +16,7 @@ Application Android gratuite et hors ligne pour suivre un programme keto, pensé
 - **Budget par repas** : coût estimé de chaque recette (par portion et au total), du menu du jour et de la liste de courses, à partir de **prix moyens constatés au Maroc** ([`data/prix-*.json`](data/), sources citées par produit). Budget choisi dans le profil (Économique 15 DH, Moyen 25 DH, Confort 40 DH par repas) : les menus le respectent.
 - **Mes prix** : chacun peut corriger le prix d'un produit avec ce qu'il paie réellement ; tous les coûts se recalculent.
 - **Recherche avancée** : base du repas (œufs, poulet, kefta, saumon, chou-fleur, avocat…), temps, budget, glucides, calories, difficulté, et tri (moins cher, plus rapide, moins de glucides, plus de protéines).
+- **5 langues** : français, arabe (affichage de droite à gauche), anglais, espagnol et amazigh (interface en tifinagh ; recettes, programme et conseils en arabe). Langue choisie automatiquement selon le téléphone, modifiable dans Profil › Langue. Traductions réalisées par IA ([`data/i18n/`](data/i18n/)) : une relecture par des locuteurs natifs est recommandée, en particulier pour le tifinagh.
 - **Suivi** : courbe de poids, IMC, série de jours keto, historique cliquable.
 - **Sauvegarde / restauration** par simple copier-coller, et **profil de démonstration**.
 
@@ -49,6 +50,7 @@ python3 tools/pwa_test.py          # version iPhone : installation et hors ligne
 python3 tools/flow_test.py shots   # parcours clés (annuler, retour, validation, ajout membre)
 python3 tools/filters_test.py shots  # filtres avancés et tri
 python3 tools/prices_test.py shots   # « Mes prix » : modification et recalcul des coûts
+python3 tools/i18n_test.py shots     # 5 langues : chargement, sens d'écriture, textes restés en français
 python3 tools/ios_storage_test.py shots  # iPhone : avertissement Safari / application installée
 ```
 
@@ -59,6 +61,7 @@ python3 tools/ios_storage_test.py shots  # iPhone : avertissement Safari / appli
 | [`app/assets/www/`](app/assets/www/) | L'application (HTML/CSS/JS vanilla) |
 | [`data/recipes/`](data/recipes/) | Sources des recettes (12 lots JSON) |
 | [`data/photo-keywords-*.json`](data/) | Mots-clés de recherche photo par recette |
+| [`data/i18n/`](data/i18n/) · [`tools/build_lang.py`](tools/build_lang.py) | Traductions (interface, contenu, recettes) et assemblage en `app/assets/www/lang/*.js` |
 | [`tools/recipes.py`](tools/recipes.py) | Validation des lots et génération de `recipes.js` (macros calculées) |
 | [`app/assets/www/content.js`](app/assets/www/content.js) | Programme, conseils, guide des aliments, FAQ |
 | [`app/smali/.../MainActivity.smali`](app/smali/ma/bagile/ketofamille/MainActivity.smali) | Activité Android : WebView plein écran |

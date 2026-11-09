@@ -7,7 +7,7 @@ srv = subprocess.Popen([sys.executable, "-m", "http.server", "8765", "-d", str(W
 time.sleep(1)
 try:
     with sync_playwright() as pw:
-        b = pw.chromium.launch(); ctx = b.new_context(viewport={"width": 390, "height": 844}); pg = ctx.new_page()
+        b = pw.chromium.launch(); ctx = b.new_context(viewport={"width": 390, "height": 844}, locale="fr-FR"); pg = ctx.new_page()
         pg.goto("http://localhost:8765/index.html")
         pg.evaluate("navigator.serviceWorker.ready.then(()=>true)")
         pg.reload(); pg.wait_for_timeout(500)

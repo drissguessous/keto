@@ -284,3 +284,6 @@ ol.howto li { margin-bottom: 6px; }
 [dir="rtl"] .price-row .price { text-align: left; }
 [dir="rtl"] .store-banner, [dir="rtl"] .warn, [dir="rtl"] .tip { text-align: right; }
 [dir="rtl"] .tip { border-left: 0; border-right: 4px solid var(--amber); }
+/* Amazigh : textes arabes (recettes, programme) mêlés à l'interface tifinagh -> sens d'écriture détecté par paragraphe */
+[lang="zgh-Tfng"] p, [lang="zgh-Tfng"] li, [lang="zgh-Tfng"] h2, [lang="zgh-Tfng"] h3, [lang="zgh-Tfng"] .name,
+[lang="zgh-Tfng"] .meta, [lang="zgh-Tfng"] summary, [lang="zgh-Tfng"] .tip, [lang="zgh-Tfng"] .food b { unicode-bidi: plaintext; text-align: start; }

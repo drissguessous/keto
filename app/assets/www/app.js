@@ -751,6 +751,7 @@
         <input class="search" id="q" type="search" enterkeyhint="search" placeholder="Recette ou ingrédient (ex. poulet)" value="${esc(recQuery)}">
         <button type="button" class="search-clear" id="qClear" aria-label="Effacer la recherche" ${recQuery ? "" : "hidden"}>✕</button></div>
       ${!I18.recipesTranslated ? `<p class="hint">Les recettes sont affichées en français pour cette langue.</p>` : ""}
+      ${I18.contentLang === "ar" ? `<p class="hint" data-notr dir="rtl" lang="ar">الوصفات والبرنامج والنصائح معروضة باللغة العربية.</p>` : ""}
       <div class="chips-label" id="lblC1">Type de plat</div>
       <div class="chips" id="chips" role="group" aria-labelledby="lblC1">${[["tout", "Toutes"], ["fav", "❤️ Favoris"], ...Object.entries(CATS)]
         .map(([v, l]) => `<button type="button" data-c="${v}" class="${recFilter === v ? "on" : ""}" aria-pressed="${recFilter === v}">${l}</button>`).join("")}</div>
@@ -1043,7 +1044,7 @@
         <button class="btn block" type="button" id="switch">👨‍👩‍👧 Changer de profil ou ajouter un membre</button></div>
       <div class="card"><h2>Modifier mes informations</h2>${profileForm(p, false)}</div>
       <div class="card"><h2>Langue</h2>${langPicker()}
-        ${!I18.recipesTranslated ? `<p class="hint">Les recettes sont affichées en français pour cette langue.</p>` : ""}</div>
+        ${!I18.recipesTranslated ? `<p class="hint">Les recettes sont affichées en français pour cette langue.</p>` : ""}${I18.contentLang === "ar" ? `<p class="hint" data-notr dir="rtl" lang="ar">الوصفات والبرنامج والنصائح معروضة باللغة العربية.</p>` : ""}</div>
       <div class="card"><h2>Réglages et sauvegarde</h2>
         <label class="check" style="margin-bottom:8px"><input type="checkbox" id="photosToggle" ${db.photos !== false ? "checked" : ""}><span>Afficher de vraies photos des plats (Wikimedia Commons, nécessite internet)</span></label>
         <details class="data-info"><summary>🔒 Où sont mes données ?</summary>
@@ -1054,7 +1055,7 @@
         <button class="btn light block" type="button" id="export" style="margin-bottom:8px">📤 Sauvegarder mes données</button>
         <button class="btn light block" type="button" id="import" style="margin-bottom:8px">📥 Restaurer une sauvegarde</button>
         <button class="btn danger block" type="button" id="del">🗑️ Supprimer le profil de ${esc(p.name)}</button></div>
-      <p class="small muted" style="text-align:center">Keto Famille v1.5 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone (sans compte ni cookies).<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
+      <p class="small muted" style="text-align:center">Keto Famille v1.6 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone (sans compte ni cookies).<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour ✓"); render(); });
     $("#switch").onclick = showProfileSwitcher;
     bindLang($("#view"));

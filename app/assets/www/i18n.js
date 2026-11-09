@@ -31,6 +31,7 @@
     // appelé par lang/<code>.js
     apply: function (data) {
       I18N.dict = data.ui || {};
+      I18N.contentLang = data.contentLang || null; // ex. amazigh : recettes et programme en arabe
       if (data.content) {
         ["PROGRAM", "TIPS", "FOODS", "FAQ"].forEach(function (k) { if (data.content[k]) window[k] = data.content[k]; });
       }

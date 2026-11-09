@@ -26,19 +26,29 @@ def ok_recipe(rid, t):
     return bool(s and t.get("t") and len(t.get("i", [])) == len(s["i"]) and len(t.get("s", [])) == len(s["s"]))
 
 
+# Amazigh : interface en tifinagh ; programme, conseils et recettes repris de l'arabe
+# (choix validé : pas de traduction tifinagh non relue pour les consignes de cuisson et de sécurité).
+FALLBACK = {"zgh": "ar"}
+
 for lang in ("ar", "en", "es", "zgh"):
     data = {}
     uif = I18N / f"ui.{lang}.json"
     if uif.exists():
         ui = json.loads(uif.read_text())
+        fb = FALLBACK.get(lang)
+        if fb and (I18N / f"ui.{fb}.json").exists():
+            ui = {**json.loads((I18N / f"ui.{fb}.json").read_text()), **ui}
         # on ne garde que les traductions qui conservent les repères # et {name}
         data["ui"] = {k: v for k, v in ui.items() if isinstance(v, str) and v.strip()
                       and k.count("#") == v.count("#") and k.count("{name}") == v.count("{name}")}
     cf = I18N / f"content.{lang}.json"
+    if not cf.exists() and FALLBACK.get(lang):
+        cf = I18N / f"content.{FALLBACK[lang]}.json"
+        data["contentLang"] = FALLBACK[lang]
     if cf.exists():
         data["content"] = json.loads(cf.read_text())
     rec = {}
-    for f in sorted(glob.glob(str(I18N / f"recipes.{lang}.*.json"))):
+    for f in sorted(glob.glob(str(I18N / f"recipes.{FALLBACK.get(lang, lang)}.*.json"))):
         for rid, t in json.loads(Path(f).read_text()).items():
             if ok_recipe(rid, t):
                 rec[rid] = {"t": t["t"], "i": t["i"], "s": t["s"], "p": t.get("p", "")}
