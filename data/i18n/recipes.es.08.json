@@ -1,0 +1,1336 @@
+{
+ "l08-salade-poulet-avocat-oeuf": {
+  "t": "Ensalada completa de pollo, aguacate y huevo mollet",
+  "i": [
+   "pechugas de pollo",
+   "aguacate",
+   "huevos",
+   "rúcula",
+   "pepino",
+   "pipas de calabaza",
+   "aceite de oliva",
+   "zumo de limón",
+   "pimentón y comino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Sazone el pollo con pimentón, comino, sal y pimienta y cocínelo en 1 cucharada de aceite de 5 a 6 min por cada lado. Déjelo reposar y córtelo en lonchas.",
+   "Cueza los huevos 6 min y 30 s en agua hirviendo, enfríelos enseguida y pélelos con cuidado.",
+   "Tueste las pipas de calabaza 2 min en seco en una sartén.",
+   "Mezcle la rúcula y el pepino en dados con el resto del aceite, el limón y una pizca de sal.",
+   "Añada el aguacate en láminas, el pollo, los huevos cortados por la mitad y las pipas de calabaza."
+  ],
+  "p": "Rocíe el aguacate con limón si tiene que esperar: no se oscurecerá."
+ },
+ "l08-jben-oeufs-brouilles-zaatar": {
+  "t": "Huevos revueltos con jben, tomate y zaatar",
+  "i": [
+   "huevos",
+   "jben",
+   "tomate pequeño",
+   "mantequilla",
+   "zaatar",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el tomate en dados pequeños y séquelos con papel de cocina.",
+   "Bata los huevos con una pizca de sal y de pimienta.",
+   "Derrita la mantequilla a fuego suave, vierta los huevos y remueva despacio con una espátula de 3 a 4 min hasta obtener grumos cremosos.",
+   "Fuera del fuego, incorpore el jben desmenuzado y el tomate.",
+   "Sirva con un chorrito de aceite de oliva y espolvoreado con zaatar."
+  ],
+  "p": "Retire los huevos del fuego cuando aún estén un poco líquidos: el calor residual termina la cocción."
+ },
+ "l08-salade-thon-avocat-oeufs-mimosa": {
+  "t": "Ensalada completa de atún, aguacate y huevos mimosa",
+  "i": [
+   "lata de atún al natural escurrido",
+   "huevos",
+   "aguacate",
+   "mayonesa",
+   "lechuga",
+   "pepinillos",
+   "cebollino",
+   "aceite de oliva",
+   "zumo de limón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Cueza los huevos 10 min en agua hirviendo, enfríelos y pélelos.",
+   "Corte los huevos por la mitad, retire las yemas y aplástelas con un tenedor con la mayonesa y la mitad del cebollino.",
+   "Mezcle el atún desmenuzado con los pepinillos picados, el zumo de limón y pimienta.",
+   "Rellene las claras con la mezcla de yema y mayonesa.",
+   "Disponga la lechuga aliñada con aceite de oliva, añada el atún, el aguacate en láminas y los huevos mimosa, y espolvoree con el resto del cebollino."
+  ],
+  "p": "Prepare los huevos duros el día anterior: se conservan 4 días en la nevera con su cáscara."
+ },
+ "l08-curry-oeufs-epinards": {
+  "t": "Curry de huevos duros con espinacas",
+  "i": [
+   "huevos",
+   "espinacas",
+   "tomate triturado",
+   "crema de coco",
+   "cebolla pequeña",
+   "ajo",
+   "jengibre rallado",
+   "garam masala y cúrcuma",
+   "ghee",
+   "cilantro",
+   "sal"
+  ],
+  "s": [
+   "Cueza los huevos 10 min en agua hirviendo, enfríelos y pélelos.",
+   "Derrita el ghee, añada la cebolla picada y sofríala 4 min; después el ajo y el jengibre 1 min.",
+   "Añada las especias, remueva 30 s, vierta el tomate y deje reducir 5 min.",
+   "Incorpore la crema de coco y las espinacas, sale y cueza 4 min hasta que las espinacas se deshagan.",
+   "Haga una pequeña incisión en cruz en los huevos para que absorban la salsa, añádalos y deje hervir a fuego lento 3 min.",
+   "Espolvoree con cilantro y sirva."
+  ],
+  "p": "Acompañe con arroz de coliflor o de konjac para una comida completa."
+ },
+ "l08-chou-fleur-gratine-cheddar": {
+  "t": "Gratinado de coliflor con cheddar y huevos",
+  "i": [
+   "coliflor",
+   "cheddar rallado",
+   "nata líquida",
+   "huevos",
+   "queso crema",
+   "mostaza",
+   "mantequilla",
+   "nuez moscada",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 190 °C. Separe la coliflor en ramilletes.",
+   "Cuézalos 8 min en agua hirviendo con sal (deben quedar un poco firmes) y escúrralos muy bien.",
+   "Caliente la nata con el queso crema, la mostaza y dos tercios del cheddar hasta que todo se derrita; fuera del fuego, añada los huevos batidos, la nuez moscada, sal y pimienta.",
+   "Unte una fuente de horno con mantequilla, disponga la coliflor y cúbrala con la salsa.",
+   "Espolvoree con el resto del cheddar y hornee 25 min hasta que la superficie esté dorada."
+  ],
+  "p": "Versión económica: sustituya el cheddar por queso edam rallado."
+ },
+ "l08-halloumi-brochettes-legumes": {
+  "t": "Brochetas de halloumi y verduras a la parrilla",
+  "i": [
+   "halloumi",
+   "calabacín",
+   "pimiento rojo",
+   "champiñones",
+   "cebolla roja pequeña",
+   "aceite de oliva",
+   "zumo de limón",
+   "orégano y pimentón ahumado",
+   "yogur griego",
+   "menta",
+   "pimienta"
+  ],
+  "s": [
+   "Si usa pinchos de madera, déjelos 20 min en remojo en agua.",
+   "Corte el halloumi, el calabacín, el pimiento y la cebolla en cubos de 2,5 cm; deje los champiñones enteros.",
+   "Mezcle el aceite, el limón, el orégano, el pimentón y la pimienta; unte los cubos con esta mezcla.",
+   "Monte las brochetas alternando queso y verduras.",
+   "Áselas de 10 a 12 min en el grill, en la plancha o en la barbacoa, dándoles la vuelta con regularidad.",
+   "Sirva con el yogur griego mezclado con la menta picada."
+  ],
+  "p": "El halloumi no se derrite al cocinarlo: es ideal para la barbacoa."
+ },
+ "l08-poivrons-farcis-ricotta-epinards": {
+  "t": "Pimientos rellenos de ricota, espinacas y parmesano",
+  "i": [
+   "pimientos medianos",
+   "ricota",
+   "espinacas",
+   "huevos",
+   "parmesano rallado",
+   "mozzarella rallada",
+   "ajo",
+   "aceite de oliva",
+   "albahaca",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 190 °C. Corte los pimientos por la mitad a lo largo y quíteles las semillas.",
+   "Rehogue las espinacas con el ajo en el aceite 3 min, escúrralas apretándolas y píquelas.",
+   "Mezcle la ricota, los huevos, el parmesano, las espinacas, la albahaca picada, sal y pimienta.",
+   "Rellene los medios pimientos y colóquelos en una fuente engrasada con aceite.",
+   "Cubra con papel de aluminio y hornee 20 min; después retire el aluminio, espolvoree con la mozzarella y continúe 15 min más.",
+   "Sirva cuando el queso esté dorado y los pimientos tiernos."
+  ],
+  "p": "Los pimientos rojos son más dulces: para reducir los carbohidratos, utilice pimientos verdes."
+ },
+ "l08-salade-tiede-chevre-noix": {
+  "t": "Ensalada templada con queso de cabra caliente, nueces y huevo poché",
+  "i": [
+   "queso de cabra en rulo",
+   "huevos",
+   "mezclum de lechugas",
+   "nueces peladas",
+   "harina de almendra",
+   "aceite de oliva",
+   "vinagre de sidra",
+   "mostaza",
+   "tomillo seco",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Coloque las rodajas de queso de cabra sobre papel de horno y espolvoree con harina de almendra y tomillo.",
+   "Hornee de 6 a 8 min, hasta que el queso esté blando y ligeramente dorado.",
+   "Mientras tanto, lleve a ebullición suave una cacerola con agua y 1 cucharada de vinagre, haga un remolino y escalfe cada huevo 3 min.",
+   "Prepare la vinagreta con la mostaza, el resto del vinagre, el aceite, sal y pimienta; aliñe el mezclum.",
+   "Emplate la ensalada, añada las nueces troceadas, el queso de cabra caliente y el huevo escalfado bien escurrido."
+  ],
+  "p": "Casque cada huevo en una tacita antes de deslizarlo en el agua: así es más fácil escalfarlo."
+ },
+ "l08-tajine-legumes-oeufs-olives": {
+  "t": "Tajín de verduras con huevos y aceitunas",
+  "i": [
+   "huevos",
+   "calabacín",
+   "pimiento verde",
+   "tomate",
+   "cebolla",
+   "aceitunas verdes",
+   "limón en conserva",
+   "aceite de oliva",
+   "comino, pimentón, cúrcuma, jengibre",
+   "perejil y cilantro",
+   "jben",
+   "sal"
+  ],
+  "s": [
+   "En un tajín o en una sartén honda, sofría la cebolla en juliana en el aceite 4 min.",
+   "Añada las especias, el tomate rallado y 100 ml de agua, y después el calabacín y el pimiento en bastones. Sale.",
+   "Tape y deje cocer a fuego suave 15 min.",
+   "Añada las aceitunas y el limón en conserva cortado en tiras, y después case los huevos sobre las verduras.",
+   "Tape y cueza de 6 a 8 min hasta que las claras cuajen.",
+   "Desmenuce el jben, espolvoree con las hierbas y sirva en el propio tajín."
+  ],
+  "p": "Utilice un difusor bajo el tajín de barro para evitar que se agriete sobre el fuego."
+ },
+ "l08-salade-poulet-tahini-chou": {
+  "t": "Ensalada de pollo con repollo crujiente y salsa de tahini",
+  "i": [
+   "pechugas de pollo",
+   "lombarda",
+   "repollo blanco",
+   "pepino",
+   "tahini",
+   "zumo de limón",
+   "ajo",
+   "aceite de oliva",
+   "perejil",
+   "comino y pimentón",
+   "sal"
+  ],
+  "s": [
+   "Sazone el pollo con comino, pimentón y sal y cocínelo en 1 cucharada de aceite de 5 a 6 min por cada lado. Déjelo reposar y deshébrelo o córtelo en lonchas.",
+   "Corte en juliana fina las dos coles, el pepino en dados y pique el perejil.",
+   "Prepare la salsa: bata el tahini, el limón, el ajo rallado, una pizca de sal y 3-4 cucharadas de agua fría hasta obtener una salsa lisa.",
+   "Mezcle las verduras con el resto del aceite y la mitad de la salsa.",
+   "Añada el pollo y cúbralo con el resto de la salsa de tahini."
+  ],
+  "p": "El repollo aliñado se conserva 3 días: prepare tres tuppers para el almuerzo de una sola vez."
+ },
+ "l08-mini-quiches-brocoli-emmental": {
+  "t": "Minis quiches sin masa de brócoli y emmental",
+  "i": [
+   "huevos",
+   "brócoli",
+   "emmental rallado",
+   "nata líquida",
+   "pimiento rojo",
+   "mantequilla (moldes)",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y unte con mantequilla 12 huecos de un molde para magdalenas.",
+   "Cueza los ramilletes pequeños de brócoli 3 min en agua hirviendo, escúrralos y píquelos en trozos gruesos.",
+   "Bata los huevos con la nata, tres cuartos del emmental, sal y pimienta.",
+   "Reparta el brócoli y el pimiento en dados pequeños en los huecos, vierta la mezcla hasta tres cuartos de su altura y espolvoree con el resto del emmental.",
+   "Hornee de 20 a 22 min hasta que estén hinchadas y doradas; déjelas templar 5 min antes de desmoldar."
+  ],
+  "p": "Se conservan 4 días en la nevera y se pueden congelar: perfectas para las meriendas y los almuerzos de los niños."
+ },
+ "l08-brouillade-tofu-legumes-curcuma": {
+  "t": "Revuelto de tofu con verduras y cúrcuma",
+  "i": [
+   "tofu firme",
+   "pimiento verde",
+   "espinacas",
+   "cebolleta",
+   "aceite de oliva",
+   "cúrcuma y comino",
+   "aguacate",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Escurra el tofu y desmenúcelo en trozos gruesos con un tenedor.",
+   "Sofría el pimiento en dados pequeños y la cebolleta en el aceite 3 min a fuego medio.",
+   "Añada el tofu, la cúrcuma, el comino, sal y pimienta, y cocine 5 min removiendo para que se dore ligeramente.",
+   "Incorpore las espinacas y déjelas reducir 1 min.",
+   "Sirva caliente con el aguacate en láminas."
+  ],
+  "p": "Una pizca de sal negra (kala namak) da al revuelto un auténtico sabor a huevo."
+ },
+ "l08-pizza-chou-fleur-champignons": {
+  "t": "Pizza con base de coliflor, champiñones y aceitunas",
+  "i": [
+   "coliflor grande",
+   "huevo",
+   "mozzarella rallada (masa + cobertura)",
+   "parmesano rallado",
+   "bola de mozzarella",
+   "champiñones",
+   "tomate triturado",
+   "aceitunas negras",
+   "orégano seco",
+   "aceite de oliva",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 220 °C. Triture la coliflor hasta obtener una textura de sémola, cuézala 5 min en el microondas y déjela templar.",
+   "Escúrrala con mucha fuerza en un paño de cocina: debe quedar casi seca.",
+   "Mézclela con el huevo, 75 g de mozzarella rallada, el parmesano, el orégano y una pizca de sal.",
+   "Extienda la masa en un disco de 28 cm y 5 mm de grosor sobre papel de horno; hornee 15 min hasta que esté dorada.",
+   "Extienda la salsa de tomate, añada la mozzarella en lonchas, el resto de la mozzarella rallada, los champiñones laminados y las aceitunas.",
+   "Devuélvala al horno de 10 a 12 min y rocíe con un chorrito de aceite de oliva antes de servir."
+  ],
+  "p": "No cargue demasiado la masa y precuézala bien: eso es lo que la hace crujiente."
+ },
+ "l08-salade-crevettes-avocat-concombre": {
+  "t": "Ensalada completa de gambas, aguacate y pepino",
+  "i": [
+   "gambas peladas",
+   "aguacate",
+   "pepino",
+   "lechuga",
+   "huevos",
+   "cilantro",
+   "aceite de oliva",
+   "zumo de limón",
+   "ajo",
+   "guindilla",
+   "sal"
+  ],
+  "s": [
+   "Cueza los huevos 9 min, enfríelos y pélelos.",
+   "Saltee las gambas en 1 cucharada de aceite con el ajo picado y la guindilla de 2 a 3 min a fuego fuerte, hasta que estén rosadas.",
+   "Corte el aguacate y el pepino en dados y pique el cilantro.",
+   "Bata el resto del aceite con el zumo de limón y la sal.",
+   "Mezcle la lechuga, el aguacate, el pepino y la vinagreta, añada las gambas templadas y los huevos en cuartos."
+  ],
+  "p": "Si usa gambas congeladas, descongélelas la víspera en la nevera y séquelas bien antes de sellarlas."
+ },
+ "l08-halloumi-harissa-epinards": {
+  "t": "Halloumi a la plancha con harissa sobre espinacas al ajillo",
+  "i": [
+   "halloumi",
+   "espinacas",
+   "huevos",
+   "harissa",
+   "aceite de oliva",
+   "ajo",
+   "zumo de limón",
+   "pipas de calabaza",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el halloumi en 6 lonchas y úntelas con la harissa diluida en 1 cucharadita de aceite.",
+   "Sofría el ajo laminado en 1 cucharada de aceite 1 min, añada las espinacas y déjelas reducir 3 min; rocíe con limón, pimienta y reparta en los platos.",
+   "En la misma sartén, haga los huevos fritos con el resto del aceite.",
+   "Selle el halloumi de 1 a 2 min por cada lado a fuego fuerte hasta que se carameliza.",
+   "Coloque el halloumi y los huevos sobre las espinacas y espolvoree con las pipas de calabaza tostadas."
+  ],
+  "p": "Ajuste la harissa al gusto de la familia; para los niños, sustitúyala por pimentón dulce."
+ },
+ "l08-zaalouk-oeufs-gratines": {
+  "t": "Zaalouk de berenjenas con huevos gratinados",
+  "i": [
+   "berenjenas medianas",
+   "tomate maduro",
+   "huevos",
+   "ajo",
+   "aceite de oliva",
+   "comino y pimentón",
+   "cilantro y perejil",
+   "edam rallado",
+   "zumo de limón",
+   "sal"
+  ],
+  "s": [
+   "Pele las berenjenas dejando una tira sí y otra no y córtelas en dados. Cuézalas 10 min al vapor o en agua hirviendo con sal y escúrralas.",
+   "En una sartén apta para horno, caliente el aceite, añada el tomate rallado, el ajo picado, el comino y el pimentón; cueza 3 min.",
+   "Añada las berenjenas y aplástelas con un tenedor; cueza de 12 a 15 min removiendo hasta que el zaalouk quede bien compotado. Sale, añada las hierbas y el limón.",
+   "Precaliente el horno con el grill. Haga 5 huecos en el zaalouk y case en ellos los huevos.",
+   "Tape y cueza 4 min al fuego, después espolvoree con el edam y gratine 3 min."
+  ],
+  "p": "El zaalouk se conserva 4 días en la nevera: prepare doble ración y sirva el resto frío como guarnición."
+ },
+ "l08-tofu-marine-salade-concombre-sesame": {
+  "t": "Tofu marinado a la plancha con ensalada de pepino y sésamo",
+  "i": [
+   "tofu firme",
+   "salsa de soja (sin alcohol)",
+   "jengibre rallado",
+   "ajo",
+   "pepino",
+   "vinagre de sidra",
+   "semillas de sésamo",
+   "aceite neutro",
+   "cebolleta",
+   "guindilla",
+   "eritritol"
+  ],
+  "s": [
+   "Prense el tofu 10 min y córtelo en 6 lonchas gruesas.",
+   "Mezcle la salsa de soja, el jengibre, el ajo rallado y 1 cucharada de aceite; marine el tofu 15 min dándole la vuelta.",
+   "Corte el pepino en rodajas finas y mézclelo con el vinagre, el eritritol, la guindilla, una pizca de sal y la mitad del sésamo.",
+   "Ase las lonchas de tofu en una sartén caliente con el resto del aceite de 3 a 4 min por cada lado, untándolas con la marinada.",
+   "Sirva el tofu sobre la ensalada de pepino, espolvoreado con la cebolleta y el resto del sésamo."
+  ],
+  "p": "La marinada se puede hacer por la mañana: el tofu tendrá aún más sabor por la noche."
+ },
+ "l08-pancakes-ricotta-framboises": {
+  "t": "Tortitas de ricota y frambuesas",
+  "i": [
+   "ricota",
+   "huevos",
+   "harina de almendra",
+   "levadura química",
+   "eritritol",
+   "aroma de vainilla sin alcohol",
+   "mantequilla",
+   "frambuesas",
+   "yogur griego"
+  ],
+  "s": [
+   "Bata la ricota con los huevos, el eritritol y la vainilla hasta obtener una mezcla lisa.",
+   "Añada la harina de almendra y la levadura, y mezcle sin trabajar demasiado. Deje reposar 5 min.",
+   "Caliente una sartén antiadherente a fuego medio-bajo con un poco de mantequilla.",
+   "Vierta cucharones pequeños de masa (8 cm), deje cocer de 2 a 3 min hasta que aparezcan burbujas, déles la vuelta con cuidado y cueza 1-2 min más.",
+   "Sirva con el yogur griego y las frambuesas."
+  ],
+  "p": "Estas tortitas son frágiles: manténgalas pequeñas y dé la vuelta con una espátula ancha."
+ },
+ "l08-crepes-jben-epinards": {
+  "t": "Crepes keto rellenos de jben y espinacas",
+  "i": [
+   "huevos",
+   "queso crema",
+   "harina de almendra",
+   "psyllium",
+   "jben",
+   "espinacas",
+   "cebolleta",
+   "mozzarella rallada",
+   "mantequilla",
+   "comino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Triture los huevos, el queso crema, la harina de almendra y el psyllium; deje reposar 5 min.",
+   "En una sartén de 20 cm ligeramente untada con mantequilla, a fuego medio, haga 6 crepes finos: de 1 a 2 min por cada lado. Apílelos.",
+   "Rehogue las espinacas con la cebolleta en un poco de mantequilla 3 min, escúrralas apretándolas, sale ligeramente y añada el comino.",
+   "Mezcle las espinacas con el jben desmenuzado y pimienta.",
+   "Rellene cada crepe, enróllelo y colóquelos en una fuente; espolvoree con la mozzarella.",
+   "Hornee de 8 a 10 min a 200 °C hasta que el queso gratine."
+  ],
+  "p": "Los crepes sin relleno se conservan 3 días en la nevera, separados con papel de horno."
+ },
+ "l08-courgettes-farcies-chevre-menthe": {
+  "t": "Calabacines rellenos de queso de cabra, menta y huevo",
+  "i": [
+   "calabacines",
+   "queso de cabra fresco",
+   "huevos",
+   "parmesano",
+   "menta",
+   "almendras laminadas",
+   "aceite de oliva",
+   "ajo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 190 °C. Corte los calabacines por la mitad a lo largo y vacíelos con una cuchara dejando 5 mm de pulpa.",
+   "Pique la pulpa retirada y sofríala 5 min en 1 cucharada de aceite con el ajo; déjela templar.",
+   "Mézclela con el queso de cabra, los huevos, la mitad del parmesano, la menta picada, sal y pimienta.",
+   "Sale el interior de las barquitas, rellénelas y colóquelas en una fuente engrasada con aceite.",
+   "Espolvoree con el resto del parmesano y las almendras laminadas, y hornee de 25 a 30 min hasta que el relleno esté dorado."
+  ],
+  "p": "Sustituya el queso de cabra por jben para una versión más suave que encanta a los niños."
+ },
+ "l08-salade-poulet-tandoori-raita": {
+  "t": "Ensalada de pollo tandoori y raita de pepino",
+  "i": [
+   "muslos de pollo deshuesados",
+   "yogur griego (marinada + raita)",
+   "especias tandoori",
+   "ajo",
+   "zumo de limón",
+   "pepino",
+   "menta",
+   "lechuga",
+   "cebolla roja",
+   "aceite de oliva",
+   "sal"
+  ],
+  "s": [
+   "Mezcle 80 g de yogur con las especias tandoori, el ajo rallado, el limón y la sal; cubra el pollo con esta mezcla y déjelo marinar al menos 30 min (lo ideal es toda la noche).",
+   "Precaliente el horno a 220 °C. Coloque el pollo en una bandeja engrasada con aceite y hornee de 18 a 20 min; después gratine 2 min para que se dore.",
+   "Prepare la raita: ralle el pepino, exprímalo y mézclelo con el resto del yogur, la menta picada y una pizca de sal.",
+   "Corte la lechuga y la cebolla roja en tiras finas.",
+   "Corte el pollo en lonchas y sírvalo sobre la ensalada, cubierto con la raita."
+  ],
+  "p": "El pollo marinado se puede congelar crudo: sáquelo la víspera para tener una cena lista en 20 min."
+ },
+ "l08-asperges-oeufs-mollets-parmesan": {
+  "t": "Espárragos verdes, huevos mollet y parmesano",
+  "i": [
+   "espárragos verdes",
+   "huevos",
+   "parmesano en virutas",
+   "mantequilla",
+   "aceite de oliva",
+   "zumo de limón",
+   "avellanas troceadas",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Rompa la base dura de los espárragos por donde se doble de forma natural.",
+   "Cueza los huevos 6 min y 30 s en agua hirviendo, enfríelos en agua con hielo y pélelos.",
+   "Saltee los espárragos en el aceite a fuego medio-fuerte de 6 a 8 min, rodándolos, hasta que estén tiernos y con color; sale.",
+   "Derrita la mantequilla hasta que tome un aroma a avellana y añada el zumo de limón.",
+   "Emplate los espárragos, coloque encima los huevos abiertos, rocíe con la mantequilla avellanada y espolvoree con el parmesano y las avellanas."
+  ],
+  "p": "Fuera de la temporada de espárragos, la receta funciona con judías verdes o brócoli."
+ },
+ "l08-curry-legumes-paneer-halloumi": {
+  "t": "Curry cremoso de verduras y halloumi estilo paneer",
+  "i": [
+   "halloumi",
+   "coliflor",
+   "judías verdes",
+   "espinacas",
+   "nata líquida",
+   "tomate triturado",
+   "cebolla pequeña",
+   "ajo",
+   "jengibre rallado",
+   "garam masala, cúrcuma, comino",
+   "ghee",
+   "cilantro",
+   "sal"
+  ],
+  "s": [
+   "Corte el halloumi en cubos de 2 cm y dórelos en 1 cucharada de ghee de 4 a 5 min; resérvelos.",
+   "Sofría la cebolla picada en el resto del ghee 4 min, y después el ajo y el jengibre 1 min.",
+   "Añada las especias, remueva 30 s, vierta el tomate y deje reducir 5 min.",
+   "Añada la coliflor en ramilletes pequeños, las judías verdes cortadas en trozos y 100 ml de agua; tape y cueza 10 min.",
+   "Vierta la nata, añada las espinacas y el halloumi, y deje hervir a fuego lento 3 min. Pruebe antes de salar: el halloumi ya es salado.",
+   "Espolvoree con cilantro y sirva."
+  ],
+  "p": "El halloumi sustituye muy bien al paneer indio, difícil de encontrar en Marruecos, y mantiene su forma en la salsa."
+ },
+ "l08-cake-sale-olives-feta": {
+  "t": "Cake salado de aceitunas, feta y hierbas",
+  "i": [
+   "huevos",
+   "harina de almendra",
+   "levadura química",
+   "feta",
+   "aceitunas verdes sin hueso",
+   "aceite de oliva",
+   "yogur griego",
+   "emmental rallado",
+   "perejil y tomillo",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y forre un molde de plum cake con papel de horno.",
+   "Bata los huevos con el aceite y el yogur griego.",
+   "Añada la harina de almendra, la levadura y la pimienta, y mezcle hasta obtener una masa homogénea.",
+   "Incorpore la feta en dados, las aceitunas cortadas en rodajas, el emmental y las hierbas picadas.",
+   "Vierta la masa en el molde y hornee 40 min: la punta de un cuchillo debe salir seca.",
+   "Deje enfriar 15 min antes de desmoldar y cortar."
+  ],
+  "p": "Cortado en rebanadas se congela muy bien; perfecto para el aperitivo o la merienda."
+ },
+ "l08-salade-thon-haricots-verts-oeuf": {
+  "t": "Ensalada templada de judías verdes, atún y huevos con mostaza",
+  "i": [
+   "judías verdes",
+   "latas de atún en aceite escurrido",
+   "huevos",
+   "cebolla roja",
+   "mostaza a la antigua",
+   "aceite de oliva",
+   "vinagre de sidra",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Cueza los huevos 9 min, enfríelos y pélelos.",
+   "Cueza las judías verdes de 7 a 8 min en agua hirviendo con sal; deben quedar ligeramente crujientes. Escúrralas.",
+   "Bata la mostaza, el vinagre, el aceite, sal y pimienta; añada la cebolla roja cortada muy fina.",
+   "Vierta la vinagreta sobre las judías aún templadas para que se impregnen.",
+   "Añada el atún en trozos, los huevos en cuartos y el perejil picado."
+  ],
+  "p": "Servida templada o fría, se transporta muy bien en un tupper para el almuerzo."
+ },
+ "l08-omelette-espagnole-chou-fleur": {
+  "t": "Tortilla española de coliflor y pimiento",
+  "i": [
+   "huevos",
+   "coliflor",
+   "pimiento rojo",
+   "cebolla",
+   "aceite de oliva",
+   "emmental rallado",
+   "pimentón ahumado",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte la coliflor en láminas finas de 5 mm y precuézala 5 min al vapor.",
+   "En una sartén antiadherente de 24 cm, sofría la cebolla y el pimiento cortados en tiras en 2 cucharadas de aceite durante 5 min, añada la coliflor y dore 5 min.",
+   "Bata los huevos con el emmental, el pimentón, el perejil, sal y pimienta; viértalos sobre las verduras.",
+   "Cueza 8 min a fuego suave con la tapa puesta, despegando los bordes con una espátula.",
+   "Dé la vuelta a la tortilla con ayuda de un plato, añada el resto del aceite y cueza otros 3-4 min.",
+   "Deje templar 5 min y corte en porciones."
+  ],
+  "p": "También se puede tomar fría al día siguiente, en cubos, para el aperitivo o el picnic."
+ },
+ "l08-salade-roquette-halloumi-avocat-graines": {
+  "t": "Ensalada de rúcula, halloumi, aguacate y semillas",
+  "i": [
+   "halloumi",
+   "rúcula",
+   "aguacate",
+   "huevos",
+   "pipas de girasol",
+   "pipas de calabaza",
+   "aceite de oliva",
+   "zumo de limón",
+   "mostaza",
+   "pimienta"
+  ],
+  "s": [
+   "Cueza los huevos 8 min, enfríelos y pélelos.",
+   "Tueste las semillas en seco 2 min en una sartén; resérvelas.",
+   "Corte el halloumi en bastones y dórelos de 1 a 2 min por cada lado en la misma sartén bien caliente.",
+   "Bata el aceite, el limón, la mostaza y la pimienta.",
+   "Mezcle la rúcula con la vinagreta, añada el aguacate en láminas, los huevos en cuartos, el halloumi caliente y las semillas."
+  ],
+  "p": "En verano, añada unas fresas laminadas para un toque agridulce."
+ },
+ "l08-tofu-kefta-tomate-oeufs": {
+  "t": "Albóndigas de tofu con especias de kefta, salsa de tomate y huevos",
+  "i": [
+   "tofu firme",
+   "huevos (1 para las albóndigas)",
+   "harina de almendra",
+   "parmesano rallado",
+   "tomate triturado",
+   "cebolla pequeña",
+   "ajo",
+   "comino, pimentón, ras el hanout",
+   "perejil y cilantro",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Prense el tofu 10 min en un paño y después desmenúcelo muy fino.",
+   "Mézclelo con 1 huevo, la harina de almendra, el parmesano, la mitad de las especias y de las hierbas picadas, sal y pimienta. Forme 16 albóndigas.",
+   "Dórelas en 2 cucharadas de aceite de 6 a 8 min, dándoles la vuelta con cuidado; resérvelas.",
+   "En un tajín o en una sartén honda, sofría la cebolla picada y el ajo en el resto del aceite, añada el resto de las especias y el tomate; deje hervir a fuego lento 8 min.",
+   "Añada las albóndigas, case los 4 huevos restantes en la salsa, tape y cueza de 6 a 7 min.",
+   "Espolvoree con el resto de las hierbas y sirva bien caliente."
+  ],
+  "p": "Versión inspirada en el tajín de kefta con huevos, totalmente vegetariana y rica en proteínas."
+ },
+ "l08-salade-dinde-fumee-chou-noix": {
+  "t": "Ensalada crujiente de pavo ahumado, repollo y nueces",
+  "i": [
+   "pavo ahumado",
+   "repollo blanco",
+   "emmental en dados",
+   "nueces",
+   "mayonesa",
+   "yogur griego",
+   "mostaza",
+   "pepinillos",
+   "cebollino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el repollo blanco en juliana muy fina y sálelo ligeramente; déjelo 10 min y después exprímalo para ablandarlo.",
+   "Mezcle la mayonesa, el yogur, la mostaza, sal y pimienta.",
+   "Corte el pavo ahumado en tiras y los pepinillos en rodajas.",
+   "Mezcle el repollo, el pavo, el emmental, los pepinillos y la salsa.",
+   "Espolvoree con las nueces troceadas y el cebollino en el momento de servir."
+  ],
+  "p": "Al no requerir cocción, es la idea perfecta para las noches con prisa o para un almuerzo en la oficina."
+ },
+ "l08-gratin-aubergines-feta-menthe": {
+  "t": "Gratinado de berenjenas con feta y huevos",
+  "i": [
+   "berenjenas",
+   "feta",
+   "huevos",
+   "yogur griego",
+   "aceite de oliva",
+   "ajo",
+   "menta",
+   "comino",
+   "emmental rallado",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Corte las berenjenas en rodajas de 1 cm, úntelas con aceite y áselas 20 min.",
+   "Bata los huevos con el yogur, el ajo rallado, el comino, la menta picada y pimienta.",
+   "Disponga las berenjenas en una fuente, solapándolas, y espolvoree con la feta desmenuzada.",
+   "Vierta la mezcla de huevos y espolvoree con el emmental.",
+   "Baje el horno a 180 °C y hornee 20 min, hasta que la mezcla esté cuajada y dorada."
+  ],
+  "p": "El yogur hace la mezcla ligera y ligeramente ácida: es el espíritu de una musaka vegetariana."
+ },
+ "l08-poke-bowl-thon-konjac": {
+  "t": "Bowl de atún marinado, arroz de konjac y aguacate",
+  "i": [
+   "atún fresco muy fresco",
+   "arroz de konjac",
+   "aguacate",
+   "pepino",
+   "salsa de soja (sin alcohol)",
+   "semillas de sésamo",
+   "aceite de sésamo o neutro",
+   "jengibre rallado",
+   "hoja de nori",
+   "cebolleta",
+   "zumo de lima"
+  ],
+  "s": [
+   "Corte el atún en cubos de 1,5 cm y déjelo marinar 10 min en la nevera con la salsa de soja, el aceite, el jengibre y la lima.",
+   "Aclare abundantemente el arroz de konjac, hiérvalo 2 min y séquelo 3 min en seco en una sartén caliente.",
+   "Corte el aguacate y el pepino en dados, la cebolleta en rodajas y el nori en tiras finas.",
+   "Reparta el konjac en dos boles, añada el atún marinado, el aguacate y el pepino.",
+   "Espolvoree con el sésamo, la cebolleta y el nori, y rocíe con el resto de la marinada."
+  ],
+  "p": "El atún debe ser de calidad sashimi; si no, séllelo 30 s por cada lado antes de cortarlo."
+ },
+ "l08-feta-rotie-legumes-oeufs": {
+  "t": "Feta al horno con verduras mediterráneas y huevos",
+  "i": [
+   "bloque de feta",
+   "tomates cherry",
+   "calabacín",
+   "pimiento verde",
+   "huevos",
+   "aceitunas negras",
+   "aceite de oliva",
+   "orégano y tomillo",
+   "ajo",
+   "albahaca",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Corte el calabacín y el pimiento en trozos de 2 cm.",
+   "Ponga las verduras, los tomates cherry, las aceitunas y el ajo picado en una fuente, rocíe con aceite, añada las hierbas y la pimienta; mezcle.",
+   "Coloque el bloque de feta en el centro y hornee 20 min.",
+   "Saque la fuente, haga 4 huecos entre las verduras y case en ellos los huevos.",
+   "Devuélvala al horno de 8 a 10 min hasta que las claras cuajen.",
+   "Aplaste ligeramente la feta entre las verduras, espolvoree con albahaca y sirva."
+  ],
+  "p": "Un plato único sin vigilancia: todo se cuece en la misma fuente y se friega lo mínimo."
+ },
+ "l09-harira-keto-poulet": {
+  "t": "Harira keto de pollo y apio",
+  "i": [
+   "pechuga de pollo en dados pequeños",
+   "tallos de apio con hojas",
+   "tomate triturado",
+   "concentrado de tomate",
+   "cebolla rallada",
+   "cilantro fresco picado",
+   "perejil liso picado",
+   "smen",
+   "mezcla de jengibre, cúrcuma y canela",
+   "huevos batidos",
+   "caldo de ave",
+   "zumo de limón",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "En una olla grande, derrita el smen a fuego medio y sofría la cebolla rallada 3 minutos.",
+   "Añada los dados de pollo, las especias, la sal y la pimienta; remueva 4 minutos hasta que el pollo se ponga blanco.",
+   "Añada el apio cortado fino, la mitad del cilantro y del perejil, el tomate triturado y el concentrado diluido en un poco de caldo.",
+   "Vierta el caldo, lleve a ebullición y deje cocer a fuego suave, tapado, 35 minutos.",
+   "Triture rápidamente un cucharón de verduras y devuélvalo a la sopa para espesarla (sustituye a la harina).",
+   "Fuera del fuego, vierta los huevos batidos en un hilo fino removiendo suavemente con un tenedor para formar hilachas.",
+   "Añada el resto de las hierbas y el zumo de limón, rectifique de sazón y sirva bien caliente."
+  ],
+  "p": "Ideal para el ftur de Ramadán: sirva con unos dátiles para los miembros de la familia que no siguen la dieta keto. Se congela 2 meses sin los huevos."
+ },
+ "l09-veloute-chou-fleur-cumin": {
+  "t": "Crema de coliflor al comino",
+  "i": [
+   "coliflor en ramilletes",
+   "cebolla en juliana",
+   "mantequilla",
+   "nata líquida",
+   "caldo de verduras",
+   "comino molido",
+   "cebollino picado",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Derrita la mantequilla en una cacerola y rehogue la cebolla 3 minutos sin que tome color.",
+   "Añada el comino y tuéstelo 30 segundos removiendo.",
+   "Añada los ramilletes de coliflor y el caldo, lleve a ebullición y cueza 20 minutos tapado.",
+   "Triture finamente añadiendo la nata, hasta obtener una textura aterciopelada; sale y pimienta.",
+   "Sirva espolvoreada con cebollino y una pizca de comino."
+  ],
+  "p": "Para una crema más saciante, añada dados de cachir de pavo salteados en el momento de servir."
+ },
+ "l09-veloute-courgette-fromage-frais": {
+  "t": "Crema de calabacín con queso fresco y albahaca",
+  "i": [
+   "calabacines en rodajas",
+   "queso fresco para untar",
+   "ajo",
+   "aceite de oliva",
+   "caldo de verduras",
+   "albahaca fresca",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Caliente el aceite en una cacerola y sofría el ajo machacado 1 minuto.",
+   "Añada los calabacines sin pelar y remueva 3 minutos a fuego fuerte.",
+   "Vierta el caldo (debe cubrirlos justo), sale y cueza 15 minutos.",
+   "Añada el queso fresco y las hojas de albahaca, y triture hasta que quede lisa.",
+   "Rectifique de sazón y sirva caliente, o fría en verano."
+  ],
+  "p": "No ponga demasiado caldo: los calabacines sueltan mucha agua. Se conserva 3 días en la nevera."
+ },
+ "l09-soupe-brocoli-cheddar": {
+  "t": "Sopa de brócoli con cheddar",
+  "i": [
+   "brócoli en ramilletes pequeños",
+   "cebolla pequeña picada",
+   "mantequilla",
+   "caldo de verduras",
+   "nata líquida",
+   "cheddar rallado",
+   "mostaza",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Derrita la mantequilla y rehogue la cebolla 3 minutos.",
+   "Añada el brócoli (incluidos los tallos pelados y cortados en dados) y el caldo; cueza 15 minutos tapado.",
+   "Reserve unos ramilletes pequeños para decorar y triture el resto de forma no muy fina.",
+   "Vuelva a poner a fuego suave, añada la nata y la mostaza, y después el cheddar por puñados removiendo hasta que se derrita, sin dejar que hierva.",
+   "Añada los ramilletes reservados, pimienta y sirva enseguida."
+  ],
+  "p": "No deje nunca que hierva después de añadir el queso, o hará hebras. Un resto de pollo deshebrado la convierte en una cena completa."
+ },
+ "l09-chorba-boeuf-celeri-navet": {
+  "t": "Chorba de ternera con apio y nabo",
+  "i": [
+   "ternera para guisar en cubitos",
+   "tallos de apio",
+   "nabo en dados",
+   "tomate rallado",
+   "cebolla picada",
+   "cilantro picado",
+   "smen",
+   "ras el hanout, cúrcuma, jengibre",
+   "agua",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "En una olla, derrita el smen y selle la ternera 5 minutos con la cebolla.",
+   "Añada las especias, la sal, la pimienta y el tomate rallado; remueva 2 minutos.",
+   "Vierta el agua, lleve a ebullición, retire la espuma y deje cocer a fuego suave, tapado, 60 minutos (o 25 minutos en olla a presión).",
+   "Añada el nabo y el apio en dados pequeños y siga cociendo 25 minutos hasta que el nabo esté tierno.",
+   "Añada el cilantro al final de la cocción y rectifique de sal. Sirva bien caliente."
+  ],
+  "p": "El nabo sustituye a la patata sin disparar los carbohidratos. Prepare una buena cantidad: la chorba está aún mejor recalentada."
+ },
+ "l09-soupe-thai-crevettes-coco": {
+  "t": "Sopa tailandesa de gambas y leche de coco",
+  "i": [
+   "gambas peladas",
+   "leche de coco",
+   "caldo de pescado o de ave",
+   "champiñones laminados",
+   "jengibre fresco rallado",
+   "ajo",
+   "zumo de lima",
+   "cilantro",
+   "guindilla roja pequeña",
+   "salsa de soja (sin alcohol)",
+   "sal"
+  ],
+  "s": [
+   "En una cacerola, lleve el caldo a ebullición suave con el jengibre, el ajo machacado y la guindilla picada; deje en infusión 5 minutos.",
+   "Añada la leche de coco y los champiñones, y deje cocer a fuego suave 5 minutos sin que hierva fuerte.",
+   "Añada las gambas y cueza 3 minutos, hasta que se pongan rosadas.",
+   "Fuera del fuego, añada la salsa de soja y el zumo de lima; pruebe y ajuste la sal.",
+   "Sirva en boles espolvoreados con cilantro fresco."
+  ],
+  "p": "Las gambas congeladas sirven: descongélelas en la nevera la víspera y séquelas bien."
+ },
+ "l09-veloute-champignons-ail": {
+  "t": "Crema de champiñones al ajo",
+  "i": [
+   "champiñones",
+   "cebolla",
+   "ajo",
+   "mantequilla",
+   "nata líquida",
+   "caldo de verduras",
+   "perejil picado",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Limpie los champiñones y lamínelos; reserve 4 para el acabado.",
+   "Derrita la mantequilla, añada la cebolla y el ajo picados y sofría 3 minutos.",
+   "Añada los champiñones y dórelos 8 minutos a fuego fuerte hasta que se evapore su agua.",
+   "Vierta el caldo y cueza 10 minutos, después triture con la nata; sale y pimienta.",
+   "Saltee rápidamente los champiñones reservados en láminas y colóquelos sobre cada bol con el perejil."
+  ],
+  "p": "Dorar bien los champiñones antes de añadir el caldo da todo el sabor: no los amontone en la cacerola."
+ },
+ "l09-veloute-asperges": {
+  "t": "Crema de espárragos con nata",
+  "i": [
+   "espárragos verdes",
+   "parte blanca del puerro",
+   "mantequilla",
+   "nata fresca",
+   "caldo de verduras",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Rompa la base dura de los espárragos, corte las puntas y resérvelas; trocee los tallos.",
+   "Derrita la mantequilla y rehogue el puerro en rodajas 4 minutos.",
+   "Añada los tallos de espárrago y el caldo, y cueza 15 minutos tapado.",
+   "Mientras tanto, cueza las puntas 4 minutos en un poco de agua hirviendo con sal.",
+   "Triture la sopa con la nata fresca, sazone y sirva decorada con las puntas."
+  ],
+  "p": "Fuera de temporada, los espárragos congelados van muy bien para esta crema."
+ },
+ "l09-stracciatella-epinards": {
+  "t": "Sopa stracciatella de espinacas y parmesano",
+  "i": [
+   "huevos",
+   "parmesano rallado",
+   "caldo de ave o de verduras",
+   "espinacas baby",
+   "ajo",
+   "aceite de oliva",
+   "zumo de limón",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Bata los huevos con el parmesano, la pimienta y una pizca de sal.",
+   "En una cacerola, caliente el aceite, añada el ajo picado 30 segundos y vierta el caldo; lleve a ebullición.",
+   "Añada las espinacas y déjelas reducir 1 minuto.",
+   "Baje a fuego suave y vierta la mezcla de huevo y parmesano en un hilo fino removiendo despacio: formará pequeños jirones.",
+   "Deje 1 minuto sin remover, añada el limón y sirva de inmediato."
+  ],
+  "p": "Lista en 15 minutos, es la cena para las noches con prisa. Utilice caldo casero para más sabor."
+ },
+ "l09-veloute-potiron-coco": {
+  "t": "Crema de calabaza y coliflor con leche de coco",
+  "i": [
+   "calabaza en cubos",
+   "coliflor",
+   "leche de coco",
+   "jengibre rallado",
+   "cebolla pequeña",
+   "aceite de coco",
+   "caldo de verduras",
+   "pipas de calabaza tostadas",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Caliente el aceite de coco y sofría la cebolla y el jengibre 3 minutos.",
+   "Añada la calabaza y la coliflor, y remueva 2 minutos.",
+   "Vierta el caldo, sale y cueza 20 minutos tapado hasta que las verduras estén muy tiernas.",
+   "Añada la leche de coco y triture finamente; ajuste de sazón.",
+   "Sirva espolvoreada con las pipas de calabaza tostadas 2 minutos en seco en una sartén."
+  ],
+  "p": "La coliflor reduce los carbohidratos de la calabaza sin perder su dulzor. A los niños les encanta este color anaranjado."
+ },
+ "l09-soupe-poulet-konjac": {
+  "t": "Sopa de pollo con fideos de konjac",
+  "i": [
+   "muslos de pollo deshuesados",
+   "fideos de konjac escurridos",
+   "tallos de apio",
+   "zanahoria en rodajas finas",
+   "cebolla",
+   "ajo",
+   "caldo de ave",
+   "perejil picado",
+   "tomillo y laurel",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Ponga el pollo en el caldo frío con la cebolla partida por la mitad, el ajo y el tomillo y el laurel; lleve a ebullición y retire la espuma.",
+   "Deje cocer a fuego suave 25 minutos, retire el pollo y deshébrelo con un tenedor.",
+   "Añada al caldo el apio picado y la zanahoria, y cueza 10 minutos.",
+   "Aclare los fideos de konjac bajo agua fría 1 minuto y séquelos 2 minutos en una sartén sin grasa.",
+   "Devuelva el pollo y añada los fideos, deje calentar 3 minutos; sale, pimienta y añada el perejil."
+  ],
+  "p": "Aclarar y secar en la sartén elimina el olor del konjac. Reconfortante en invierno o cuando un niño está resfriado."
+ },
+ "l09-gaspacho-concombre-avocat": {
+  "t": "Gazpacho verde de pepino, aguacate y menta",
+  "i": [
+   "pepinos",
+   "aguacates maduros",
+   "yogur griego",
+   "menta fresca",
+   "zumo de limón",
+   "diente de ajo pequeño",
+   "aceite de oliva",
+   "agua muy fría",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Pele los pepinos dejando una tira sí y otra no, quíteles las semillas y córtelos en trozos.",
+   "Ponga en la batidora los pepinos, la pulpa de los aguacates, el yogur, la menta, el ajo y el zumo de limón.",
+   "Triture 1 minuto añadiendo el agua fría hasta lograr la consistencia deseada; sale y pimienta.",
+   "Refrigere al menos 30 minutos y sirva con un chorrito de aceite de oliva y unas hojas de menta."
+  ],
+  "p": "Perfecto en los días de mucho calor. Consúmalo en el día, porque el aguacate se oscurece."
+ },
+ "l09-veloute-celeri-rave-noisettes": {
+  "t": "Crema de apio nabo con avellanas",
+  "i": [
+   "apio nabo en cubos",
+   "coliflor",
+   "mantequilla",
+   "nata líquida",
+   "caldo de verduras",
+   "avellanas troceadas",
+   "nuez moscada",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Pele el apio nabo con un cuchillo y córtelo en cubos de 2 cm.",
+   "Sofría el apio nabo y la coliflor 3 minutos en la mantequilla.",
+   "Añada el caldo, sale y cueza 25 minutos tapado.",
+   "Mientras tanto, tueste las avellanas 3 minutos en seco en una sartén y después trocéelas.",
+   "Triture la sopa con la nata y la nuez moscada; sirva espolvoreada con las avellanas."
+  ],
+  "p": "Rocíe con limón el apio nabo pelado si tiene que esperar, porque se oscurece rápido con el aire."
+ },
+ "l09-soupe-kefta-courgettes": {
+  "t": "Sopa de albóndigas de kefta con calabacín",
+  "i": [
+   "carne picada para kefta",
+   "calabacines en dados",
+   "tomate triturado",
+   "cebolla rallada",
+   "cilantro",
+   "perejil",
+   "comino, pimentón, canela",
+   "aceite de oliva",
+   "agua",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Mezcle la kefta con la mitad de las hierbas picadas, la mitad de las especias, sal y pimienta; forme albóndigas del tamaño de una nuez.",
+   "En una olla, caliente el aceite y sofría la cebolla 3 minutos con el resto de las especias.",
+   "Añada el tomate triturado y el agua, y lleve a ebullición.",
+   "Sumerja las albóndigas con cuidado y cueza 15 minutos a fuego suave sin remover.",
+   "Añada los dados de calabacín y siga cociendo 10 minutos.",
+   "Espolvoree con el resto de las hierbas y sirva."
+  ],
+  "p": "Forme las albóndigas con las manos húmedas para que no se peguen. Se congelan crudas sobre una bandeja."
+ },
+ "l09-veloute-epinards-jben": {
+  "t": "Crema de espinacas y calabacín con jben",
+  "i": [
+   "espinacas frescas o congeladas",
+   "calabacines",
+   "jben (queso fresco marroquí)",
+   "ajo",
+   "aceite de oliva",
+   "caldo de verduras",
+   "nuez moscada",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Sofría el ajo en el aceite 1 minuto y añada los calabacines en rodajas 3 minutos.",
+   "Añada el caldo y cueza 10 minutos.",
+   "Añada las espinacas y cueza otros 5 minutos.",
+   "Triture con 100 g de jben y la nuez moscada; sale y pimienta.",
+   "Sirva desmenuzando el resto del jben sobre cada bol."
+  ],
+  "p": "El jben aporta una acidez agradable; si no lo encuentra, utilice feta reduciendo la sal."
+ },
+ "l09-chaudree-saumon-aneth": {
+  "t": "Chowder de salmón al eneldo",
+  "i": [
+   "lomos de salmón sin piel",
+   "coliflor en dados pequeños",
+   "tallos de apio",
+   "parte blanca del puerro",
+   "mantequilla",
+   "nata líquida",
+   "caldo de pescado",
+   "eneldo fresco",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Derrita la mantequilla y rehogue el puerro y el apio picados 5 minutos.",
+   "Añada la coliflor y el caldo, y cueza 12 minutos.",
+   "Triture un cucharón de la mezcla con la nata y devuélvalo a la cacerola para ligar la sopa.",
+   "Añada el salmón en cubos de 3 cm y déjelo escalfar 5 minutos a fuego muy suave.",
+   "Añada el eneldo picado, sale, pimienta y sirva sin esperar."
+  ],
+  "p": "La coliflor en dados imita la patata del chowder clásico. No deje hervir después de añadir el salmón."
+ },
+ "l09-soupe-chou-boeuf-hache": {
+  "t": "Sopa de repollo con ternera picada",
+  "i": [
+   "ternera picada",
+   "repollo blanco en juliana",
+   "tomate triturado",
+   "cebolla",
+   "ajo",
+   "pimentón y comino",
+   "aceite de oliva",
+   "caldo de ternera",
+   "perejil",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "En una olla, caliente el aceite y dore la ternera picada 6 minutos desmenuzándola.",
+   "Añada la cebolla y el ajo picados y las especias, y remueva 2 minutos.",
+   "Añada el repollo en juliana y remueva hasta que empiece a reducirse.",
+   "Vierta el tomate triturado y el caldo, sale, pimienta y deje hervir a fuego suave 25 minutos tapado.",
+   "Espolvoree con perejil y sirva."
+  ],
+  "p": "Se conserva 4 días en la nevera y se congela muy bien en raciones individuales."
+ },
+ "l09-veloute-fenouil-parmesan": {
+  "t": "Crema de hinojo con parmesano",
+  "i": [
+   "bulbos de hinojo",
+   "cebolla pequeña",
+   "aceite de oliva",
+   "caldo de verduras",
+   "nata líquida",
+   "parmesano rallado",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Corte los bulbos de hinojo en láminas, reservando unas hojitas verdes para decorar.",
+   "Sofría la cebolla y el hinojo en el aceite 5 minutos sin que tomen color.",
+   "Añada el caldo y cueza 20 minutos tapado.",
+   "Triture con la nata y la mitad del parmesano; pimienta.",
+   "Sirva con el resto del parmesano y las hojitas de hinojo."
+  ],
+  "p": "El hinojo cocido pierde su fuerte sabor anisado: incluso quienes no lo toleran crudo disfrutan de esta crema."
+ },
+ "l09-soupe-tofu-champignons-gingembre": {
+  "t": "Caldo de tofu, champiñones y jengibre",
+  "i": [
+   "tofu firme en cubos",
+   "champiñones laminados",
+   "huevos batidos",
+   "caldo de verduras",
+   "jengibre rallado",
+   "salsa de soja (sin alcohol)",
+   "cebolletas",
+   "hoja de nori en tiras",
+   "aceite",
+   "semillas de sésamo"
+  ],
+  "s": [
+   "Caliente el aceite en una cacerola y sofría el jengibre y la parte blanca de las cebolletas 1 minuto.",
+   "Añada los champiñones, remueva 3 minutos y vierta el caldo y la salsa de soja; lleve a ebullición suave.",
+   "Añada el tofu y deje calentar 5 minutos.",
+   "Vierta los huevos batidos en un hilo fino removiendo despacio.",
+   "Sirva espolvoreado con la parte verde de las cebolletas, las tiras de nori y el sésamo."
+  ],
+  "p": "Elija un tofu firme que aguante la cocción. Añada un poco de harissa para quienes lo prefieren picante."
+ },
+ "l09-puree-chou-fleur-beurre": {
+  "t": "Puré de coliflor cremoso con mantequilla",
+  "i": [
+   "coliflor grande",
+   "mantequilla",
+   "crema fresca espesa",
+   "parmesano rallado",
+   "nuez moscada",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Separe la coliflor en ramilletes y cuézala al vapor de 12 a 15 minutos, hasta que un cuchillo entre sin resistencia.",
+   "Escúrrala bien y déjela 3 minutos soltando vapor en el colador para eliminar el agua.",
+   "Triture con la mantequilla, la crema y el parmesano hasta obtener una textura lisa.",
+   "Sazone con sal, pimienta y nuez moscada; sirva caliente."
+  ],
+  "p": "La cocción al vapor evita un puré aguado. Acompaña perfectamente un asado o unas albóndigas en salsa."
+ },
+ "l09-puree-celeri-rave-ail-roti": {
+  "t": "Puré de apio nabo con ajo asado",
+  "i": [
+   "apio nabo",
+   "coliflor",
+   "ajo con piel",
+   "mantequilla",
+   "nata líquida",
+   "aceite de oliva",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Envuelva en papel de aluminio los dientes de ajo sin pelar con un chorrito de aceite y áselos 25 minutos.",
+   "Mientras tanto, cueza el apio nabo en cubos y la coliflor 20 minutos en agua hirviendo con sal.",
+   "Escurra bien y exprima el ajo asado para sacarlo de su piel.",
+   "Triture las verduras, el ajo, la mantequilla y la nata caliente; sale y pimienta generosamente."
+  ],
+  "p": "La mezcla de apio nabo y coliflor mantiene bajos los carbohidratos y da una auténtica textura de puré."
+ },
+ "l09-riz-chou-fleur-saute": {
+  "t": "Arroz de coliflor salteado con hierbas",
+  "i": [
+   "coliflor",
+   "aceite de oliva",
+   "ajo",
+   "perejil",
+   "cilantro",
+   "zumo de limón",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Ralle la coliflor con el rallador de agujeros grandes o tritúrela a golpes hasta obtener granos del tamaño del arroz.",
+   "Caliente el aceite en una sartén grande a fuego fuerte y añada el ajo picado 30 segundos.",
+   "Añada la coliflor y saltéela de 5 a 6 minutos removiendo, sin tapar, hasta que esté tierna pero aún firme.",
+   "Fuera del fuego, añada las hierbas picadas y el limón; sale y pimienta."
+  ],
+  "p": "No tape la sartén o el arroz quedará pastoso. La coliflor rallada cruda se congela plana en una bolsa."
+ },
+ "l09-semoule-chou-fleur-couscous": {
+  "t": "Sémola de coliflor estilo cuscús",
+  "i": [
+   "coliflor",
+   "smen o mantequilla",
+   "mantequilla",
+   "ras el hanout",
+   "almendras laminadas",
+   "sal"
+  ],
+  "s": [
+   "Triture la coliflor cruda a pequeños golpes para obtener una sémola muy fina.",
+   "Cueza la sémola 6 minutos al vapor en la parte superior de la cuscusera.",
+   "Viértala en una fuente grande, añada el smen, la mantequilla, la sal y el ras el hanout, y desgrane con un tenedor.",
+   "Dore las almendras 2 minutos en seco en una sartén y espolvoréelas sobre la sémola."
+  ],
+  "p": "Sírvala bajo un tajín o con las verduras y la carne de un cuscús de viernes: el caldo la perfuma."
+ },
+ "l09-frites-celeri-rave-four": {
+  "t": "Patatas fritas de apio nabo al horno",
+  "i": [
+   "apio nabo mediano",
+   "aceite de oliva",
+   "pimentón ahumado y ajo en polvo",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Precaliente el horno a 220 °C con aire y cubra una bandeja con papel de horno.",
+   "Pele el apio nabo y córtelo en bastones de 1 cm de grosor.",
+   "Mezcle los bastones con el aceite, el pimentón y el ajo en polvo.",
+   "Extiéndalos sin que se superpongan y hornee 35 minutos dándoles la vuelta a mitad de cocción.",
+   "Sale al sacarlos del horno y sirva enseguida."
+  ],
+  "p": "Con 500 g de apio nabo, los carbohidratos siguen siendo razonables: cuente una ración por persona, no más. En freidora de aire: 18 minutos a 200 °C."
+ },
+ "l09-frites-courgette-parmesan": {
+  "t": "Bastones de calabacín empanados con parmesano",
+  "i": [
+   "calabacines",
+   "huevo",
+   "parmesano rallado fino",
+   "harina de almendra",
+   "orégano y pimentón",
+   "aceite de oliva",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 220 °C. Corte los calabacines en bastones, sálelos y déjelos soltar agua 10 minutos; después séquelos.",
+   "Mezcle el parmesano, la harina de almendra y las especias en un plato; bata el huevo en otro.",
+   "Pase cada bastón por el huevo y después rebócelo en el empanado.",
+   "Colóquelos en una bandeja engrasada con aceite, rocíe con un chorrito de aceite y hornee de 18 a 20 minutos hasta que estén dorados.",
+   "Sirva con una salsa de yogur y ajo o con mayonesa."
+  ],
+  "p": "El paso de soltar el agua es imprescindible para que el empanado quede crujiente."
+ },
+ "l09-gratin-chou-fleur-emmental": {
+  "t": "Gratinado de coliflor con emmental",
+  "i": [
+   "coliflor grande",
+   "nata líquida",
+   "huevo",
+   "emmental rallado",
+   "mostaza",
+   "mantequilla",
+   "nuez moscada",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Cueza los ramilletes de coliflor 8 minutos en agua hirviendo con sal; escúrralos bien.",
+   "Unte con mantequilla una fuente de horno y disponga en ella la coliflor.",
+   "Bata la nata, el huevo, la mostaza, la mitad del emmental, la nuez moscada, la sal y la pimienta.",
+   "Vierta sobre la coliflor y espolvoree con el resto del queso.",
+   "Hornee de 25 a 30 minutos hasta que la superficie esté bien dorada."
+  ],
+  "p": "Se prepara la víspera y se gratina en el último momento. Añada cachir de pavo en dados para convertirlo en un plato completo."
+ }
+}

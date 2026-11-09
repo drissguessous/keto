@@ -1,0 +1,228 @@
+{
+ "PROGRAM": [
+  {
+   "week": 1,
+   "title": "Getting started",
+   "subtitle": "Easing off sugar gently",
+   "text": "In the first week, the body uses up its glucose reserves. Fatigue, headaches or irritability may appear around day 2 to 4: this is normal and temporary. Eat until you are satisfied, drink plenty of water and add salt, magnesium and potassium (avocado, spinach, broth).",
+   "goals": [
+    "Stay under the net carb limit every day",
+    "Drink at least 2 liters of water a day",
+    "Add a little more salt to your dishes (broth, salted water) against the “keto flu”",
+    "Clear out the cupboards: sugar, white bread, cakes, sodas"
+   ]
+  },
+  {
+   "week": 2,
+   "title": "Adaptation",
+   "subtitle": "The body learns to burn fat",
+   "text": "Energy comes back and hunger often decreases. This is the right time to set up routines: shopping with a list, meals prepared in advance, and a high-protein breakfast.",
+   "goals": [
+    "Plan your meals the day before (batch cooking on the weekend)",
+    "Reach your protein target at every meal",
+    "Replace sugary snacks with nuts, olives or cheese",
+    "Walk 20 to 30 minutes a day"
+   ]
+  },
+  {
+   "week": 3,
+   "title": "Consolidation",
+   "subtitle": "Fine-tuning and adding variety",
+   "text": "Your weight may stall for a few days: this is common (water, hormonal cycle). Look at the trend over several weeks, your measurements and your energy rather than a single number.",
+   "goals": [
+    "Try 3 new recipes from the app",
+    "Weigh yourself 1 to 2 times a week, always in the morning on an empty stomach",
+    "Listen to your hunger: do not eat out of habit",
+    "Prepare a plan for outings (restaurant, invitations)"
+   ]
+  },
+  {
+   "week": 4,
+   "title": "Lasting routine",
+   "subtitle": "Making keto a way of life",
+   "text": "You now have the right reflexes. Keep tracking your weight and your energy. If you wish to come off keto, reintroduce carbs gradually (berries, legumes) while paying attention to how you feel.",
+   "goals": [
+    "Build your own plates: protein + green vegetables + good fat",
+    "Keep 2 or 3 “wild card” recipes always within reach",
+    "Review your progress in the Tracking tab",
+    "Decide what comes next: continue, or gently reintroduce some carbs"
+   ]
+  }
+ ],
+ "TIPS": [
+  "A salty broth or a pinch of salt in your water helps a lot against the fatigue of the first days.",
+  "“Net” carbs = total carbs – fiber. These are the ones you count.",
+  "Beware of store-bought sauces: ketchup and barbecue sauces often contain a lot of sugar.",
+  "A hard-boiled egg and a few olives: the simplest keto snack there is.",
+  "Grated cauliflower is a great replacement for rice or semolina.",
+  "Prepare a large batch of kefta or chicken on Sunday for the whole week.",
+  "Mint tea is perfectly good without sugar… or with a few drops of stevia.",
+  "Read the labels: sugar hides under the names dextrose, maltodextrin and glucose syrup.",
+  "Green vegetables (spinach, zucchini, green beans) are your best allies: few carbs, lots of volume.",
+  "Sleep well: lack of sleep increases sugar cravings.",
+  "A cramp at night? Think of magnesium and potassium (avocado, almonds, spinach).",
+  "Olive oil, butter and avocado are quality fats. Avoid repeatedly used frying oils.",
+  "At a restaurant: grilled meat + salad + vegetables, with no bread or fries. Simple and effective.",
+  "Not hungry at breakfast? That is fine, keto often curbs morning hunger.",
+  "Berries (raspberries, strawberries) are still possible in small quantities.",
+  "Sweet dried fruits (dates, dried figs, raisins) are to be avoided: very high in sugar.",
+  "A square of 85 % dark chocolate can calm a sweet craving.",
+  "Daily weighing makes your mood go up and down: look at the weekly trend instead.",
+  "Always keep eggs, tuna and avocado at home: a meal in 10 minutes.",
+  "Chew slowly: it takes about 20 minutes for fullness to arrive.",
+  "Milk contains sugar (lactose). Prefer cream, unsweetened almond milk or coconut milk.",
+  "Move after the meal: 10 minutes of walking improves digestion and blood sugar.",
+  "Spices (cumin, paprika, ras el hanout, turmeric) add flavor without carbs.",
+  "Celebrations and invitations are coming: eat before you leave to avoid temptation.",
+  "A slip does not cancel your efforts. Simply pick up again at the next meal.",
+  "Cheese is handy but calorie-dense: watch the quantities if your weight stalls.",
+  "“Zero” drinks still taste sweet: limit them to reduce sugar cravings.",
+  "Congratulate yourself: every day you stick with it is a victory. Share your favorite recipes with the family!"
+ ],
+ "FOODS": {
+  "oui": [
+   [
+    "🥩",
+    "Meat and poultry",
+    "beef, lamb, chicken, turkey, homemade kefta"
+   ],
+   [
+    "🐟",
+    "Fish and seafood",
+    "sardines, salmon, tuna, shrimp, whiting"
+   ],
+   [
+    "🥚",
+    "Eggs",
+    "as many as you like, in any form"
+   ],
+   [
+    "🥑",
+    "Good fats",
+    "olive oil, butter, smen, avocado, coconut oil, olives"
+   ],
+   [
+    "🥬",
+    "Green vegetables",
+    "spinach, zucchini, salad, cucumber, broccoli, cauliflower, bell peppers"
+   ],
+   [
+    "🧀",
+    "Cheese and cream",
+    "aged cheeses, crème fraîche, mascarpone, plain Greek yogurt"
+   ],
+   [
+    "🌰",
+    "Nuts and seeds",
+    "almonds, walnuts, hazelnuts, chia, flax and pumpkin seeds"
+   ],
+   [
+    "🍓",
+    "Berries",
+    "raspberries, strawberries, blackberries (small portions)"
+   ],
+   [
+    "🌿",
+    "Herbs and spices",
+    "mint, cilantro, parsley, cumin, ras el hanout, preserved lemon"
+   ]
+  ],
+  "modere": [
+   [
+    "🍅",
+    "Tomatoes, onions, carrots",
+    "in small amounts for flavor"
+   ],
+   [
+    "🥛",
+    "Milk",
+    "contains lactose, prefer cream or almond milk"
+   ],
+   [
+    "🥜",
+    "Peanuts, cashews",
+    "higher in carbs than almonds"
+   ],
+   [
+    "🍫",
+    "Dark chocolate 85 % and above",
+    "one or two squares"
+   ]
+  ],
+  "non": [
+   [
+    "🍞",
+    "Regular bread, msemen, baghrir",
+    "made with wheat flour: see the keto versions"
+   ],
+   [
+    "🍚",
+    "Rice, pasta, semolina, couscous",
+    "replace with cauliflower or zucchini"
+   ],
+   [
+    "🥔",
+    "Potatoes, sweet potatoes",
+    "too rich in starch"
+   ],
+   [
+    "🫘",
+    "Legumes",
+    "lentils, chickpeas, dried beans"
+   ],
+   [
+    "🍬",
+    "Sugar and pastries",
+    "sugar, honey, jam, cakes, chebakia"
+   ],
+   [
+    "🍌",
+    "Sweet fruits and dried fruits",
+    "banana, grapes, dates, dried figs, fruit juices"
+   ],
+   [
+    "🥤",
+    "Sugary drinks",
+    "sodas, juices, sweetened tea"
+   ]
+  ]
+ },
+ "FAQ": [
+  [
+   "What is keto?",
+   "A very low-carb way of eating (often under 20 to 30 g net carbs a day), moderate in protein and rich in good fats. The body then uses fat as its main source of energy."
+  ],
+  [
+   "What is the “keto flu”?",
+   "Fatigue, headaches or nausea during the first days, linked to the loss of water and minerals. Drink plenty of water, salt your dishes, have a broth. It usually passes in less than a week."
+  ],
+  [
+   "How long until I see results?",
+   "In the first week, you mostly lose water. After that, the loss is slower and steadier. Allow at least 4 weeks before doing a real review."
+  ],
+  [
+   "Can I exercise?",
+   "Yes. In the first days, favor walking and moderate effort while the body adapts."
+  ],
+  [
+   "Is keto suitable for everyone?",
+   "No. Ask your doctor for advice before starting if you are pregnant or breastfeeding, if you have treated diabetes, kidney, liver, pancreas or gallbladder disease, if you take medication for blood pressure, or if you have a history of eating disorders. This program is not intended for children and teenagers."
+  ],
+  [
+   "Meat, poultry and eggs: how should they be cooked?",
+   "Poultry, ground meat and liver must be cooked through, with no trace of pink (70 °C). Runny-yolk eggs, raw eggs (mousse, homemade mayonnaise), raw fish and smoked salmon are not recommended for pregnant women, children under 5, and elderly or frail people: choose well-cooked versions instead."
+  ],
+  [
+   "Are the recipes halal?",
+   "Yes: no pork, no alcohol, no animal gelatin (agar-agar replaces it). Use alcohol-free vanilla extract and soy sauce. For aged cheeses (Parmesan, Emmental…), choose ones made with microbial rennet or certified halal if that matters to you."
+  ],
+  [
+   "How are the prices calculated?",
+   "From average prices observed in Morocco (supermarkets and markets). For bone-in meat or whole fish, the cost takes into account the weight bought, and the calories the weight actually eaten. You can correct each price in Profile › My prices."
+  ],
+  [
+   "What should I do after a slip?",
+   "Nothing serious. Simply carry on normally at the next meal, drink water, and do not try to “make up for it” by skipping meals."
+  ]
+ ]
+}

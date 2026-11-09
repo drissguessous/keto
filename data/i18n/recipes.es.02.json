@@ -523,6 +523,89 @@
   ],
   "p": "El dukkah se conserva 2 semanas en un frasco: haga más cantidad para sus ensaladas."
  },
+ "l01-avocat-saumon-fume-fromage-frais": {
+  "t": "Aguacate relleno de salmón ahumado y queso fresco al eneldo",
+  "i": [
+   "aguacates",
+   "salmón ahumado",
+   "queso crema",
+   "eneldo",
+   "zumo de limón",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle el queso crema con el eneldo, unas gotas de limón y pimienta.",
+   "Corte los aguacates por la mitad, deshuéselos y rocíelos con limón.",
+   "Rellene el hueco de cada mitad de aguacate con una cucharada de queso al eneldo.",
+   "Enrolle las lonchas de salmón en pequeñas rosas y colóquelas por encima.",
+   "Pimiente y sirva enseguida."
+  ],
+  "p": "Sustituya el salmón por gambas cocidas para variar."
+ },
+ "l01-avocat-gratine-oeuf-cheddar": {
+  "t": "Aguacate gratinado con huevo, cheddar y cebollino",
+  "i": [
+   "aguacates",
+   "huevos pequeños",
+   "cheddar rallado",
+   "cebollino",
+   "pimentón dulce",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Corte los aguacates por la mitad, retire los huesos y agrande ligeramente el hueco con una cuchara.",
+   "Apoye las mitades de aguacate en una fuente pequeña (con papel de aluminio arrugado para que se mantengan rectas).",
+   "Separe los huevos; ponga media clara y una yema en cada hueco. Sale y pimiente.",
+   "Espolvoree con cheddar y hornee 12–15 min, hasta que la clara esté cuajada.",
+   "Espolvoree con pimentón dulce y cebollino, y sirva caliente."
+  ],
+  "p": "Usar solo una parte de la clara evita que se desborde: guarde el resto para una tortilla."
+ },
+ "l01-guacamole-oeufs-durs-bowl": {
+  "t": "Bol de guacamole, huevos duros y pipas de calabaza",
+  "i": [
+   "aguacates",
+   "huevos",
+   "tomates cherry",
+   "zumo de limón",
+   "cilantro",
+   "cebolla roja picada",
+   "semillas de calabaza",
+   "guindilla",
+   "sal"
+  ],
+  "s": [
+   "Cueza los huevos 9 min en agua hirviendo, enfríelos y pélelos.",
+   "Machaque la pulpa de los aguacates con el limón, la cebolla roja, la guindilla, la mitad del cilantro y sal.",
+   "Tueste las semillas de calabaza 2 min en una sartén seca.",
+   "Reparta el guacamole en 2 boles, añada los huevos cortados en cuartos y los tomates cherry cortados por la mitad.",
+   "Espolvoree con las semillas de calabaza y el resto del cilantro, y sirva."
+  ],
+  "p": "Los huevos duros se conservan 4 días en la nevera con cáscara: haga una docena el domingo."
+ },
+ "l01-bowl-oeufs-mollets-halloumi": {
+  "t": "Bol salado de halloumi a la plancha, huevos cocidos blandos y espinacas",
+  "i": [
+   "halloumi en lonchas",
+   "huevos",
+   "espinacas baby",
+   "pepino",
+   "aceitunas negras",
+   "aceite de oliva",
+   "zumo de limón",
+   "zaatar u orégano",
+   "pimienta"
+  ],
+  "s": [
+   "Sumerja los huevos 6 min 30 s en agua hirviendo y luego en agua con hielo. Pélelos.",
+   "Ase el halloumi 2 min por cada lado en una sartén caliente sin grasa.",
+   "Mezcle el aceite de oliva, el limón y la pimienta para la vinagreta.",
+   "Reparta las espinacas y el pepino en rodajas en 2 boles y aliñe con la vinagreta.",
+   "Añada el halloumi, los huevos cortados por la mitad y las aceitunas, y espolvoree con zaatar."
+  ],
+  "p": "El halloumi se come caliente: áselo en el último momento, se vuelve gomoso al enfriarse."
+ },
  "l01-toast-keto-avocat-oeuf-poche": {
   "t": "Tostada keto exprés con aguacate machacado y huevo poché",
   "i": [

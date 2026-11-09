@@ -68,6 +68,12 @@
     var nums = tpl.match(NUM) || [];
     tpl = tpl.replace(NUM, "#");
     var out = d[tpl];
+    if (!out && core.indexOf(" · ") > 0) {
+      // texte composé « A · B · C » : on traduit chaque morceau séparément
+      var parts = core.split(" · "), anyT = false;
+      parts = parts.map(function (p) { var x = I18N.t(p); if (x != null) { anyT = true; return x; } return p; });
+      return anyT ? lead + parts.join(" · ") + trail : null;
+    }
     if (!out) return null;
     var k = 0;
     out = out.replace(/#/g, function () { return nums[k++] || ""; });

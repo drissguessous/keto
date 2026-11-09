@@ -1,0 +1,1340 @@
+{
+ "l05-saumon-gratine-brocoli-cheddar": {
+  "t": "Gratinado de salmón y brócoli con cheddar",
+  "i": [
+   "salmón sin piel",
+   "brócoli",
+   "nata líquida",
+   "huevo",
+   "cheddar rallado",
+   "mostaza",
+   "mantequilla",
+   "cebollino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 190 °C y unte con mantequilla una fuente de gratinar.",
+   "Separe el brócoli en ramilletes pequeños y escáldelos 3 minutos en agua hirviendo con sal. Escúrralos.",
+   "Corte el salmón en cubos de 3 cm.",
+   "Reparta el brócoli y el salmón en la fuente.",
+   "Bata la nata con el huevo, la mostaza, la mitad del cheddar, el cebollino, sal y pimienta; vierta la mezcla sobre el salmón.",
+   "Cubra con el resto del cheddar y hornee de 20 a 25 minutos, hasta que esté dorado."
+  ],
+  "p": "El gratinado se puede preparar la víspera y guardar crudo, tapado, en la nevera; añada 5 minutos de cocción."
+ },
+ "l05-crevettes-saute-chou-sesame": {
+  "t": "Salteado de gambas, col china y champiñones al sésamo",
+  "i": [
+   "gambas peladas",
+   "col blanca o china",
+   "champiñones",
+   "cebolletas",
+   "salsa de soja (sin alcohol)",
+   "jengibre",
+   "ajo",
+   "aceite",
+   "semillas de sésamo",
+   "guindilla"
+  ],
+  "s": [
+   "Corte la col en tiras de 1 cm, los champiñones en láminas y las cebolletas en trozos.",
+   "Caliente 2 cucharadas soperas de aceite en un wok a fuego muy fuerte y selle las gambas 2 minutos. Resérvelas.",
+   "Añada el resto del aceite, el ajo, el jengibre y la guindilla, y remueva 30 segundos.",
+   "Añada los champiñones y la col, y saltee 4 minutos removiendo constantemente.",
+   "Vuelva a poner las gambas, añada la salsa de soja y las cebolletas, y mezcle 1 minuto.",
+   "Espolvoree con sésamo tostado y sirva."
+  ],
+  "p": "Corte todos los ingredientes antes de encender el fuego: la cocción en el wok es muy rápida."
+ },
+ "l05-dorade-grillee-tahini": {
+  "t": "Filetes de dorada a la plancha con salsa de tahini y ensalada de hierbas",
+  "i": [
+   "filetes de dorada",
+   "tahini",
+   "limón",
+   "ajo",
+   "perejil liso",
+   "menta",
+   "pepino",
+   "tomates cherry",
+   "aceite de oliva",
+   "comino",
+   "agua",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Bata el tahini con la mitad del zumo de limón, el ajo rallado, el agua y una pizca de sal hasta obtener una salsa lisa y que napa.",
+   "Pique grueso el perejil y la menta, y añada el pepino en dados y los tomates cherry cortados. Aliñe con 2 cucharadas soperas de aceite y el resto del limón.",
+   "Unte los filetes de dorada con el resto del aceite y espolvoree con comino, sal y pimienta.",
+   "Áselos 3 minutos por el lado de la piel y de 1 a 2 minutos por el lado de la carne en una plancha acanalada bien caliente.",
+   "Sirva los filetes sobre la ensalada de hierbas y napee con la salsa de tahini."
+  ],
+  "p": "Si la salsa de tahini espesa mientras espera, aflójela con una cucharada de agua."
+ },
+ "l05-omelette-crevettes-ciboulette": {
+  "t": "Tortilla enrollada de gambas y cebollino",
+  "i": [
+   "huevos",
+   "gambas cocidas peladas",
+   "cebollino",
+   "queso crema",
+   "mantequilla",
+   "rúcula",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Bata los huevos con el cebollino, sal y pimienta.",
+   "Caliente la mitad de la mantequilla en una sartén de 24 cm a fuego medio y saltee las gambas 1 minuto. Resérvelas.",
+   "Añada el resto de la mantequilla, vierta la mitad de los huevos y deje cuajar 2 minutos, llevando los bordes hacia el centro.",
+   "Cuando la superficie aún esté jugosa, extienda la mitad del queso fresco y de las gambas, enrolle la tortilla y deslícela en un plato.",
+   "Repita la operación para la segunda tortilla.",
+   "Sirva con la rúcula aliñada con el aceite de oliva."
+  ],
+  "p": "Añada unos dados de aguacate al relleno para aportar más grasa y cremosidad."
+ },
+ "l05-boulettes-sardines-sauce-tomate-basilic": {
+  "t": "Albóndigas de sardinas frescas con salsa de tomate y albahaca",
+  "i": [
+   "filetes de sardina sin espinas",
+   "huevo",
+   "harina de almendra",
+   "perejil picado",
+   "ajo",
+   "tomate triturado",
+   "aceite de oliva",
+   "albahaca",
+   "parmesano rallado",
+   "calabacín en espaguetis",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Pique los filetes de sardina con un cuchillo o a pulsos con la batidora, sin reducirlos a puré.",
+   "Mézclelos con el huevo, la harina de almendra, el perejil, la mitad del ajo picado, sal y pimienta. Refrigere 15 minutos.",
+   "Forme albóndigas del tamaño de una nuez con las manos húmedas.",
+   "Dórelas 4 minutos en 2 cucharadas soperas de aceite, dándoles la vuelta con cuidado. Resérvelas.",
+   "En la misma sartén, sofría el resto del ajo 30 segundos, añada el tomate, sale y cueza a fuego lento 10 minutos.",
+   "Vuelva a poner las albóndigas en la salsa y cuézalas a fuego lento 8 minutos, tapadas.",
+   "Saltee los espaguetis de calabacín 2 minutos en el resto del aceite y sírvalos con las albóndigas, la albahaca y el parmesano."
+  ],
+  "p": "Las albóndigas se congelan crudas sobre una bandeja y después en bolsa: échelas directamente a la salsa, con 5 minutos más de cocción."
+ },
+ "l05-merlan-papillote-coco-citronnelle": {
+  "t": "Pescadilla al papillote con leche de coco y jengibre",
+  "i": [
+   "filetes de pescadilla",
+   "leche de coco",
+   "jengibre rallado",
+   "lima",
+   "pimiento rojo",
+   "brotes de espinaca",
+   "cilantro",
+   "cúrcuma",
+   "salsa de soja (sin alcohol)",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Mezcle la leche de coco, el jengibre, la cúrcuma, la salsa de soja y el zumo de lima.",
+   "Corte el pimiento en tiras finas.",
+   "Sobre 4 hojas de papel de horno, ponga un puñado de espinacas, después un filete de pescadilla y unas tiras de pimiento.",
+   "Levante los bordes y vierta 3 cucharadas soperas de salsa de coco sobre cada pescado. Cierre herméticamente.",
+   "Hornee de 15 a 18 minutos.",
+   "Abra, espolvoree con cilantro y sirva con arroz de coliflor."
+  ],
+  "p": "Doble bien los bordes varias veces: la salsa no debe escaparse durante la cocción."
+ },
+ "l05-saumon-fume-roules-fromage-concombre": {
+  "t": "Plato de rollitos de salmón ahumado con queso fresco y ensalada de pepino",
+  "i": [
+   "salmón ahumado",
+   "queso crema",
+   "eneldo",
+   "limón",
+   "pepino",
+   "yogur griego",
+   "rúcula",
+   "pipas de calabaza",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle el queso fresco con la mitad del eneldo, la ralladura del limón y pimienta.",
+   "Extienda una capa fina sobre cada loncha de salmón ahumado y enróllela apretada. Refrigere 10 minutos y corte en trozos de 3 cm.",
+   "Corte el pepino en rodajas finas y mézclelo con el yogur, el resto del eneldo, el zumo de limón, sal y pimienta.",
+   "Tueste las pipas de calabaza 2 minutos en seco en una sartén.",
+   "Disponga la rúcula, la ensalada de pepino y los rollitos, y espolvoree con las pipas de calabaza."
+  ],
+  "p": "El salmón ahumado ya es salado: sale muy ligeramente la ensalada de pepino."
+ },
+ "l05-thon-poele-poivrons-oignons": {
+  "t": "Filetes de atún a la plancha con pimientos confitados y aceitunas",
+  "i": [
+   "filetes de atún (160 g)",
+   "pimientos rojos",
+   "pimiento verde",
+   "cebolla",
+   "ajo",
+   "aceite de oliva",
+   "aceitunas verdes",
+   "pimentón dulce",
+   "perejil",
+   "vinagre",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte los pimientos en tiras y la cebolla en láminas finas.",
+   "Póchelos 15 minutos a fuego medio en 3 cucharadas soperas de aceite con el ajo, removiendo a menudo.",
+   "Añada el pimentón, las aceitunas y el vinagre, sale y cueza 3 minutos. Mantenga caliente.",
+   "Unte los filetes de atún con el resto del aceite, sale y ponga pimienta.",
+   "Séllelos en una sartén muy caliente 2 minutos por cada lado para un centro rosado, 3 minutos si lo prefiere más hecho.",
+   "Sirva sobre los pimientos y espolvoree con perejil."
+  ],
+  "p": "No alargue la cocción del atún: pasados 3 minutos por lado, queda seco."
+ },
+ "l05-salade-calamars-tiede-roquette": {
+  "t": "Ensalada templada de calamares con rúcula, feta y aceitunas",
+  "i": [
+   "anillas de calamar",
+   "rúcula",
+   "feta",
+   "aceitunas negras",
+   "tomates cherry",
+   "pepino",
+   "aceite de oliva",
+   "limón",
+   "orégano",
+   "ajo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Seque bien las anillas de calamar.",
+   "Prepare la vinagreta: 3 cucharadas soperas de aceite, zumo de limón, orégano, sal y pimienta.",
+   "Disponga en una fuente grande la rúcula, los tomates cherry cortados, el pepino en dados, las aceitunas y la feta desmenuzada.",
+   "Caliente el resto del aceite a fuego muy fuerte y selle los calamares con el ajo aplastado 2 minutos, removiendo.",
+   "Vierta los calamares calientes sobre la ensalada, rocíe con la vinagreta y sirva inmediatamente."
+  ],
+  "p": "El calor de los calamares derrite ligeramente la feta: sirva sin esperar."
+ },
+ "l05-maquereau-escabeche-legumes": {
+  "t": "Caballa en escabeche con verduras crujientes",
+  "i": [
+   "filetes de caballa",
+   "vinagre de sidra",
+   "aceite de oliva",
+   "zanahoria",
+   "cebolla roja",
+   "pimiento rojo",
+   "ajo",
+   "laurel, tomillo y granos de cilantro",
+   "agua",
+   "ensalada verde",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte la zanahoria en rodajas muy finas, la cebolla roja en láminas y el pimiento en tiras finas.",
+   "Sofría las verduras y el ajo 3 minutos en 2 cucharadas soperas de aceite, añada el vinagre, el agua, las especias, sal y pimienta; deje hervir suavemente 5 minutos.",
+   "Sale los filetes de caballa y dórelos 2 minutos por el lado de la piel y 1 minuto por el lado de la carne en el resto del aceite.",
+   "Disponga los filetes en una fuente honda y vierta por encima el escabeche caliente con las verduras.",
+   "Deje enfriar y refrigere al menos 4 horas (idealmente toda la noche).",
+   "Sirva frío con la ensalada verde, rociado con un poco de escabeche."
+  ],
+  "p": "El escabeche se conserva 4 días en la nevera y mejora con el tiempo."
+ },
+ "l05-chaudree-poisson-chou-fleur": {
+  "t": "Crema espesa de pescado blanco y marisco con coliflor",
+  "i": [
+   "bacalao o pescadilla en cubos",
+   "gambas peladas",
+   "carne de mejillón",
+   "coliflor",
+   "rama de apio",
+   "cebolla",
+   "mantequilla",
+   "caldo",
+   "nata líquida",
+   "cebollino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Derrita la mantequilla en una cacerola y rehogue la cebolla y el apio picados 5 minutos.",
+   "Añada la coliflor en ramilletes pequeños y el caldo, lleve a ebullición y cueza 12 minutos.",
+   "Retire un tercio de la coliflor con un poco de caldo, tritúrelo hasta obtener un puré y devuélvalo a la cacerola para espesar.",
+   "Añada la nata y lleve a un hervor suave.",
+   "Ponga el pescado y deje pochar 4 minutos; después añada las gambas y los mejillones y cueza 2 minutos.",
+   "Rectifique la sazón y sirva en cuencos espolvoreados con cebollino."
+  ],
+  "p": "Una sopa-comida reconfortante: prepare la base la víspera y añada los productos del mar en el momento de recalentar."
+ },
+ "l05-crevettes-gratinees-ail-fromage": {
+  "t": "Gambas gratinadas con ajo y mozzarella, ensalada verde",
+  "i": [
+   "gambas grandes peladas",
+   "tomate triturado",
+   "ajo",
+   "mozzarella rallada",
+   "aceite de oliva",
+   "perejil",
+   "orégano y guindilla",
+   "lechuga",
+   "vinagre",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 220 °C.",
+   "Sofría el ajo picado 30 segundos en 1 cucharada sopera de aceite, añada el tomate y el orégano, y deje reducir 5 minutos.",
+   "Reparta la salsa en 4 cazuelitas, añada las gambas crudas, sale y ponga pimienta.",
+   "Cubra con la mozzarella rallada.",
+   "Hornee de 10 a 12 minutos, hasta que el queso esté dorado y las gambas rosadas.",
+   "Espolvoree con perejil y sirva con la lechuga aliñada con el resto del aceite y el vinagre."
+  ],
+  "p": "Sirva en las cazuelitas, aún chisporroteantes, con una cuchara para recoger la salsa."
+ },
+ "l05-cabillaud-paprika-puree-celeri": {
+  "t": "Lomo de bacalao asado con pimentón ahumado y puré de apio-nabo y coliflor",
+  "i": [
+   "lomo de bacalao",
+   "pimentón ahumado",
+   "aceite de oliva",
+   "ajo",
+   "apio-nabo pequeño",
+   "coliflor",
+   "mantequilla",
+   "nata líquida",
+   "perejil",
+   "limón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Pele el apio-nabo, córtelo en cubos, separe la coliflor en ramilletes y cueza todo 20 minutos en agua hirviendo con sal hasta que esté tierno.",
+   "Precaliente el horno a 200 °C. Mezcle el pimentón ahumado, el ajo rallado, el aceite y una pizca de sal.",
+   "Unte los lomos de bacalao con esta mezcla y colóquelos en una fuente.",
+   "Hornee de 12 a 15 minutos, hasta que la carne esté nacarada.",
+   "Escurra las verduras y tritúrelas con la mantequilla y la nata. Sale y ponga pimienta.",
+   "Sirva el bacalao sobre el puré, con un chorrito de limón y perejil."
+  ],
+  "p": "El apio-nabo da un puré suave y ligeramente dulce, muy apreciado por los niños."
+ },
+ "l05-wraps-nori-thon-avocat": {
+  "t": "Wraps de nori con atún, aguacate y tortilla",
+  "i": [
+   "latas de atún en aceite escurrido",
+   "mayonesa",
+   "hojas de nori",
+   "aguacates",
+   "huevos",
+   "pepino",
+   "hojas de lechuga",
+   "salsa de soja (sin alcohol)",
+   "aceite",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Bata los huevos con una pizca de sal y haga una tortilla fina en una sartén con aceite. Deje enfriar y córtela en tiras.",
+   "Mezcle el atún desmenuzado con la mayonesa y pimienta.",
+   "Corte el aguacate y el pepino en bastones.",
+   "Coloque una hoja de nori con el lado brillante hacia abajo, luego una hoja de lechuga, y en el tercio inferior el atún, la tortilla, el aguacate y el pepino.",
+   "Enrolle apretado y humedezca el borde del nori con un dedo mojado para sellar. Corte por la mitad.",
+   "Sirva con la salsa de soja para mojar."
+  ],
+  "p": "Prepárelos en el último momento: el nori se ablanda con la humedad."
+ },
+ "l05-loup-four-artichauts-citron": {
+  "t": "Filetes de lubina al horno con alcachofas y limón confitado",
+  "i": [
+   "filetes de lubina",
+   "corazones de alcachofa (congelados o en tarro)",
+   "limón confitado (corteza)",
+   "aceitunas verdes",
+   "aceite de oliva",
+   "ajo",
+   "perejil",
+   "tomates cherry",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C.",
+   "Corte los corazones de alcachofa en cuartos y mézclelos en una fuente con los tomates cherry, el ajo picado, 2 cucharadas soperas de aceite, sal y pimienta. Hornee 10 minutos.",
+   "Mientras tanto, enjuague la corteza de limón confitado y córtela en tiras finas.",
+   "Ponga los filetes de lubina sobre las verduras, con la piel hacia abajo, añada las aceitunas y el limón confitado, y rocíe con el resto del aceite.",
+   "Hornee de 10 a 12 minutos, hasta que la carne esté opaca.",
+   "Espolvoree con perejil y sirva."
+  ],
+  "p": "El limón confitado es salado: ponga poca sal en el pescado."
+ },
+ "l05-salade-saumon-roti-brocoli-amandes": {
+  "t": "Ensalada completa de salmón asado, brócoli y almendras tostadas",
+  "i": [
+   "salmón sin piel",
+   "brócoli",
+   "almendras laminadas",
+   "brotes de espinaca",
+   "aguacate",
+   "aceite de oliva",
+   "mostaza",
+   "limón",
+   "pimentón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 210 °C. Separe el brócoli en ramilletes pequeños y mézclelos con 1 cucharada sopera de aceite, sal y pimienta en una bandeja.",
+   "Ponga el salmón en la misma bandeja y sazónelo con pimentón, sal y pimienta.",
+   "Hornee de 12 a 15 minutos: el brócoli debe quedar ligeramente tostado y el salmón apenas hecho.",
+   "Tueste las almendras en seco 2 minutos en una sartén.",
+   "Bata la mostaza, el limón y el resto del aceite.",
+   "Disponga las espinacas, el brócoli, el aguacate en láminas y el salmón desmenuzado; rocíe con la vinagreta y espolvoree con las almendras."
+  ],
+  "p": "Se prepara en tápers para 3 días: añada el aguacate y la vinagreta el mismo día."
+ },
+ "l05-moules-curry-coco": {
+  "t": "Mejillones al curry y leche de coco",
+  "i": [
+   "kg de mejillones con concha",
+   "leche de coco",
+   "curry suave",
+   "cebolla pequeña",
+   "ajo",
+   "jengibre",
+   "aceite de coco",
+   "cilantro",
+   "gambas peladas"
+  ],
+  "s": [
+   "Raspe y enjuague los mejillones, retire las barbas y deseche los que estén rotos.",
+   "En una olla grande, sofría la cebolla, el ajo y el jengibre picados 3 minutos en el aceite de coco.",
+   "Añada el curry y remueva 30 segundos; después vierta la leche de coco.",
+   "Añada los mejillones, tape y cueza a fuego fuerte 5 minutos, agitando la olla.",
+   "Añada las gambas, tape de nuevo y cueza 2 minutos, hasta que todos los mejillones se hayan abierto.",
+   "Espolvoree con cilantro y sirva en platos hondos con la salsa."
+  ],
+  "p": "Las gambas completan la ración de proteínas: los mejillones solos son un poco ligeros para un plato principal."
+ },
+ "l05-galettes-saumon-sauce-yaourt-aneth": {
+  "t": "Tortitas de salmón y calabacín con salsa de yogur y eneldo",
+  "i": [
+   "salmón sin piel",
+   "calabacín",
+   "huevo",
+   "harina de almendra",
+   "cebolletas",
+   "eneldo",
+   "aceite de oliva",
+   "yogur griego",
+   "limón",
+   "ensalada",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Ralle el calabacín, sálelo y déjelo soltar agua 10 minutos; después exprímalo con fuerza en un paño.",
+   "Pique el salmón con un cuchillo en dados pequeños.",
+   "Mezcle el salmón, el calabacín, el huevo, la harina de almendra, las cebolletas, la mitad del eneldo, sal y pimienta. Forme 8 tortitas.",
+   "Dórelas 4 minutos por cada lado en el aceite a fuego medio.",
+   "Mezcle el yogur con el resto del eneldo, el zumo de limón, sal y pimienta.",
+   "Sirva las tortitas con la salsa y la ensalada."
+  ],
+  "p": "Una buena forma de aprovechar los recortes de salmón, que el pescadero suele vender más baratos."
+ },
+ "l06-tajine-agneau-artichauts": {
+  "t": "Tajín de cordero con corazones de alcachofa e hinojo",
+  "i": [
+   "paletilla de cordero en trozos grandes",
+   "cebolla en juliana",
+   "ajo picado",
+   "aceite de oliva",
+   "jengibre, cúrcuma, pimienta blanca y azafrán",
+   "corazones de alcachofa (frescos o congelados)",
+   "bulbo de hinojo en cuartos",
+   "corteza de limón confitado",
+   "zumo de limón",
+   "cilantro picado",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "En una cacerola, sofría el cordero en el aceite 8 min a fuego fuerte con la cebolla, el ajo, las especias y la sal, hasta que la carne esté bien dorada.",
+   "Añada 600 ml de agua caliente y el cilantro, tape y deje cocer a fuego lento 1 h.",
+   "Mientras tanto, rocíe los corazones de alcachofa con limón para que no se oscurezcan y corte el hinojo en cuartos.",
+   "Disponga las alcachofas y el hinojo alrededor de la carne y añada la corteza de limón confitado en tiras.",
+   "Tape y continúe 25 a 30 min, hasta que las verduras estén tiernas al pincharlas con la punta de un cuchillo.",
+   "Si la salsa está demasiado líquida, déjela reducir 5 min sin tapar y sirva en la propia cazuela."
+  ],
+  "p": "Fuera de temporada, los corazones de alcachofa congelados van muy bien: añádalos directamente, sin descongelar."
+ },
+ "l06-tajine-poisson-chermoula": {
+  "t": "Tajín de pescado con chermoula y pimientos",
+  "i": [
+   "lubina o dorada en rodajas gruesas",
+   "cilantro",
+   "perejil liso",
+   "ajo",
+   "comino, pimentón dulce y guindilla",
+   "zumo de limón",
+   "aceite de oliva",
+   "pimiento verde en tiras",
+   "pimiento rojo pequeño en tiras",
+   "tomate grande en rodajas",
+   "ramas de apio",
+   "aceitunas verdes",
+   "sal"
+  ],
+  "s": [
+   "Triture el cilantro, el perejil, el ajo, las especias, el zumo de limón, el aceite y la sal para obtener la chermoula; unte el pescado con la mitad y déjelo marinar 30 min en frío.",
+   "Cubra el fondo del tajín con ramas de apio cortadas en bastones: servirán de rejilla y evitarán que el pescado se pegue.",
+   "Coloque el pescado encima, luego las rodajas de tomate y las tiras de pimiento; napee con el resto de la chermoula diluida en 100 ml de agua.",
+   "Tape y cueza 30 min a fuego lento sobre un difusor (o 35 min en el horno a 190 °C).",
+   "Añada las aceitunas 5 min antes del final y compruebe la cocción: la carne debe separarse fácilmente de la espina.",
+   "Sirva en el tajín, rociado con un chorrito de aceite de oliva crudo."
+  ],
+  "p": "Duplique la chermoula y guarde un tarro en frío bajo una capa de aceite: se conserva 5 días y perfuma carnes a la plancha y verduras."
+ },
+ "l06-tajine-boeuf-chou-fleur": {
+  "t": "Tajín de ternera con coliflor y aceitunas",
+  "i": [
+   "aguja de ternera en cubos",
+   "cebolla en juliana",
+   "ajo picado",
+   "smen",
+   "aceite de oliva",
+   "ras el hanout, jengibre y cúrcuma",
+   "coliflor en ramilletes",
+   "aceitunas verdes",
+   "cilantro",
+   "agua",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Dore los cubos de ternera en el aceite y el smen 10 min a fuego fuerte, en varias tandas, para que cojan buen color.",
+   "Añada la cebolla, el ajo, las especias, la sal y la pimienta; remueva 3 min hasta que desprendan su aroma.",
+   "Agregue 700 ml de agua caliente y el cilantro en manojo, tape y deje cocer a fuego lento 1 h 15.",
+   "Añada los ramilletes de coliflor y las aceitunas enjuagadas; tape y continúe 20 min, sin remover demasiado para que los ramilletes se mantengan enteros.",
+   "Retire el manojo de cilantro y, si hace falta, deje reducir la salsa 5 min sin tapar antes de servir."
+  ],
+  "p": "Este tajín se recalienta muy bien: haga el doble de cantidad y congele raciones individuales (hasta 3 meses)."
+ },
+ "l06-chermoula-verte": {
+  "t": "Chermoula verde casera",
+  "i": [
+   "cilantro fresco",
+   "perejil liso",
+   "ajo",
+   "comino y pimentón dulce",
+   "cayena",
+   "zumo de limón",
+   "aceite de oliva",
+   "vinagre",
+   "sal"
+  ],
+  "s": [
+   "Lave y seque bien el cilantro y el perejil, y retire los tallos gruesos.",
+   "Pique finamente las hierbas con un cuchillo (o tritúrelas a pulsos para conservar algo de textura) junto con el ajo pelado.",
+   "Añada el comino, el pimentón, la cayena, la sal, el zumo de limón y el vinagre; mezcle.",
+   "Vierta el aceite de oliva en hilo removiendo hasta obtener una pasta suave y deje reposar 15 min antes de usar."
+  ],
+  "p": "Sirve como marinada para pescado, gambas o pollo, o como salsa para huevos y verduras a la plancha. Conservación: 5 días en frío, cubierta de aceite."
+ },
+ "l06-mrouzia-sans-miel": {
+  "t": "Mrouzia de cordero sin miel con almendras",
+  "i": [
+   "paletilla de cordero en trozos",
+   "cebolla rallada",
+   "smen",
+   "aceite de oliva",
+   "ras el hanout, canela y jengibre",
+   "eritritol",
+   "almendras peladas",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Frote la carne con el ras el hanout, el jengibre, la mitad de la canela, la sal, la cebolla rallada, el smen y el aceite.",
+   "Ponga todo en una cacerola, sofría 5 min y vierta 700 ml de agua; tape y deje cocer a fuego lento 1 h 30.",
+   "Mientras tanto, dore las almendras en seco en una sartén 5 min removiendo, o fríalas en un fondo de aceite.",
+   "Cuando la carne se separe del hueso, añada el eritritol y el resto de la canela; deje reducir sin tapar de 20 a 25 min hasta obtener una salsa almibarada que envuelva la carne.",
+   "Sirva decorado con las almendras doradas."
+  ],
+  "p": "El eritritol no se carameliza como la miel: la reducción lenta de la salsa y el smen dan la textura lacada. Una pizca de stevia refuerza el dulzor si hace falta."
+ },
+ "l06-bastilla-poulet-feuilles-oeuf": {
+  "t": "Bastilla keto de pollo con hojas de huevo",
+  "i": [
+   "muslos de pollo",
+   "cebolla en juliana",
+   "jengibre, canela, cúrcuma y azafrán",
+   "perejil",
+   "cilantro",
+   "huevos (4 para el relleno, 6 para las hojas)",
+   "nata líquida",
+   "mantequilla",
+   "almendras tostadas troceadas",
+   "eritritol",
+   "sal"
+  ],
+  "s": [
+   "Cueza el pollo 45 min tapado con la cebolla, las especias (salvo la canela), las hierbas, 20 g de mantequilla, la sal y 250 ml de agua; deshebre la carne y reserve la salsa.",
+   "Reduzca la salsa a la mitad, añada 4 huevos batidos y remueva a fuego lento hasta obtener unos huevos revueltos cremosos; escúrralos.",
+   "Prepare las hojas: bata 6 huevos con la nata y una pizca de sal, y haga 6 crepes muy finas en una sartén de 26 cm con mantequilla (1 min por cada lado).",
+   "Mezcle las almendras troceadas con el eritritol y la mitad de la canela.",
+   "En un molde untado con mantequilla, disponga 4 hojas de huevo en roseta de modo que sobresalgan; extienda los huevos revueltos, el pollo y después las almendras.",
+   "Doble los bordes, cubra con las 2 últimas hojas y unte con mantequilla derretida.",
+   "Hornee 15 min a 200 °C y espolvoree con una pizca de canela antes de servir."
+  ],
+  "p": "Para una versión más crujiente, sustituya la tapa de huevo por una masa fathead (mozzarella + harina de almendra) extendida fina."
+ },
+ "l06-chorba-poulet-vermicelles-konjac": {
+  "t": "Chorba de pollo con fideos de konjac",
+  "i": [
+   "muslos de pollo",
+   "calabacín en dados",
+   "ramas de apio",
+   "cebolla picada",
+   "tomate rallado",
+   "ras el hanout, cúrcuma y pimienta",
+   "aceite de oliva",
+   "fideos de konjac",
+   "cilantro",
+   "menta seca",
+   "litro de agua",
+   "sal"
+  ],
+  "s": [
+   "Sofría el pollo en el aceite con la cebolla, el apio y las especias durante 6 min.",
+   "Añada el tomate rallado y 1,3 l de agua, tape y deje cocer 30 min.",
+   "Retire el pollo, deshébrelo quitando la piel y los huesos, y devuelva la carne a la sopa junto con el calabacín.",
+   "Enjuague abundantemente los fideos de konjac con agua caliente, córtelos con tijeras y añádalos; deje cocer 8 min.",
+   "Termine con el cilantro y la menta seca desmenuzada, y sirva con un chorrito de limón."
+  ],
+  "p": "Enjuagar bien y escurrir el konjac elimina su olor; un minuto en seco en una sartén antes de añadirlo mejora aún más su textura."
+ },
+ "l06-zaalouk-aubergines": {
+  "t": "Zaalouk de berenjenas ahumadas",
+  "i": [
+   "berenjenas grandes",
+   "tomates maduros",
+   "ajo machacado",
+   "aceite de oliva",
+   "comino y pimentón",
+   "cilantro",
+   "perejil",
+   "zumo de limón",
+   "sal"
+  ],
+  "s": [
+   "Pinche las berenjenas y áselas directamente sobre la llama del gas o 30 min bajo el grill del horno a 240 °C, dándoles la vuelta, hasta que la piel esté ennegrecida.",
+   "Deje templar 5 min, pélelas y pique la pulpa con un cuchillo.",
+   "Pele y triture los tomates; sofríalos 5 min en el aceite con el ajo.",
+   "Añada la pulpa de berenjena, el comino, el pimentón, la sal y las hierbas; aplaste con un tenedor y deje compotar 10 min a fuego lento, removiendo.",
+   "Fuera del fuego, añada el zumo de limón y un chorrito de aceite de oliva; sirva templado o frío."
+  ],
+  "p": "El zaalouk está aún mejor al día siguiente; se conserva 4 días en frío en un recipiente hermético."
+ },
+ "l06-chlada-tomates-poivrons": {
+  "t": "Chlada marroquí de tomate, pimiento y pepino",
+  "i": [
+   "tomates firmes",
+   "pimiento verde",
+   "pepino",
+   "cebolla roja",
+   "perejil",
+   "cilantro",
+   "aceite de oliva",
+   "zumo de limón",
+   "comino",
+   "sal"
+  ],
+  "s": [
+   "Corte los tomates, el pimiento sin semillas y el pepino en dados muy pequeños y regulares (5 mm).",
+   "Pique muy fino la cebolla roja y las hierbas.",
+   "En un bol, bata el aceite, el zumo de limón, el comino y la sal.",
+   "Mezcle las verduras con la vinagreta justo antes de servir, para que se mantengan crujientes."
+  ],
+  "p": "Añada unas aceitunas negras y una cucharada de feta desmenuzada para un desayuno salado al estilo marroquí."
+ },
+ "l06-brochettes-kefta-grill": {
+  "t": "Brochetas de kefta con comino y cebolleta",
+  "i": [
+   "carne picada para kefta",
+   "cebolla pequeña rallada y exprimida",
+   "perejil picado",
+   "cilantro picado",
+   "comino, pimentón y guindilla dulce",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Exprima la cebolla rallada con las manos para extraer el jugo y mézclela con la kefta, las hierbas, las especias, la sal y la pimienta.",
+   "Amase 3 min para obtener una masa bien ligada y deje reposar 20 min en frío.",
+   "Con las manos mojadas, forme cilindros alargados alrededor de brochetas planas (unos 80 g cada uno).",
+   "Unte con aceite y ase de 10 a 12 min en la barbacoa o bajo el grill del horno a 240 °C, dándoles la vuelta cada 3 min.",
+   "Sirva con una chlada y una salsa de yogur y comino."
+  ],
+  "p": "Las brochetas planas evitan que la kefta gire sobre sí misma durante la cocción."
+ },
+ "l06-boulfaf-foie-agneau": {
+  "t": "Boulfaf keto: brochetas de hígado de ave y cordero",
+  "i": [
+   "hígados de ave",
+   "cordero con grasa en cubos (silla o chuletas deshuesadas)",
+   "comino y pimentón",
+   "guindilla",
+   "aceite de oliva",
+   "perejil",
+   "sal"
+  ],
+  "s": [
+   "Limpie los hígados retirando las telillas y córtelos en trozos grandes; corte el cordero en cubos del mismo tamaño.",
+   "Mezcle el comino, el pimentón, la guindilla y la sal en un plato.",
+   "Ensarte en brochetas alternando hígado y cordero, y unte ligeramente con aceite.",
+   "Ase de 12 a 15 min sobre brasas vivas, dándoles vueltas a menudo, hasta que el hígado ya no esté rosado por dentro (70 °C).",
+   "Pase las brochetas calientes por la mezcla de especias y sirva espolvoreadas con perejil."
+  ],
+  "p": "Tradicionalmente se prepara en el Aíd con hígado de cordero envuelto en redaño: úselo si lo tiene, la receta funciona igual."
+ },
+ "l06-mechoui-epaule-four": {
+  "t": "Mechui de paletilla de cordero al horno",
+  "i": [
+   "paletilla de cordero entera con hueso (2 kg)",
+   "smen o mantequilla blanda",
+   "ajo machacado",
+   "comino, pimentón y un poco de azafrán",
+   "agua",
+   "sal gruesa",
+   "pimienta"
+  ],
+  "s": [
+   "Saque la paletilla 1 h antes. Mezcle el smen con el ajo, la mitad del comino, el pimentón, el azafrán y la sal.",
+   "Haga cortes profundos en forma de rombos en la carne y masajéela generosamente con esta mantequilla especiada.",
+   "Colóquela en una fuente con 300 ml de agua, cubra con papel de aluminio y hornee 3 h a 160 °C, rociándola cada 45 min.",
+   "Retire el aluminio, suba el horno a 220 °C y deje dorar de 30 a 40 min, rociando, hasta que la piel esté crujiente.",
+   "La carne debe desprenderse con la mano. Sirva con el resto del comino y sal mezclados en un cuenco."
+  ],
+  "p": "El mechui se come con los dedos, mojado en la mezcla de comino y sal: acompáñelo con una gran ensalada marroquí."
+ },
+ "l06-tanjia-marrakchia": {
+  "t": "Tanjia marrakchía de jarrete de ternera",
+  "i": [
+   "jarrete o aguja de ternera en trozos grandes",
+   "smen",
+   "aceite de oliva",
+   "cabeza de ajo (dientes enteros)",
+   "limón confitado en cuartos",
+   "comino, ras el hanout y azafrán",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Ponga la carne en una tanjia (vasija de barro) o en una cocotte de hierro fundido.",
+   "Añada el smen, el aceite, los dientes de ajo sin pelar, el limón confitado, las especias, la sal y el agua; mezcle.",
+   "Cierre con papel vegetal atado con cuerda (para la tanjia) o con la tapa de la cocotte.",
+   "Hornee 5 h a 140 °C sin abrir: la carne se confita en su jugo.",
+   "Agite la vasija, vierta la carne con su salsa en una fuente y sirva con una ensalada de tomate."
+  ],
+  "p": "Tradicionalmente, la tanjia se cuece toda la noche en las brasas del hammam: su horno a baja temperatura da un resultado muy parecido."
+ },
+ "l06-rfissa-keto-poulet": {
+  "t": "Rfissa keto de pollo, tortas de almendra y fenogreco",
+  "i": [
+   "pollo de corral troceado",
+   "cebolla en juliana",
+   "smen",
+   "ras el hanout, fenogreco molido, jengibre y azafrán",
+   "cilantro",
+   "harina de almendra",
+   "psyllium",
+   "mozzarella rallada",
+   "huevo",
+   "litro de agua",
+   "sal"
+  ],
+  "s": [
+   "Sofría el pollo en el smen con la cebolla, las especias y la sal durante 8 min; después añada 1 l de agua, el cilantro y deje cocer a fuego lento 50 min.",
+   "Mientras tanto, derrita la mozzarella 1 min en el microondas, añada la harina de almendra, el psyllium y el huevo; amase hasta obtener una masa homogénea.",
+   "Extienda la masa fina entre dos hojas de papel vegetal y cuézala de 3 a 4 min por cada lado en una sartén caliente ligeramente engrasada.",
+   "Corte estas tortas en tiras de 1 cm.",
+   "Retire el pollo; reduzca el caldo 10 min para que espese.",
+   "Disponga las tiras en una fuente grande, rocíe con caldo, coloque el pollo en el centro y napee con el resto de la salsa. Sirva enseguida."
+  ],
+  "p": "El fenogreco es indispensable en la rfissa: le da su aroma característico. Las tiras se pueden preparar la víspera."
+ },
+ "l06-briouates-kefta-fathead": {
+  "t": "Briwats keto de kefta con masa fathead",
+  "i": [
+   "carne picada para kefta",
+   "cebolla picada",
+   "perejil",
+   "comino y pimentón",
+   "huevos",
+   "mozzarella rallada",
+   "queso crema",
+   "harina de almendra",
+   "sal"
+  ],
+  "s": [
+   "Sofría la kefta con la cebolla, el perejil, las especias y la sal 8 min; fuera del fuego, ligue con 1 huevo batido y deje enfriar.",
+   "Derrita la mozzarella y el queso crema 1 min 30 en el microondas, mezcle y añada la harina de almendra y el otro huevo; amase.",
+   "Extienda la masa a 2 mm entre dos hojas de papel vegetal y corte tiras de 8 cm de ancho.",
+   "Ponga una cucharada de relleno en el extremo de cada tira y pliegue en triángulo como un briwat tradicional.",
+   "Disponga en una bandeja y hornee de 15 a 18 min a 200 °C, hasta que estén bien dorados."
+  ],
+  "p": "Si la masa se pega, métala 10 min en la nevera antes de cortarla."
+ },
+ "l06-briouates-jben-herbes": {
+  "t": "Briwats de jben y hierbas",
+  "i": [
+   "jben (queso fresco)",
+   "feta desmenuzada",
+   "menta picada",
+   "perejil picado",
+   "huevos",
+   "mozzarella rallada",
+   "harina de almendra",
+   "pimienta"
+  ],
+  "s": [
+   "Aplaste el jben y la feta con un tenedor junto con las hierbas, la pimienta y 1 yema de huevo (guarde la clara).",
+   "Prepare la masa: derrita la mozzarella en el microondas, añada la harina de almendra y el huevo restante, y amase.",
+   "Extienda fina entre dos papeles vegetales, corte tiras de 8 cm y rellene con una cucharada de relleno.",
+   "Pliegue en triángulos, unte con la clara de huevo y hornee de 15 a 18 min a 200 °C."
+  ],
+  "p": "Perfectos para la mesa del ftour: prepárelos con antelación y recaliente 5 min en el horno."
+ },
+ "l06-the-menthe-sans-sucre": {
+  "t": "Té a la menta sin azúcar con almendras tostadas",
+  "i": [
+   "agua para el té verde gunpowder (2 cucharaditas de té)",
+   "menta fresca (nanaa)",
+   "stevia o eritritol (al gusto)",
+   "agua hirviendo para enjuagar el té",
+   "almendras tostadas (para picar con el té)"
+  ],
+  "s": [
+   "Ponga 2 cucharaditas de té verde gunpowder en la tetera, vierta 50 ml de agua hirviendo, agite en círculos y deseche esa agua para quitar el amargor.",
+   "Añada 800 ml de agua a punto de hervir y deje reposar 3 min a fuego muy suave.",
+   "Añada la menta lavada y bien apretada y la stevia; deje reposar 2 min fuera del fuego.",
+   "Sirva un vaso y vuélquelo en la tetera dos o tres veces para mezclar bien; después sirva desde lo alto para crear espuma, acompañado de las almendras tostadas."
+  ],
+  "p": "En invierno, añada unas hojas de chiba (ajenjo) o de louiza (hierbaluisa) para variar."
+ },
+ "l06-salade-concombre-menthe": {
+  "t": "Ensalada de pepino con menta y agua de azahar",
+  "i": [
+   "pepinos",
+   "menta fresca",
+   "vinagre blanco",
+   "eritritol",
+   "agua de azahar",
+   "aceite de oliva",
+   "sal"
+  ],
+  "s": [
+   "Ralle los pepinos con un rallador de agujeros grandes (o córtelos en bastones muy finos); escúrralos 5 min en un colador.",
+   "Mezcle el vinagre, el eritritol, el agua de azahar, el aceite y la sal.",
+   "Vierta sobre el pepino, añada la menta picada y mezcle.",
+   "Reserve 15 min en frío antes de servir bien fría."
+  ],
+  "p": "Añada una pizca de comino o de orégano seco (zaatar) para una versión más aromática."
+ },
+ "l06-tajine-boulettes-sardines": {
+  "t": "Tajín de albóndigas de sardina con tomate",
+  "i": [
+   "sardinas frescas (filetes)",
+   "cilantro",
+   "perejil",
+   "ajo",
+   "comino, pimentón y guindilla",
+   "huevo",
+   "tomate triturado",
+   "aceite de oliva",
+   "zumo de limón",
+   "sal"
+  ],
+  "s": [
+   "Retire la espina central y la piel de las sardinas; pique la carne con un cuchillo junto con la mitad de las hierbas, 2 dientes de ajo, la mitad de las especias, la sal y el huevo.",
+   "Forme albóndigas del tamaño de una nuez con las manos mojadas.",
+   "En un tajín, caliente el aceite con el ajo restante, añada el tomate, el resto de las especias y 100 ml de agua; deje hervir suavemente 10 min.",
+   "Ponga las albóndigas en la salsa, tape y cueza 15 min a fuego lento sin remover.",
+   "Espolvoree con el resto de las hierbas, rocíe con limón y sirva."
+  ],
+  "p": "Plato emblemático de Safi y Esauira, económico y rico en omega-3. Las albóndigas crudas se congelan muy bien."
+ },
+ "l06-couscous-chou-fleur-agneau": {
+  "t": "Cuscús keto de coliflor con cordero y verduras",
+  "i": [
+   "paletilla de cordero en trozos",
+   "cebolla en cuartos",
+   "tomate en cuartos",
+   "smen",
+   "ras el hanout, jengibre, cúrcuma y azafrán",
+   "calabacines en trozos",
+   "nabo pequeño en cuartos",
+   "cuarto pequeño de col blanca",
+   "manojo de cilantro y perejil",
+   "coliflor (para la sémola)",
+   "mantequilla",
+   "litro de agua",
+   "sal"
+  ],
+  "s": [
+   "En la parte baja de la olla cuscusera, sofría el cordero 8 min con la mitad del smen, la cebolla, el tomate, las especias y la sal; añada 1,5 l de agua y el manojo de hierbas, y cueza 1 h tapado.",
+   "Añada el nabo y la col y, 10 min después, los calabacines; continúe 20 min hasta que todas las verduras estén tiernas.",
+   "Mientras tanto, ralle la coliflor (o tritúrela a pulsos) hasta obtener granos del tamaño de la sémola.",
+   "Ponga la sémola de coliflor en la parte alta de la cuscusera y cuézala 10 min al vapor del caldo, sin tapar.",
+   "Viértala en una fuente, añada la mantequilla y el resto del smen, y airee con un tenedor rociando con 2 cucharones de caldo.",
+   "Forme una cúpula, haga un hueco en el centro, ponga la carne y disponga las verduras alrededor. Sirva el caldo aparte."
+  ],
+  "p": "No triture demasiado la coliflor: la sémola debe quedar en granos. También puede saltearse 6 min en seco si no tiene cuscusera."
+ },
+ "l06-seffa-konjac-poulet": {
+  "t": "Seffa keto de fideos de konjac con pollo",
+  "i": [
+   "muslos de pollo",
+   "cebolla en juliana",
+   "smen",
+   "jengibre, cúrcuma, azafrán y canela",
+   "fideos de konjac",
+   "mantequilla",
+   "almendras tostadas troceadas",
+   "eritritol en polvo",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Cueza el pollo con la cebolla, el smen, las especias (salvo la canela), la sal y 400 ml de agua, 40 min tapado, y deshebre la carne.",
+   "Reduzca la salsa hasta que cubra la cuchara y devuelva el pollo.",
+   "Enjuague los fideos de konjac con agua caliente, escúrralos y séquelos 3 min en una sartén en seco; después añada la mantequilla y remueva 2 min.",
+   "Mezcle las almendras con el eritritol y la canela.",
+   "En una fuente honda, ponga el pollo en salsa, cubra con los fideos formando una cúpula y decore con rayas de almendras con canela."
+  ],
+  "p": "Sirva la seffa con un vaso de leche de almendra, como manda la tradición de las fiestas."
+ },
+ "l06-poulet-mhammer-four": {
+  "t": "Pollo mhammer asado al horno, con salsa de smen y azafrán",
+  "i": [
+   "pollo entero",
+   "cebolla rallada",
+   "ajo machacado",
+   "smen",
+   "pimentón, comino, jengibre y azafrán",
+   "cilantro",
+   "zumo de limón",
+   "aceitunas verdes",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Mezcle el smen, el ajo, las especias, el limón, la mitad del cilantro y la sal; masajee el pollo por dentro y por fuera y deje reposar 30 min.",
+   "Colóquelo en una cacerola con la cebolla rallada y 400 ml de agua; tape y cueza 45 min a fuego lento, dándole la vuelta una vez.",
+   "Pase el pollo a una fuente de horno y áselo 25 min a 220 °C rociándolo con su jugo, hasta que la piel esté bien rojiza y crujiente.",
+   "Mientras tanto, reduzca la salsa de la cacerola con las aceitunas durante 10 min.",
+   "Napee el pollo con la salsa y espolvoree con el resto del cilantro."
+  ],
+  "p": "«Mhammer» significa «enrojecido»: es el paso por el horno tras la cocción en salsa lo que da el color y lo crujiente."
+ },
+ "l06-tajine-veau-haricots-verts": {
+  "t": "Tajín de ternera con judías verdes",
+  "i": [
+   "ternera para guisar en cubos",
+   "cebolla en juliana",
+   "tomate rallado",
+   "ajo",
+   "aceite de oliva",
+   "jengibre, cúrcuma, pimentón",
+   "judías verdes sin puntas",
+   "perejil",
+   "agua",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Dore la ternera en el aceite 6 min con la cebolla, el ajo y las especias.",
+   "Añada el tomate rallado, el perejil, la sal, la pimienta y 400 ml de agua; tape y deje cocer a fuego lento 50 min.",
+   "Añada las judías verdes cortadas por la mitad y continúe 20 min tapado.",
+   "Destape y deje reducir 5 min: la salsa debe quedar corta y envolver la carne.",
+   "Sirva caliente con un chorrito de aceite de oliva."
+  ],
+  "p": "Las judías verdes congeladas van muy bien: añádalas directamente, reduciendo la cocción a 15 min."
+ },
+ "l06-tajine-agneau-celeri": {
+  "t": "Tajín de cordero con apio y limón confitado",
+  "i": [
+   "paletilla de cordero en trozos",
+   "pie de apio (con hojas)",
+   "cebolla rallada",
+   "ajo",
+   "aceite de oliva",
+   "jengibre, cúrcuma y azafrán",
+   "limón confitado pequeño",
+   "aceitunas moradas",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Sofría el cordero en el aceite con la cebolla, el ajo, las especias y la sal durante 8 min.",
+   "Añada 600 ml de agua, tape y deje cocer 1 h a fuego lento.",
+   "Quite las hebras de las ramas de apio, córtelas en trozos de 6 cm y pique las hojas; escáldelas 3 min en agua hirviendo para quitar el amargor.",
+   "Añada el apio, las hojas, el limón confitado en tiras y las aceitunas alrededor de la carne.",
+   "Tape y continúe 25 min; después deje reducir la salsa 5 min sin tapar antes de servir."
+  ],
+  "p": "Un clásico de Fez («lklafess»): elija un apio bien verde y tierno para un tajín aromático."
+ },
+ "l06-crevettes-pil-pil": {
+  "t": "Gambas pil-pil con ajo y guindilla",
+  "i": [
+   "gambas peladas",
+   "ajo laminado",
+   "aceite de oliva",
+   "guindilla roja seca",
+   "pimentón y comino",
+   "tomate pequeño rallado",
+   "cilantro picado",
+   "zumo de limón",
+   "sal"
+  ],
+  "s": [
+   "En una cazuela de barro o una sartén, caliente el aceite a fuego medio con el ajo y la guindilla 1 min, sin que cojan color.",
+   "Añada el tomate rallado y las especias, y deje reducir 3 min.",
+   "Añada las gambas y la sal; cueza de 3 a 4 min removiendo, hasta que se pongan rosadas y firmes.",
+   "Fuera del fuego, añada el cilantro y el zumo de limón; sirva chisporroteando en la propia cazuela."
+  ],
+  "p": "No alargue la cocción de las gambas: pasados 4 min, quedan gomosas."
+ },
+ "l06-tajine-calamars-tomate": {
+  "t": "Tajín de calamares y gambas con chermoula",
+  "i": [
+   "calamares limpios en anillas",
+   "gambas peladas",
+   "tomate triturado",
+   "ajo",
+   "cilantro",
+   "perejil",
+   "comino y pimentón",
+   "aceite de oliva",
+   "aceitunas negras",
+   "zumo de limón",
+   "sal"
+  ],
+  "s": [
+   "Triture el cilantro, el perejil, el ajo, las especias, el limón, la mitad del aceite y la sal para hacer una chermoula; mézclela con los calamares y deje marinar 15 min.",
+   "Caliente el resto del aceite en un tajín o una sartén honda, añada los calamares y sofríalos 5 min a fuego fuerte.",
+   "Añada el tomate triturado, tape y deje cocer 30 min a fuego lento, hasta que los calamares estén tiernos.",
+   "Añada las gambas y las aceitunas negras, y cueza 4 min sin tapar el tiempo justo para que las gambas se pongan rosadas; después sirva."
+  ],
+  "p": "El calamar debe cocerse o muy rápido (2 min) o mucho tiempo (30 min o más): entre medias, se endurece."
+ },
+ "l06-tajine-legumes-oeufs-jben": {
+  "t": "Tajín de verduras de la huerta con huevos y jben",
+  "i": [
+   "calabacines en rodajas gruesas",
+   "berenjena en dados",
+   "pimiento verde",
+   "coliflor en ramilletes",
+   "tomate",
+   "aceite de oliva",
+   "ras el hanout y comino",
+   "ajo",
+   "huevos",
+   "jben desmenuzado",
+   "cilantro",
+   "sal"
+  ],
+  "s": [
+   "Sofría la berenjena en el aceite 5 min en el tajín; después añada el ajo, el tomate triturado, las especias y la sal.",
+   "Disponga la coliflor, los calabacines y el pimiento en tiras, vierta 150 ml de agua, tape y deje cocer 20 min a fuego lento.",
+   "Haga 6 huecos entre las verduras y casque en ellos los huevos; espolvoree con el jben desmenuzado.",
+   "Tape y cueza de 6 a 8 min más, hasta que las claras estén cuajadas.",
+   "Espolvoree con cilantro y sirva en el tajín."
+  ],
+  "p": "Un plato completo y vegetariano; sustituya el jben por feta para un sabor más salado."
+ },
+ "l06-dorade-four-chermoula": {
+  "t": "Dorada al horno con chermoula y tomates",
+  "i": [
+   "doradas enteras evisceradas (600 g cada una)",
+   "cilantro",
+   "perejil",
+   "ajo",
+   "comino y pimentón",
+   "zumo de limón",
+   "aceite de oliva",
+   "tomates en rodajas",
+   "pimiento verde en tiras",
+   "corteza de limón confitado",
+   "sal"
+  ],
+  "s": [
+   "Prepare la chermoula triturando las hierbas, el ajo, las especias, el zumo de limón, el aceite y la sal.",
+   "Haga 3 cortes en cada lado de las doradas, úntelas con chermoula por dentro y por fuera, y deje marinar 20 min.",
+   "En una fuente de horno engrasada, haga una cama de tomates y pimiento; ponga los pescados encima y añada la corteza de limón confitado.",
+   "Rocíe con 100 ml de agua, cubra con papel de aluminio y hornee 20 min a 200 °C.",
+   "Retire el aluminio y prolongue 10 min para dorar la piel; sirva en la propia fuente."
+  ],
+  "p": "El pescado está hecho cuando el ojo se vuelve blanco y la carne se separa de la espina dorsal."
+ },
+ "l06-pastilla-fruits-mer-keto": {
+  "t": "Pastela keto de marisco",
+  "i": [
+   "gambas peladas",
+   "calamares en dados pequeños",
+   "filetes de pescadilla",
+   "ajo",
+   "cilantro",
+   "comino, pimentón, guindilla",
+   "aceite de oliva",
+   "fideos de konjac",
+   "mozzarella rallada",
+   "harina de almendra",
+   "huevos",
+   "zumo de limón",
+   "sal"
+  ],
+  "s": [
+   "Sofría el ajo en el aceite, añada los calamares 5 min y luego las gambas y la pescadilla en trozos 4 min, con las especias, la sal y el limón.",
+   "Fuera del fuego, añada el cilantro y los fideos de konjac enjuagados, escurridos y cortados con tijeras; escurra bien el relleno en un colador.",
+   "Prepare la masa fathead: derrita la mozzarella 1 min 30 en el microondas, añada la harina de almendra y 1 huevo, amase y divida en dos.",
+   "Extienda cada mitad en un disco de 26 cm entre dos papeles vegetales; forre un molde con el primer disco.",
+   "Rellene con el preparado, cubra con el segundo disco, selle los bordes y unte con el segundo huevo batido.",
+   "Hornee de 20 a 25 min a 190 °C, hasta que la pastela esté bien dorada; deje reposar 5 min antes de cortar."
+  ],
+  "p": "El relleno debe estar bien escurrido y frío para que la masa no se empape; se puede preparar la víspera."
+ },
+ "l06-sardines-farcies-chermoula": {
+  "t": "Sardinas rellenas de chermoula, asadas al horno",
+  "i": [
+   "sardinas grandes abiertas en libro",
+   "cilantro",
+   "perejil",
+   "ajo",
+   "comino, pimentón y guindilla",
+   "zumo de limón",
+   "aceite de oliva",
+   "harina de almendra (para rebozar)",
+   "sal"
+  ],
+  "s": [
+   "Limpie las sardinas, quíteles la cabeza y la espina central abriéndolas en libro; enjuague y seque.",
+   "Pique finamente las hierbas y el ajo, y mezcle con las especias, el limón, la mitad del aceite y la sal.",
+   "Extienda una cucharada de chermoula sobre la mitad de las sardinas (lado de la carne) y cubra con una segunda sardina, con la piel hacia fuera.",
+   "Pase las sardinas por la harina de almendra, colóquelas en una bandeja engrasada y rocíe con el resto del aceite.",
+   "Hornee de 12 a 15 min a 220 °C, dándoles la vuelta a mitad de cocción, hasta que estén doradas."
+  ],
+  "p": "Tradicionalmente se fríen: también puede hacerlas a la plancha 3 min por cada lado en un fondo de aceite de oliva."
+ },
+ "l06-ojja-merguez": {
+  "t": "Ojja con merguez y huevos",
+  "i": [
+   "merguez halal",
+   "huevos",
+   "pimientos verdes",
+   "tomate triturado",
+   "ajo",
+   "harissa",
+   "aceite de oliva",
+   "alcaravea y pimentón",
+   "sal"
+  ],
+  "s": [
+   "Dore las merguez cortadas en trozos 5 min en el aceite y resérvelas.",
+   "En la misma sartén, sofría los pimientos en tiras y el ajo 5 min.",
+   "Añada el tomate, la harissa, las especias y un poco de sal; deje cocer a fuego lento 8 min.",
+   "Vuelva a poner las merguez, haga 6 huecos y casque en ellos los huevos; tape y cueza 5 min, hasta que las claras estén cuajadas.",
+   "Sirva directamente en la sartén."
+  ],
+  "p": "Especialidad tunecina: dosifique la harissa según los gustos de la familia y ofrezca más aparte para los aficionados."
+ },
+ "l06-dolma-courgettes-kefta": {
+  "t": "Dolma de calabacines rellenos de kefta, con salsa blanca",
+  "i": [
+   "calabacines medianos",
+   "carne picada para kefta",
+   "huevo",
+   "cebolla rallada",
+   "perejil",
+   "canela, pimienta y comino",
+   "ajo",
+   "smen o mantequilla",
+   "contramuslos de pollo (para la salsa)",
+   "zumo de limón",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Corte los calabacines en trozos de 6 cm y vacíelos con un vaciador de bolas dejando el fondo; reserve la pulpa.",
+   "Mezcle la kefta con el huevo, la mitad del perejil, la mitad de las especias y la sal; rellene los trozos.",
+   "En una cacerola, sofría el pollo en el smen con la cebolla, el ajo, el resto de las especias y la pulpa de los calabacines; añada 500 ml de agua y cueza 15 min.",
+   "Coloque los calabacines rellenos de pie en la salsa, tape y cueza 30 min a fuego lento.",
+   "Añada el zumo de limón y el resto del perejil, deje reducir 5 min y sirva."
+  ],
+  "p": "Receta argelina de la «dolma» en salsa blanca; si sobra relleno, forme albóndigas y cuézalas en la salsa."
+ },
+ "l06-cotelettes-agneau-cumin": {
+  "t": "Chuletas de cordero a la parrilla con comino y ensalada de tomate",
+  "i": [
+   "chuletas de cordero",
+   "comino y pimentón",
+   "ajo rallado",
+   "aceite de oliva",
+   "tomates",
+   "cebolla roja",
+   "perejil",
+   "sal"
+  ],
+  "s": [
+   "Mezcle la mitad del aceite con el ajo, el comino, el pimentón y la sal; unte las chuletas y deje reposar 15 min.",
+   "Corte los tomates en dados, corte la cebolla roja en juliana, añada el perejil, el resto del aceite y la sal.",
+   "Ase las chuletas de 3 a 4 min por cada lado en una parrilla muy caliente o en la barbacoa.",
+   "Deje reposar 2 min y sirva con la ensalada de tomate y una pizca de comino."
+  ],
+  "p": "Para el Aíd, prepare un cuenco con comino y sal mezclados en el que cada uno moje su chuleta."
+ },
+ "l06-bissara-chou-fleur": {
+  "t": "Bissara keto de coliflor con comino y aceite de oliva",
+  "i": [
+   "coliflor en ramilletes",
+   "ajo",
+   "tahini (para la crema)",
+   "comino y pimentón",
+   "aceite de oliva (incluido el de servir)",
+   "zumo de limón",
+   "agua o caldo de verduras",
+   "sal"
+  ],
+  "s": [
+   "Cueza la coliflor y el ajo en 700 ml de agua con sal durante 20 min, hasta que estén muy tiernos.",
+   "Triture con el tahini, la mitad del comino y 2 cucharadas soperas de aceite hasta obtener un puré espeso y aterciopelado; añada agua de cocción si hace falta.",
+   "Vuelva a poner al fuego 5 min removiendo para espesar, añada el limón y rectifique de sal.",
+   "Sirva en cuencos, rociados con un generoso chorro de aceite de oliva y espolvoreados con comino y pimentón."
+  ],
+  "p": "La auténtica bissara se hace con habas secas, demasiado ricas en hidratos de carbono para la dieta keto: la coliflor y el tahini reproducen su textura y su sabor invernal. Añada un huevo poché para una cena ligera."
+ },
+ "l06-amlou-keto": {
+  "t": "Amlou keto de almendras y aceite de argán",
+  "i": [
+   "almendras enteras con piel",
+   "aceite de argán alimentario",
+   "eritritol en polvo",
+   "stevia (opcional)",
+   "sal"
+  ],
+  "s": [
+   "Tueste las almendras 10 min en el horno a 180 °C, hasta que estén doradas por dentro; deje enfriar.",
+   "Tritúrelas durante mucho rato (5 a 8 min), raspando las paredes, hasta obtener una pasta que empiece a brillar.",
+   "Añada el eritritol en polvo, la sal y la stevia, y vierta el aceite de argán en hilo sin dejar de triturar.",
+   "Pase a un tarro; la pasta debe ser fluida como una crema para untar."
+  ],
+  "p": "Una ración = 2 cucharadas soperas, para untar en una harcha o un msemen keto. Se conserva 1 mes en un tarro al abrigo de la luz."
+ },
+ "l06-cornes-gazelle-keto": {
+  "t": "Cuernos de gacela keto con agua de azahar",
+  "i": [
+   "harina de almendra (para el relleno)",
+   "eritritol en polvo",
+   "mantequilla",
+   "agua de azahar",
+   "canela",
+   "mozzarella rallada (para la masa)",
+   "queso crema",
+   "huevo"
+  ],
+  "s": [
+   "Relleno: mezcle 170 g de harina de almendra, 60 g de eritritol, 20 g de mantequilla derretida, el agua de azahar y la canela; forme 24 cilindros finos y alargados de 6 cm y reserve en frío.",
+   "Masa: derrita la mozzarella y el queso crema 1 min 30 en el microondas, añada el resto de la harina de almendra, el resto de la mantequilla, el eritritol restante y el huevo; amase.",
+   "Refrigere la masa 15 min y extiéndala muy fina (1 a 2 mm) entre dos papeles vegetales.",
+   "Corte tiras de 8 cm, coloque un cilindro de relleno, doble la masa, selle y corte con la rueda; curve en forma de media luna.",
+   "Pinche cada cuerno con un tenedor y hornee de 12 a 15 min a 170 °C, hasta que estén apenas dorados.",
+   "Deje enfriar sobre una rejilla antes de servir con el té."
+  ],
+  "p": "Los cuernos deben quedar pálidos: sáquelos en cuanto la base empiece a dorarse. Se conservan 1 semana en una caja."
+ },
+ "l06-mhalbiya-fleur-oranger": {
+  "t": "Mhalbiya keto con agua de azahar y pistachos",
+  "i": [
+   "nata líquida",
+   "leche de almendra sin azúcar",
+   "agar-agar",
+   "eritritol",
+   "agua de azahar",
+   "pistachos troceados",
+   "canela"
+  ],
+  "s": [
+   "En un cazo, disuelva el agar-agar en la leche de almendra fría y añada la nata y el eritritol.",
+   "Lleve a ebullición batiendo y deje hervir 2 min para activar el agar-agar.",
+   "Fuera del fuego, añada el agua de azahar y vierta en 6 flaneras.",
+   "Deje enfriar y refrigere al menos 2 h, hasta que la crema cuaje.",
+   "En el momento de servir, espolvoree con los pistachos troceados y una pizca de canela."
+  ],
+  "p": "El agar-agar sustituye a la gelatina y a la maicena: la textura se mantiene firme incluso a temperatura ambiente."
+ },
+ "l06-jus-amande-fleur-oranger": {
+  "t": "Leche de almendra helada con agua de azahar",
+  "i": [
+   "leche de almendra sin azúcar bien fría",
+   "crema de almendra blanca",
+   "agua de azahar",
+   "eritritol",
+   "canela"
+  ],
+  "s": [
+   "Ponga la leche de almendra, la crema de almendra, el eritritol y el agua de azahar en una batidora.",
+   "Triture 30 segundos a máxima velocidad hasta que la bebida quede espumosa.",
+   "Vierta sobre cubitos de hielo en dos vasos grandes.",
+   "Espolvoree con una pizca de canela y sirva enseguida."
+  ],
+  "p": "La versión keto del «zumo de almendra» de los cafés marroquíes y de las bodas; añada medio aguacate para un batido más nutritivo."
+ },
+ "l06-cafe-epices-beurre": {
+  "t": "Café con especias marroquíes (kahwa mkhaltra) y mantequilla",
+  "i": [
+   "café recién hecho",
+   "mezcla kahwa: canela, jengibre, cardamomo, nuez moscada, pimienta negra",
+   "mantequilla sin sal",
+   "nata líquida",
+   "stevia (opcional)"
+  ],
+  "s": [
+   "Prepare el café con la mezcla de especias (en el filtro o en la cafetera italiana).",
+   "Vierta el café caliente en una batidora o en un bol grande con la mantequilla, la nata y la stevia.",
+   "Triture 20 segundos (o bata con el espumador) hasta obtener una bebida cremosa y espumosa.",
+   "Sirva enseguida en tazas precalentadas."
+  ],
+  "p": "La mezcla de especias se prepara con antelación: 2 cucharadas soperas de canela, 1 de jengibre, 1 de cardamomo, ½ de nuez moscada, ½ de pimienta negra, en un tarro."
+ },
+ "l06-kebda-mchermla": {
+  "t": "Kebda mchermla: hígados de ave salteados con chermoula",
+  "i": [
+   "hígados de ave",
+   "ajo",
+   "cilantro",
+   "perejil",
+   "comino y pimentón",
+   "aceite de oliva",
+   "tomate rallado",
+   "zumo de limón",
+   "aceitunas negras",
+   "sal"
+  ],
+  "s": [
+   "Limpie los hígados, córtelos por la mitad y séquelos.",
+   "Caliente el aceite, selle los hígados 2 min a fuego fuerte por todos los lados y retírelos.",
+   "En la misma sartén, sofría el ajo y el tomate rallado 4 min; después añada las especias, las hierbas picadas y la sal.",
+   "Vuelva a poner los hígados, añada las aceitunas y 50 ml de agua; deje cocer a fuego lento de 6 a 8 min, hasta que el centro de los hígados ya no esté rosado (70 °C).",
+   "Rocíe con limón y sirva caliente."
+  ],
+  "p": "Ricos en hierro y muy económicos; sale los hígados solo al final de la cocción para que queden tiernos."
+ }
+}

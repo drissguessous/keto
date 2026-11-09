@@ -13,8 +13,14 @@
   const dkey = (d = new Date()) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
   const parseKey = (k) => { const [y, m, d] = k.split("-").map(Number); return new Date(y, m - 1, d); };
   const daysBetween = (a, b) => Math.round((parseKey(b) - parseKey(a)) / 86400000);
-  const fmt = (n, dec = 0) => (n == null || isNaN(n) ? "–" : Number(n).toLocaleString("fr-FR", { maximumFractionDigits: dec, minimumFractionDigits: dec }));
-  const fmtDate = (k, opt = { weekday: "short", day: "numeric", month: "short" }) => parseKey(k).toLocaleDateString("fr-FR", opt);
+  const I18 = window.I18N || { lang: "fr", locale: "fr-FR", LANGS: {}, recipesTranslated: true, names: [] };
+  const LOC = I18.locale === "zgh" ? "fr-FR" : (I18.locale || "fr-FR");
+  // sélecteur de langue (accueil et profil)
+  const langPicker = () => `<div class="lang-picker" data-notr><span aria-hidden="true">🌐</span>${Object.keys(I18.LANGS).map((c) =>
+    `<button type="button" data-lang="${c}" class="${c === I18.lang ? "on" : ""}" aria-pressed="${c === I18.lang}" lang="${c}">${I18.LANGS[c].label}</button>`).join("")}</div>`;
+  const bindLang = (root) => (root || document).querySelectorAll("[data-lang]").forEach((b) => b.addEventListener("click", () => { if (b.dataset.lang !== I18.lang && window.I18N) I18N.set(b.dataset.lang); }));
+  const fmt = (n, dec = 0) => (n == null || isNaN(n) ? "–" : Number(n).toLocaleString(LOC, { maximumFractionDigits: dec, minimumFractionDigits: dec }));
+  const fmtDate = (k, opt = { weekday: "short", day: "numeric", month: "short" }) => parseKey(k).toLocaleDateString(LOC, opt);
   const uid = () => Math.random().toString(36).slice(2, 9);
   // Virgule décimale française pour les valeurs issues des recettes (ex. 2.2 → « 2,2 »)
   const dc = (n) => String(n == null ? "–" : n).replace(".", ",");
@@ -69,6 +75,7 @@
   try { db = JSON.parse(localStorage.getItem(KEY)) || null; } catch (e) { db = null; }
   if (!db || !db.profiles) db = { profiles: {}, current: null };
   const save = () => { try { localStorage.setItem(KEY, JSON.stringify(db)); } catch (e) { toast("Stockage plein ou indisponible"); } };
+  if (window.I18N) I18N.names = Object.keys(db.profiles).map((id) => db.profiles[id].name).filter(Boolean).sort((x, y) => y.length - x.length);
   const P = () => db.profiles[db.current] || null;
   const dayLog = (p, k = dkey()) => (p.log[k] = p.log[k] || { meals: [], tasks: {}, water: 0 });
 
@@ -100,7 +107,7 @@
   // ---------- Budget (prix moyens relevés au Maroc, en dirhams) ----------
   const PRICE_INFO = window.PRICE_INFO || { updated: "", sources: [] };
   const hasCost = (r) => typeof r.cost === "number";
-  const dh = (v) => (v < 10 ? (Math.round(v * 2) / 2).toLocaleString("fr-FR") : Math.round(v)) + " DH";
+  const dh = (v) => (v < 10 ? (Math.round(v * 2) / 2).toLocaleString(LOC) : Math.round(v)) + " DH";
   const BUDGETS = [[0, "Sans limite"], [15, "Économique"], [25, "Moyen"], [40, "Confort"]];
   const SLOT_SHARE = { "petit-dej": 0.6, dejeuner: 1, diner: 1, collation: 0.4 };
   const slotLimit = (p, slot) => (+p.budget > 0 ? +p.budget * (SLOT_SHARE[slot] || 1) : Infinity);
@@ -239,6 +246,7 @@
   }
 
   function render() {
+    if (window.I18N) I18N.names = Object.keys(db.profiles).map((id) => db.profiles[id].name).filter(Boolean).sort((x, y) => y.length - x.length);
     storeBanner();
     const hash = location.hash.replace(/^#\/?/, "") || "aujourdhui";
     const [name, arg] = hash.split("/");
@@ -348,6 +356,7 @@
     const first = !Object.keys(db.profiles).length;
     const onlyDemo = !first && Object.keys(db.profiles).every((id) => db.profiles[id].demo);
     $("#view").innerHTML = `
+      ${first ? langPicker() : ""}
       ${first ? `<div class="welcome"><img src="icon.png" alt=""><h2>Keto Famille</h2>
         <p class="muted">Un programme keto simple sur 4 semaines, des recettes complètes et un suivi au quotidien. Gratuit, sans compte, vos données restent sur ce téléphone.</p>
         <button class="btn ghost block" id="demo" type="button">👀 Juste regarder : essayer avec un profil de démonstration</button></div>` : ""}
@@ -356,6 +365,7 @@
         <p class="hint" style="margin-top:-4px">Environ 1 minute. Ces informations servent à calculer vos repères du jour.</p>${profileForm(null, true)}</div>
       ${first ? "" : `<button class="btn ghost block" type="button" id="cancelNew">Annuler</button>`}`;
     const c = $("#cancelNew"); if (c) c.addEventListener("click", () => history.back());
+    bindLang($("#view"));
     bindProfileForm((data) => {
       const id = uid();
       db.profiles[id] = Object.assign(data, { id, log: {}, favorites: [], swaps: {} });
@@ -740,6 +750,7 @@
       <div class="search-wrap"><span class="search-ico" aria-hidden="true">🔍</span>
         <input class="search" id="q" type="search" enterkeyhint="search" placeholder="Recette ou ingrédient (ex. poulet)" value="${esc(recQuery)}">
         <button type="button" class="search-clear" id="qClear" aria-label="Effacer la recherche" ${recQuery ? "" : "hidden"}>✕</button></div>
+      ${!I18.recipesTranslated ? `<p class="hint">Les recettes sont affichées en français pour cette langue.</p>` : ""}
       <div class="chips-label" id="lblC1">Type de plat</div>
       <div class="chips" id="chips" role="group" aria-labelledby="lblC1">${[["tout", "Toutes"], ["fav", "❤️ Favoris"], ...Object.entries(CATS)]
         .map(([v, l]) => `<button type="button" data-c="${v}" class="${recFilter === v ? "on" : ""}" aria-pressed="${recFilter === v}">${l}</button>`).join("")}</div>
@@ -1031,6 +1042,8 @@
         <a class="btn light block" href="#/prix" style="margin-bottom:8px">💰 Mes prix : ajuster les prix des produits</a>
         <button class="btn block" type="button" id="switch">👨‍👩‍👧 Changer de profil ou ajouter un membre</button></div>
       <div class="card"><h2>Modifier mes informations</h2>${profileForm(p, false)}</div>
+      <div class="card"><h2>Langue</h2>${langPicker()}
+        ${!I18.recipesTranslated ? `<p class="hint">Les recettes sont affichées en français pour cette langue.</p>` : ""}</div>
       <div class="card"><h2>Réglages et sauvegarde</h2>
         <label class="check" style="margin-bottom:8px"><input type="checkbox" id="photosToggle" ${db.photos !== false ? "checked" : ""}><span>Afficher de vraies photos des plats (Wikimedia Commons, nécessite internet)</span></label>
         <details class="data-info"><summary>🔒 Où sont mes données ?</summary>
@@ -1044,6 +1057,7 @@
       <p class="small muted" style="text-align:center">Keto Famille v1.5 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone (sans compte ni cookies).<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour ✓"); render(); });
     $("#switch").onclick = showProfileSwitcher;
+    bindLang($("#view"));
     $("#photosToggle").onchange = (e) => { db.photos = e.target.checked; save(); toast(db.photos ? "Photos activées" : "Photos désactivées"); };
     $("#export").onclick = () => {
       const json = JSON.stringify(db);

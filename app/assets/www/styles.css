@@ -269,3 +269,18 @@ ol.howto li { margin-bottom: 6px; }
 .store-banner p { margin: 6px 0 10px; font-size: 14.5px; }
 .data-info { margin-bottom: 10px; }
 .data-info p { font-size: 14.5px; }
+/* Langues */
+.lang-picker { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 4px 0 8px; }
+.lang-picker > span { font-size: 18px; margin-inline-end: 2px; }
+.lang-picker button { border: 1.5px solid var(--line); background: #fff; border-radius: 999px; padding: 8px 12px; font-weight: 600; font-size: 14px; min-height: 40px; }
+.lang-picker button.on { background: var(--green); color: #fff; border-color: var(--green); }
+:lang(zgh-Tfng) body, [lang="zgh-Tfng"] body { font-family: "Noto Sans Tifinagh", "Ebrima", system-ui, sans-serif; }
+/* Arabe : lecture de droite à gauche */
+[dir="rtl"] .icon-btn { transform: scaleX(-1); }
+[dir="rtl"] ul.ing .q { text-align: right; }
+[dir="rtl"] ol.steps li, [dir="rtl"] .check, [dir="rtl"] .meal { text-align: right; }
+[dir="rtl"] .search { text-align: right; }
+[dir="rtl"] .price-row { text-align: right; }
+[dir="rtl"] .price-row .price { text-align: left; }
+[dir="rtl"] .store-banner, [dir="rtl"] .warn, [dir="rtl"] .tip { text-align: right; }
+[dir="rtl"] .tip { border-left: 0; border-right: 4px solid var(--amber); }

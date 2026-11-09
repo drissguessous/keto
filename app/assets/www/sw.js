@@ -3,7 +3,7 @@
 const APP = "kf-app-v1.5.0";
 const PHOTOS = "kf-photos-v2";
 const MAX_PHOTOS = 300; // limite du cache photos (les plus anciennes sont retirées)
-const SHELL = ["./", "index.html", "styles.css", "app.js", "content.js", "recipes.js", "photo-keywords.js",
+const SHELL = ["./", "index.html", "styles.css", "app.js", "content.js", "recipes.js", "photo-keywords.js", "i18n.js", "lang/ar.js", "lang/en.js", "lang/es.js", "lang/zgh.js",
   "icon.png", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png", "manifest.webmanifest"];
 
 self.addEventListener("install", (e) => {

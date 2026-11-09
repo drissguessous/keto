@@ -1,0 +1,228 @@
+{
+ "PROGRAM": [
+  {
+   "week": 1,
+   "title": "Arranque",
+   "subtitle": "Salimos del azúcar con suavidad",
+   "text": "La primera semana, el cuerpo agota sus reservas de glucosa. Pueden aparecer cansancio, dolor de cabeza o irritabilidad hacia el 2.º–4.º día: es normal y pasajero. Coma hasta quedar saciado/a, beba mucho y añada sal, magnesio y potasio (aguacate, espinacas, caldo).",
+   "goals": [
+    "Mantenerse cada día por debajo del límite de carbohidratos netos",
+    "Beber al menos 2 litros de agua al día",
+    "Salar un poco más los platos (caldo, agua con sal) contra la «gripe keto»",
+    "Vaciar los armarios: azúcar, pan blanco, pasteles, refrescos"
+   ]
+  },
+  {
+   "week": 2,
+   "title": "Adaptación",
+   "subtitle": "El cuerpo aprende a quemar grasas",
+   "text": "La energía vuelve y el hambre suele disminuir. Es el buen momento para instaurar rutinas: compra con lista, comidas preparadas con antelación y un desayuno rico en proteínas.",
+   "goals": [
+    "Planificar las comidas el día anterior (batch cooking el fin de semana)",
+    "Alcanzar su objetivo de proteínas en cada comida",
+    "Sustituir los tentempiés azucarados por frutos secos, aceitunas o queso",
+    "Caminar de 20 a 30 minutos al día"
+   ]
+  },
+  {
+   "week": 3,
+   "title": "Consolidación",
+   "subtitle": "Afinamos y variamos",
+   "text": "El peso puede estancarse unos días: es frecuente (agua, ciclo hormonal). Fíjese en la tendencia a lo largo de varias semanas, en sus medidas y en su energía, más que en una cifra aislada.",
+   "goals": [
+    "Probar 3 recetas nuevas de la aplicación",
+    "Pesarse 1 o 2 veces por semana, siempre por la mañana en ayunas",
+    "Escuchar el hambre: no comer por costumbre",
+    "Preparar una solución para las salidas (restaurante, invitaciones)"
+   ]
+  },
+  {
+   "week": 4,
+   "title": "Rutina duradera",
+   "subtitle": "Hacer del keto un estilo de vida",
+   "text": "Ya tiene los buenos reflejos. Siga controlando su peso y su energía. Si desea dejar el keto, reintroduzca los carbohidratos de forma progresiva (frutos rojos, legumbres) prestando atención a sus sensaciones.",
+   "goals": [
+    "Componer sus propios platos: proteína + verduras verdes + grasa buena",
+    "Tener siempre 2 o 3 recetas «comodín» a mano",
+    "Hacer el balance con la pestaña Seguimiento",
+    "Decidir cómo seguir: continuar o reintroducir poco a poco algunos carbohidratos"
+   ]
+  }
+ ],
+ "TIPS": [
+  "Un caldo salado o una pizca de sal en el agua ayuda mucho contra el cansancio de los primeros días.",
+  "Los carbohidratos «netos» = carbohidratos totales – fibra. Son los que se cuentan.",
+  "Desconfíe de las salsas industriales: el kétchup y las salsas barbacoa suelen contener mucho azúcar.",
+  "Un huevo duro y unas aceitunas: el tentempié keto más sencillo que existe.",
+  "La coliflor rallada sustituye muy bien al arroz o al cuscús.",
+  "Prepare una gran cantidad de kefta o de pollo el domingo para toda la semana.",
+  "El té a la menta se bebe muy bien sin azúcar… o con unas gotas de estevia.",
+  "Lea las etiquetas: el azúcar se esconde bajo los nombres dextrosa, maltodextrina, jarabe de glucosa.",
+  "Las verduras verdes (espinacas, calabacines, judías verdes) son sus mejores aliadas: pocos carbohidratos, mucho volumen.",
+  "Duerma bien: la falta de sueño aumenta las ganas de azúcar.",
+  "¿Calambres por la noche? Piense en el magnesio y el potasio (aguacate, almendras, espinacas).",
+  "El aceite de oliva, la mantequilla y el aguacate son grasas de calidad. Evite los aceites de fritura reutilizados.",
+  "En el restaurante: parrillada + ensalada + verduras, sin pan ni patatas fritas. Sencillo y eficaz.",
+  "¿Sin hambre en el desayuno? No pasa nada, el keto suele quitar el hambre de la mañana.",
+  "Los frutos rojos (frambuesas, fresas) siguen siendo posibles en pequeña cantidad.",
+  "Los frutos secos azucarados (dátiles, higos secos, pasas) se deben evitar: son muy ricos en azúcar.",
+  "Una onza de chocolate negro 85 % puede calmar un antojo de dulce.",
+  "Pesarse a diario hace variar el ánimo: fíjese mejor en la tendencia semanal.",
+  "Tenga siempre en casa huevos, atún y aguacate: una comida en 10 minutos.",
+  "Mastique despacio: la saciedad tarda unos 20 minutos en llegar.",
+  "La leche contiene azúcar (lactosa). Prefiera la nata, la leche de almendras sin azúcar o la leche de coco.",
+  "Muévase después de comer: 10 minutos de paseo mejoran la digestión y la glucemia.",
+  "Las especias (comino, pimentón, ras el hanout, cúrcuma) dan sabor sin carbohidratos.",
+  "Llegan las fiestas e invitaciones: coma antes de salir para evitar tentaciones.",
+  "Un desliz no anula sus esfuerzos. Retome simplemente en la siguiente comida.",
+  "El queso es práctico pero calórico: cuidado con las cantidades si el peso se estanca.",
+  "Las bebidas «cero» siguen sabiendo dulce: limítelas para reducir las ganas de azúcar.",
+  "Felicítese: cada día cumplido es una victoria. ¡Comparta sus recetas favoritas con la familia!"
+ ],
+ "FOODS": {
+  "oui": [
+   [
+    "🥩",
+    "Carnes y aves",
+    "ternera, cordero, pollo, pavo, kefta casera"
+   ],
+   [
+    "🐟",
+    "Pescados y mariscos",
+    "sardinas, salmón, atún, gambas, merluza"
+   ],
+   [
+    "🥚",
+    "Huevos",
+    "a voluntad, de todas las formas"
+   ],
+   [
+    "🥑",
+    "Grasas buenas",
+    "aceite de oliva, mantequilla, smen, aguacate, aceite de coco, aceitunas"
+   ],
+   [
+    "🥬",
+    "Verduras verdes",
+    "espinacas, calabacines, ensalada, pepino, brócoli, coliflor, pimientos"
+   ],
+   [
+    "🧀",
+    "Quesos y nata",
+    "quesos curados, crema fresca, mascarpone, yogur griego natural"
+   ],
+   [
+    "🌰",
+    "Frutos secos y semillas",
+    "almendras, nueces, avellanas, semillas de chía, de lino, de calabaza"
+   ],
+   [
+    "🍓",
+    "Frutos rojos",
+    "frambuesas, fresas, moras (porciones pequeñas)"
+   ],
+   [
+    "🌿",
+    "Hierbas y especias",
+    "menta, cilantro, perejil, comino, ras el hanout, limón en conserva"
+   ]
+  ],
+  "modere": [
+   [
+    "🍅",
+    "Tomates, cebollas, zanahorias",
+    "en pequeña cantidad para dar sabor"
+   ],
+   [
+    "🥛",
+    "Leche",
+    "contiene lactosa, mejor nata o leche de almendras"
+   ],
+   [
+    "🥜",
+    "Cacahuetes, anacardos",
+    "más ricos en carbohidratos que las almendras"
+   ],
+   [
+    "🍫",
+    "Chocolate negro 85 % o más",
+    "una o dos onzas"
+   ]
+  ],
+  "non": [
+   [
+    "🍞",
+    "Pan, msemen, baghrir clásicos",
+    "harina de trigo: vea las versiones keto"
+   ],
+   [
+    "🍚",
+    "Arroz, pasta, sémola, cuscús",
+    "sustituir por coliflor o calabacín"
+   ],
+   [
+    "🥔",
+    "Patatas, boniatos",
+    "demasiado ricos en almidón"
+   ],
+   [
+    "🫘",
+    "Legumbres",
+    "lentejas, garbanzos, alubias secas"
+   ],
+   [
+    "🍬",
+    "Azúcar y repostería",
+    "azúcar, miel, mermelada, pasteles, chebakia"
+   ],
+   [
+    "🍌",
+    "Frutas dulces y frutos secos azucarados",
+    "plátano, uvas, dátiles, higos secos, zumos de fruta"
+   ],
+   [
+    "🥤",
+    "Bebidas azucaradas",
+    "refrescos, zumos, té azucarado"
+   ]
+  ]
+ },
+ "FAQ": [
+  [
+   "¿Qué es el keto?",
+   "Una alimentación muy baja en carbohidratos (a menudo menos de 20 a 30 g netos al día), moderada en proteínas y rica en grasas buenas. El cuerpo utiliza entonces las grasas como principal fuente de energía."
+  ],
+  [
+   "¿Qué es la «gripe keto»?",
+   "Cansancio, dolor de cabeza o náuseas durante los primeros días, debidos a la pérdida de agua y de sales minerales. Beba mucho, sale sus platos y tome un caldo. Suele pasar en menos de una semana."
+  ],
+  [
+   "¿Cuánto tiempo hay que esperar para ver resultados?",
+   "La primera semana se pierde sobre todo agua. Después la pérdida es más lenta y regular. Cuente al menos 4 semanas antes de hacer un balance real."
+  ],
+  [
+   "¿Puedo hacer deporte?",
+   "Sí. Los primeros días, priorice los paseos y los esfuerzos moderados, mientras el cuerpo se adapta."
+  ],
+  [
+   "¿El keto es adecuado para todo el mundo?",
+   "No. Pida la opinión de su médico antes de empezar si está embarazada o en periodo de lactancia, si tiene diabetes en tratamiento, una enfermedad de los riñones, del hígado, del páncreas o de la vesícula, si toma un tratamiento para la tensión arterial, o si tiene antecedentes de trastornos de la conducta alimentaria. Este programa no está destinado a niños ni adolescentes."
+  ],
+  [
+   "Carne, aves y huevos: ¿qué cocción?",
+   "Las aves, la carne picada y el hígado deben cocinarse por completo, sin rastro de rosado (70 °C). Los huevos con yema líquida, los huevos crudos (mousse, mayonesa casera), el pescado crudo y el salmón ahumado no se recomiendan a las mujeres embarazadas, a los niños menores de 5 años ni a las personas mayores o frágiles: prefiera entonces versiones bien cocinadas."
+  ],
+  [
+   "¿Las recetas son halal?",
+   "Sí: ni cerdo, ni alcohol, ni gelatina animal (el agar-agar la sustituye). Utilice aroma de vainilla y salsa de soja sin alcohol. Para los quesos curados (parmesano, emmental…), elíjalos con cuajo microbiano o certificados halal si es importante para usted."
+  ],
+  [
+   "¿Cómo se calculan los precios?",
+   "A partir de precios medios observados en Marruecos (grandes superficies y mercados). Para la carne con hueso o el pescado entero, el coste tiene en cuenta el peso comprado, y las calorías el peso realmente comido. Puede corregir cada precio en Perfil › Mis precios."
+  ],
+  [
+   "¿Qué hacer en caso de desliz?",
+   "Nada grave. Retome con normalidad en la siguiente comida, beba agua y no intente «compensar» saltándose comidas."
+  ]
+ ]
+}
