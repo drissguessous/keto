@@ -16,10 +16,11 @@
   "ingredients": [
    {
     "ing": "poulet_entier",
-    "g": 1300,
+    "g": 845,
     "qty": 1,
     "unit": "pièce(s)",
-    "name": "poulet fermier découpé en 8"
+    "name": "poulet fermier découpé en 8",
+    "g_achat": 1300
    },
    {
     "ing": "oignon",
@@ -231,7 +232,6 @@
   "tags": [
    "Marocain",
    "Famille",
-   "Rapide",
    "Sans lactose"
   ],
   "ingredients": [
@@ -338,10 +338,11 @@
   "ingredients": [
    {
     "ing": "loup",
-    "g": 900,
+    "g": 720,
     "qty": 900,
     "unit": "g",
-    "name": "loup ou dorade en tranches épaisses"
+    "name": "loup ou dorade en tranches épaisses",
+    "g_achat": 900
    },
    {
     "ing": "coriandre",
@@ -450,8 +451,7 @@
   "tags": [
    "Marocain",
    "Famille",
-   "Batch cooking",
-   "Sans lactose"
+   "Batch cooking"
   ],
   "ingredients": [
    {
@@ -648,8 +648,7 @@
   "difficulty": "Moyen",
   "tags": [
    "Marocain",
-   "Famille",
-   "Sans lactose"
+   "Famille"
   ],
   "ingredients": [
    {
@@ -723,7 +722,7 @@
    "Quand la viande se détache de l'os, ajoutez l'érythritol et le reste de cannelle ; laissez réduire à découvert 20 à 25 min jusqu'à obtenir une sauce sirupeuse qui enrobe la viande.",
    "Servez garni des amandes dorées."
   ],
-  "tips": "L'érythritol ne caramélise pas comme le miel : c'est la réduction lente de la sauce et le smen qui donnent la texture laquée. Une pointe de stevia renforce le côté sucré si besoin."
+  "tips": "L'érythritol ne caramélise pas comme le miel : c'est la réduction lente de la sauce et le smen qui donnent la texture laquée. Une pointe de stévia renforce le côté sucré si besoin."
  },
  {
   "id": "l06-poulet-mqualli",
@@ -742,10 +741,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 1100,
+    "g": 770,
     "qty": 4,
     "unit": "pièce(s)",
-    "name": "cuisses de poulet entières"
+    "name": "cuisses de poulet entières",
+    "g_achat": 1100
    },
    {
     "ing": "oignon",
@@ -836,10 +836,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 900,
+    "g": 630,
     "qty": 900,
     "unit": "g",
-    "name": "cuisses de poulet"
+    "name": "cuisses de poulet",
+    "g_achat": 900
    },
    {
     "ing": "oignon",
@@ -1064,10 +1065,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 700,
+    "g": 490,
     "qty": 700,
     "unit": "g",
-    "name": "cuisses de poulet"
+    "name": "cuisses de poulet",
+    "g_achat": 700
    },
    {
     "ing": "courgette",
@@ -1440,8 +1442,7 @@
   "tags": [
    "Marocain",
    "Famille",
-   "Sans lactose",
-   "Rapide"
+   "Sans lactose"
   ],
   "ingredients": [
    {
@@ -1673,7 +1674,7 @@
    "Nettoyez les foies en retirant les filaments, coupez-les en gros morceaux ; coupez l'agneau en cubes de même taille.",
    "Mélangez le cumin, le paprika, le piment et le sel dans une assiette.",
    "Enfilez sur des brochettes en alternant foie et agneau, puis badigeonnez légèrement d'huile.",
-   "Faites griller 10 à 12 min sur braises vives en tournant souvent : le foie doit rester rosé à cœur.",
+   "Faites griller 12 à 15 min sur braises vives en tournant souvent, jusqu'à ce que le foie ne soit plus rose à cœur (70 °C).",
    "Roulez les brochettes chaudes dans le mélange d'épices et servez parsemées de persil."
   ],
   "tips": "Traditionnellement préparé à l'Aïd avec le foie d'agneau enveloppé de crépine : utilisez-le si vous en avez, la recette fonctionne pareil."
@@ -1689,16 +1690,16 @@
   "difficulty": "Moyen",
   "tags": [
    "Marocain",
-   "Famille",
-   "Sans lactose"
+   "Famille"
   ],
   "ingredients": [
    {
     "ing": "agneau_epaule",
-    "g": 2000,
+    "g": 1400,
     "qty": 1,
     "unit": "pièce(s)",
-    "name": "épaule d'agneau entière avec os (2 kg)"
+    "name": "épaule d'agneau entière avec os (2 kg)",
+    "g_achat": 2000
    },
    {
     "ing": "smen",
@@ -1763,8 +1764,7 @@
   "difficulty": "Facile",
   "tags": [
    "Marocain",
-   "Batch cooking",
-   "Sans lactose"
+   "Batch cooking"
   ],
   "ingredients": [
    {
@@ -1849,10 +1849,11 @@
   "ingredients": [
    {
     "ing": "poulet_entier",
-    "g": 1300,
+    "g": 845,
     "qty": 1,
     "unit": "pièce(s)",
-    "name": "poulet fermier découpé"
+    "name": "poulet fermier découpé",
+    "g_achat": 1300
    },
    {
     "ing": "oignon",
@@ -2310,7 +2311,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "citron",
@@ -2699,10 +2700,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 800,
+    "g": 560,
     "qty": 800,
     "unit": "g",
-    "name": "cuisses de poulet"
+    "name": "cuisses de poulet",
+    "g_achat": 800
    },
    {
     "ing": "oignon",
@@ -2788,16 +2790,16 @@
   "difficulty": "Moyen",
   "tags": [
    "Marocain",
-   "Famille",
-   "Sans lactose"
+   "Famille"
   ],
   "ingredients": [
    {
     "ing": "poulet_entier",
-    "g": 1400,
+    "g": 910,
     "qty": 1,
     "unit": "pièce(s)",
-    "name": "poulet entier"
+    "name": "poulet entier",
+    "g_achat": 1400
    },
    {
     "ing": "oignon",
@@ -3382,10 +3384,11 @@
   "ingredients": [
    {
     "ing": "dorade",
-    "g": 1200,
+    "g": 600,
     "qty": 2,
     "unit": "pièce(s)",
-    "name": "dorades entières vidées (600 g chacune)"
+    "name": "dorades entières vidées (600 g chacune)",
+    "g_achat": 1200
    },
    {
     "ing": "coriandre",
@@ -3600,10 +3603,11 @@
   "ingredients": [
    {
     "ing": "sardine",
-    "g": 900,
+    "g": 765,
     "qty": 900,
     "unit": "g",
-    "name": "grosses sardines ouvertes en portefeuille"
+    "name": "grosses sardines ouvertes en portefeuille",
+    "g_achat": 900
    },
    {
     "ing": "coriandre",
@@ -3682,7 +3686,6 @@
   "difficulty": "Facile",
   "tags": [
    "Marocain",
-   "Rapide",
    "Sans lactose",
    "Monde"
   ],
@@ -3772,7 +3775,6 @@
   "tags": [
    "Marocain",
    "Famille",
-   "Sans lactose",
    "Monde"
   ],
   "ingredients": [
@@ -3834,10 +3836,11 @@
    },
    {
     "ing": "poulet_cuisse",
-    "g": 300,
+    "g": 210,
     "qty": 2,
     "unit": "pièce(s)",
-    "name": "pilons de poulet (pour la sauce)"
+    "name": "pilons de poulet (pour la sauce)",
+    "g_achat": 300
    },
    {
     "ing": "citron",
@@ -3887,10 +3890,11 @@
   "ingredients": [
    {
     "ing": "agneau_cotelette",
-    "g": 800,
+    "g": 480,
     "qty": 12,
     "unit": "pièce(s)",
-    "name": "côtelettes d'agneau"
+    "name": "côtelettes d'agneau",
+    "g_achat": 800
    },
    {
     "ing": "epices",
@@ -4693,7 +4697,7 @@
    "Nettoyez les foies, coupez-les en deux et épongez-les.",
    "Faites chauffer l'huile, saisissez les foies 2 min à feu vif sur toutes les faces, puis retirez-les.",
    "Dans la même poêle, faites revenir l'ail et la tomate râpée 4 min, puis ajoutez les épices, les herbes hachées et le sel.",
-   "Remettez les foies, ajoutez les olives et 50 ml d'eau ; laissez mijoter 5 min : les foies doivent rester légèrement rosés.",
+   "Remettez les foies, ajoutez les olives et 50 ml d'eau ; laissez mijoter 6 à 8 min, jusqu'à ce que le cœur des foies ne soit plus rose (70 °C).",
    "Arrosez de citron et servez chaud."
   ],
   "tips": "Riche en fer et très économique ; ne salez les foies qu'en fin de cuisson pour qu'ils restent tendres."
@@ -4872,10 +4876,11 @@
    },
    {
     "ing": "huile_tournesol",
-    "g": 40,
+    "g": 15,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "huile pour la cuisson"
+    "name": "huile pour la cuisson",
+    "g_achat": 40
    },
    {
     "ing": "sel",

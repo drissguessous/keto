@@ -1,0 +1,1336 @@
+{
+ "l08-salade-poulet-avocat-oeuf": {
+  "t": "Chicken, Avocado and Soft-Boiled Egg Main Salad",
+  "i": [
+   "chicken breasts",
+   "avocado",
+   "eggs",
+   "arugula",
+   "cucumber",
+   "pumpkin seeds",
+   "olive oil",
+   "lemon juice",
+   "paprika and cumin",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Season the chicken with paprika, cumin, salt and pepper, then cook it in 1 tbsp of the oil for 5–6 min per side. Let it rest and slice.",
+   "Cook the eggs in boiling water for 6 min 30 s, then cool them immediately and peel carefully.",
+   "Dry-toast the pumpkin seeds in a skillet for 2 min.",
+   "Toss the arugula and diced cucumber with the remaining oil, the lemon juice and a pinch of salt.",
+   "Add the sliced avocado, the chicken, the halved eggs and the pumpkin seeds."
+  ],
+  "p": "Squeeze lemon over the avocado if it has to wait: it won't turn brown."
+ },
+ "l08-jben-oeufs-brouilles-zaatar": {
+  "t": "Scrambled Eggs with Jben, Tomato and Za'atar",
+  "i": [
+   "eggs",
+   "jben (fresh Moroccan cheese)",
+   "small tomato",
+   "butter",
+   "za'atar",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Cut the tomato into small cubes and pat them dry.",
+   "Beat the eggs with a pinch of salt and pepper.",
+   "Melt the butter over low heat, pour in the eggs and stir slowly with a spatula for 3–4 min until you get creamy curds.",
+   "Off the heat, fold in the crumbled jben and the tomato.",
+   "Serve drizzled with olive oil and sprinkled with za'atar."
+  ],
+  "p": "Take the eggs off the heat while they are still a little runny: the residual heat finishes the cooking."
+ },
+ "l08-salade-thon-avocat-oeufs-mimosa": {
+  "t": "Tuna, Avocado and Mimosa Egg Main Salad",
+  "i": [
+   "can of tuna in water, drained",
+   "eggs",
+   "avocado",
+   "mayonnaise",
+   "salad greens",
+   "pickles",
+   "chives",
+   "olive oil",
+   "lemon juice",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Cook the eggs in boiling water for 10 min, cool and peel them.",
+   "Halve the eggs, remove the yolks and mash them with a fork with the mayonnaise and half of the chives.",
+   "Mix the flaked tuna with the chopped pickles, the lemon juice and pepper.",
+   "Fill the egg whites with the yolk-mayonnaise mixture.",
+   "Arrange the salad dressed with olive oil, add the tuna, the sliced avocado and the mimosa eggs, then sprinkle with the remaining chives."
+  ],
+  "p": "Prepare the hard-boiled eggs the day before: they keep 4 days in the fridge in their shell."
+ },
+ "l08-curry-oeufs-epinards": {
+  "t": "Hard-Boiled Egg Curry with Spinach",
+  "i": [
+   "eggs",
+   "spinach",
+   "crushed tomatoes",
+   "coconut cream",
+   "small onion",
+   "garlic",
+   "grated ginger",
+   "garam masala and turmeric",
+   "ghee",
+   "cilantro",
+   "salt"
+  ],
+  "s": [
+   "Cook the eggs in boiling water for 10 min, cool and peel them.",
+   "Melt the ghee, add the chopped onion and cook for 4 min, then the garlic and ginger for 1 min.",
+   "Add the spices, stir for 30 s, then pour in the tomatoes and let reduce for 5 min.",
+   "Stir in the coconut cream and the spinach, add salt and cook for 4 min until the spinach has wilted.",
+   "Lightly score the eggs with a cross so they absorb the sauce, add them and simmer for 3 min.",
+   "Sprinkle with cilantro and serve."
+  ],
+  "p": "Serve with cauliflower rice or konjac rice for a complete meal."
+ },
+ "l08-chou-fleur-gratine-cheddar": {
+  "t": "Cauliflower Gratin with Cheddar and Eggs",
+  "i": [
+   "cauliflower",
+   "grated cheddar",
+   "heavy cream",
+   "eggs",
+   "cream cheese",
+   "mustard",
+   "butter",
+   "nutmeg",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 190 °C. Cut the cauliflower into florets.",
+   "Cook them for 8 min in salted boiling water (they should stay a little firm), then drain very well.",
+   "Heat the cream with the cream cheese, mustard and two thirds of the cheddar until everything has melted; off the heat, add the beaten eggs, nutmeg, salt and pepper.",
+   "Butter a baking dish, arrange the cauliflower and cover with the sauce.",
+   "Sprinkle with the remaining cheddar and bake for 25 min until the top is golden."
+  ],
+  "p": "Budget version: replace the cheddar with grated edam."
+ },
+ "l08-halloumi-brochettes-legumes": {
+  "t": "Halloumi and Grilled Vegetable Skewers",
+  "i": [
+   "halloumi",
+   "zucchini",
+   "red bell pepper",
+   "mushrooms",
+   "small red onion",
+   "olive oil",
+   "lemon juice",
+   "oregano and smoked paprika",
+   "Greek yogurt",
+   "mint",
+   "pepper"
+  ],
+  "s": [
+   "If using wooden skewers, soak them in water for 20 min.",
+   "Cut the halloumi, zucchini, bell pepper and onion into 2.5 cm cubes; leave the mushrooms whole.",
+   "Mix the oil, lemon juice, oregano, paprika and pepper; coat the cubes with it.",
+   "Thread the skewers, alternating cheese and vegetables.",
+   "Grill them for 10–12 min under the broiler, on a griddle or on the barbecue, turning regularly.",
+   "Serve with the Greek yogurt mixed with chopped mint."
+  ],
+  "p": "Halloumi doesn't melt when cooked, which makes it ideal for the barbecue."
+ },
+ "l08-poivrons-farcis-ricotta-epinards": {
+  "t": "Bell Peppers Stuffed with Ricotta, Spinach and Parmesan",
+  "i": [
+   "medium bell peppers",
+   "ricotta",
+   "spinach",
+   "eggs",
+   "grated Parmesan",
+   "grated mozzarella",
+   "garlic",
+   "olive oil",
+   "basil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 190 °C. Cut the peppers in half lengthwise and remove the seeds.",
+   "Wilt the spinach with the garlic in the oil for 3 min, then drain, pressing out the liquid, and chop.",
+   "Mix the ricotta, eggs, Parmesan, spinach, chopped basil, salt and pepper.",
+   "Fill the pepper halves and place them in an oiled dish.",
+   "Cover with aluminum foil and bake for 20 min, then remove the foil, sprinkle with mozzarella and continue for 15 min.",
+   "Serve when the cheese is golden and the peppers are tender."
+  ],
+  "p": "Red peppers are sweeter: to cut carbs, use green peppers."
+ },
+ "l08-salade-tiede-chevre-noix": {
+  "t": "Warm Goat Cheese Salad with Walnuts and Poached Egg",
+  "i": [
+   "goat cheese log",
+   "eggs",
+   "mesclun",
+   "walnut halves",
+   "almond flour",
+   "olive oil",
+   "apple cider vinegar",
+   "mustard",
+   "dried thyme",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 200 °C. Place the goat cheese slices on parchment paper and sprinkle with almond flour and thyme.",
+   "Bake for 6–8 min until the cheese is soft and lightly golden.",
+   "Meanwhile, bring a pan of water to a gentle simmer with 1 tbsp of vinegar, create a whirlpool and poach each egg for 3 min.",
+   "Make the vinaigrette with the mustard, the remaining vinegar, the oil, salt and pepper; dress the mesclun.",
+   "Arrange the salad, add the crushed walnuts, the warm goat cheese and the drained poached egg."
+  ],
+  "p": "Crack each egg into a small cup before sliding it into the water: poaching is easier."
+ },
+ "l08-tajine-legumes-oeufs-olives": {
+  "t": "Vegetable Tajine with Eggs and Olives",
+  "i": [
+   "eggs",
+   "zucchini",
+   "green bell pepper",
+   "tomato",
+   "onion",
+   "green olives",
+   "preserved lemon",
+   "olive oil",
+   "cumin, paprika, turmeric, ginger",
+   "parsley and cilantro",
+   "jben (fresh Moroccan cheese)",
+   "salt"
+  ],
+  "s": [
+   "In a tajine or a deep skillet, cook the sliced onion in the oil for 4 min.",
+   "Add the spices, the grated tomato and 100 ml of water, then the zucchini and bell pepper cut into sticks. Add salt.",
+   "Cover and simmer for 15 min over low heat.",
+   "Add the olives and the preserved lemon cut into strips, then crack the eggs over the vegetables.",
+   "Cover and cook for 6–8 min until the whites are set.",
+   "Crumble the jben, sprinkle with herbs and serve in the tajine."
+  ],
+  "p": "Use a heat diffuser under a clay tajine to keep it from cracking on the stove."
+ },
+ "l08-salade-poulet-tahini-chou": {
+  "t": "Chicken Salad with Crunchy Cabbage and Tahini Dressing",
+  "i": [
+   "chicken breasts",
+   "red cabbage",
+   "white cabbage",
+   "cucumber",
+   "tahini",
+   "lemon juice",
+   "garlic",
+   "olive oil",
+   "parsley",
+   "cumin and paprika",
+   "salt"
+  ],
+  "s": [
+   "Season the chicken with cumin, paprika and salt, then cook it in 1 tbsp of the oil for 5–6 min per side. Let it rest, then shred or slice.",
+   "Thinly slice both cabbages, dice the cucumber and chop the parsley.",
+   "Make the dressing: whisk the tahini, lemon juice, grated garlic, a pinch of salt and 3–4 tbsp of cold water until smooth.",
+   "Toss the vegetables with the remaining oil and half of the dressing.",
+   "Add the chicken and drizzle with the rest of the tahini dressing."
+  ],
+  "p": "Dressed cabbage keeps 3 days: prepare three lunch boxes at once."
+ },
+ "l08-mini-quiches-brocoli-emmental": {
+  "t": "Crustless Broccoli and Emmental Mini Quiches",
+  "i": [
+   "eggs",
+   "broccoli",
+   "grated Emmental",
+   "heavy cream",
+   "red bell pepper",
+   "butter (for the molds)",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C and butter 12 cups of a muffin tin.",
+   "Cook the small broccoli florets in boiling water for 3 min, drain and roughly chop.",
+   "Beat the eggs with the cream, three quarters of the Emmental, salt and pepper.",
+   "Divide the broccoli and diced bell pepper among the cups, fill them three quarters full with the egg mixture and sprinkle with the remaining Emmental.",
+   "Bake for 20–22 min until puffed and golden; let cool for 5 min before unmolding."
+  ],
+  "p": "They keep 4 days in the fridge and can be frozen: perfect for kids' snacks and lunch boxes."
+ },
+ "l08-brouillade-tofu-legumes-curcuma": {
+  "t": "Tofu Scramble with Vegetables and Turmeric",
+  "i": [
+   "firm tofu",
+   "green bell pepper",
+   "spinach",
+   "scallion",
+   "olive oil",
+   "turmeric and cumin",
+   "avocado",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Drain the tofu and crumble it coarsely with a fork.",
+   "Cook the diced bell pepper and the scallion in the oil for 3 min over medium heat.",
+   "Add the tofu, turmeric, cumin, salt and pepper, and cook for 5 min, stirring, until it browns slightly.",
+   "Stir in the spinach and let it wilt for 1 min.",
+   "Serve hot with the sliced avocado."
+  ],
+  "p": "A pinch of black salt (kala namak) gives the scramble a real egg flavor."
+ },
+ "l08-pizza-chou-fleur-champignons": {
+  "t": "Cauliflower-Crust Pizza with Mushrooms and Olives",
+  "i": [
+   "large cauliflower",
+   "egg",
+   "grated mozzarella (crust + topping)",
+   "grated Parmesan",
+   "mozzarella ball",
+   "mushrooms",
+   "crushed tomatoes",
+   "black olives",
+   "dried oregano",
+   "olive oil",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 220 °C. Process the cauliflower into rice-sized crumbs, microwave for 5 min and let cool slightly.",
+   "Squeeze it out very hard in a clean kitchen towel: it should be almost dry.",
+   "Mix it with the egg, 75 g of grated mozzarella, the Parmesan, oregano and a pinch of salt.",
+   "Spread the dough into a 28 cm disc, 5 mm thick, on parchment paper; bake for 15 min until golden.",
+   "Spread on the tomato sauce, add the sliced mozzarella, the rest of the grated mozzarella, the sliced mushrooms and the olives.",
+   "Return to the oven for 10–12 min, then drizzle with olive oil before serving."
+  ],
+  "p": "Don't overload the crust and pre-bake it well: that's what makes it crisp."
+ },
+ "l08-salade-crevettes-avocat-concombre": {
+  "t": "Shrimp, Avocado and Cucumber Main Salad",
+  "i": [
+   "peeled shrimp",
+   "avocado",
+   "cucumber",
+   "salad greens",
+   "eggs",
+   "cilantro",
+   "olive oil",
+   "lemon juice",
+   "garlic",
+   "chili pepper",
+   "salt"
+  ],
+  "s": [
+   "Cook the eggs for 9 min, cool and peel them.",
+   "Sauté the shrimp in 1 tbsp of the oil with the chopped garlic and chili for 2–3 min over high heat, until pink.",
+   "Dice the avocado and cucumber, chop the cilantro.",
+   "Whisk the remaining oil with the lemon juice and salt.",
+   "Toss the salad greens, avocado, cucumber and dressing, then add the warm shrimp and the quartered eggs."
+  ],
+  "p": "If using frozen shrimp, thaw them the day before in the fridge and dry them well before searing."
+ },
+ "l08-halloumi-harissa-epinards": {
+  "t": "Pan-Fried Harissa Halloumi on Garlic Spinach",
+  "i": [
+   "halloumi",
+   "spinach",
+   "eggs",
+   "harissa",
+   "olive oil",
+   "garlic",
+   "lemon juice",
+   "pumpkin seeds",
+   "pepper"
+  ],
+  "s": [
+   "Cut the halloumi into 6 slices and brush them with the harissa thinned with 1 tsp of oil.",
+   "Cook the sliced garlic in 1 tbsp of oil for 1 min, add the spinach and wilt for 3 min; sprinkle with lemon juice, season with pepper and divide among the plates.",
+   "In the same pan, fry the eggs in the remaining oil.",
+   "Sear the halloumi for 1–2 min per side over high heat until caramelized.",
+   "Place the halloumi and eggs on the spinach and sprinkle with toasted pumpkin seeds."
+  ],
+  "p": "Adjust the harissa to your family's taste; for children, replace it with sweet paprika."
+ },
+ "l08-zaalouk-oeufs-gratines": {
+  "t": "Zaalouk Eggplant Salad with Baked Eggs",
+  "i": [
+   "medium eggplants",
+   "ripe tomato",
+   "eggs",
+   "garlic",
+   "olive oil",
+   "cumin and paprika",
+   "cilantro and parsley",
+   "grated edam",
+   "lemon juice",
+   "salt"
+  ],
+  "s": [
+   "Peel the eggplants in alternating strips and cut into cubes. Steam them or cook in salted boiling water for 10 min, then drain.",
+   "In an oven-safe skillet, heat the oil, add the grated tomato, chopped garlic, cumin and paprika; cook for 3 min.",
+   "Add the eggplants and mash them with a fork; cook for 12–15 min, stirring, until the zaalouk is thick and jammy. Add salt, the herbs and the lemon juice.",
+   "Preheat the oven to broil. Make 5 wells in the zaalouk and crack the eggs into them.",
+   "Cover and cook for 4 min on the stove, then sprinkle with edam and broil for 3 min."
+  ],
+  "p": "Zaalouk keeps 4 days in the fridge: make a double batch and serve the rest cold as a side."
+ },
+ "l08-tofu-marine-salade-concombre-sesame": {
+  "t": "Grilled Marinated Tofu with Sesame Cucumber Salad",
+  "i": [
+   "firm tofu",
+   "soy sauce (alcohol-free)",
+   "grated ginger",
+   "garlic",
+   "cucumber",
+   "apple cider vinegar",
+   "sesame seeds",
+   "neutral oil",
+   "scallion",
+   "chili pepper",
+   "erythritol"
+  ],
+  "s": [
+   "Press the tofu for 10 min and cut it into 6 thick slices.",
+   "Mix the soy sauce, ginger, grated garlic and 1 tbsp of oil; marinate the tofu for 15 min, turning it.",
+   "Cut the cucumber into thin rounds and toss it with the vinegar, erythritol, chili, a pinch of salt and half of the sesame.",
+   "Grill the tofu slices in a hot skillet with the remaining oil for 3–4 min per side, brushing with the marinade.",
+   "Serve the tofu on the cucumber salad, sprinkled with scallion and the rest of the sesame."
+  ],
+  "p": "You can marinate in the morning: the tofu will be even more flavorful in the evening."
+ },
+ "l08-pancakes-ricotta-framboises": {
+  "t": "Ricotta Pancakes with Raspberries",
+  "i": [
+   "ricotta",
+   "eggs",
+   "almond flour",
+   "baking powder",
+   "erythritol",
+   "alcohol-free vanilla flavoring",
+   "butter",
+   "raspberries",
+   "Greek yogurt"
+  ],
+  "s": [
+   "Whisk the ricotta with the eggs, erythritol and vanilla until smooth.",
+   "Add the almond flour and baking powder; mix without overworking. Let rest for 5 min.",
+   "Heat a nonstick skillet over medium-low heat with a little butter.",
+   "Pour in small ladlefuls of batter (8 cm), cook for 2–3 min until bubbles appear, flip gently and cook for 1–2 min.",
+   "Serve with the Greek yogurt and raspberries."
+  ],
+  "p": "These pancakes are delicate: keep them small and flip them with a wide spatula."
+ },
+ "l08-crepes-jben-epinards": {
+  "t": "Keto Crepes Filled with Jben and Spinach",
+  "i": [
+   "eggs",
+   "cream cheese",
+   "almond flour",
+   "psyllium",
+   "jben (fresh Moroccan cheese)",
+   "spinach",
+   "scallion",
+   "grated mozzarella",
+   "butter",
+   "cumin",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Blend the eggs, cream cheese, almond flour and psyllium; let rest for 5 min.",
+   "In a lightly buttered 20 cm skillet over medium heat, make 6 thin crepes: 1–2 min per side. Stack them.",
+   "Wilt the spinach with the scallion in a little butter for 3 min, drain, pressing out the liquid, season lightly with salt and add the cumin.",
+   "Mix the spinach with the crumbled jben and pepper.",
+   "Fill each crepe, roll it up and arrange them in a baking dish; sprinkle with mozzarella.",
+   "Bake for 8–10 min at 200 °C until the cheese is golden and bubbly."
+  ],
+  "p": "Plain crepes keep 3 days in the fridge, separated by parchment paper."
+ },
+ "l08-courgettes-farcies-chevre-menthe": {
+  "t": "Zucchini Stuffed with Goat Cheese, Mint and Egg",
+  "i": [
+   "zucchini",
+   "fresh goat cheese",
+   "eggs",
+   "Parmesan",
+   "mint",
+   "sliced almonds",
+   "olive oil",
+   "garlic",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 190 °C. Cut the zucchini in half lengthwise and scoop them out with a spoon, leaving 5 mm of flesh.",
+   "Chop the scooped-out flesh and cook it for 5 min in 1 tbsp of oil with the garlic; let cool.",
+   "Mix it with the goat cheese, eggs, half of the Parmesan, chopped mint, salt and pepper.",
+   "Salt the inside of the zucchini boats, fill them and place them in an oiled dish.",
+   "Sprinkle with the remaining Parmesan and the sliced almonds, then bake for 25–30 min until the filling is golden."
+  ],
+  "p": "Replace the goat cheese with jben for a milder version that kids love."
+ },
+ "l08-salade-poulet-tandoori-raita": {
+  "t": "Tandoori Chicken Salad with Cucumber Raita",
+  "i": [
+   "boneless chicken thighs",
+   "Greek yogurt (marinade + raita)",
+   "tandoori spices",
+   "garlic",
+   "lemon juice",
+   "cucumber",
+   "mint",
+   "lettuce",
+   "red onion",
+   "olive oil",
+   "salt"
+  ],
+  "s": [
+   "Mix 80 g of yogurt with the tandoori spices, grated garlic, lemon juice and salt; coat the chicken and marinate for at least 30 min (ideally overnight).",
+   "Preheat the oven to 220 °C. Place the chicken on an oiled baking sheet and bake for 18–20 min, then broil for 2 min to brown it.",
+   "Make the raita: grate the cucumber, squeeze it dry and mix it with the remaining yogurt, chopped mint and a pinch of salt.",
+   "Cut the lettuce and red onion into thin strips.",
+   "Slice the chicken and serve it on the salad, topped with the raita."
+  ],
+  "p": "Marinated chicken can be frozen raw: take it out the day before for a dinner ready in 20 min."
+ },
+ "l08-asperges-oeufs-mollets-parmesan": {
+  "t": "Green Asparagus with Soft-Boiled Eggs and Parmesan",
+  "i": [
+   "green asparagus",
+   "eggs",
+   "Parmesan shavings",
+   "butter",
+   "olive oil",
+   "lemon juice",
+   "chopped hazelnuts",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Snap off the tough base of the asparagus where it bends naturally.",
+   "Cook the eggs in boiling water for 6 min 30 s, cool them in ice water and peel.",
+   "Cook the asparagus in the oil over medium-high heat for 6–8 min, rolling them, until tender and browned; add salt.",
+   "Melt the butter until it turns nutty, then add the lemon juice.",
+   "Arrange the asparagus, place the opened eggs on top, drizzle with the brown butter and sprinkle with Parmesan and hazelnuts."
+  ],
+  "p": "When asparagus is out of season, the recipe works with green beans or broccoli."
+ },
+ "l08-curry-legumes-paneer-halloumi": {
+  "t": "Creamy Vegetable Curry with Halloumi (Paneer-Style)",
+  "i": [
+   "halloumi",
+   "cauliflower",
+   "green beans",
+   "spinach",
+   "heavy cream",
+   "crushed tomatoes",
+   "small onion",
+   "garlic",
+   "grated ginger",
+   "garam masala, turmeric, cumin",
+   "ghee",
+   "cilantro",
+   "salt"
+  ],
+  "s": [
+   "Cut the halloumi into 2 cm cubes and brown them in 1 tbsp of ghee for 4–5 min; set aside.",
+   "Cook the chopped onion in the remaining ghee for 4 min, then the garlic and ginger for 1 min.",
+   "Add the spices, stir for 30 s, pour in the tomatoes and let reduce for 5 min.",
+   "Add the cauliflower in small florets, the green beans cut into pieces and 100 ml of water; cover and cook for 10 min.",
+   "Pour in the cream, add the spinach and the halloumi, and simmer for 3 min. Taste before salting: halloumi is already salty.",
+   "Sprinkle with cilantro and serve."
+  ],
+  "p": "Halloumi is a great substitute for Indian paneer, which is hard to find in Morocco, and it holds its shape in the sauce."
+ },
+ "l08-cake-sale-olives-feta": {
+  "t": "Savory Loaf Cake with Olives, Feta and Herbs",
+  "i": [
+   "eggs",
+   "almond flour",
+   "baking powder",
+   "feta",
+   "pitted green olives",
+   "olive oil",
+   "Greek yogurt",
+   "grated Emmental",
+   "parsley and thyme",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C and line a loaf pan with parchment paper.",
+   "Beat the eggs with the oil and the Greek yogurt.",
+   "Add the almond flour, baking powder and pepper, and mix until the batter is smooth.",
+   "Fold in the diced feta, the sliced olives, the Emmental and the chopped herbs.",
+   "Pour into the pan and bake for 40 min: a knife tip should come out dry.",
+   "Let cool for 15 min before unmolding and slicing."
+  ],
+  "p": "Sliced, it freezes very well; perfect for appetizers or snacks."
+ },
+ "l08-salade-thon-haricots-verts-oeuf": {
+  "t": "Warm Green Bean, Tuna and Mustard Egg Salad",
+  "i": [
+   "green beans",
+   "cans of tuna in oil, drained",
+   "eggs",
+   "red onion",
+   "whole-grain mustard",
+   "olive oil",
+   "apple cider vinegar",
+   "parsley",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Cook the eggs for 9 min, cool and peel them.",
+   "Cook the green beans for 7–8 min in salted boiling water; they should stay slightly crisp. Drain.",
+   "Whisk the mustard, vinegar, oil, salt and pepper; add the very thinly sliced red onion.",
+   "Pour the vinaigrette over the still-warm beans so they soak it up.",
+   "Add the tuna in chunks, the quartered eggs and the chopped parsley."
+  ],
+  "p": "Served warm or cold, it travels very well in a lunch box."
+ },
+ "l08-omelette-espagnole-chou-fleur": {
+  "t": "Spanish Tortilla with Cauliflower and Bell Pepper",
+  "i": [
+   "eggs",
+   "cauliflower",
+   "red bell pepper",
+   "onion",
+   "olive oil",
+   "grated Emmental",
+   "smoked paprika",
+   "parsley",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Cut the cauliflower into thin 5 mm slices and pre-cook it for 5 min in a steamer.",
+   "In a 24 cm nonstick skillet, cook the sliced onion and bell pepper in 2 tbsp of oil for 5 min, add the cauliflower and brown for 5 min.",
+   "Beat the eggs with the Emmental, paprika, parsley, salt and pepper; pour over the vegetables.",
+   "Cook for 8 min over low heat, with the lid on, loosening the edges with a spatula.",
+   "Flip the tortilla using a plate, add the remaining oil and cook for another 3–4 min.",
+   "Let cool for 5 min and cut into wedges."
+  ],
+  "p": "Also delicious cold the next day, cut into cubes, for appetizers or a picnic."
+ },
+ "l08-salade-roquette-halloumi-avocat-graines": {
+  "t": "Arugula, Halloumi, Avocado and Seed Salad",
+  "i": [
+   "halloumi",
+   "arugula",
+   "avocado",
+   "eggs",
+   "sunflower seeds",
+   "pumpkin seeds",
+   "olive oil",
+   "lemon juice",
+   "mustard",
+   "pepper"
+  ],
+  "s": [
+   "Cook the eggs for 8 min, cool and peel them.",
+   "Dry-toast the seeds for 2 min in a skillet; set aside.",
+   "Cut the halloumi into sticks and brown them for 1–2 min per side in the same very hot pan.",
+   "Whisk the oil, lemon juice, mustard and pepper.",
+   "Toss the arugula with the vinaigrette, add the sliced avocado, the quartered eggs, the hot halloumi and the seeds."
+  ],
+  "p": "In summer, add a few sliced strawberries for a sweet-and-salty touch."
+ },
+ "l08-tofu-kefta-tomate-oeufs": {
+  "t": "Tofu Kefta-Spiced Meatballs in Tomato Sauce with Eggs",
+  "i": [
+   "firm tofu",
+   "eggs (1 for the balls)",
+   "almond flour",
+   "grated Parmesan",
+   "crushed tomatoes",
+   "small onion",
+   "garlic",
+   "cumin, paprika, ras el hanout",
+   "parsley and cilantro",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Press the tofu for 10 min in a kitchen towel, then crumble it finely.",
+   "Mix it with 1 egg, the almond flour, the Parmesan, half of the spices and of the chopped herbs, salt and pepper. Shape into 16 balls.",
+   "Brown them in 2 tbsp of oil for 6–8 min, turning gently; set aside.",
+   "In a tajine or deep skillet, cook the chopped onion and garlic in the remaining oil, add the rest of the spices and the tomatoes; simmer for 8 min.",
+   "Add the balls, crack the remaining 4 eggs into the sauce, cover and cook for 6–7 min.",
+   "Sprinkle with the remaining herbs and serve piping hot."
+  ],
+  "p": "Inspired by the classic kefta tajine with eggs, this one is fully vegetarian and high in protein."
+ },
+ "l08-salade-dinde-fumee-chou-noix": {
+  "t": "Crunchy Smoked Turkey, Cabbage and Walnut Salad",
+  "i": [
+   "smoked turkey",
+   "white cabbage",
+   "diced Emmental",
+   "walnuts",
+   "mayonnaise",
+   "Greek yogurt",
+   "mustard",
+   "pickles",
+   "chives",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Very thinly slice the white cabbage and salt it lightly; leave for 10 min, then squeeze it to soften.",
+   "Mix the mayonnaise, yogurt, mustard, salt and pepper.",
+   "Cut the smoked turkey into strips and the pickles into rounds.",
+   "Combine the cabbage, turkey, Emmental, pickles and dressing.",
+   "Sprinkle with crushed walnuts and chives just before serving."
+  ],
+  "p": "No cooking needed: a perfect idea for busy evenings or a lunch at the office."
+ },
+ "l08-gratin-aubergines-feta-menthe": {
+  "t": "Eggplant Gratin with Feta and Eggs",
+  "i": [
+   "eggplants",
+   "feta",
+   "eggs",
+   "Greek yogurt",
+   "olive oil",
+   "garlic",
+   "mint",
+   "cumin",
+   "grated Emmental",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 200 °C. Cut the eggplants into 1 cm rounds, brush them with oil and roast for 20 min.",
+   "Beat the eggs with the yogurt, grated garlic, cumin, chopped mint and pepper.",
+   "Arrange the eggplant in a dish, overlapping the slices, and sprinkle with crumbled feta.",
+   "Pour in the egg mixture and sprinkle with Emmental.",
+   "Lower the oven to 180 °C and bake for 20 min, until set and golden."
+  ],
+  "p": "The yogurt makes the custard light and tangy: it's the spirit of a vegetarian moussaka."
+ },
+ "l08-poke-bowl-thon-konjac": {
+  "t": "Marinated Tuna Bowl with Konjac Rice and Avocado",
+  "i": [
+   "very fresh raw tuna",
+   "konjac rice",
+   "avocado",
+   "cucumber",
+   "soy sauce (alcohol-free)",
+   "sesame seeds",
+   "sesame or neutral oil",
+   "grated ginger",
+   "nori sheet",
+   "scallion",
+   "lime juice"
+  ],
+  "s": [
+   "Cut the tuna into 1.5 cm cubes and marinate for 10 min in the fridge with the soy sauce, oil, ginger and lime juice.",
+   "Rinse the konjac rice thoroughly, boil it for 2 min, then dry it for 3 min in a hot skillet with no fat.",
+   "Dice the avocado and cucumber, slice the scallion into rounds and cut the nori into thin strips.",
+   "Divide the konjac between two bowls and add the marinated tuna, avocado and cucumber.",
+   "Sprinkle with sesame, scallion and nori, and drizzle with the rest of the marinade."
+  ],
+  "p": "The tuna must be sashimi-grade; otherwise, sear it for 30 s per side before cutting it."
+ },
+ "l08-feta-rotie-legumes-oeufs": {
+  "t": "Baked Feta with Sun-Ripened Vegetables and Eggs",
+  "i": [
+   "block of feta",
+   "cherry tomatoes",
+   "zucchini",
+   "green bell pepper",
+   "eggs",
+   "black olives",
+   "olive oil",
+   "oregano and thyme",
+   "garlic",
+   "basil",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 200 °C. Cut the zucchini and bell pepper into 2 cm pieces.",
+   "Put the vegetables, cherry tomatoes, olives and sliced garlic in a dish, drizzle with oil, add the herbs and pepper; toss.",
+   "Place the block of feta in the center and bake for 20 min.",
+   "Take the dish out, make 4 wells between the vegetables and crack the eggs into them.",
+   "Return to the oven for 8–10 min until the whites are set.",
+   "Gently mash the feta into the vegetables, sprinkle with basil and serve."
+  ],
+  "p": "A hands-off one-dish meal: everything cooks in the same dish, so there is very little washing up."
+ },
+ "l09-harira-keto-poulet": {
+  "t": "Keto Harira with Chicken and Celery",
+  "i": [
+   "chicken breast, finely diced",
+   "celery stalks with leaves",
+   "crushed tomatoes",
+   "tomato paste",
+   "grated onion",
+   "chopped fresh cilantro",
+   "chopped flat-leaf parsley",
+   "smen (Moroccan preserved butter)",
+   "ginger, turmeric and cinnamon mix",
+   "beaten eggs",
+   "chicken broth",
+   "lemon juice",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "In a large pot, melt the smen over medium heat and cook the grated onion for 3 min.",
+   "Add the diced chicken, the spices, salt and pepper; stir for 4 min until the chicken turns white.",
+   "Add the finely sliced celery, half of the cilantro and parsley, the crushed tomatoes and the paste diluted in a little broth.",
+   "Pour in the broth, bring to a boil, then simmer covered for 35 min over low heat.",
+   "Briefly blend a ladleful of vegetables and return it to the soup to thicken it (this replaces the flour).",
+   "Off the heat, drizzle in the beaten eggs while stirring gently with a fork to form strands.",
+   "Add the rest of the herbs and the lemon juice, adjust the seasoning and serve piping hot."
+  ],
+  "p": "Ideal for the Ramadan ftour (iftar): serve with a few dates for the non-keto members of the family. Freezes for 2 months without the eggs."
+ },
+ "l09-veloute-chou-fleur-cumin": {
+  "t": "Cauliflower Soup with Cumin",
+  "i": [
+   "cauliflower florets",
+   "sliced onion",
+   "butter",
+   "heavy cream",
+   "vegetable broth",
+   "ground cumin",
+   "chopped chives",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Melt the butter in a pot and sweat the onion for 3 min without browning.",
+   "Add the cumin and toast for 30 s, stirring.",
+   "Add the cauliflower florets and the broth, bring to a boil, then cook for 20 min covered.",
+   "Blend until smooth, adding the cream, to get a velvety texture; season with salt and pepper.",
+   "Serve sprinkled with chives and a pinch of cumin."
+  ],
+  "p": "For a more filling soup, add pan-fried diced turkey kachir (deli-style turkey) when serving."
+ },
+ "l09-veloute-courgette-fromage-frais": {
+  "t": "Zucchini Soup with Cream Cheese and Basil",
+  "i": [
+   "sliced zucchini",
+   "spreadable cream cheese",
+   "garlic",
+   "olive oil",
+   "vegetable broth",
+   "fresh basil",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Heat the oil in a pot and cook the crushed garlic for 1 min.",
+   "Add the unpeeled zucchini and stir for 3 min over high heat.",
+   "Pour in the broth (it should just cover), add salt and cook for 15 min.",
+   "Add the cream cheese and the basil leaves, then blend until smooth.",
+   "Adjust the seasoning and serve hot, or cold in summer."
+  ],
+  "p": "Don't add too much broth: zucchini release a lot of water. Keeps 3 days in the fridge."
+ },
+ "l09-soupe-brocoli-cheddar": {
+  "t": "Broccoli Cheddar Soup",
+  "i": [
+   "small broccoli florets",
+   "small onion, chopped",
+   "butter",
+   "vegetable broth",
+   "heavy cream",
+   "grated cheddar",
+   "mustard",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Melt the butter and sweat the onion for 3 min.",
+   "Add the broccoli (including the stems, peeled and diced) and the broth; cook covered for 15 min.",
+   "Set aside a few small florets for garnish, then blend the rest coarsely.",
+   "Return to low heat, add the cream and mustard, then the cheddar by handfuls, stirring until melted, without letting it boil.",
+   "Add the reserved florets, season with pepper and serve immediately."
+  ],
+  "p": "Never let it boil after adding the cheese, or it will turn stringy. A little leftover shredded chicken makes it a complete dinner."
+ },
+ "l09-chorba-boeuf-celeri-navet": {
+  "t": "Beef Chorba with Celery and Turnip",
+  "i": [
+   "stewing beef in small cubes",
+   "celery stalks",
+   "diced turnip",
+   "grated tomato",
+   "chopped onion",
+   "chopped cilantro",
+   "smen (Moroccan preserved butter)",
+   "ras el hanout, turmeric, ginger",
+   "water",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "In a Dutch oven, melt the smen and sear the beef for 5 min with the onion.",
+   "Add the spices, salt, pepper and grated tomato; stir for 2 min.",
+   "Pour in the water, bring to a boil, skim, then simmer covered for 60 min (or 25 min in a pressure cooker).",
+   "Add the diced turnip and celery and continue cooking for 25 min until the turnip is tender.",
+   "Add the cilantro at the end of cooking and adjust the salt. Serve piping hot."
+  ],
+  "p": "Turnip replaces potato without blowing up the carbs. Make a big batch: chorba is even better reheated."
+ },
+ "l09-soupe-thai-crevettes-coco": {
+  "t": "Thai Shrimp and Coconut Milk Soup",
+  "i": [
+   "peeled shrimp",
+   "coconut milk",
+   "fish or chicken broth",
+   "sliced button mushrooms",
+   "grated fresh ginger",
+   "garlic",
+   "lime juice",
+   "cilantro",
+   "small red chili",
+   "soy sauce (alcohol-free)",
+   "salt"
+  ],
+  "s": [
+   "In a pot, bring the broth to a simmer with the ginger, crushed garlic and sliced chili; let infuse for 5 min.",
+   "Add the coconut milk and mushrooms, and simmer for 5 min without boiling hard.",
+   "Add the shrimp and cook for 3 min, until they turn pink.",
+   "Off the heat, add the soy sauce and lime juice; taste and adjust the salt.",
+   "Serve in bowls sprinkled with fresh cilantro."
+  ],
+  "p": "Frozen shrimp work fine: thaw them in the fridge the day before and pat them dry."
+ },
+ "l09-veloute-champignons-ail": {
+  "t": "Garlic Mushroom Soup",
+  "i": [
+   "button mushrooms",
+   "onion",
+   "garlic",
+   "butter",
+   "heavy cream",
+   "vegetable broth",
+   "chopped parsley",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Clean and slice the mushrooms; set 4 aside for finishing.",
+   "Melt the butter, add the chopped onion and garlic and cook for 3 min.",
+   "Add the mushrooms and brown them for 8 min over high heat until their liquid has evaporated.",
+   "Pour in the broth and cook for 10 min, then blend with the cream; season with salt and pepper.",
+   "Quickly pan-fry the reserved sliced mushrooms and place them on each bowl with the parsley."
+  ],
+  "p": "Browning the mushrooms well before adding the broth gives all the flavor: don't crowd them in the pot."
+ },
+ "l09-veloute-asperges": {
+  "t": "Cream of Asparagus Soup",
+  "i": [
+   "green asparagus",
+   "white part of leek",
+   "butter",
+   "crème fraîche",
+   "vegetable broth",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Snap off the tough base of the asparagus, cut off the tips and set them aside; cut the stalks into pieces.",
+   "Melt the butter and sweat the sliced leek for 4 min.",
+   "Add the asparagus stalks and the broth; cook covered for 15 min.",
+   "Meanwhile, cook the tips for 4 min in a little salted boiling water.",
+   "Blend the soup with the crème fraîche, season and serve topped with the tips."
+  ],
+  "p": "Out of season, frozen asparagus works very well for this soup."
+ },
+ "l09-stracciatella-epinards": {
+  "t": "Spinach Stracciatella Soup with Parmesan",
+  "i": [
+   "eggs",
+   "grated Parmesan",
+   "chicken or vegetable broth",
+   "baby spinach",
+   "garlic",
+   "olive oil",
+   "lemon juice",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Beat the eggs with the Parmesan, pepper and a pinch of salt.",
+   "In a pot, heat the oil, add the chopped garlic for 30 s, then pour in the broth; bring to a boil.",
+   "Add the spinach and let it wilt for 1 min.",
+   "Reduce to a simmer and drizzle in the egg-Parmesan mixture while stirring gently: it forms small ribbons.",
+   "Leave for 1 min without stirring, add the lemon juice and serve immediately."
+  ],
+  "p": "Ready in 15 minutes, it's the dinner for a rushed evening. Use homemade broth for more flavor."
+ },
+ "l09-veloute-potiron-coco": {
+  "t": "Pumpkin and Cauliflower Soup with Coconut Milk",
+  "i": [
+   "cubed pumpkin",
+   "cauliflower",
+   "coconut milk",
+   "grated ginger",
+   "small onion",
+   "coconut oil",
+   "vegetable broth",
+   "toasted pumpkin seeds",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Heat the coconut oil and cook the onion and ginger for 3 min.",
+   "Add the pumpkin and cauliflower, and stir for 2 min.",
+   "Pour in the broth, add salt and cook for 20 min covered until the vegetables are very soft.",
+   "Add the coconut milk and blend until smooth; adjust the seasoning.",
+   "Serve sprinkled with pumpkin seeds dry-toasted for 2 min in a skillet."
+  ],
+  "p": "Cauliflower lowers the carbs of the pumpkin while keeping its sweetness. Kids love the orange color."
+ },
+ "l09-soupe-poulet-konjac": {
+  "t": "Chicken Soup with Konjac Noodles",
+  "i": [
+   "boneless chicken thighs",
+   "drained konjac noodles",
+   "celery stalks",
+   "thinly sliced carrot",
+   "onion",
+   "garlic",
+   "chicken broth",
+   "chopped parsley",
+   "thyme and bay leaf",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Put the chicken in the cold broth with the halved onion, the garlic and the thyme and bay leaf; bring to a boil and skim.",
+   "Simmer for 25 min, then remove the chicken and shred it with a fork.",
+   "Add the sliced celery and the carrot to the broth and cook for 10 min.",
+   "Rinse the konjac noodles under cold water for 1 min, then dry them for 2 min in a skillet with no fat.",
+   "Return the chicken and add the noodles; heat for 3 min, season with salt and pepper and add the parsley."
+  ],
+  "p": "Rinsing and dry-frying remove the konjac smell. Comforting in winter or when a child has a cold."
+ },
+ "l09-gaspacho-concombre-avocat": {
+  "t": "Green Gazpacho with Cucumber, Avocado and Mint",
+  "i": [
+   "cucumbers",
+   "ripe avocados",
+   "Greek yogurt",
+   "fresh mint",
+   "lemon juice",
+   "small garlic clove",
+   "olive oil",
+   "very cold water",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Peel the cucumbers in alternating strips, remove the seeds and cut into pieces.",
+   "Put the cucumbers, avocado flesh, yogurt, mint, garlic and lemon juice in the blender.",
+   "Blend for 1 min, adding the cold water until you reach the desired consistency; season with salt and pepper.",
+   "Chill for at least 30 min and serve with a drizzle of olive oil and a few mint leaves."
+  ],
+  "p": "Perfect in hot weather. Eat it the same day, as avocado turns brown."
+ },
+ "l09-veloute-celeri-rave-noisettes": {
+  "t": "Celeriac Soup with Hazelnuts",
+  "i": [
+   "cubed celeriac",
+   "cauliflower",
+   "butter",
+   "heavy cream",
+   "vegetable broth",
+   "chopped hazelnuts",
+   "nutmeg",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Peel the celeriac with a knife and cut it into 2 cm cubes.",
+   "Cook the celeriac and cauliflower in the butter for 3 min.",
+   "Add the broth, salt and cook for 25 min covered.",
+   "Meanwhile, dry-toast the hazelnuts for 3 min in a skillet, then chop them.",
+   "Blend the soup with the cream and nutmeg; serve sprinkled with hazelnuts."
+  ],
+  "p": "Squeeze lemon over the peeled celeriac if it has to wait: it darkens quickly in the air."
+ },
+ "l09-soupe-kefta-courgettes": {
+  "t": "Kefta Meatball Soup with Zucchini",
+  "i": [
+   "ground meat for kefta",
+   "diced zucchini",
+   "crushed tomatoes",
+   "grated onion",
+   "cilantro",
+   "parsley",
+   "cumin, paprika, cinnamon",
+   "olive oil",
+   "water",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Mix the kefta with half of the chopped herbs, half of the spices, salt and pepper; shape into walnut-sized meatballs.",
+   "In a pot, heat the oil and cook the onion for 3 min with the rest of the spices.",
+   "Add the crushed tomatoes and the water, and bring to a boil.",
+   "Gently lower in the meatballs and cook for 15 min at a simmer without stirring.",
+   "Add the diced zucchini and continue for 10 min.",
+   "Sprinkle with the remaining herbs and serve."
+  ],
+  "p": "Shape the meatballs with wet hands so they don't stick. They can be frozen raw on a tray."
+ },
+ "l09-veloute-epinards-jben": {
+  "t": "Spinach and Zucchini Soup with Jben",
+  "i": [
+   "fresh or frozen spinach",
+   "zucchini",
+   "jben (fresh Moroccan cheese)",
+   "garlic",
+   "olive oil",
+   "vegetable broth",
+   "nutmeg",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Cook the garlic in the oil for 1 min, then add the sliced zucchini for 3 min.",
+   "Add the broth and cook for 10 min.",
+   "Add the spinach and cook for another 5 min.",
+   "Blend with 100 g of jben and the nutmeg; season with salt and pepper.",
+   "Serve, crumbling the rest of the jben over each bowl."
+  ],
+  "p": "Jben adds a pleasant tang; if you can't find it, use feta and reduce the salt."
+ },
+ "l09-chaudree-saumon-aneth": {
+  "t": "Salmon Chowder with Dill",
+  "i": [
+   "skinless salmon fillets",
+   "cauliflower, finely diced",
+   "celery stalks",
+   "white part of leek",
+   "butter",
+   "heavy cream",
+   "fish broth",
+   "fresh dill",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Melt the butter and sweat the sliced leek and celery for 5 min.",
+   "Add the cauliflower and the broth, and cook for 12 min.",
+   "Blend a ladleful of the mixture with the cream and pour it back into the pot to thicken the soup.",
+   "Add the salmon in 3 cm cubes and poach for 5 min at a very gentle simmer.",
+   "Add the chopped dill, season with salt and pepper and serve right away."
+  ],
+  "p": "Diced cauliflower stands in for the potato of the classic chowder. Don't let it boil after adding the salmon."
+ },
+ "l09-soupe-chou-boeuf-hache": {
+  "t": "Cabbage Soup with Ground Beef",
+  "i": [
+   "ground beef",
+   "sliced white cabbage",
+   "crushed tomatoes",
+   "onion",
+   "garlic",
+   "paprika and cumin",
+   "olive oil",
+   "beef broth",
+   "parsley",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "In a pot, heat the oil and brown the ground beef for 6 min, breaking it up.",
+   "Add the chopped onion and garlic and the spices, and stir for 2 min.",
+   "Add the sliced cabbage and stir until it begins to wilt.",
+   "Pour in the crushed tomatoes and the broth, season with salt and pepper and simmer for 25 min covered.",
+   "Sprinkle with parsley and serve."
+  ],
+  "p": "Keeps 4 days in the fridge and freezes very well in individual portions."
+ },
+ "l09-veloute-fenouil-parmesan": {
+  "t": "Fennel Soup with Parmesan",
+  "i": [
+   "fennel bulbs",
+   "small onion",
+   "olive oil",
+   "vegetable broth",
+   "heavy cream",
+   "grated Parmesan",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Slice the fennel bulbs, keeping a few green fronds for garnish.",
+   "Cook the onion and fennel in the oil for 5 min without browning.",
+   "Add the broth and cook for 20 min covered.",
+   "Blend with the cream and half of the Parmesan; season with pepper.",
+   "Serve with the rest of the Parmesan and the fennel fronds."
+  ],
+  "p": "Cooked fennel loses its strong anise flavor: even those who don't like it raw enjoy this soup."
+ },
+ "l09-soupe-tofu-champignons-gingembre": {
+  "t": "Tofu, Mushroom and Ginger Broth",
+  "i": [
+   "cubed firm tofu",
+   "sliced mushrooms",
+   "beaten eggs",
+   "vegetable broth",
+   "grated ginger",
+   "soy sauce (alcohol-free)",
+   "scallions",
+   "nori sheet, cut in strips",
+   "oil",
+   "sesame seeds"
+  ],
+  "s": [
+   "Heat the oil in a pot and cook the ginger and the white part of the scallions for 1 min.",
+   "Add the mushrooms, stir for 3 min, then pour in the broth and soy sauce; bring to a simmer.",
+   "Add the tofu and heat for 5 min.",
+   "Drizzle in the beaten eggs while stirring gently.",
+   "Serve sprinkled with the green part of the scallions, nori strips and sesame."
+  ],
+  "p": "Choose a firm tofu that holds its shape when cooked. Add a little harissa for those who like it spicy."
+ },
+ "l09-puree-chou-fleur-beurre": {
+  "t": "Creamy Buttery Cauliflower Mash",
+  "i": [
+   "large cauliflower",
+   "butter",
+   "thick crème fraîche",
+   "grated Parmesan",
+   "nutmeg",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Cut the cauliflower into florets and steam for 12 to 15 min, until a knife slides in without resistance.",
+   "Drain thoroughly and let it steam in the colander for 3 min to release the water.",
+   "Blend with the butter, crème fraîche and Parmesan until smooth.",
+   "Season with salt, pepper and nutmeg; serve hot."
+  ],
+  "p": "Steaming avoids a watery mash. Pairs perfectly with a roast or meatballs in sauce."
+ },
+ "l09-puree-celeri-rave-ail-roti": {
+  "t": "Celeriac Mash with Roasted Garlic",
+  "i": [
+   "celeriac",
+   "cauliflower",
+   "unpeeled garlic cloves",
+   "butter",
+   "heavy cream",
+   "olive oil",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Preheat the oven to 200 °C. Wrap the unpeeled garlic cloves with a drizzle of oil in foil and roast for 25 min.",
+   "Meanwhile, cook the cubed celeriac and the cauliflower for 20 min in salted boiling water.",
+   "Drain well and squeeze the roasted garlic out of its skin.",
+   "Blend the vegetables, garlic, butter and hot cream; season generously with salt and pepper."
+  ],
+  "p": "The celeriac / cauliflower mix keeps the carbs low while giving a real mash texture."
+ },
+ "l09-riz-chou-fleur-saute": {
+  "t": "Sautéed Cauliflower Rice with Herbs",
+  "i": [
+   "cauliflower",
+   "olive oil",
+   "garlic",
+   "parsley",
+   "cilantro",
+   "lemon juice",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Grate the cauliflower on the large holes of a grater or pulse it in a food processor until it forms rice-sized grains.",
+   "Heat the oil in a large skillet over high heat and add the chopped garlic for 30 s.",
+   "Add the cauliflower and sauté for 5 to 6 min, stirring, uncovered, until tender but still firm.",
+   "Off the heat, add the chopped herbs and the lemon juice; season with salt and pepper."
+  ],
+  "p": "Don't cover the pan, or the rice will turn mushy. Raw grated cauliflower can be frozen flat in a bag."
+ },
+ "l09-semoule-chou-fleur-couscous": {
+  "t": "Couscous-Style Cauliflower Grains",
+  "i": [
+   "cauliflower",
+   "smen (Moroccan preserved butter) or butter",
+   "butter",
+   "ras el hanout",
+   "sliced almonds",
+   "salt"
+  ],
+  "s": [
+   "Pulse the raw cauliflower in short bursts to get a very fine grain.",
+   "Steam the grains for 6 min in the top of the couscoussier.",
+   "Tip them into a large dish, add the smen, butter, salt and ras el hanout, then fluff with a fork.",
+   "Dry-toast the almonds for 2 min in a skillet and sprinkle them over the grains."
+  ],
+  "p": "Serve it under a tajine or with the vegetables and meat of a Friday couscous: the broth flavors it."
+ },
+ "l09-frites-celeri-rave-four": {
+  "t": "Baked Celeriac Fries",
+  "i": [
+   "medium celeriac",
+   "olive oil",
+   "smoked paprika and garlic powder",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Preheat the oven to 220 °C (convection) and line a baking sheet with parchment paper.",
+   "Peel the celeriac and cut it into sticks 1 cm thick.",
+   "Toss the sticks with the oil, paprika and garlic powder.",
+   "Spread them out without overlapping and bake for 35 min, turning halfway through.",
+   "Salt when they come out of the oven and serve right away."
+  ],
+  "p": "With 500 g of celeriac the carbs stay reasonable: count one portion per person, no more. In an air fryer: 18 min at 200 °C."
+ },
+ "l09-frites-courgette-parmesan": {
+  "t": "Parmesan-Breaded Zucchini Fries",
+  "i": [
+   "zucchini",
+   "egg",
+   "finely grated Parmesan",
+   "almond flour",
+   "oregano and paprika",
+   "olive oil",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 220 °C. Cut the zucchini into sticks, salt them and let them drain for 10 min, then pat dry.",
+   "Mix the Parmesan, almond flour and spices on a plate; beat the egg on another.",
+   "Dip each stick in the egg, then roll it in the breading.",
+   "Arrange on an oiled baking sheet, drizzle with oil and bake for 18 to 20 min until golden.",
+   "Serve with a yogurt-garlic sauce or mayonnaise."
+  ],
+  "p": "The draining step is essential to keep the breading crisp."
+ },
+ "l09-gratin-chou-fleur-emmental": {
+  "t": "Cauliflower Gratin with Emmental",
+  "i": [
+   "large cauliflower",
+   "heavy cream",
+   "egg",
+   "grated Emmental",
+   "mustard",
+   "butter",
+   "nutmeg",
+   "salt",
+   "black pepper"
+  ],
+  "s": [
+   "Preheat the oven to 200 °C. Cook the cauliflower florets for 8 min in salted boiling water; drain thoroughly.",
+   "Butter a baking dish and arrange the cauliflower in it.",
+   "Whisk the cream, egg, mustard, half of the Emmental, nutmeg, salt and pepper.",
+   "Pour over the cauliflower and sprinkle with the rest of the cheese.",
+   "Bake for 25 to 30 min until the top is nicely golden."
+  ],
+  "p": "Can be prepared the day before and browned at the last minute. Add diced turkey kachir (deli-style turkey) to make it a complete dish."
+ }
+}

@@ -1,0 +1,1436 @@
+{
+ "l03-pizza-pate-poulet": {
+  "t": "Pizza keto con masa de pollo",
+  "i": [
+   "pechuga de pollo picada",
+   "parmesano",
+   "huevo",
+   "orégano y ajo en polvo",
+   "tomate triturado reducido",
+   "mozzarella rallada",
+   "champiñones",
+   "pimiento verde",
+   "aceitunas negras",
+   "aceite de oliva",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Triture el pollo con el parmesano, el huevo, la mitad del orégano y la sal.",
+   "Extienda esta masa sobre una bandeja cubierta con papel de horno untado de aceite, formando un disco de 30 cm y 5 mm de grosor.",
+   "Precocine de 15 a 18 min hasta que la base esté dorada y firme; seque con papel el posible jugo.",
+   "Extienda la salsa de tomate y reparta la mozzarella, los champiñones y el pimiento en láminas, las aceitunas y el resto del orégano.",
+   "Vuelva a hornear de 10 a 12 min hasta que el queso gratine.",
+   "Deje reposar 3 min antes de cortar en porciones."
+  ],
+  "p": "Reduzca el tomate triturado 10 min en la sartén para evitar que la masa quede empapada."
+ },
+ "l03-saute-dinde-poivrons-paprika": {
+  "t": "Salteado de pavo con pimientos y pimentón ahumado",
+  "i": [
+   "filetes de pavo",
+   "pimientos rojos",
+   "pimiento verde",
+   "cebolla",
+   "ajo",
+   "tomate triturado",
+   "pimentón ahumado",
+   "aceite de oliva",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el pavo en tiras de 1 cm, sale y pimiente.",
+   "Sellelo 4 min a fuego vivo con 2 cucharadas soperas de aceite y resérvelo.",
+   "Sofría la cebolla y los pimientos en tiras en el resto del aceite 8 min a fuego medio.",
+   "Añada el ajo y el pimentón, remueva 1 min, vierta el tomate y deje que se confite 8 min.",
+   "Devuelva el pavo, tape y cocine a fuego lento 5 min. Espolvoree con perejil antes de servir."
+  ],
+  "p": "El pavo se cocina rápido: no lo deje hervir a fuego lento demasiado tiempo para que quede tierno."
+ },
+ "l03-roti-dinde-champignons": {
+  "t": "Asado de pavo con champiñones y salsa de nata",
+  "i": [
+   "asado de pavo (1 kg)",
+   "mantequilla",
+   "aceite de oliva",
+   "champiñones",
+   "cebolla",
+   "ajo",
+   "caldo de ave",
+   "nata líquida",
+   "tomillo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C. Sale, pimiente y frote el asado con tomillo.",
+   "En una cazuela apta para horno, dore el asado por todos los lados con la mantequilla y el aceite durante 8 min.",
+   "Añada la cebolla en láminas, el ajo con piel y los champiñones en cuartos alrededor del asado.",
+   "Vierta el caldo, tape y hornee de 50 min a 1 h (70 °C en el centro), regando a mitad de cocción.",
+   "Saque el asado, envuélvalo en papel de aluminio y déjelo reposar 10 min.",
+   "Ponga la cazuela al fuego, añada la nata al jugo y los champiñones y deje reducir 5 min.",
+   "Corte el asado en lonchas y napee con la salsa de champiñones."
+  ],
+  "p": "Las lonchas frías que sobren hacen unos bocadillos excelentes con hojas de lechuga."
+ },
+ "l03-poulet-chou-cocotte": {
+  "t": "Cazuela de pollo con repollo y taquitos de pavo ahumado",
+  "i": [
+   "muslos de pollo",
+   "repollo blanco",
+   "pavo ahumado en taquitos",
+   "cebolla",
+   "ajo",
+   "caldo",
+   "aceite de oliva",
+   "comino y bayas de enebro (o tomillo)",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el repollo en tiras de 1 cm, enjuáguelo y escúrralo.",
+   "En una cazuela, dore los muslos por el lado de la piel 6 min en el aceite, dé la vuelta 2 min y resérvelos.",
+   "Sofría los taquitos de pavo y la cebolla en láminas 4 min en la grasa que haya soltado.",
+   "Añada el repollo, el ajo y las especias, y remueva 3 min hasta que empiece a ablandarse.",
+   "Vierta el caldo, coloque el pollo sobre el repollo, tape y cocine 30 min a fuego lento.",
+   "Rectifique de sal y sirva directamente en la cazuela."
+  ],
+  "p": "Un plato completo y reconfortante para el invierno; se recalienta perfectamente."
+ },
+ "l03-wraps-laitue-poulet-epice": {
+  "t": "Wraps de lechuga con pollo picado especiado",
+  "i": [
+   "pollo picado",
+   "lechuga iceberg o romana",
+   "champiñones picados",
+   "salsa de soja (sin alcohol)",
+   "jengibre",
+   "ajo",
+   "aceite",
+   "cebolletas",
+   "zanahoria rallada",
+   "mayonesa",
+   "harissa"
+  ],
+  "s": [
+   "Caliente el aceite en una sartén a fuego vivo, añada el pollo picado y desmenúcelo 5 min hasta que se dore.",
+   "Añada los champiñones, el ajo y el jengibre, y continúe 3 min.",
+   "Vierta la salsa de soja y saltee 1 min. Añada las cebolletas en rodajas fuera del fuego.",
+   "Mezcle la mayonesa y la harissa para la salsa.",
+   "Separe hojas de lechuga bonitas, rellénelas con pollo, zanahoria rallada y un chorrito de salsa, y enróllelas."
+  ],
+  "p": "Deje que cada uno rellene sus wraps en la mesa: a los niños les encanta."
+ },
+ "l03-poulet-tandoori-salade-chou": {
+  "t": "Muslitos de pollo estilo tandoori con ensalada crujiente de repollo",
+  "i": [
+   "muslitos de pollo",
+   "yogur griego",
+   "mezcla de especias tandoori",
+   "limón (zumo)",
+   "ajo",
+   "repollo blanco en juliana",
+   "mayonesa",
+   "vinagre",
+   "cilantro",
+   "sal"
+  ],
+  "s": [
+   "Haga 2 o 3 cortes profundos en los muslitos.",
+   "Mezcle el yogur, las especias tandoori, la mitad del zumo de limón, el ajo prensado y la sal; unte los muslitos y déjelos marinar 2 h (o toda la noche) en frío.",
+   "Precaliente el horno a 210 °C. Coloque los muslitos en una bandeja cubierta con papel de horno.",
+   "Hornee de 35 a 40 min dándoles la vuelta a mitad de cocción, hasta que estén bien tostados.",
+   "Mezcle el repollo en juliana con la mayonesa, el vinagre, el resto del limón, el cilantro y sal.",
+   "Sirva los muslitos calientes con la ensalada de repollo."
+  ],
+  "p": "Páselos 3 min bajo el grill al final de la cocción para que queden bien caramelizados."
+ },
+ "l03-omelette-poulet-champignons": {
+  "t": "Tortilla enrollada de pollo, champiñones y emmental",
+  "i": [
+   "huevos",
+   "pollo cocido desmenuzado",
+   "champiñones",
+   "emmental rallado",
+   "mantequilla",
+   "cebollino",
+   "rúcula",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Saltee los champiñones laminados con la mitad de la mantequilla 5 min, añada el pollo y recaliente 2 min. Reserve.",
+   "Bata los huevos con sal, pimienta y cebollino.",
+   "Derrita el resto de la mantequilla en una sartén antiadherente grande a fuego medio y vierta los huevos.",
+   "Remueva suavemente al principio y deje cuajar de 2 a 3 min: la parte superior debe quedar ligeramente jugosa.",
+   "Reparta el relleno y el emmental sobre una mitad, doble y deje que se funda 1 min.",
+   "Corte por la mitad y sirva con la rúcula."
+  ],
+  "p": "Ideal para aprovechar las sobras de pollo asado."
+ },
+ "l03-poulet-citron-confit-four": {
+  "t": "Muslos de pollo al horno con limón confitado y aceitunas",
+  "i": [
+   "muslos de pollo con piel",
+   "limón confitado",
+   "aceitunas verdes",
+   "bulbo de hinojo",
+   "aceite de oliva",
+   "ajo",
+   "tomillo y pimentón",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Corte el hinojo en cuartos finos y la corteza del limón confitado en tiras.",
+   "Mezcle los muslos con el aceite, el ajo machacado, el tomillo, el pimentón, pimienta y poca sal (el limón confitado es salado).",
+   "Coloque el hinojo en una fuente, ponga el pollo con la piel hacia arriba y añada el limón confitado y las aceitunas.",
+   "Hornee de 35 a 40 min hasta que la piel esté dorada y crujiente.",
+   "Espolvoree con perejil picado y sirva con el jugo de la fuente."
+  ],
+  "p": "El hinojo confitado en los jugos de cocción sustituye con ventaja a las patatas."
+ },
+ "l03-brochettes-dinde-halloumi": {
+  "t": "Brochetas de pavo y halloumi a la plancha",
+  "i": [
+   "filetes de pavo",
+   "halloumi",
+   "calabacín",
+   "cebolla roja",
+   "aceite de oliva",
+   "limón (zumo)",
+   "menta seca o fresca",
+   "orégano",
+   "pimienta",
+   "sal"
+  ],
+  "s": [
+   "Corte el pavo y el halloumi en dados de 2,5 cm, el calabacín en rodajas gruesas y la cebolla en trozos.",
+   "Mezcle el aceite, el limón, la menta, el orégano y la pimienta; unte el pavo y déjelo marinar 30 min.",
+   "Monte las brochetas alternando pavo, halloumi y verduras.",
+   "Áselas de 10 a 12 min en una plancha o barbacoa bien caliente, dándoles vueltas a menudo.",
+   "Sirva enseguida: el halloumi está mejor muy caliente."
+  ],
+  "p": "El halloumi no se funde al cocinarse: queda dorado por fuera y tierno por dentro."
+ },
+ "l03-soupe-poulet-repas": {
+  "t": "Sopa completa de pollo con verduras y huevo",
+  "i": [
+   "muslos de pollo",
+   "caldo de ave",
+   "calabacín",
+   "rama de apio",
+   "zanahoria",
+   "coliflor",
+   "huevos batidos",
+   "perejil",
+   "aceite de oliva",
+   "zumo de limón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "En una cazuela grande, sofría el apio y la zanahoria en dados pequeños 3 min en el aceite.",
+   "Añada el pollo entero y el caldo, lleve a ebullición y deje cocer a fuego suave 20 min.",
+   "Saque el pollo y desmenúcelo retirando la piel y los huesos.",
+   "Añada al caldo el calabacín en dados y la coliflor en ramilletes pequeños, y cocine 8 min.",
+   "Devuelva el pollo y vierta los huevos batidos en un hilo fino removiendo para formar hebras.",
+   "Añada el zumo de limón y el perejil picado, sale, pimiente y sirva bien caliente."
+  ],
+  "p": "Se conserva 3 días en frío; si la prepara con antelación, añada los huevos justo al recalentar."
+ },
+ "l03-poulet-sauce-poivre": {
+  "t": "Pechugas de pollo con salsa de pimienta y espárragos salteados",
+  "i": [
+   "pechugas de pollo",
+   "pimienta machacada",
+   "nata líquida",
+   "caldo",
+   "mantequilla",
+   "espárragos verdes",
+   "aceite de oliva",
+   "ajo",
+   "sal"
+  ],
+  "s": [
+   "Sale las pechugas y presione la pimienta machacada sobre una cara.",
+   "Cocínelas en la mantequilla a fuego medio de 6 a 7 min por cada lado. Manténgalas calientes.",
+   "Desglase con el caldo, añada la nata y deje reducir 4 min hasta que la salsa napee la cuchara.",
+   "Mientras tanto, corte la base dura de los espárragos y saltéelos de 6 a 8 min en el aceite con el ajo machacado y sal.",
+   "Napee las pechugas con la salsa de pimienta y sirva con los espárragos."
+  ],
+  "p": "Según la temporada, sustituya los espárragos por judías verdes."
+ },
+ "l03-poulet-effiloche-coleslaw": {
+  "t": "Pollo desmenuzado BBQ keto con coleslaw",
+  "i": [
+   "muslos de pollo deshuesados",
+   "concentrado de tomate",
+   "vinagre de sidra",
+   "eritritol",
+   "pimentón ahumado, ajo y cebolla en polvo",
+   "mostaza",
+   "caldo",
+   "repollo blanco",
+   "repollo morado",
+   "mayonesa",
+   "aceite",
+   "sal"
+  ],
+  "s": [
+   "Frote el pollo con las especias y la sal, y dórelo 5 min en el aceite en una cazuela.",
+   "Mezcle el concentrado, la mitad del vinagre, el eritritol, la mostaza y el caldo; viértalo sobre el pollo.",
+   "Tape y cocine de 35 a 40 min a fuego lento hasta que la carne se deshaga.",
+   "Desmenuce el pollo con un tenedor en la cazuela y deje reducir la salsa 5 min sin tapar.",
+   "Para el coleslaw, corte los repollos en juliana fina y mézclelos con la mayonesa, el resto del vinagre y sal.",
+   "Sirva el pollo desmenuzado sobre el coleslaw o en hojas de lechuga."
+  ],
+  "p": "Se congela muy bien en porciones; perfecto para las comidas de la semana."
+ },
+ "l03-quiche-sans-pate-poulet-poireaux": {
+  "t": "Quiche sin masa de pollo y puerro",
+  "i": [
+   "pollo cocido en dados",
+   "puerro (parte blanca)",
+   "huevos",
+   "nata líquida",
+   "emmental rallado",
+   "mantequilla",
+   "nuez moscada",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y unte con mantequilla un molde para tartas de 26 cm.",
+   "Corte el puerro en rodajas finas y póchelo 8 min en la mantequilla a fuego lento.",
+   "Bata los huevos con la nata, la nuez moscada, la sal y la pimienta.",
+   "Reparta el pollo, los puerros y la mitad del emmental en el molde; vierta la mezcla.",
+   "Espolvoree con el resto del queso y hornee de 30 a 35 min hasta que la quiche cuaje y se dore.",
+   "Deje templar 10 min antes de cortar."
+  ],
+  "p": "Se come caliente o fría; ideal en una fiambrera con ensalada verde."
+ },
+ "l03-dinde-curry-coco-courgettes": {
+  "t": "Salteado de pavo al curry rojo con calabacín",
+  "i": [
+   "filetes de pavo",
+   "leche de coco",
+   "calabacines",
+   "pimiento rojo pequeño",
+   "curry rojo en polvo y pimentón",
+   "ajo",
+   "jengibre",
+   "aceite de coco",
+   "zumo de lima",
+   "albahaca",
+   "salsa de soja (sin alcohol)"
+  ],
+  "s": [
+   "Corte el pavo en tiras finas, los calabacines en medias lunas y el pimiento en tiras.",
+   "Selle el pavo de 3 a 4 min en el aceite de coco bien caliente y resérvelo.",
+   "Sofría el ajo, el jengibre y las especias 1 min, luego las verduras 4 min.",
+   "Vierta la leche de coco y la salsa de soja, y deje hervir a fuego suave 6 min.",
+   "Devuelva el pavo 3 min para calentarlo sin resecarlo, añada la lima y la albahaca."
+  ],
+  "p": "Añada guindilla fresca para los adultos en el momento de servir."
+ },
+ "l03-salade-foies-volaille-tiede": {
+  "t": "Ensalada templada de hígados de ave, nueces y vinagre de sidra",
+  "i": [
+   "hígados de ave",
+   "mezclum de lechugas",
+   "nueces peladas",
+   "aceite de oliva",
+   "vinagre de sidra",
+   "cebolla roja",
+   "mostaza",
+   "tomates cherry",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Limpie los hígados, córtelos por la mitad y séquelos bien.",
+   "Prepare la vinagreta: 2 cucharadas soperas de aceite, la mitad del vinagre, la mostaza, sal y pimienta.",
+   "Reparta la ensalada, los tomates cortados, la cebolla roja en láminas y las nueces en dos platos.",
+   "Selle los hígados en el resto del aceite muy caliente 2 min por cada lado.",
+   "Desglase con el resto del vinagre, sale, pimiente y vierta enseguida los hígados y su jugo sobre la ensalada aliñada."
+  ],
+  "p": "Sirva inmediatamente para disfrutar del contraste caliente-frío."
+ },
+ "l03-poulet-crapaudine-harissa-citron": {
+  "t": "Pollo aplastado a la parrilla con mantequilla de harissa y limón",
+  "i": [
+   "pollo entero (1,4 kg)",
+   "mantequilla blanda",
+   "harissa",
+   "limón (zumo y ralladura)",
+   "ajo",
+   "aceite de oliva",
+   "rúcula",
+   "sal"
+  ],
+  "s": [
+   "Coloque el pollo boca abajo y corte a ambos lados de la columna con tijeras de cocina; retírela.",
+   "Dé la vuelta al pollo y presione con firmeza sobre el esternón para aplastarlo. Precaliente el horno a 210 °C.",
+   "Mezcle la mantequilla, la harissa, la ralladura, el ajo prensado y la sal; introduzca la mitad bajo la piel y extienda el resto por encima.",
+   "Coloque el pollo plano, con la piel hacia arriba, sobre una bandeja untada de aceite y rocíe con zumo de limón.",
+   "Hornee de 45 a 50 min hasta que la piel esté dorada y el jugo del muslo salga claro.",
+   "Deje reposar 10 min, trocee y sirva sobre la rúcula regada con el jugo de cocción."
+  ],
+  "p": "Aplastado, el pollo se cocina un 30 % más rápido y de forma más uniforme que entero."
+ },
+ "l03-croquettes-poulet-fromage": {
+  "t": "Croquetas de pollo con queso y brócoli",
+  "i": [
+   "pollo cocido picado",
+   "brócoli cocido picado",
+   "queso cheddar rallado",
+   "huevos",
+   "harina de almendra",
+   "ajo",
+   "aceite de oliva",
+   "yogur griego",
+   "cebollino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C y cubra una bandeja con papel de horno.",
+   "Mezcle el pollo, el brócoli bien escurrido, el cheddar, los huevos, la harina de almendra, el ajo, sal y pimienta.",
+   "Forme 16 croquetas del tamaño de una nuez con una cucharada sopera y aplánelas ligeramente.",
+   "Úntelas con aceite y hornee de 18 a 20 min, dándoles la vuelta a mitad de cocción.",
+   "Mezcle el yogur, el cebollino y sal para la salsa y sirva con las croquetas calientes."
+  ],
+  "p": "Perfecto para aprovechar las sobras de pollo; las croquetas se recalientan en la sartén."
+ },
+ "l03-blanquette-poulet-keto": {
+  "t": "Blanquette de pollo keto con champiñones",
+  "i": [
+   "muslos de pollo deshuesados",
+   "caldo de ave",
+   "champiñones",
+   "zanahoria",
+   "cebolla",
+   "nata fresca espesa",
+   "yemas de huevo",
+   "zumo de limón",
+   "mantequilla",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el pollo en trozos grandes y póngalos en una cazuela con el caldo, la cebolla partida por la mitad y la zanahoria en rodajas.",
+   "Lleve a un hervor suave, espume y cocine 30 min tapado a fuego lento.",
+   "Mientras tanto, saltee los champiñones cortados en cuartos en la mantequilla 6 min.",
+   "Retire el pollo y las verduras, y reduzca el caldo a la mitad a fuego vivo (unos 10 min).",
+   "Bata la nata con las yemas y el limón, vierta encima un cucharón de caldo caliente y devuélvalo todo a la cazuela a fuego muy suave sin dejar hervir, removiendo hasta que espese.",
+   "Devuelva el pollo y los champiñones, caliente 2 min, rectifique de sazón y espolvoree con perejil."
+  ],
+  "p": "El espesado con yemas sustituye a la harina: no deje nunca hervir la salsa."
+ },
+ "l03-salade-poulet-avocat-feta": {
+  "t": "Ensalada de pollo a la plancha, aguacate, feta y semillas",
+  "i": [
+   "pechugas de pollo",
+   "aguacate",
+   "feta",
+   "pepino",
+   "rúcula",
+   "semillas de calabaza",
+   "aceite de oliva",
+   "zumo de limón",
+   "pimentón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Frote las pechugas con pimentón, sal, pimienta y un chorrito de aceite.",
+   "Áselas de 5 a 6 min por cada lado en una sartén grill caliente, déjelas reposar y córtelas en lonchas.",
+   "Corte el aguacate y el pepino en dados y desmenuce la feta.",
+   "Mezcle la rúcula con el resto del aceite y el limón, añada las verduras, la feta y el pollo templado.",
+   "Espolvoree con semillas de calabaza tostadas 2 min en seco."
+  ],
+  "p": "Prepare las pechugas la víspera para tener una fiambrera lista en un momento."
+ },
+ "l03-poulet-thai-basilic": {
+  "t": "Pollo salteado con albahaca al estilo tailandés y huevo frito",
+  "i": [
+   "muslos de pollo deshuesados picados a cuchillo",
+   "albahaca",
+   "ajo",
+   "guindilla",
+   "salsa de soja (sin alcohol)",
+   "judías verdes en trozos",
+   "aceite",
+   "huevos",
+   "eritritol"
+  ],
+  "s": [
+   "Pique el pollo toscamente a cuchillo; machaque el ajo y la guindilla.",
+   "Fría los huevos en 1 cucharada sopera de aceite bien caliente para que los bordes queden crujientes; reserve.",
+   "En un wok, saltee el ajo y la guindilla 30 s en el resto del aceite, luego el pollo 5 min a fuego vivo.",
+   "Añada las judías verdes y 2 cucharadas soperas de agua, y saltee 3 min.",
+   "Vierta la salsa de soja y el eritritol, mezcle y añada la albahaca fuera del fuego.",
+   "Sirva cada ración coronada con un huevo frito."
+  ],
+  "p": "Sirva con arroz de coliflor para una comida completa."
+ },
+ "l03-gratin-dinde-aubergines": {
+  "t": "Gratinado de pavo picado con berenjenas y mozzarella",
+  "i": [
+   "pavo picado",
+   "berenjenas",
+   "tomate triturado",
+   "cebolla",
+   "ajo",
+   "aceite de oliva",
+   "mozzarella rallada",
+   "parmesano",
+   "canela (una pizca), orégano, comino",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Corte las berenjenas en rodajas de 1 cm, úntelas con 3 cucharadas soperas de aceite, sálelas y áselas 20 min en una bandeja.",
+   "Mientras tanto, sofría la cebolla picada en el resto del aceite y luego el pavo 6 min, desmenuzándolo.",
+   "Añada el ajo, las especias y el tomate, y deje cocer a fuego lento 10 min.",
+   "En una fuente, alterne capas de berenjenas y de salsa de pavo, terminando con berenjenas.",
+   "Cubra con la mozzarella y el parmesano y hornee 20 min hasta que el gratinado esté dorado.",
+   "Deje reposar 10 min antes de servir, espolvoreado con perejil."
+  ],
+  "p": "Asar las berenjenas en lugar de freírlas evita que absorban demasiado aceite."
+ },
+ "l03-poulet-cajun-avocat": {
+  "t": "Pechugas de pollo cajún con salsa de aguacate",
+  "i": [
+   "pechugas de pollo",
+   "pimentón, ajo, cebolla, orégano, guindilla",
+   "aceite de oliva",
+   "aguacates",
+   "tomate",
+   "cebolla roja",
+   "lima",
+   "cilantro",
+   "sal"
+  ],
+  "s": [
+   "Abra las pechugas por la mitad a lo largo del grosor para obtener filetes finos.",
+   "Mezcle las especias cajún con la sal y 2 cucharadas soperas de aceite, y unte el pollo.",
+   "Cocine de 4 a 5 min por cada lado en una sartén caliente con el resto del aceite.",
+   "Corte los aguacates, el tomate y la cebolla roja en dados pequeños; mezcle con la lima, el cilantro y sal.",
+   "Sirva el pollo en lonchas con la salsa."
+  ],
+  "p": "Prepare un bote grande de especias cajún: se conserva 6 meses."
+ },
+ "l03-cuisses-laquees-moutarde-sesame": {
+  "t": "Muslos de pollo lacados con mostaza y sésamo, coles de Bruselas",
+  "i": [
+   "muslos de pollo",
+   "mostaza",
+   "salsa de soja (sin alcohol)",
+   "eritritol",
+   "semillas de sésamo",
+   "coles de Bruselas",
+   "aceite de oliva",
+   "ajo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Mezcle la mostaza, la salsa de soja, el eritritol y el ajo prensado.",
+   "Unte los muslos con la mitad de esta mezcla y colóquelos en una fuente grande.",
+   "Corte las coles de Bruselas por la mitad, mézclelas con el aceite, sal y pimienta, y repártalas alrededor.",
+   "Hornee 25 min, unte los muslos con el resto del lacado y espolvoree con sésamo.",
+   "Continúe 15 min hasta que los muslos estén lacados y las coles bien doradas."
+  ],
+  "p": "Las coles de Bruselas asadas pierden su amargor: una buena forma de que gusten a los niños."
+ },
+ "l03-poulet-epinards-parmesan-creme": {
+  "t": "Pollo cremoso a la toscana con espinacas y tomates",
+  "i": [
+   "pechugas de pollo",
+   "nata líquida",
+   "parmesano rallado",
+   "espinacas",
+   "tomates cherry",
+   "ajo",
+   "aceite de oliva",
+   "orégano y pimentón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Sazone las pechugas con orégano, pimentón, sal y pimienta.",
+   "Dórelas en el aceite 6 min por cada lado a fuego medio y resérvelas.",
+   "Sofría el ajo y los tomates cherry cortados por la mitad 3 min en la misma sartén.",
+   "Vierta la nata y el parmesano, y mezcle hasta que la salsa quede untuosa.",
+   "Añada las espinacas y déjelas ablandar 1 min; luego devuelva el pollo a la salsa 3 min."
+  ],
+  "p": "Sirva sobre tallarines de calabacín o pasta de konjac."
+ },
+ "l03-terrine-foies-volaille": {
+  "t": "Mousse de hígados de ave con mantequilla y ensalada crujiente",
+  "i": [
+   "hígados de ave",
+   "mantequilla",
+   "chalota o cebolla pequeña",
+   "ajo",
+   "tomillo y pimienta de Jamaica",
+   "nata líquida",
+   "pepino",
+   "rábanos",
+   "lechuga",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Limpie los hígados y séquelos. Derrita 30 g de mantequilla y rehogue la cebolla y el ajo 3 min.",
+   "Añada los hígados y el tomillo, y cocínelos de 6 a 8 min a fuego medio, hasta que el centro ya no esté rosado (70 °C en el centro).",
+   "Triture los hígados aún calientes con el resto de la mantequilla en trozos, la nata, las especias, sal y pimienta hasta obtener una mousse muy fina.",
+   "Vierta en ramequines o en una terrina pequeña, alise, tape y refrigere al menos 4 h.",
+   "Sirva la mousse con bastones de pepino, rábanos y lechuga para untar."
+  ],
+  "p": "Cubierta con una fina capa de mantequilla derretida, la mousse se conserva 5 días en la nevera."
+ },
+ "l03-paupiettes-dinde-jben-epinards": {
+  "t": "Rollitos de pavo rellenos de queso fresco y espinacas",
+  "i": [
+   "filetes grandes de pavo finos",
+   "jben o queso fresco",
+   "espinacas",
+   "pavo ahumado",
+   "mantequilla",
+   "caldo",
+   "nata líquida",
+   "ajo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Ablande las espinacas 2 min en la sartén con el ajo, escúrralas, presiónelas y píquelas; mézclelas con el jben, sal y pimienta.",
+   "Aplane los filetes entre dos láminas de film, coloque una loncha de pavo ahumado y luego una capa de relleno.",
+   "Enróllelos bien apretados y átelos con hilo o sujételos con palillos.",
+   "Dore los rollitos en la mantequilla 5 min por todos los lados.",
+   "Vierta el caldo, tape y cocine 20 min a fuego lento, dándoles la vuelta a mitad de cocción.",
+   "Retire los rollitos, añada la nata al jugo y reduzca 3 min. Napee y sirva."
+  ],
+  "p": "Prepare los rollitos la víspera: quedan más firmes tras una noche en frío."
+ },
+ "l03-brochettes-sumac-fattouche": {
+  "t": "Brochetas de muslos de pollo al sumac con ensalada fattoush keto",
+  "i": [
+   "muslos de pollo deshuesados",
+   "sumac y zaatar",
+   "aceite de oliva",
+   "limón (zumo)",
+   "ajo",
+   "pepino",
+   "tomate",
+   "rábanos",
+   "menta",
+   "perejil",
+   "lechuga romana",
+   "sal"
+  ],
+  "s": [
+   "Corte el pollo en dados y márquelo 1 h con 2 cucharadas soperas de aceite, la mitad del limón, el ajo, la mitad de las especias y de la sal.",
+   "Ensarte los trozos en pinchos y áselos de 12 a 15 min en una parrilla caliente, dándoles la vuelta.",
+   "Corte el pepino, el tomate y los rábanos en dados, pique la menta y el perejil, y corte la lechuga en tiras.",
+   "Aliñe la ensalada con el resto del aceite, del limón, del sumac y sal.",
+   "Sirva las brochetas sobre la ensalada, espolvoreadas con una pizca de sumac."
+  ],
+  "p": "Para el toque crujiente del fattoush, añada semillas de calabaza tostadas en seco en lugar de los trozos de pan."
+ },
+ "l03-poulet-chou-fleur-curry-four": {
+  "t": "Pollo y coliflor asados con cúrcuma y salsa de tahini",
+  "i": [
+   "pechugas de pollo",
+   "coliflor pequeña",
+   "cúrcuma, comino, cilantro molido",
+   "aceite de oliva",
+   "tahini",
+   "limón (zumo)",
+   "ajo",
+   "perejil",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 210 °C. Corte el pollo en dados grandes y la coliflor en ramilletes.",
+   "Mézclelos con el aceite, las especias y la sal, y extiéndalos en una bandeja grande.",
+   "Hornee de 30 a 35 min removiendo a mitad de cocción, hasta que la coliflor esté bien dorada.",
+   "Bata el tahini con el zumo de limón, el ajo prensado, el agua y una pizca de sal hasta obtener una salsa fluida.",
+   "Sirva regado con la salsa de tahini y espolvoreado con perejil."
+  ],
+  "p": "Todo se cocina en una sola bandeja: ideal para preparar las comidas de la semana."
+ },
+ "l04-steak-sauce-poivre": {
+  "t": "Filete a la pimienta con nata y judías verdes",
+  "i": [
+   "filetes de entrecot (180 g cada uno)",
+   "pimienta negra machacada",
+   "mantequilla",
+   "aceite de oliva",
+   "nata líquida 30 %",
+   "mostaza",
+   "judías verdes",
+   "sal"
+  ],
+  "s": [
+   "Saque los filetes de la nevera 20 minutos antes de cocinarlos. Sálelos y presione la pimienta machacada sobre ambas caras.",
+   "Cueza las judías verdes 8 minutos en agua hirviendo con sal, escúrralas y manténgalas calientes.",
+   "Caliente el aceite y la mitad de la mantequilla en una sartén a fuego vivo. Selle los filetes de 2 a 3 minutos por cada lado para un punto medio y resérvelos en un plato bajo una lámina de aluminio.",
+   "Baje el fuego, vierta la nata y la mostaza en la sartén raspando el fondo. Deje reducir de 2 a 3 minutos hasta que la salsa napee la cuchara.",
+   "Añada el resto de la mantequilla y el jugo que haya soltado la carne, mezcle y rectifique de sal.",
+   "Sirva los filetes napados con la salsa y las judías verdes salteadas 1 minuto en la salsa restante."
+  ],
+  "p": "Para una salsa más suave, sustituya la mitad de la pimienta negra por pimienta verde en salmuera machacada."
+ },
+ "l04-chili-sans-haricots": {
+  "t": "Chili con carne sin alubias",
+  "i": [
+   "carne de ternera picada",
+   "cebolla",
+   "ajo",
+   "pimiento verde",
+   "lata de tomate triturado (400 g)",
+   "concentrado de tomate",
+   "comino, pimentón y orégano",
+   "guindilla en polvo",
+   "aceite de oliva",
+   "nata agria",
+   "queso cheddar rallado",
+   "cilantro",
+   "sal"
+  ],
+  "s": [
+   "Corte la cebolla en láminas, pique el ajo y corte el pimiento en dados pequeños.",
+   "Caliente el aceite en una cazuela y sofría la cebolla y el pimiento 5 minutos a fuego medio.",
+   "Añada la carne picada, suba el fuego y dórela de 6 a 8 minutos desmenuzándola con una cuchara de madera.",
+   "Incorpore el ajo, el concentrado, las especias y la guindilla; remueva 1 minuto para tostar las especias.",
+   "Vierta el tomate triturado y 100 ml de agua, y sale. Tape y cocine 30 minutos a fuego lento, removiendo de vez en cuando.",
+   "Sirva en cuencos con una cucharada de nata agria, el cheddar rallado y el cilantro picado."
+  ],
+  "p": "Aún mejor al día siguiente: se conserva 3 días en la nevera y 3 meses en el congelador."
+ },
+ "l04-boulettes-sauce-tomate-mozzarella": {
+  "t": "Albóndigas de ternera gratinadas con salsa de tomate y mozzarella",
+  "i": [
+   "carne de ternera picada",
+   "huevo",
+   "parmesano rallado",
+   "harina de almendra",
+   "ajo",
+   "perejil",
+   "lata de tomate triturado",
+   "albahaca",
+   "bola de mozzarella",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle la ternera, el huevo, el parmesano, la harina de almendra, 1 diente de ajo rallado, el perejil picado, la sal y la pimienta.",
+   "Forme unas veinte albóndigas del tamaño de una nuez con las manos húmedas.",
+   "Dórelas 6 minutos en una sartén con 1 cucharada sopera de aceite a fuego medio-alto, rodándolas para dorar todas las caras.",
+   "En una sartén honda, sofría el otro diente de ajo picado en el resto del aceite, añada el tomate y la sal, y deje reducir 10 minutos.",
+   "Precaliente el horno a 200 °C. Coloque las albóndigas en una fuente, napee con la salsa y cubra con la mozzarella en trozos.",
+   "Hornee 12 minutos hasta que el queso burbujee y espolvoree con albahaca."
+  ],
+  "p": "Duplique la cantidad de albóndigas y congélelas crudas sobre una bandeja antes de pasarlas a una bolsa."
+ },
+ "l04-boeuf-bourguignon-sans-vin": {
+  "t": "Estofado de ternera al estilo borgoñón con champiñones",
+  "i": [
+   "aguja de ternera en dados",
+   "champiñones",
+   "cebolla",
+   "zanahoria",
+   "ajo",
+   "concentrado de tomate",
+   "caldo de ternera",
+   "vinagre de sidra",
+   "mantequilla",
+   "aceite de oliva",
+   "tomillo y laurel secos",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Seque la carne con papel de cocina, sale y pimiente.",
+   "En una cazuela, dore la carne en 3 tandas en el aceite muy caliente, 4 minutos por tanda, y resérvela.",
+   "Baje el fuego, sofría la cebolla en láminas y la zanahoria en rodajas 5 minutos, y luego el ajo y el concentrado 1 minuto.",
+   "Desglase con el vinagre, devuelva la carne, añada el caldo y el tomillo con el laurel. Lleve a un hervor suave.",
+   "Tape y cocine 2 h 15 a fuego muy lento (o en el horno a 150 °C) hasta que la carne se deshaga con el tenedor.",
+   "Mientras tanto, saltee los champiñones cortados en cuartos en la mantequilla 8 minutos a fuego vivo.",
+   "Añada los champiñones 15 minutos antes del final, destape para reducir la salsa si es necesario y espolvoree con perejil."
+  ],
+  "p": "Sirva con puré de coliflor. El plato se recalienta muy bien y se congela en porciones."
+ },
+ "l04-moussaka-keto": {
+  "t": "Musaka keto de cordero con bechamel de queso",
+  "i": [
+   "berenjenas grandes",
+   "paletilla de cordero picada",
+   "cebolla",
+   "ajo",
+   "tomate triturado",
+   "canela, comino y orégano",
+   "aceite de oliva",
+   "nata líquida",
+   "queso fresco",
+   "huevos",
+   "parmesano rallado",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Corte las berenjenas en rodajas de 1 cm, úntelas con aceite, sálelas y áselas 20 minutos en bandeja.",
+   "Sofría la cebolla picada en 1 cucharada sopera de aceite, añada el cordero y dórelo 8 minutos.",
+   "Añada el ajo, las especias y el tomate, sale y deje cocer 15 minutos sin tapar hasta que la salsa espese. Añada el perejil.",
+   "Para la bechamel keto, caliente la nata con el queso fresco batiendo, retire del fuego e incorpore los huevos batidos y la mitad del parmesano.",
+   "En una fuente, alterne berenjenas y carne, termine con berenjenas y vierta la bechamel y el resto del parmesano.",
+   "Baje el horno a 180 °C y hornee 30 minutos hasta que la superficie esté dorada.",
+   "Deje templar 15 minutos antes de servir."
+  ],
+  "p": "Se puede preparar la víspera: monte, tape y refrigere, y luego añada 10 minutos de cocción."
+ },
+ "l04-hachis-parmentier-chou-fleur": {
+  "t": "Pastel de carne con puré de coliflor",
+  "i": [
+   "coliflor grande",
+   "carne de ternera picada",
+   "cebolla",
+   "ajo",
+   "concentrado de tomate",
+   "caldo de ternera",
+   "mantequilla",
+   "nata fresca",
+   "emmental rallado",
+   "perejil",
+   "nuez moscada",
+   "aceite",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte la coliflor en ramilletes y cuézala 12 minutos al vapor hasta que esté muy tierna.",
+   "Escúrrala perfectamente y tritúrela con la mantequilla, la nata, la nuez moscada, la sal y la pimienta hasta obtener un puré fino.",
+   "En una sartén con aceite, sofría la cebolla picada 4 minutos, añada la ternera y dórela 8 minutos.",
+   "Añada el ajo, el concentrado y el caldo, deje reducir 5 minutos y añada el perejil.",
+   "Precaliente el horno a 200 °C. Extienda la carne en una fuente, cubra con el puré y espolvoree con emmental.",
+   "Hornee 20 minutos y después 3 minutos bajo el grill para una costra dorada."
+  ],
+  "p": "Deje escurrir el puré en un colador 5 minutos antes de triturarlo: quedará más firme."
+ },
+ "l04-brochettes-agneau-tzatziki": {
+  "t": "Brochetas de cordero marinadas con salsa tzatziki",
+  "i": [
+   "paletilla de cordero deshuesada",
+   "limón (zumo)",
+   "aceite de oliva",
+   "ajo",
+   "orégano y pimentón",
+   "cebolla roja",
+   "pimiento verde",
+   "yogur griego",
+   "pepino",
+   "menta",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el cordero en dados de 3 cm. Mezcle con el zumo de limón, el aceite, 1 diente de ajo rallado, las especias, sal y pimienta; deje marinar 1 hora en frío (o toda la noche).",
+   "Ralle el pepino, escúrralo apretándolo en un paño para quitar el agua y mézclelo con el yogur, el otro diente de ajo y la menta picada. Sale.",
+   "Corte el pimiento y la cebolla en cuadrados de 3 cm.",
+   "Ensarte en pinchos alternando carne y verduras.",
+   "Áselas de 10 a 12 minutos en una parrilla o sartén grill muy caliente, dándoles la vuelta cada 3 minutos.",
+   "Deje reposar 3 minutos y sirva con el tzatziki bien frío."
+  ],
+  "p": "Si usa pinchos de madera, déjelos 30 minutos en remojo en agua para que no se quemen."
+ },
+ "l04-cotelettes-agneau-herbes-puree-celeri": {
+  "t": "Chuletas de cordero con hierbas y puré de apio nabo",
+  "i": [
+   "chuletas de cordero",
+   "ajo",
+   "aceite de oliva",
+   "tomillo y romero secos",
+   "apio nabo",
+   "mantequilla",
+   "nata líquida",
+   "perejil",
+   "limón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Frote las chuletas con 1 cucharada sopera de aceite, el ajo machacado, el tomillo y el romero, sal y pimienta; déjelas reposar 15 minutos.",
+   "Pele el apio nabo, córtelo en dados y cuézalo 20 minutos en agua con sal hasta que esté tierno.",
+   "Escúrralo y triture el apio nabo con la mantequilla y la nata caliente, sale y pimiente.",
+   "Caliente el resto del aceite en una sartén grande a fuego vivo. Selle las chuletas de 2 a 3 minutos por cada lado, dorando también la grasa del borde.",
+   "Deje reposar 3 minutos, rocíe con un chorrito de limón y espolvoree con perejil.",
+   "Sirva 3 chuletas por persona sobre el puré de apio nabo."
+  ],
+  "p": "El puré de apio nabo es rico en carbohidratos: mantenga la porción en unos 100 g por persona."
+ },
+ "l04-roti-boeuf-legumes": {
+  "t": "Rosbif con verduras asadas",
+  "i": [
+   "pieza de ternera para asar (1 kg)",
+   "aceite de oliva",
+   "mostaza",
+   "ajo",
+   "tomillo seco",
+   "brócoli",
+   "calabacines",
+   "pimiento rojo",
+   "mantequilla",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Saque el asado de la nevera 1 hora antes de cocinarlo. Precaliente el horno a 220 °C.",
+   "Úntelo con la mostaza mezclada con 1 cucharada sopera de aceite, el tomillo, sal y pimienta.",
+   "Séllelo por todos los lados 5 minutos en una sartén muy caliente y colóquelo en una fuente con los dientes de ajo con piel y la mantequilla.",
+   "Corte las verduras en trozos, mézclelas con el resto del aceite y sal, y colóquelas alrededor del asado.",
+   "Hornee de 35 a 40 minutos para un punto rosado (55 °C en el centro), regando a mitad de cocción.",
+   "Deje reposar el asado 10 minutos bajo aluminio antes de cortarlo en lonchas finas. Sirva con las verduras y el jugo de la fuente."
+  ],
+  "p": "Las sobras, cortadas en lonchas finas y frías, hacen unas ensaladas excelentes al día siguiente."
+ },
+ "l04-escalope-veau-champignons": {
+  "t": "Escalopes de ternera con crema de champiñones",
+  "i": [
+   "escalopes de ternera",
+   "champiñones",
+   "chalota o cebolla",
+   "mantequilla",
+   "aceite de oliva",
+   "nata líquida",
+   "mostaza",
+   "perejil",
+   "brotes de espinaca",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Aplane los escalopes entre dos hojas de papel de horno, sale y pimiente.",
+   "Caliente el aceite y la mitad de la mantequilla a fuego vivo y cocine los escalopes 2 minutos por cada lado. Manténgalos calientes.",
+   "En la misma sartén, sofría la cebolla picada y los champiñones laminados con el resto de la mantequilla 6 minutos.",
+   "Vierta la nata y la mostaza, deje reducir 3 minutos y devuelva los escalopes 1 minuto para calentarlos.",
+   "Ablande las espinacas 2 minutos en otra sartén con una pizca de sal.",
+   "Sirva los escalopes napados con la salsa, espolvoreados con perejil, con las espinacas."
+  ],
+  "p": "La ternera se cocina muy rápido: pasados 2 minutos por cada lado, se reseca."
+ },
+ "l04-steak-hache-oeuf-cheval-salade": {
+  "t": "Hamburguesa de ternera con huevo a caballo y ensalada de aguacate",
+  "i": [
+   "hamburguesas de ternera de 150 g",
+   "huevos",
+   "aguacate",
+   "rúcula",
+   "tomates cherry",
+   "limón",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Sale y pimiente las hamburguesas.",
+   "Caliente una sartén con 1 cucharadita de aceite a fuego vivo y cocine las hamburguesas de 4 a 5 minutos por cada lado, hasta que estén bien hechas en el centro (70 °C, sin nada de rosa). Resérvelas.",
+   "En la misma sartén a fuego medio, fría los huevos 3 minutos hasta que la clara cuaje (yema bien cocida para los niños, las embarazadas y las personas frágiles).",
+   "Corte el aguacate en dados y los tomates por la mitad; mezcle con la rúcula, el resto del aceite, el zumo de limón y sal.",
+   "Coloque un huevo sobre cada hamburguesa y sirva con la ensalada."
+  ],
+  "p": "Riegue las claras con una cucharada de la grasa caliente de la sartén para que se hagan sin darles la vuelta."
+ },
+ "l04-bowl-burger-deconstruit": {
+  "t": "Bowl de hamburguesa deconstruida con salsa secreta",
+  "i": [
+   "carne de ternera picada",
+   "lechuga romana",
+   "queso cheddar en dados",
+   "pepinillos",
+   "tomates cherry",
+   "cebolla roja",
+   "mayonesa",
+   "concentrado de tomate",
+   "mostaza",
+   "vinagre",
+   "pimentón y ajo en polvo",
+   "semillas de sésamo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Dore la carne picada 8 minutos en una sartén caliente con el pimentón, el ajo en polvo, la sal y la pimienta, desmenuzándola.",
+   "Prepare la salsa: mezcle la mayonesa, el concentrado, la mostaza, el vinagre y 2 pepinillos picados muy finos.",
+   "Corte la romana en tiras, los tomates por la mitad, la cebolla en láminas finas y el resto de los pepinillos en rodajas.",
+   "Reparta la lechuga en 4 cuencos, añada la carne caliente, el cheddar, los tomates, la cebolla y los pepinillos.",
+   "Napee con la salsa y espolvoree con sésamo tostado 1 minuto en seco en la sartén."
+  ],
+  "p": "Para llevar a la oficina, guarde la carne y la salsa en recipientes separados y recaliente solo la carne."
+ },
+ "l04-gratin-courgettes-viande-hachee": {
+  "t": "Gratinado de calabacines con carne picada",
+  "i": [
+   "calabacines",
+   "carne de ternera picada",
+   "cebolla",
+   "ajo",
+   "huevos",
+   "nata fresca",
+   "emmental rallado",
+   "hierbas provenzales",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte los calabacines en rodajas de 5 mm y sofríalos 8 minutos a fuego vivo en la mitad del aceite para que pierdan el agua. Sale.",
+   "En otra sartén, sofría la cebolla picada con el resto del aceite, añada la ternera, el ajo y las hierbas; cocine 8 minutos.",
+   "Precaliente el horno a 190 °C. Bata los huevos con la nata, la mitad del emmental, sal y pimienta.",
+   "En una fuente para gratinar, alterne una capa de calabacines, la carne y después el resto de los calabacines.",
+   "Vierta la mezcla de huevos y nata, espolvoree con el resto del emmental y hornee 25 minutos hasta que cuaje y se dore."
+  ],
+  "p": "Añada un puñado de menta fresca picada a la carne para un toque más fresco."
+ },
+ "l04-agneau-roti-romarin-haricots": {
+  "t": "Pierna de cordero asada con ajo y judías verdes",
+  "i": [
+   "pierna de cordero de 1,6 kg con hueso (~1,3 kg de carne)",
+   "ajo",
+   "aceite de oliva",
+   "romero y tomillo secos",
+   "limón",
+   "judías verdes",
+   "mantequilla",
+   "agua",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Saque la pierna de la nevera 1 hora antes. Precaliente el horno a 180 °C.",
+   "Haga pequeños cortes en la carne e introduzca en ellos 3 dientes de ajo cortados en lascas.",
+   "Frote la pierna con el aceite, el romero y el tomillo, la ralladura de limón, sal y pimienta. Colóquela en una fuente con el resto del ajo con piel y el agua.",
+   "Hornee de 1 h 20 a 1 h 30, regando cada 20 minutos con el jugo; añada un poco de agua si el fondo se quema.",
+   "Deje reposar 15 minutos bajo aluminio. Mientras tanto, cueza las judías verdes 8 minutos en agua con sal y saltéelas en la mantequilla.",
+   "Corte la pierna en lonchas, rocíe con el jugo de cocción y el zumo de limón, y sirva con las judías."
+  ],
+  "p": "Las sobras desmenuzadas se recalientan en la sartén con un poco de jugo para una comida exprés."
+ },
+ "l04-boeuf-saute-brocoli-gingembre": {
+  "t": "Salteado de ternera con brócoli y jengibre",
+  "i": [
+   "redondo o entrecot de ternera",
+   "brócoli",
+   "jengibre fresco rallado",
+   "ajo",
+   "salsa de soja (sin alcohol)",
+   "aceite neutro",
+   "semillas de sésamo",
+   "cebolletas",
+   "eritritol",
+   "guindilla"
+  ],
+  "s": [
+   "Ponga la carne 20 minutos en el congelador para cortarla más fácilmente en láminas finas en contra de la fibra.",
+   "Mezcle la salsa de soja, el eritritol, el jengibre, el ajo picado y 2 cucharadas soperas de agua.",
+   "Separe el brócoli en ramilletes pequeños y escáldelos 2 minutos en agua hirviendo; luego escúrralos.",
+   "Caliente la mitad del aceite en un wok a fuego muy vivo, selle la carne en 2 tandas de 1 minuto y resérvela.",
+   "Añada el resto del aceite, saltee el brócoli 2 minutos, devuelva la carne y vierta la salsa; envuelva 1 minuto.",
+   "Sirva espolvoreado con sésamo, cebolletas en rodajas y una pizca de guindilla."
+  ],
+  "p": "Sirva sobre arroz de coliflor o fideos de konjac para un plato más abundante."
+ },
+ "l04-blanquette-veau-champignons": {
+  "t": "Blanquette de ternera keto con champiñones",
+  "i": [
+   "ternera para blanquette en trozos",
+   "champiñones",
+   "zanahoria",
+   "cebolla",
+   "parte blanca de puerro",
+   "caldo de ave",
+   "nata líquida",
+   "yemas de huevo",
+   "limón",
+   "mantequilla",
+   "tomillo y laurel",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Ponga la carne en una cazuela, cúbrala con agua fría, lleve a ebullición 2 minutos, escúrrala y enjuáguela (así se evita la espuma).",
+   "Devuelva la carne a la cazuela con el caldo, la zanahoria, la cebolla y el puerro cortados en trozos, y el tomillo con el laurel. Cocine 1 h 15 tapado a fuego lento.",
+   "Saltee los champiñones cortados en cuartos en la mantequilla 6 minutos.",
+   "Retire la carne y las verduras con una espumadera. Reduzca el caldo a fuego vivo hasta unos 400 ml.",
+   "Fuera del fuego, bata la nata con las yemas y el zumo de limón, vierta encima un cucharón de caldo caliente y pásalo todo de nuevo a la cazuela.",
+   "Vuelva a poner a fuego muy suave sin dejar hervir 3 minutos hasta que espese, añada la carne, las zanahorias y los champiñones, rectifique de sazón y espolvoree con perejil."
+  ],
+  "p": "La salsa no debe volver a hervir una vez añadidas las yemas, o se corta."
+ },
+ "l04-pain-viande-cheddar": {
+  "t": "Pastel de carne con cheddar y salsa de tomate",
+  "i": [
+   "carne de ternera picada",
+   "huevos",
+   "harina de almendra",
+   "cebolla",
+   "ajo",
+   "queso cheddar rallado",
+   "perejil",
+   "concentrado de tomate",
+   "vinagre de sidra",
+   "eritritol",
+   "mostaza",
+   "pimentón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y forre un molde de plum cake con papel de horno.",
+   "Mezcle la ternera, los huevos, la harina de almendra, la cebolla y el ajo muy picados, el perejil, el pimentón, la mostaza, sal y pimienta.",
+   "Extienda la mitad de la carne en el molde, espolvoree con cheddar y cubra con el resto de la carne, presionando.",
+   "Mezcle el concentrado, el vinagre, el eritritol y 2 cucharadas soperas de agua; unte la superficie del pastel de carne.",
+   "Hornee 50 minutos, hasta alcanzar 70 °C en el centro.",
+   "Deje reposar 10 minutos antes de desmoldar y cortar en rodajas."
+  ],
+  "p": "En lonchas frías, sustituye a los embutidos en las fiambreras."
+ },
+ "l04-brochettes-kefta-salade-concombre": {
+  "t": "Brochetas de kefta a la parrilla con ensalada de pepino y feta",
+  "i": [
+   "carne picada para kefta",
+   "cebolla rallada",
+   "perejil",
+   "cilantro",
+   "comino y pimentón",
+   "pepino",
+   "feta",
+   "tomate",
+   "aceitunas negras",
+   "aceite de oliva",
+   "limón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle la carne con la cebolla rallada y escurrida, las hierbas picadas, las especias, sal y pimienta. Deje reposar 15 minutos en frío.",
+   "Forme cilindros alargados alrededor de 8 pinchos planos, apretando bien.",
+   "Corte el pepino, el tomate y la feta en dados, añada las aceitunas, el aceite, el limón y pimienta.",
+   "Ase las brochetas de 8 a 10 minutos en una parrilla bien caliente o bajo el grill del horno, dándoles la vuelta 3 veces.",
+   "Sirva las brochetas sobre la ensalada."
+  ],
+  "p": "Humedézcase las manos para dar forma a la carne: se pegará mejor al pincho."
+ },
+ "l04-cheeseburger-casserole": {
+  "t": "Cheeseburger gratinado al horno",
+  "i": [
+   "carne de ternera picada",
+   "cebolla",
+   "coliflor",
+   "huevos",
+   "nata líquida",
+   "queso cheddar rallado",
+   "pepinillos",
+   "mostaza",
+   "concentrado de tomate",
+   "sésamo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 190 °C. Ralle la coliflor hasta obtener una especie de sémola y cuézala 3 minutos en el microondas.",
+   "Sofría la cebolla picada y la ternera 8 minutos. Añada el concentrado, la mostaza, sal y pimienta.",
+   "Mezcle la carne, la sémola de coliflor y los pepinillos picados, y extienda en una fuente untada con mantequilla.",
+   "Bata los huevos con la nata y la mitad del cheddar; viértalo sobre la carne.",
+   "Espolvoree con el resto del cheddar y el sésamo, y hornee 25 minutos.",
+   "Sirva con una ensalada verde y unas rodajas de pepinillo."
+  ],
+  "p": "Todo el sabor de un cheeseburger sin pan: ideal para los niños que piden hamburguesa."
+ },
+ "l04-paleron-braise-legumes-racines": {
+  "t": "Aguja de ternera braseada con verduras de raíz",
+  "i": [
+   "aguja de ternera en trozos grandes",
+   "nabos",
+   "ramas de apio",
+   "cebolla",
+   "ajo",
+   "tomate triturado",
+   "caldo de ternera",
+   "tomillo, laurel y pimienta en grano",
+   "aceite de oliva",
+   "perejil",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 150 °C. Sale la carne y dórela en el aceite en una cazuela de hierro fundido, 3 minutos por cada lado, en 2 tandas.",
+   "Añada la cebolla en láminas y el apio en trozos; sofría 5 minutos y luego el ajo 1 minuto.",
+   "Vierta el tomate, el caldo y las hierbas; lleve a un hervor suave.",
+   "Tape y hornee 2 h 30.",
+   "Añada los nabos pelados y cortados en cuartos y continúe 30 minutos en el horno.",
+   "Saque la carne, desmenúcela ligeramente, napee con la salsa y espolvoree con perejil."
+  ],
+  "p": "Cocida al horno, la ternera no se pega y queda tierna; también se puede usar una olla de cocción lenta 8 h en posición baja."
+ },
+ "l04-salade-tiede-boeuf-thai": {
+  "t": "Ensalada templada de ternera al estilo tailandés",
+  "i": [
+   "entrecot",
+   "lechuga pequeña",
+   "pepino",
+   "menta",
+   "cilantro",
+   "cebolla roja",
+   "lima (zumo)",
+   "salsa de soja (sin alcohol)",
+   "guindilla fresca pequeña",
+   "aceite neutro",
+   "cacahuetes tostados"
+  ],
+  "s": [
+   "Unte la carne con aceite y séllela 3 minutos por cada lado en una sartén muy caliente. Deje reposar 5 minutos.",
+   "Mezcle el zumo de lima, la salsa de soja y la guindilla picada.",
+   "Corte el pepino en medias lunas, la cebolla en láminas finas y deshoje las hierbas.",
+   "Corte la carne en láminas finas y mézclela aún templada con la salsa.",
+   "Disponga la lechuga, las verduras y las hierbas, añada la carne y espolvoree con cacahuetes machacados."
+  ],
+  "p": "Una carne poco hecha a rosada da la mejor textura; demasiado cocida, queda gomosa."
+ },
+ "l04-merguez-gratin-aubergine": {
+  "t": "Gratinado de berenjenas con merguez y mozzarella",
+  "i": [
+   "merguez halal",
+   "berenjenas",
+   "tomate triturado",
+   "ajo",
+   "aceite de oliva",
+   "mozzarella",
+   "parmesano",
+   "albahaca",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Corte las berenjenas en dados, mézclelas con el aceite y sal, y áselas 20 minutos.",
+   "Mientras tanto, dore las merguez 6 minutos en la sartén y córtelas en rodajas.",
+   "En la sartén sin la grasa, sofría el ajo picado 30 segundos, añada el tomate y deje reducir 5 minutos.",
+   "Mezcle las berenjenas, las merguez y la salsa en una fuente para gratinar.",
+   "Cubra con la mozzarella en lonchas y el parmesano, y hornee 15 minutos.",
+   "Espolvoree con albahaca en el momento de servir."
+  ],
+  "p": "Las merguez ya aportan sal y especias: sale poco la salsa."
+ },
+ "l04-tartare-boeuf-avocat": {
+  "t": "Steak tartar de ternera cortado a cuchillo con aguacate",
+  "i": [
+   "solomillo o redondo muy fresco",
+   "yemas de huevo extrafrescas",
+   "pepinillos",
+   "cebolla roja picada",
+   "perejil",
+   "mostaza",
+   "aceite de oliva",
+   "aguacate",
+   "rúcula",
+   "limón",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Guarde la carne en la nevera hasta el último momento. Córtela a cuchillo en dados pequeños de 3 mm (no la pique a máquina).",
+   "Pique finamente los pepinillos, la cebolla y el perejil.",
+   "Mezcle la carne con la mostaza, el aceite, los condimentos picados, sal y pimienta.",
+   "Corte el aguacate en dados y rocíelo con limón.",
+   "Emplate con un aro: una capa de aguacate y luego el tartar. Haga un pequeño hueco y coloque la yema de huevo.",
+   "Sirva enseguida con la rúcula."
+  ],
+  "p": "Compre la carne el mismo día en la carnicería indicando que es para un tartar. No recomendado para embarazadas ni niños pequeños."
+ },
+ "l04-veau-piccata-citron": {
+  "t": "Piccata de ternera al limón con calabacines",
+  "i": [
+   "escalopes finos de ternera",
+   "harina de almendra",
+   "mantequilla",
+   "aceite de oliva",
+   "limones",
+   "caldo",
+   "perejil",
+   "calabacines",
+   "parmesano",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Sale y pimiente los escalopes y pásalos por la harina de almendra.",
+   "Caliente el aceite y la mitad de la mantequilla; dore los escalopes 1 min 30 por cada lado. Manténgalos calientes.",
+   "Desglase la sartén con el caldo y el zumo de 1 limón, deje reducir 2 minutos y monte la salsa con el resto de la mantequilla.",
+   "Corte los calabacines en tiras con el pelador y saltéelos 2 minutos a fuego vivo con una pizca de sal.",
+   "Devuelva los escalopes a la salsa 30 segundos, añada el perejil y rodajas del medio limón restante.",
+   "Sirva sobre las tiras de calabacín espolvoreadas con parmesano."
+  ],
+  "p": "Pida al carnicero que le prepare escalopes muy finos para una cocción rapidísima."
+ },
+ "l04-entrecote-beurre-persille": {
+  "t": "Entrecot a la parrilla con mantequilla de perejil y espárragos",
+  "i": [
+   "entrecot de 400 g",
+   "mantequilla blanda",
+   "perejil",
+   "ajo",
+   "zumo de limón",
+   "espárragos verdes",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Trabaje la mantequilla blanda con el perejil picado, el ajo rallado, el limón y una pizca de sal. Forme un rulo con film y póngalo 15 minutos en el congelador.",
+   "Parta la base dura de los espárragos. Áselos 8 minutos en una sartén con la mitad del aceite y sal, moviéndolos.",
+   "Seque el entrecot y sálelo. Séllelo en una sartén de hierro fundido humeante con el resto del aceite, 3 minutos por cada lado para un punto poco hecho o medio.",
+   "Selle también el borde de grasa 1 minuto sujetando la carne con unas pinzas.",
+   "Deje reposar 5 minutos, corte en lonchas, pimiente y coloque encima rodajas de mantequilla de perejil.",
+   "Sirva con los espárragos."
+  ],
+  "p": "La mantequilla de perejil se conserva 3 meses en el congelador: corte rodajas según las necesite."
+ },
+ "l04-boulettes-agneau-feta-menthe": {
+  "t": "Albóndigas de cordero con feta y menta, salsa de yogur",
+  "i": [
+   "cordero picado",
+   "feta desmenuzada",
+   "menta",
+   "cebolla",
+   "comino y cilantro molido",
+   "harina de almendra",
+   "yogur griego",
+   "ajo",
+   "limón",
+   "aceite de oliva",
+   "rúcula",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle el cordero picado con la feta, la mitad de la menta picada, la cebolla rallada, las especias, la harina de almendra y pimienta (poca sal, la feta es salada).",
+   "Forme 16 albóndigas y resérvelas 10 minutos en frío para que se mantengan firmes.",
+   "Prepare la salsa: yogur, ajo rallado, zumo de limón, el resto de la menta y una pizca de sal.",
+   "Dore las albóndigas en el aceite a fuego medio de 10 a 12 minutos, dándoles la vuelta con regularidad.",
+   "Sirva sobre un lecho de rúcula con la salsa de yogur."
+  ],
+  "p": "Estas albóndigas también se pueden cocinar al horno: 15 minutos a 200 °C en bandeja."
+ },
+ "l04-emince-veau-creme-poivrons": {
+  "t": "Tiras de ternera con crema de pimientos",
+  "i": [
+   "ternera en tiras",
+   "pimientos rojos",
+   "cebolla",
+   "ajo",
+   "nata líquida",
+   "pimentón dulce",
+   "aceite de oliva",
+   "perejil",
+   "coliflor (en forma de arroz)",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Ralle la coliflor en granos y saltéela 5 minutos en la sartén con 1 cucharadita de aceite y sal. Reserve.",
+   "Selle la ternera en tiras en 1 cucharada sopera de aceite muy caliente durante 3 minutos. Reserve.",
+   "Sofría la cebolla en láminas y los pimientos en tiras 8 minutos a fuego medio con el resto del aceite.",
+   "Añada el ajo y el pimentón 30 segundos, luego la nata; deje espesar 3 minutos.",
+   "Devuelva la ternera con su jugo 1 minuto a la salsa, sale y pimiente.",
+   "Sirva sobre el arroz de coliflor, espolvoreado con perejil."
+  ],
+  "p": "Añada una punta de pimentón picante para una versión estilo goulash."
+ },
+ "l04-goulash-boeuf-paprika": {
+  "t": "Goulash de ternera al pimentón",
+  "i": [
+   "ternera para guisar en dados",
+   "cebolla",
+   "pimiento rojo",
+   "ajo",
+   "pimentón dulce y alcaravea",
+   "concentrado de tomate",
+   "tomate triturado",
+   "caldo de ternera",
+   "aceite de oliva",
+   "vinagre de sidra",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Dore la carne en 3 tandas en el aceite muy caliente, sale y reserve.",
+   "En la cazuela, poche la cebolla en láminas 8 minutos a fuego lento hasta que esté dorada.",
+   "Fuera del fuego, añada el pimentón y el ajo y remueva 30 segundos (el pimentón se quema con facilidad).",
+   "Vuelva a poner al fuego con el concentrado, el tomate, el pimiento en dados, la carne y el caldo.",
+   "Tape y cocine 1 h 45 a fuego lento hasta que la carne esté melosa.",
+   "Añada el vinagre, rectifique de sazón y espolvoree con perejil."
+  ],
+  "p": "Sirva con una cucharada de crema agria (nata fresca + limón) si no busca un plato sin lactosa."
+ },
+ "l04-burger-agneau-champignon-portobello": {
+  "t": "Hamburguesa de cordero entre dos champiñones a la parrilla",
+  "i": [
+   "cordero picado",
+   "champiñones grandes (tipo portobello)",
+   "queso de cabra en rulo",
+   "rúcula",
+   "cebolla roja",
+   "aceite de oliva",
+   "comino y romero",
+   "ajo",
+   "mayonesa",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle el cordero picado con el ajo rallado, las especias, sal y pimienta; forme 4 hamburguesas algo más anchas que los champiñones.",
+   "Quite los pies de los champiñones, unte los sombreros con aceite, sale y áselos 4 minutos por cada lado. Servirán de pan.",
+   "Cocine las hamburguesas 4 minutos por cada lado en una sartén caliente.",
+   "Coloque una rodaja de queso de cabra sobre cada hamburguesa durante el último minuto, con la tapa puesta.",
+   "Monte: sombrero de champiñón, mayonesa, rúcula, hamburguesa con queso de cabra, cebolla roja y un segundo sombrero.",
+   "Sujete con un palillo y sirva enseguida."
+  ],
+  "p": "Seque bien los champiñones asados con papel de cocina para evitar que la hamburguesa quede empapada."
+ },
+ "l04-roti-veau-moutarde": {
+  "t": "Asado de ternera a la mostaza con champiñones",
+  "i": [
+   "asado de ternera (1 kg)",
+   "mostaza antigua",
+   "mantequilla",
+   "aceite de oliva",
+   "cebolla",
+   "champiñones",
+   "caldo",
+   "nata líquida",
+   "tomillo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C. Sale y pimiente el asado y dórelo por todos los lados 8 minutos en una cazuela con el aceite y la mantequilla.",
+   "Úntelo con mostaza, añada la cebolla en láminas y el tomillo alrededor, y vierta el caldo.",
+   "Tape y hornee 50 minutos, regando 2 veces.",
+   "Añada los champiñones cortados en cuartos, destape y continúe 15 minutos.",
+   "Saque el asado y déjelo reposar bajo aluminio. Ponga la cazuela al fuego, vierta la nata y deje reducir 3 minutos.",
+   "Corte el asado en lonchas y sirva napado con la salsa de champiñones."
+  ],
+  "p": "La ternera es magra: no supere los 65 °C en el centro para conservar una carne rosada y jugosa."
+ }
+}

@@ -209,7 +209,7 @@
     "g": 2.5,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "amande_effilee",
@@ -572,10 +572,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 1200,
+    "g": 840,
     "qty": 1200,
     "unit": "g",
-    "name": "cuisses de poulet avec peau"
+    "name": "cuisses de poulet avec peau",
+    "g_achat": 1200
    },
    {
     "ing": "oignon",
@@ -1209,7 +1210,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja (ou tamari sans gluten)"
+    "name": "sauce soja (ou tamari sans gluten) (sans alcool)"
    },
    {
     "ing": "epices",
@@ -1519,7 +1520,6 @@
   "difficulty": "Moyen",
   "tags": [
    "Marocain",
-   "Sans lactose",
    "Sans gluten",
    "Batch cooking"
   ],
@@ -2281,7 +2281,7 @@
     "g": 700,
     "qty": 700,
     "unit": "g",
-    "name": "filets de merlan, colin ou daurade"
+    "name": "filets de merlan, colin ou dorade"
    },
    {
     "ing": "tomate_cerise",
@@ -2419,7 +2419,7 @@
     "g": 2.5,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -2828,7 +2828,7 @@
     "g": 2.5,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -2916,7 +2916,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -3036,7 +3036,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "agar_agar",
@@ -3508,7 +3508,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "huile_olive",
@@ -3575,7 +3575,7 @@
     "ing": "agneau_epaule",
     "g": 1200,
     "qty": 1.2,
-    "unit": "pièce(s)",
+    "unit": "",
     "name": "kg d'épaule d'agneau en gros morceaux"
    },
    {
@@ -4338,7 +4338,7 @@
     "g": 2.5,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "eau",
@@ -4405,7 +4405,7 @@
     "g": 2.5,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "eau",

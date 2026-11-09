@@ -121,7 +121,7 @@
     if (!Object.keys(BASE_PRICES).length) return;
     RECIPES.forEach((r) => {
       let tot = 0, ok = true;
-      r.ingredients.forEach((i) => { const pr = priceOf(i.ing); if (pr == null) { ok = false; delete i.c; } else { i.c = (i.g || 0) / 1000 * pr; tot += i.c; } });
+      r.ingredients.forEach((i) => { const pr = priceOf(i.ing); if (pr == null) { ok = false; delete i.c; } else { i.c = (i.ga || i.g || 0) / 1000 * pr; tot += i.c; } }); // ga = poids acheté (os, arêtes…)
       if (ok) r.cost = Math.round(tot / r.servings * 10) / 10; else delete r.cost;
     });
   }
@@ -654,7 +654,7 @@
         if (["eau", "sel", "poivre"].includes(ing.ing)) return;
         const key = ing.ing || ing.name.toLowerCase();
         agg[key] = agg[key] || { name: ing.name, g: 0, c: 0 };
-        agg[key].g += (ing.g || 0) / (r.servings || 1);
+        agg[key].g += (ing.ga || ing.g || 0) / (r.servings || 1);
         agg[key].c += (ing.c || 0) / (r.servings || 1);
       }));
     }
@@ -688,7 +688,7 @@
   function scaleQty(ing, factor) {
     const q = ing.qty * factor;
     if (ing.unit === "pincée") return String(Math.max(1, Math.round(q)));
-    if (ing.unit === "pièce(s)") return fmtQty(Math.max(1, Math.round(q * 2) / 2));
+    if (ing.unit === "pièce(s)") return fmtQty(Math.max(0.25, Math.round(q * 4) / 4)); // ¼, ½, ¾ d'oignon… et non « 1 »
     return fmtQty(q);
   }
   function fmtQty(q) {
@@ -1041,7 +1041,7 @@
         <button class="btn light block" type="button" id="export" style="margin-bottom:8px">📤 Sauvegarder mes données</button>
         <button class="btn light block" type="button" id="import" style="margin-bottom:8px">📥 Restaurer une sauvegarde</button>
         <button class="btn danger block" type="button" id="del">🗑️ Supprimer le profil de ${esc(p.name)}</button></div>
-      <p class="small muted" style="text-align:center">Keto Famille v1.4.2 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone (sans compte ni cookies).<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
+      <p class="small muted" style="text-align:center">Keto Famille v1.5 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone (sans compte ni cookies).<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour ✓"); render(); });
     $("#switch").onclick = showProfileSwitcher;
     $("#photosToggle").onchange = (e) => { db.photos = e.target.checked; save(); toast(db.photos ? "Photos activées" : "Photos désactivées"); };

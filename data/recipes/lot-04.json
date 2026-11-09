@@ -1037,10 +1037,11 @@
   "ingredients": [
    {
     "ing": "agneau_cotelette",
-    "g": 800,
+    "g": 480,
     "qty": 12,
     "unit": "pièce(s)",
-    "name": "côtelettes d'agneau"
+    "name": "côtelettes d'agneau",
+    "g_achat": 800
    },
    {
     "ing": "ail",
@@ -1502,8 +1503,8 @@
   ],
   "steps": [
    "Salez et poivrez les steaks hachés.",
-   "Chauffez une poêle avec 1 c. à c. d'huile à feu vif et cuisez les steaks 3 minutes par face. Réservez.",
-   "Dans la même poêle à feu moyen, faites cuire les œufs au plat 3 minutes en gardant le jaune coulant.",
+   "Chauffez une poêle avec 1 c. à c. d'huile à feu vif et cuisez les steaks 4 à 5 minutes par face, jusqu'à ce qu'ils soient bien cuits à cœur (70 °C, plus de rose). Réservez.",
+   "Dans la même poêle à feu moyen, faites cuire les œufs au plat 3 minutes jusqu'à ce que le blanc soit pris (jaune bien cuit pour les enfants, les femmes enceintes et les personnes fragiles).",
    "Coupez l'avocat en dés et les tomates en deux ; mélangez avec la roquette, le reste d'huile, le jus de citron et du sel.",
    "Posez un œuf sur chaque steak et servez avec la salade."
   ],
@@ -1969,7 +1970,7 @@
     "g": 45,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "huile_tournesol",
@@ -2262,7 +2263,7 @@
    "Enfournez 50 minutes, jusqu'à 70 °C à cœur.",
    "Laissez reposer 10 minutes avant de démouler et de trancher."
   ],
-  "tips": "En tranches froides, il remplace la charcuterie dans les boîtes à lunch."
+  "tips": "En tranches froides, il remplace la charcuterie dans les boîtes repas."
  },
  {
   "id": "l04-brochettes-kefta-salade-concombre",
@@ -2659,7 +2660,7 @@
     "g": 15,
     "qty": 1,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "piment",
@@ -3072,7 +3073,7 @@
   "steps": [
    "Écrasez le beurre mou avec le persil haché, l'ail râpé, le citron et une pincée de sel. Roulez-le en boudin dans du film et placez-le 15 minutes au congélateur.",
    "Cassez la base dure des asperges. Faites-les rôtir 8 minutes dans une poêle avec la moitié de l'huile et du sel, en les roulant.",
-   "Séchez l'entrecôte, salez-la. Saisissez-la dans une poêle en fonte fumante avec le reste d'huile, 3 minutes par face pour une cuisson saignante-à point.",
+   "Séchez l'entrecôte, salez-la. Saisissez-la dans une poêle en fonte fumante avec le reste d'huile, 3 minutes par face pour une cuisson saignante ou à point.",
    "Saisissez aussi la bordure de gras 1 minute en tenant la viande avec une pince.",
    "Laissez reposer 5 minutes, tranchez, poivrez et posez des rondelles de beurre persillé dessus.",
    "Servez avec les asperges."
@@ -3204,7 +3205,6 @@
   "servings": 4,
   "difficulty": "Facile",
   "tags": [
-   "Rapide",
    "Famille"
   ],
   "ingredients": [
@@ -3884,7 +3884,7 @@
     "g": 20,
     "qty": 4,
     "unit": "c. à c.",
-    "name": "vinaigre de vin"
+    "name": "vinaigre de cidre"
    },
    {
     "ing": "piment",
@@ -4173,7 +4173,7 @@
     "g": 45,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "huile_olive",
@@ -4577,8 +4577,7 @@
   "servings": 4,
   "difficulty": "Facile",
   "tags": [
-   "Famille",
-   "Rapide"
+   "Famille"
   ],
   "ingredients": [
    {
@@ -4780,8 +4779,7 @@
   "servings": 4,
   "difficulty": "Facile",
   "tags": [
-   "Monde",
-   "Rapide"
+   "Monde"
   ],
   "ingredients": [
    {
@@ -5215,7 +5213,7 @@
     "g": 100,
     "qty": 8,
     "unit": "tranche(s)",
-    "name": "tranches de dinde fumée"
+    "name": "dinde fumée"
    },
    {
     "ing": "epices",

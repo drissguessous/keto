@@ -1,0 +1,1349 @@
+{
+ "l02-granola-cacao-noisette": {
+  "t": "Granola de cacao y avellanas sin azúcar",
+  "i": [
+   "avellanas",
+   "almendras",
+   "pipas de calabaza",
+   "coco rallado",
+   "semillas de lino molidas",
+   "cacao puro sin azúcar",
+   "crema de cacahuete sin azúcar",
+   "aceite de coco",
+   "eritritol",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 150 °C.",
+   "Pique grueso las avellanas y las almendras.",
+   "Derrita el aceite de coco con la crema de cacahuete a fuego suave y añada el cacao, el eritritol y la sal.",
+   "Mezcle con los frutos secos, las pipas de calabaza, el coco y el lino.",
+   "Extienda sobre una bandeja forrada con papel de horno y hornee de 18 a 20 minutos, removiendo a mitad de cocción (vigile: el cacao se quema enseguida).",
+   "Deje enfriar por completo antes de guardar en un bote."
+  ],
+  "p": "Añada unos cuadraditos de chocolate negro al 85 % troceado cuando el granola se haya enfriado."
+ },
+ "l02-smoothie-bowl-framboise-avocat": {
+  "t": "Smoothie bowl de frambuesa y aguacate",
+  "i": [
+   "aguacate bien maduro",
+   "frambuesas congeladas",
+   "leche de coco",
+   "eritritol",
+   "zumo de limón",
+   "semillas de chía",
+   "coco rallado"
+  ],
+  "s": [
+   "Corte el aguacate por la mitad, retire el hueso y saque la pulpa.",
+   "Triture el aguacate, las frambuesas congeladas, la leche de coco, el eritritol y el zumo de limón hasta obtener una crema muy espesa (raspe las paredes si es necesario).",
+   "Reparta en dos cuencos: la textura debe aguantar la cuchara.",
+   "Decore con las semillas de chía y el coco rallado.",
+   "Sirva de inmediato, bien frío."
+  ],
+  "p": "La fruta congelada da la textura de helado; con fruta fresca, añada 3 cubitos de hielo."
+ },
+ "l02-smoothie-epais-cacahuete-cacao": {
+  "t": "Batido espeso de cacahuete y cacao",
+  "i": [
+   "leche de almendras sin azúcar",
+   "yogur griego",
+   "crema de cacahuete",
+   "cacao puro sin azúcar",
+   "eritritol",
+   "aguacate",
+   "cubitos de hielo"
+  ],
+  "s": [
+   "Ponga todos los ingredientes en la batidora, terminando con el hielo.",
+   "Triture 1 minuto a máxima potencia hasta que el batido quede suave y espeso.",
+   "Pruebe y ajuste el edulcorante si es necesario.",
+   "Sirva en dos vasos grandes con una pajita ancha."
+  ],
+  "p": "El aguacate aporta una textura aterciopelada sin que se note el sabor. Añada 20 g de proteína de suero (whey) para una versión más proteica."
+ },
+ "l02-smoothie-vert-epinard-coco": {
+  "t": "Batido verde de espinacas, coco y limón",
+  "i": [
+   "espinacas baby",
+   "aguacate",
+   "leche de coco",
+   "agua fría",
+   "zumo de limón",
+   "jengibre fresco rallado",
+   "hojas de menta",
+   "eritritol"
+  ],
+  "s": [
+   "Lave las espinacas y la menta.",
+   "Ponga todos los ingredientes en la batidora con unos cubitos de hielo.",
+   "Triture 1 minuto hasta obtener una bebida espesa y perfectamente lisa.",
+   "Pruebe, ajuste el limón o el edulcorante y sirva enseguida."
+  ],
+  "p": "Las espinacas frescas casi no saben a nada una vez trituradas: ideal para que los niños coman verdura."
+ },
+ "l02-pain-psyllium-classique": {
+  "t": "Pan keto de psyllium (miga esponjosa)",
+  "i": [
+   "harina de almendra",
+   "psyllium rubio en polvo",
+   "levadura química",
+   "claras de huevo",
+   "vinagre de sidra",
+   "agua hirviendo",
+   "semillas de sésamo",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y forre una bandeja con papel de horno.",
+   "Mezcle la harina de almendra, el psyllium, la levadura y la sal en un bol grande.",
+   "Añada las claras y el vinagre, y mezcle: la masa parece una masa de crumble espesa.",
+   "Vierta el agua hirviendo y mezcle enérgicamente 1 minuto con la espátula: la masa se vuelve flexible y se sostiene.",
+   "Con las manos húmedas, forme un pan ovalado u 8 panecillos. Espolvoree con sésamo.",
+   "Hornee de 55 a 60 minutos (40 minutos si son panecillos): el pan debe sonar hueco al golpearlo por debajo.",
+   "Deje enfriar por completo sobre una rejilla antes de cortarlo; de lo contrario, la miga parecerá húmeda."
+  ],
+  "p": "Use psyllium en polvo fino, no en cáscaras. Cortado en rebanadas y congelado, se tuesta directamente sin descongelar."
+ },
+ "l02-pain-nuage": {
+  "t": "Pan nube (cloud bread)",
+  "i": [
+   "huevos",
+   "queso crema",
+   "levadura química",
+   "eritritol (opcional)",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 150 °C y forre una bandeja con papel de horno.",
+   "Separe con cuidado las claras de las yemas (sin ningún resto de yema en las claras).",
+   "Bata las yemas con el queso crema blando hasta que la mezcla quede perfectamente lisa.",
+   "Monte las claras con la levadura y la sal a punto de nieve muy firme: con el bol del revés no deben caerse.",
+   "Incorpore con delicadeza la mezcla de yemas a las claras, en tres veces, con movimientos envolventes de espátula.",
+   "Forme 8 discos de 10 cm y 1,5 cm de grosor sobre la bandeja.",
+   "Hornee 25 minutos, hasta que estén dorados y firmes al tacto. Deje enfriar sobre la bandeja."
+  ],
+  "p": "Guardado 24 h en una caja cerrada, el pan nube se vuelve más tierno, ideal para sándwiches o tostadas dulces."
+ },
+ "l02-bagels-fathead-sesame": {
+  "t": "Bagels fathead con sésamo",
+  "i": [
+   "mozzarella rallada",
+   "queso crema",
+   "harina de almendra",
+   "huevo",
+   "levadura química",
+   "huevo batido (para pincelar)",
+   "semillas de sésamo"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C y forre una bandeja con papel de horno.",
+   "Funda la mozzarella con el queso crema en el microondas 1 minuto, mezcle y luego 30 segundos más hasta obtener una masa lisa.",
+   "Añada la harina de almendra, la levadura y el huevo, y amase rápidamente con la espátula y después con las manos (untadas de aceite) hasta obtener una masa homogénea.",
+   "Divida en 6 bolas, enrolle cada una formando un churro de 20 cm y ciérrelo en forma de anillo, presionando los extremos.",
+   "Pincele con huevo batido y espolvoree generosamente con sésamo.",
+   "Hornee de 12 a 15 minutos, hasta que estén bien dorados.",
+   "Deje templar 10 minutos antes de cortar: la miga se endurece al enfriarse."
+  ],
+  "p": "Si la masa se pone demasiado dura para trabajarla, caliéntela 10 segundos en el microondas. Rellene con queso fresco y frambuesas para un desayuno dulce."
+ },
+ "l02-pain-en-tasse-90s": {
+  "t": "Pan en taza exprés (90 segundos)",
+  "i": [
+   "harina de almendra",
+   "huevo",
+   "mantequilla derretida",
+   "levadura química",
+   "sal"
+  ],
+  "s": [
+   "Derrita la mantequilla directamente en una taza o un ramequín de fondo plano (20 segundos en el microondas).",
+   "Añada la harina de almendra, la levadura, la sal y el huevo, y mezcle con un tenedor hasta que no queden grumos.",
+   "Cueza 90 segundos en el microondas a máxima potencia: el pan debe estar hinchado y firme en el centro.",
+   "Desmolde, deje enfriar 2 minutos y corte en dos rebanadas.",
+   "Tueste las rebanadas en la sartén con un poco de mantequilla para un resultado crujiente."
+  ],
+  "p": "Añada 1 cdta. de eritritol y canela para unas torrijas exprés: empape las rebanadas en huevo batido y dórelas en la sartén."
+ },
+ "l02-pain-graines-sans-farine": {
+  "t": "Pan de semillas sin harina",
+  "i": [
+   "pipas de girasol",
+   "pipas de calabaza",
+   "semillas de lino molidas",
+   "almendras troceadas",
+   "semillas de chía",
+   "semillas de sésamo",
+   "psyllium",
+   "aceite de oliva",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "En un bol grande, mezcle todas las semillas, las almendras troceadas, el psyllium y la sal.",
+   "Añada el aceite de oliva y el agua, y mezcle bien: la masa se compacta en pocos minutos.",
+   "Vierta en un molde de plum cake forrado con papel de horno y presione con firmeza con el dorso de una cuchara mojada.",
+   "Deje reposar al menos 2 horas (o toda la noche) a temperatura ambiente para que las semillas se hidraten.",
+   "Precaliente el horno a 175 °C y hornee 20 minutos.",
+   "Desmolde el pan, retire el papel y devuélvalo directamente a la rejilla 40 minutos, hasta que suene hueco.",
+   "Deje enfriar por completo antes de cortarlo en rebanadas finas."
+  ],
+  "p": "Este pan se conserva 5 días en la nevera y se puede congelar en rebanadas. Tostado, es perfecto con mantequilla y un poco de crema de almendra."
+ },
+ "l02-baghrir-keto": {
+  "t": "Baghrir keto de los mil agujeros",
+  "i": [
+   "harina de almendra",
+   "harina de coco",
+   "psyllium",
+   "huevos",
+   "leche de almendras tibia",
+   "levadura química",
+   "vinagre de sidra",
+   "eritritol",
+   "sal",
+   "mantequilla",
+   "eritritol (para el sirope)",
+   "aceite de argán (para el sirope)"
+  ],
+  "s": [
+   "Triture en la batidora la harina de almendra, la harina de coco, el psyllium, los huevos, la leche de almendras, el eritritol y la sal durante 1 minuto.",
+   "Deje reposar 10 minutos, añada la levadura y el vinagre y triture 10 segundos más: la masa debe quedar fluida, como una masa de crepes espesa, y hacer espuma.",
+   "Caliente una sartén antiadherente a fuego medio, sin grasa.",
+   "Vierta un cucharón pequeño de masa sin extenderla. Cueza solo por una cara, sin darle la vuelta, de 2 a 3 minutos, hasta que la superficie se cubra de agujeros y quede completamente seca.",
+   "Coloque cada baghrir sobre un paño limpio, con los agujeros hacia arriba, sin superponerlos mientras estén calientes.",
+   "Sirope: derrita la mantequilla con el eritritol y el aceite de argán a fuego suave.",
+   "Napar los baghrir con el sirope caliente justo antes de servir."
+  ],
+  "p": "Los agujeros se forman gracias a la reacción entre la levadura y el vinagre: añádalos en el último momento y cueza la masa sin esperar."
+ },
+ "l02-harcha-keto": {
+  "t": "Harcha keto de lino y almendra",
+  "i": [
+   "harina de almendra",
+   "semillas de lino molidas",
+   "coco rallado fino",
+   "mantequilla derretida",
+   "huevo",
+   "leche de almendras",
+   "levadura química",
+   "eritritol",
+   "sal"
+  ],
+  "s": [
+   "Mezcle la harina de almendra, el lino, el coco rallado, la levadura, el eritritol y la sal.",
+   "Añada la mantequilla derretida y desmigue con las yemas de los dedos; después incorpore el huevo y la leche de almendras. Forme una masa flexible que se sostenga.",
+   "Deje reposar 5 minutos y forme con las manos 6 tortitas de 1 cm de grosor.",
+   "Reboce los bordes en un poco de coco rallado para imitar el aspecto de la sémola.",
+   "Cueza en una sartén de fondo grueso, a fuego suave, de 5 a 6 minutos por cada lado, hasta que estén bien doradas.",
+   "Deje templar 5 minutos antes de abrirlas: se endurecen al enfriarse."
+  ],
+  "p": "Sirva con jben, un chorrito de aceite de argán o mantequilla y un té con menta sin azúcar."
+ },
+ "l02-beghrir-fromage-blanc": {
+  "t": "Beghrir esponjoso de queso fresco batido",
+  "i": [
+   "queso fresco batido",
+   "huevos",
+   "harina de almendra",
+   "psyllium",
+   "agua tibia",
+   "levadura química",
+   "zumo de limón",
+   "smen o mantequilla clarificada",
+   "crema de almendra",
+   "sal"
+  ],
+  "s": [
+   "Triture el queso fresco, los huevos, la harina de almendra, el psyllium, el agua y la sal hasta obtener una masa lisa y bastante líquida.",
+   "Deje reposar 10 minutos e incorpore la levadura y el zumo de limón de un golpe de varillas.",
+   "En una sartén antiadherente caliente y sin engrasar, vierta un cucharón de masa y cueza solo por un lado de 2 a 3 minutos, hasta que aparezcan los agujeros y la parte superior se seque.",
+   "Coloque sobre un paño sin superponer.",
+   "Derrita el smen con la crema de almendra y napee los beghrir cuando aún estén templados."
+  ],
+  "p": "El queso fresco batido hace estos beghrir más proteicos y más esponjosos que la versión solo con almendra; una variante distinta para el fin de semana."
+ },
+ "l02-rghaif-keto-amlou": {
+  "t": "Rghaif keto enrollados con amlou",
+  "i": [
+   "mozzarella rallada",
+   "queso crema",
+   "harina de almendra",
+   "huevo",
+   "crema de almendra",
+   "aceite de argán alimentario",
+   "eritritol",
+   "mantequilla"
+  ],
+  "s": [
+   "Prepare el amlou keto: mezcle la crema de almendra, el aceite de argán y el eritritol.",
+   "Funda la mozzarella y el queso crema en el microondas 1 min 30 s, removiendo a la mitad, y amase con la harina de almendra y el huevo.",
+   "Divida en 6 bolas. Extienda cada una entre dos papeles de horno formando un rectángulo fino de 12 × 20 cm.",
+   "Unte con una capa fina de amlou keto, enrolle a lo largo y después enrolle el churro en forma de caracol.",
+   "Aplaste con suavidad el caracol con la palma de la mano hasta formar un disco de 10 cm.",
+   "Dore en la sartén con la mantequilla a fuego medio-bajo, de 3 a 4 minutos por cada lado.",
+   "Sirva templado."
+  ],
+  "p": "Prepare los caracoles la víspera, guárdelos cubiertos con film en la nevera y cuézalos por la mañana en 8 minutos."
+ },
+ "l02-khobz-keto-anis": {
+  "t": "Khobz keto con anís y sésamo",
+  "i": [
+   "harina de almendra",
+   "psyllium en polvo",
+   "semillas de lino molidas",
+   "levadura química",
+   "huevos",
+   "vinagre de sidra",
+   "agua caliente",
+   "aceite de oliva",
+   "semillas de anís verde (nafaa)",
+   "semillas de sésamo",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C.",
+   "Mezcle la harina de almendra, el psyllium, el lino, la levadura, el anís y la sal.",
+   "Añada los huevos, el vinagre y el aceite, luego el agua caliente, y mezcle enérgicamente hasta obtener una masa flexible.",
+   "Deje reposar 5 minutos y, con las manos untadas de aceite, forme una torta redonda de 2 cm de grosor, como un khobz.",
+   "Coloque sobre una bandeja forrada con papel de horno, pinche la superficie con un tenedor y espolvoree con sésamo.",
+   "Hornee de 40 a 45 minutos, hasta que el pan esté bien dorado y suene hueco.",
+   "Deje enfriar sobre una rejilla antes de cortarlo en cuñas."
+  ],
+  "p": "Salen 8 porciones. Cortado por la mitad en horizontal y tostado, acompaña perfectamente la mantequilla y el jben del desayuno."
+ },
+ "l02-meloui-keto-coco": {
+  "t": "Meloui keto de coco",
+  "i": [
+   "harina de almendra",
+   "harina de coco",
+   "psyllium",
+   "agua tibia",
+   "aceite de oliva",
+   "ghee o smen derretido",
+   "sal"
+  ],
+  "s": [
+   "Mezcle las harinas, el psyllium y la sal. Añada el agua tibia y el aceite de oliva y amase 1 minuto: la masa se endurece al reposar 10 minutos.",
+   "Divida en 4 bolas. Sobre un papel de horno untado de aceite, extienda cada bola formando un disco muy fino.",
+   "Unte con ghee, enrolle formando un churro apretado y después enrolle el churro sobre sí mismo en espiral.",
+   "Deje reposar 5 minutos y aplane la espiral con la mano hasta formar un disco de 12 cm.",
+   "Cueza en una sartén caliente ligeramente engrasada, 3 minutos por cada lado, a fuego medio.",
+   "Sirva caliente, con un chorrito de ghee y eritritol o con queso fresco."
+  ],
+  "p": "Versión sin huevo y sin queso, más cercana a la masa tradicional; ideal si alguien en casa evita los lácteos (sustituya el ghee por aceite de coco)."
+ },
+ "l02-brioche-keto-fleur-oranger": {
+  "t": "Brioche keto con flor de azahar",
+  "i": [
+   "harina de almendra",
+   "proteína de suero (whey) neutra",
+   "psyllium",
+   "levadura química",
+   "huevos",
+   "mantequilla blanda",
+   "queso crema",
+   "eritritol",
+   "agua de azahar",
+   "yema de huevo (para pincelar)",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C y unte de mantequilla un molde de plum cake.",
+   "Bata la mantequilla blanda, el queso crema y el eritritol hasta obtener una crema.",
+   "Añada los huevos de uno en uno sin dejar de batir y después el agua de azahar.",
+   "Mezcle aparte la harina de almendra, la whey, el psyllium, la levadura y la sal, e incorpore a la crema. Deje reposar 5 minutos.",
+   "Con las manos húmedas, forme 3 churros y trence en el molde, o forme 8 bolas apretadas.",
+   "Pincele con yema de huevo y hornee de 30 a 35 minutos: la hoja de un cuchillo debe salir seca. Cubra con papel de aluminio a mitad de cocción si se dora demasiado deprisa.",
+   "Deje enfriar 20 minutos en el molde antes de desmoldar."
+  ],
+  "p": "La whey da una miga más elástica, parecida a la de un brioche de verdad. Cortado en rebanadas y tostado, es perfecto para torrijas."
+ },
+ "l02-muffins-myrtille-amande": {
+  "t": "Magdalenas de arándanos y almendra",
+  "i": [
+   "harina de almendra",
+   "huevos",
+   "mantequilla derretida",
+   "nata líquida",
+   "eritritol",
+   "levadura química",
+   "aroma de vainilla sin alcohol",
+   "arándanos",
+   "ralladura de limón",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y ponga cápsulas en un molde de 10 magdalenas.",
+   "Bata los huevos, la mantequilla derretida, la nata, la vainilla y la ralladura de limón.",
+   "Añada la harina de almendra, el eritritol, la levadura y la sal. Mezcle sin trabajar demasiado.",
+   "Incorpore con delicadeza los arándanos con la espátula.",
+   "Llene las cápsulas hasta las tres cuartas partes.",
+   "Hornee de 22 a 25 minutos, hasta que las magdalenas estén doradas y un palillo salga limpio.",
+   "Deje enfriar 10 minutos en el molde y después sobre una rejilla."
+  ],
+  "p": "Los arándanos congelados también sirven: añádalos sin descongelar para evitar que tiñan la masa. Sustitúyalos por frambuesas para menos hidratos de carbono."
+ },
+ "l02-muffins-citron-coco": {
+  "t": "Magdalenas de limón y coco",
+  "i": [
+   "harina de coco",
+   "coco rallado",
+   "huevos",
+   "aceite de coco derretido",
+   "yogur griego",
+   "limón (zumo y ralladura)",
+   "eritritol",
+   "levadura química",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y prepare 8 cápsulas.",
+   "Bata los huevos con el eritritol hasta que blanqueen ligeramente.",
+   "Añada el aceite de coco derretido, el yogur, el zumo y la ralladura del limón.",
+   "Incorpore la harina de coco, el coco rallado, la levadura y la sal. Deje reposar 5 minutos: la masa espesa.",
+   "Reparta en las cápsulas y espolvoree con un poco de coco rallado.",
+   "Hornee de 20 a 22 minutos, hasta que la parte superior esté dorada.",
+   "Deje enfriar por completo: la harina de coco necesita tiempo para cuajar."
+  ],
+  "p": "Un glaseado rápido: mezcle 1 cda. de eritritol en polvo con unas gotas de zumo de limón."
+ },
+ "l02-muffins-courgette-cannelle": {
+  "t": "Magdalenas de calabacín y canela con nueces",
+  "i": [
+   "calabacín mediano rallado",
+   "harina de almendra",
+   "huevos",
+   "aceite de coco derretido",
+   "eritritol",
+   "nueces peladas",
+   "canela",
+   "levadura química",
+   "aroma de vainilla sin alcohol",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C.",
+   "Ralle el calabacín, sálelo ligeramente y escúrralo con fuerza en un paño para quitarle la mayor cantidad de agua posible.",
+   "Bata los huevos, el aceite de coco, el eritritol y la vainilla.",
+   "Añada la harina de almendra, la canela, la levadura, y después el calabacín y las nueces troceadas.",
+   "Llene 10 cápsulas y hornee 25 minutos.",
+   "Deje enfriar sobre una rejilla antes de tomarlas."
+  ],
+  "p": "Escurrir bien el calabacín es esencial; de lo contrario, las magdalenas quedan húmedas en el centro. ¡Los niños ni lo notan!"
+ },
+ "l02-muffins-double-chocolat": {
+  "t": "Magdalenas de doble chocolate",
+  "i": [
+   "harina de almendra",
+   "cacao puro sin azúcar",
+   "huevos",
+   "mantequilla derretida",
+   "leche de almendras",
+   "eritritol",
+   "chocolate negro 85 % en pepitas",
+   "levadura química",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y prepare 8 cápsulas.",
+   "Bata los huevos, la mantequilla derretida, la leche de almendras y el eritritol.",
+   "Tamice el cacao con la harina de almendra, la levadura y la sal, e incorpore a la mezcla.",
+   "Trocee el chocolate y añada dos tercios a la masa.",
+   "Llene las cápsulas y espolvoree con el resto del chocolate.",
+   "Hornee de 18 a 20 minutos: el centro debe quedar ligeramente fundente."
+  ],
+  "p": "Un desayuno de fin de semana: sirva templado con un vaso de leche de almendras."
+ },
+ "l02-pain-perdu-brioche-keto": {
+  "t": "Torrijas keto con canela",
+  "i": [
+   "harina de almendra (pan en taza)",
+   "huevos",
+   "mantequilla",
+   "levadura química",
+   "nata líquida",
+   "eritritol",
+   "canela",
+   "aroma de vainilla sin alcohol (o vainilla en polvo)"
+  ],
+  "s": [
+   "Prepare el pan: mezcle en un recipiente cuadrado la harina de almendra, la levadura, 1 huevo y 10 g de mantequilla derretida, y cueza 90 segundos en el microondas. Deje enfriar y corte en 4 rebanadas.",
+   "Bata los 2 huevos restantes con la nata, el eritritol, la canela y la vainilla en un plato hondo.",
+   "Empape cada rebanada 10 segundos por cada lado en la mezcla.",
+   "Derrita el resto de la mantequilla en una sartén a fuego medio y dore las rebanadas 2 minutos por cada lado.",
+   "Sirva caliente espolvoreado con una mezcla de eritritol y canela y unas frambuesas."
+  ],
+  "p": "Puede usar rebanadas de brioche keto o de pan de psyllium del día anterior: absorben todavía mejor."
+ },
+ "l02-english-muffin-lin": {
+  "t": "Muffin inglés de lino en 2 minutos",
+  "i": [
+   "semillas de lino molidas",
+   "harina de almendra",
+   "huevo",
+   "aceite de oliva",
+   "levadura química",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Unte de aceite un ramequín redondo de 10 cm.",
+   "Mezcle con un tenedor el lino, la harina de almendra, la levadura y la sal, y añada el huevo, el aceite y el agua.",
+   "Cueza 2 minutos en el microondas, hasta que el centro esté firme.",
+   "Desmolde, corte por la mitad en horizontal y tueste en la tostadora o en la sartén.",
+   "Acompañe con mantequilla y crema de almendra, o con queso fresco."
+  ],
+  "p": "La textura, más rústica que la del pan en taza de almendra, recuerda a un muffin integral."
+ },
+ "l02-scones-amande-framboise": {
+  "t": "Scones de almendra y frambuesa",
+  "i": [
+   "harina de almendra",
+   "harina de coco",
+   "mantequilla fría en dados",
+   "huevo",
+   "nata líquida",
+   "eritritol",
+   "levadura química",
+   "frambuesas",
+   "aroma de vainilla sin alcohol (o vainilla en polvo)",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C.",
+   "Mezcle la harina de almendra, la harina de coco, el eritritol, la levadura y la sal. Añada la mantequilla fría y desmigue con las yemas de los dedos.",
+   "Añada el huevo batido con la nata y la vainilla, y forme una bola sin amasar demasiado.",
+   "Incorpore con delicadeza las frambuesas, aplastándolas lo menos posible.",
+   "Aplane formando un disco de 3 cm de grosor sobre un papel de horno y corte en 8 triángulos, ligeramente separados.",
+   "Refrigere 10 minutos y hornee de 18 a 20 minutos, hasta que los scones estén dorados.",
+   "Deje enfriar 15 minutos antes de moverlos."
+  ],
+  "p": "El paso por el frío antes de hornear evita que los scones se extiendan. Deliciosos con un poco de mascarpone."
+ },
+ "l02-pancakes-whey-proteines": {
+  "t": "Tortitas proteicas con whey",
+  "i": [
+   "whey neutra o de vainilla sin azúcar",
+   "huevos",
+   "queso fresco batido",
+   "harina de almendra",
+   "levadura química",
+   "aceite de coco",
+   "frambuesas"
+  ],
+  "s": [
+   "Bata los huevos y el queso fresco, y añada la whey, la harina de almendra y la levadura.",
+   "Deje reposar 3 minutos: la masa debe ser espesa pero fluida.",
+   "Caliente una sartén a fuego medio-bajo con un poco de aceite de coco.",
+   "Vierta cucharones pequeños y cueza 2 minutos, hasta que aparezcan burbujas; dé la vuelta y cueza 1 minuto más (la whey se seca si se cuece demasiado).",
+   "Sirva con las frambuesas."
+  ],
+  "p": "Perfectas después de hacer deporte por la mañana. No las cueza a fuego fuerte: la whey se quema y queda gomosa."
+ },
+ "l02-overnight-noats-amande": {
+  "t": "Overnight noats de almendra y canela",
+  "i": [
+   "semillas de chía",
+   "semillas de lino molidas",
+   "coco rallado",
+   "almendras laminadas",
+   "yogur griego",
+   "leche de almendras",
+   "crema de almendra",
+   "eritritol",
+   "canela"
+  ],
+  "s": [
+   "En un bol, mezcle la chía, el lino, el coco rallado, las almendras laminadas, la canela y el eritritol.",
+   "Añada el yogur griego y la leche de almendras, y mezcle bien.",
+   "Reparta en dos tarros, cierre y refrigere toda la noche.",
+   "Por la mañana, remueva, añada un chorrito de leche si está demasiado espeso y ponga encima una cucharada de crema de almendra.",
+   "Tome frío o calentado 1 minuto en el microondas."
+  ],
+  "p": "La palabra «noats» designa estas gachas «sin avena». Prepare 4 tarros de una vez: se conservan 3 días."
+ },
+ "l02-porridge-ricotta-noisette-cafe": {
+  "t": "Porridge de ricota, avellana y café",
+  "i": [
+   "ricota",
+   "semillas de lino molidas",
+   "avellanas troceadas",
+   "café fuerte (espresso)",
+   "nata líquida",
+   "eritritol",
+   "cacao (para decorar)"
+  ],
+  "s": [
+   "En un cazo pequeño, caliente a fuego suave la ricota, la nata, el café y el lino, removiendo de 2 a 3 minutos.",
+   "Endulce con el eritritol: la mezcla debe quedar cremosa y espesa.",
+   "Tueste las avellanas en seco 3 minutos.",
+   "Vierta el porridge en dos cuencos, espolvoree con las avellanas y con cacao."
+  ],
+  "p": "Una versión «tiramisú» del desayuno; use café descafeinado para los niños."
+ },
+ "l02-galettes-chia-coco-four": {
+  "t": "Tortitas de chía y coco al horno",
+  "i": [
+   "coco rallado",
+   "harina de almendra",
+   "semillas de chía",
+   "huevos",
+   "aceite de coco",
+   "eritritol",
+   "aroma de vainilla sin alcohol (o vainilla en polvo)",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C.",
+   "Mezcle el coco, la harina de almendra, la chía, el eritritol y la sal.",
+   "Añada los huevos, el aceite de coco derretido y la vainilla, y mezcle hasta obtener una masa húmeda que se sostenga.",
+   "Forme 8 bolas, colóquelas en una bandeja forrada con papel de horno y aplánelas en tortitas de 1,5 cm.",
+   "Hornee de 15 a 18 minutos, hasta que los bordes estén dorados.",
+   "Deje enfriar sobre la bandeja: se endurecen al enfriarse."
+  ],
+  "p": "El desayuno ideal para llevar: 2 tortitas con un yogur griego. Se conservan 5 días en una caja."
+ },
+ "l02-pain-epices-keto": {
+  "t": "Pan de especias keto",
+  "i": [
+   "harina de almendra",
+   "harina de coco",
+   "huevos",
+   "mantequilla derretida",
+   "leche de almendras",
+   "eritritol",
+   "mezcla de especias (cuatro especias), canela, anís y jengibre molido",
+   "jengibre fresco rallado",
+   "levadura química",
+   "almendras laminadas",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 165 °C y forre un molde de plum cake con papel de horno.",
+   "Bata los huevos con el eritritol y añada la mantequilla derretida, la leche de almendras y el jengibre rallado.",
+   "Mezcle las harinas, las especias, la levadura y la sal, e incorpórelas a la mezcla líquida.",
+   "Vierta en el molde, alise y espolvoree con las almendras laminadas.",
+   "Hornee de 40 a 45 minutos, cubriendo con papel de aluminio pasados 25 minutos.",
+   "Deje enfriar por completo y envuelva en film: está mejor al día siguiente."
+  ],
+  "p": "Cortado en rebanadas y tostado con mantequilla, es un desayuno de invierno reconfortante."
+ },
+ "l02-crepes-jben-menthe": {
+  "t": "Crepes enrollados de jben y menta",
+  "i": [
+   "huevos",
+   "queso crema",
+   "harina de almendra",
+   "jben",
+   "menta fresca picada",
+   "eritritol",
+   "aceite de argán",
+   "mantequilla"
+  ],
+  "s": [
+   "Triture los huevos, el queso crema y la harina de almendra hasta obtener una masa lisa.",
+   "Cueza 6 crepes finos en una sartén pequeña untada con mantequilla, 1 minuto y 30 segundos por un lado y 30 segundos por el otro.",
+   "Aplaste el jben con un tenedor junto con la menta picada y el eritritol.",
+   "Extienda el relleno sobre cada crepe y enrolle.",
+   "Rocíe con un chorrito de aceite de argán justo antes de servir."
+  ],
+  "p": "El jben se encuentra en cualquier lechería; escúrralo bien si está muy húmedo."
+ },
+ "l02-smoothie-fraise-ricotta": {
+  "t": "Batido espeso de fresa y ricota",
+  "i": [
+   "fresas (mejor congeladas)",
+   "ricota",
+   "leche de almendras",
+   "nata líquida",
+   "eritritol",
+   "aroma de vainilla sin alcohol (o vainilla en polvo)"
+  ],
+  "s": [
+   "Ponga todos los ingredientes en la batidora.",
+   "Triture 1 minuto hasta obtener una textura lisa y espesa, como un batido de helado.",
+   "Pruebe y ajuste el dulzor.",
+   "Sirva enseguida en dos vasos bien fríos."
+  ],
+  "p": "La ricota aporta proteínas y una textura cremosa sin el sabor ácido del yogur."
+ },
+ "l02-brioches-cannelle-roulees": {
+  "t": "Rollos de canela keto (cinnamon rolls)",
+  "i": [
+   "mozzarella rallada",
+   "queso crema (masa)",
+   "harina de almendra",
+   "huevo",
+   "levadura química",
+   "mantequilla blanda",
+   "eritritol",
+   "canela",
+   "queso crema (glaseado)",
+   "aroma de vainilla sin alcohol (o vainilla en polvo)"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y unte con mantequilla un molde redondo de 22 cm.",
+   "Funda la mozzarella con 60 g de queso crema en el microondas 1 min 30 s y amase con la harina de almendra, la levadura y el huevo.",
+   "Extienda la masa entre dos papeles de horno formando un rectángulo de 25 × 35 cm.",
+   "Mezcle la mantequilla blanda con 3 cdas. de eritritol y la canela, y extienda sobre la masa.",
+   "Enrolle a lo largo ayudándose del papel y corte 8 trozos con un cuchillo fino.",
+   "Colóquelos en el molde y hornee de 18 a 20 minutos, hasta que estén dorados.",
+   "Glaseado: bata 50 g de queso crema con el resto del eritritol y la vainilla, y extienda sobre los rollos templados."
+  ],
+  "p": "Ponga el rollo 15 minutos en el congelador antes de cortarlo: las rodajas quedarán limpias y bien redondas."
+ },
+ "l02-mug-cake-matin-cacahuete": {
+  "t": "Mug cake de cacahuete para la mañana",
+  "i": [
+   "crema de cacahuete",
+   "harina de almendra",
+   "huevo",
+   "leche de almendras",
+   "eritritol",
+   "levadura química",
+   "frambuesas"
+  ],
+  "s": [
+   "En una taza grande, bata el huevo, la crema de cacahuete y la leche de almendras con un tenedor.",
+   "Añada la harina de almendra, el eritritol y la levadura, y mezcle hasta obtener una masa lisa.",
+   "Hunda la mitad de las frambuesas en la masa.",
+   "Cueza de 70 a 90 segundos en el microondas: la parte superior debe estar apenas cuajada.",
+   "Deje templar 1 minuto y decore con el resto de las frambuesas."
+  ],
+  "p": "Listo en 5 minutos, ideal para las mañanas con prisa. No alargue la cocción, porque se secaría."
+ },
+ "l02-gaufres-cacao-noisette-avocat": {
+  "t": "Gofres de chocolate con crema de aguacate",
+  "i": [
+   "harina de almendra",
+   "cacao",
+   "huevos",
+   "mantequilla derretida",
+   "leche de almendras",
+   "eritritol",
+   "levadura química",
+   "aguacate maduro",
+   "cacao (para la crema)",
+   "avellanas troceadas"
+  ],
+  "s": [
+   "Precaliente la gofrera.",
+   "Bata los huevos, la mantequilla derretida, la leche de almendras y 3 cdas. de eritritol, y añada la harina de almendra, 2 cdas. de cacao y la levadura.",
+   "Cueza cucharones de masa de 4 a 5 minutos en la gofrera ligeramente untada de mantequilla.",
+   "Crema: triture la pulpa del aguacate con 1 cda. de cacao y el resto del eritritol hasta obtener una mousse lisa.",
+   "Sirva los gofres templados cubiertos con la crema de aguacate y espolvoreados con las avellanas."
+  ],
+  "p": "La crema de aguacate y cacao se conserva 24 h en la nevera con film en contacto con la superficie para que no se ennegrezca."
+ },
+ "l03-poulet-roti-beurre-herbes": {
+  "t": "Pollo asado con mantequilla de hierbas y limón",
+  "i": [
+   "pollo entero (1,5 kg)",
+   "mantequilla blanda",
+   "ajo",
+   "perejil picado",
+   "limón (zumo y ralladura)",
+   "tomillo seco y pimentón",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Saque el pollo de la nevera 30 min antes y precaliente el horno a 200 °C.",
+   "Aplaste la mantequilla blanda con el ajo prensado, el perejil, la ralladura del limón, el tomillo, el pimentón, sal y pimienta.",
+   "Despegue con cuidado la piel de las pechugas con los dedos y deslice debajo la mitad de la mantequilla de hierbas; extienda el resto sobre los muslos.",
+   "Coloque el medio limón exprimido dentro de la carcasa, ate los muslos y ponga el pollo en una fuente, rociado con el zumo de limón y el aceite.",
+   "Hornee de 1 h 15 a 1 h 20, regando con el jugo de la fuente cada 20 min.",
+   "Compruebe la cocción: el jugo que sale del muslo al pincharlo debe ser transparente (74 °C en el centro).",
+   "Deje reposar 10 min bajo una hoja de papel de aluminio antes de trinchar y sirva con el jugo de cocción."
+  ],
+  "p": "Sirva con judías verdes o puré de coliflor. Las sobras deshilachadas hacen una excelente ensalada al día siguiente."
+ },
+ "l03-cuisses-paprika-chou-fleur": {
+  "t": "Muslos de pollo crujientes al pimentón con coliflor asada",
+  "i": [
+   "muslos de pollo con piel",
+   "coliflor pequeña en ramilletes",
+   "aceite de oliva",
+   "pimentón ahumado, comino y ajo en polvo",
+   "limón (zumo)",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 210 °C. Seque bien los muslos con papel de cocina (es el secreto de una piel crujiente).",
+   "Mezcle 2 cdas. de aceite con las especias, la sal y la pimienta; masajee los muslos con la mezcla.",
+   "Mezcle los ramilletes de coliflor con el resto del aceite, sal y una pizca de pimentón.",
+   "Disponga los muslos con la piel hacia arriba en una bandeja, con la coliflor alrededor, sin amontonar.",
+   "Hornee de 40 a 45 min, dando la vuelta a la coliflor a mitad de cocción, hasta que la piel esté dorada y el jugo, claro.",
+   "Rocíe con zumo de limón, espolvoree con perejil picado y sirva bien caliente."
+  ],
+  "p": "Para que queden aún más crujientes, deje los muslos salados al descubierto en la nevera 2 h antes de cocinarlos."
+ },
+ "l03-nuggets-amande-parmesan": {
+  "t": "Nuggets de pollo keto de almendra y parmesano",
+  "i": [
+   "pechugas de pollo",
+   "harina de almendra",
+   "parmesano rallado",
+   "huevos",
+   "pimentón y ajo en polvo",
+   "aceite de oliva",
+   "mayonesa",
+   "mostaza",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C y cubra una bandeja con papel de horno untado de aceite.",
+   "Corte el pollo en trozos de 3 a 4 cm, sale y pimiente.",
+   "Bata los huevos en un plato hondo; en otro, mezcle la harina de almendra, el parmesano y las especias.",
+   "Pase cada trozo por el huevo, escurra y rebócelo en el empanado presionando bien.",
+   "Disponga en la bandeja, pincele o pulverice con aceite y hornee de 18 a 20 min, dándoles la vuelta a mitad de cocción.",
+   "Mezcle la mayonesa y la mostaza para la salsa y sirva los nuggets dorados con una ensalada."
+  ],
+  "p": "Los nuggets empanados crudos se congelan extendidos: cuézalos directamente congelados, 5 min más."
+ },
+ "l03-brochettes-poulet-ail-citron": {
+  "t": "Brochetas de pollo al ajo y limón con salsa de yogur y eneldo",
+  "i": [
+   "pechugas de pollo",
+   "aceite de oliva",
+   "limón (zumo y ralladura)",
+   "ajo",
+   "orégano y pimentón",
+   "pimiento rojo",
+   "calabacín",
+   "yogur griego",
+   "eneldo picado",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte el pollo en cubos de 3 cm. Mezcle el aceite, el zumo y la ralladura del limón, el ajo prensado, las especias, la sal y la pimienta; deje marinar el pollo al menos 1 h en la nevera.",
+   "Corte el pimiento en cuadrados y el calabacín en rodajas gruesas.",
+   "Ensarte alternando pollo y verduras en pinchos (remojados 20 min en agua si son de madera).",
+   "Cueza en una parrilla o plancha bien caliente de 12 a 15 min, girando con regularidad.",
+   "Mezcle el yogur con el eneldo, una pizca de sal y un chorrito de limón.",
+   "Sirva las brochetas con la salsa de yogur bien fría."
+  ],
+  "p": "La marinada se puede preparar la víspera: el pollo quedará aún más tierno."
+ },
+ "l03-salade-cesar-poulet": {
+  "t": "Ensalada César keto con pollo a la plancha",
+  "i": [
+   "pechugas de pollo",
+   "lechuga romana",
+   "parmesano en lascas",
+   "mayonesa",
+   "limón (zumo)",
+   "mostaza",
+   "ajo",
+   "aceite de oliva",
+   "huevos duros",
+   "pipas de calabaza tostadas",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Sazone las pechugas con sal, pimienta y aceite, y áselas de 5 a 6 min por cada lado en una sartén caliente. Deje reposar 5 min y corte en lonchas.",
+   "Prepare la salsa: mezcle la mayonesa, el zumo de limón, la mostaza, el ajo prensado, 1 cda. de parmesano rallado y 1 cda. de agua.",
+   "Lave, escurra y trocee la lechuga romana.",
+   "Pele los huevos duros y córtelos en cuartos.",
+   "Mezcle la lechuga con la salsa, reparta en los platos y añada el pollo, los huevos, las lascas de parmesano y las pipas de calabaza."
+  ],
+  "p": "Las pipas de calabaza tostadas sustituyen a los picatostes. Guarde la salsa aparte si prepara la ensalada con antelación."
+ },
+ "l03-gratin-poulet-brocoli-cheddar": {
+  "t": "Gratinado de pollo, brócoli y cheddar",
+  "i": [
+   "pechugas de pollo cocidas",
+   "brócoli en ramilletes",
+   "nata líquida",
+   "queso crema",
+   "cheddar rallado",
+   "ajo",
+   "nuez moscada",
+   "mantequilla",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 190 °C y unte con mantequilla una fuente de horno.",
+   "Cueza los ramilletes de brócoli 4 min en agua hirviendo con sal o al vapor; deben quedar crujientes. Escúrralos bien.",
+   "Corte el pollo en dados (un pollo hervido o asado la víspera va perfectamente).",
+   "En un cazo, caliente la nata con el queso crema, el ajo prensado, la nuez moscada, sal y pimienta, batiendo hasta obtener una salsa lisa. Añada la mitad del cheddar.",
+   "Reparta el brócoli y el pollo en la fuente, cubra con la salsa y espolvoree con el resto del cheddar.",
+   "Hornee de 20 a 25 min, hasta que la superficie esté dorada y burbujeante."
+  ],
+  "p": "Para cocer el pollo rápidamente: escálfelo 15 min en un caldo a fuego suave."
+ },
+ "l03-escalopes-dinde-moutarde": {
+  "t": "Escalopes de pavo a la mostaza antigua",
+  "i": [
+   "escalopes de pavo",
+   "mostaza antigua",
+   "nata espesa",
+   "mantequilla",
+   "caldo de ave",
+   "cebollino",
+   "judías verdes",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Cueza las judías verdes de 8 a 10 min en agua hirviendo con sal, escúrralas y manténgalas calientes.",
+   "Sale y pimiente los escalopes. Derrita la mantequilla en una sartén a fuego medio-fuerte.",
+   "Dore los escalopes 3 min por cada lado y resérvelos en un plato.",
+   "Desglase la sartén con el caldo, raspando el fondo, y deje reducir 2 min.",
+   "Añada la nata y la mostaza, mezcle y deje espesar 2 min a fuego suave.",
+   "Devuelva los escalopes a la salsa 1 o 2 min, espolvoree con cebollino y sirva con las judías verdes."
+  ],
+  "p": "No hierva la salsa después de añadir la mostaza: se volvería amarga."
+ },
+ "l03-foies-volaille-champignons": {
+  "t": "Hígados de ave salteados con champiñones y perejil",
+  "i": [
+   "hígados de ave",
+   "champiñones",
+   "mantequilla",
+   "aceite de oliva",
+   "ajo",
+   "perejil liso",
+   "vinagre de sidra",
+   "rúcula",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Limpie los hígados: retire los filamentos y las partes verdosas, córtelos por la mitad y séquelos.",
+   "Saltee los champiñones laminados en la mitad de la mantequilla 6 min a fuego fuerte, sale y reserve.",
+   "En la misma sartén, caliente el aceite y el resto de la mantequilla hasta que hagan espuma.",
+   "Selle los hígados 2 min sin tocarlos, deles la vuelta y continúe la cocción de 3 a 4 min: el centro ya no debe estar rosado (70 °C en el centro).",
+   "Añada el ajo picado y los champiñones y desglase con el vinagre; mezcle 30 s.",
+   "Fuera del fuego, añada el perejil picado, sale, pimiente y sirva sobre un lecho de rúcula."
+  ],
+  "p": "Sale los hígados solo al final de la cocción para que queden tiernos."
+ },
+ "l03-poulet-parmigiana": {
+  "t": "Pollo a la parmigiana keto",
+  "i": [
+   "pechugas de pollo",
+   "harina de almendra",
+   "parmesano rallado",
+   "huevo",
+   "tomate triturado",
+   "ajo",
+   "albahaca",
+   "bolas de mozzarella",
+   "aceite de oliva",
+   "orégano",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Prepare la salsa: rehogue el ajo en 1 cda. de aceite, añada el tomate, el orégano, sal y pimienta, y deje reducir 10 min.",
+   "Abra las pechugas en libro o aplánelas hasta 1,5 cm de grosor. Sale y pimiente.",
+   "Pase por el huevo batido y después por la mezcla de harina de almendra y parmesano.",
+   "Dórelas 3 min por cada lado en el resto del aceite y colóquelas en una fuente de horno.",
+   "Cubra cada pechuga con salsa de tomate y con lonchas de mozzarella.",
+   "Hornee 15 min a 200 °C, hasta que el queso se funda y se dore. Espolvoree con albahaca fresca."
+  ],
+  "p": "Sirva con calabacines salteados o tagliatelle de calabacín."
+ },
+ "l03-butter-chicken": {
+  "t": "Butter chicken keto",
+  "i": [
+   "muslos de pollo deshuesados",
+   "yogur griego",
+   "garam masala, pimentón, comino, cúrcuma",
+   "mantequilla",
+   "cebolla",
+   "ajo",
+   "jengibre rallado",
+   "tomate triturado",
+   "nata líquida",
+   "cilantro",
+   "sal"
+  ],
+  "s": [
+   "Corte el pollo en trozos y déjelo marinar 30 min (o toda la noche) con el yogur, la mitad de las especias y sal.",
+   "Dore el pollo escurrido en la mitad de la mantequilla, 6 min a fuego fuerte, y reserve.",
+   "En la misma cazuela, derrita el resto de la mantequilla y sofría la cebolla picada 4 min.",
+   "Añada el ajo, el jengibre y el resto de las especias, remueva 1 min y luego añada el tomate; deje cocer 8 min.",
+   "Triture la salsa para que quede lisa, añada la nata y devuelva el pollo.",
+   "Deje cocer a fuego suave 10 min, rectifique de sal y sirva espolvoreado con cilantro."
+  ],
+  "p": "Acompañe con arroz de coliflor aromatizado con cardamomo."
+ },
+ "l03-salade-dinde-fumee-avocat": {
+  "t": "Ensalada completa de pavo ahumado, aguacate y huevo poché blando",
+  "i": [
+   "pavo ahumado",
+   "aguacate",
+   "huevos",
+   "lechuga",
+   "tomates cherry",
+   "aceite de oliva",
+   "zumo de limón",
+   "mostaza",
+   "pipas de girasol",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Sumerja los huevos en agua hirviendo 6 min y después en agua helada; pélelos.",
+   "Bata el aceite, el limón, la mostaza, la sal y la pimienta.",
+   "Reparta la lechuga en dos platos, añada el aguacate en láminas y los tomates cortados por la mitad.",
+   "Enrolle las lonchas de pavo y colóquelas; ponga después en cada ensalada un huevo blando abierto por la mitad.",
+   "Aliñe con la vinagreta y espolvoree con las pipas de girasol."
+  ],
+  "p": "Rocíe el aguacate con limón si lo corta con antelación, para que no se ennegrezca."
+ },
+ "l03-poulet-saute-gingembre-brocoli": {
+  "t": "Pollo salteado con jengibre y brócoli al estilo wok",
+  "i": [
+   "pechugas de pollo",
+   "brócoli",
+   "jengibre rallado",
+   "ajo",
+   "salsa de soja (sin alcohol)",
+   "aceite de girasol",
+   "semillas de sésamo",
+   "cebolletas",
+   "vinagre de sidra",
+   "agua"
+  ],
+  "s": [
+   "Corte el pollo en tiras finas y el brócoli en ramilletes pequeños.",
+   "Mezcle la salsa de soja, el vinagre, el agua, el jengibre y el ajo picado.",
+   "Caliente 1 cda. de aceite en un wok a fuego fuerte, selle el pollo de 4 a 5 min hasta que esté dorado y reserve.",
+   "Añada el resto del aceite y el brócoli; saltee 3 min, añada 2 cdas. de agua y tape 2 min.",
+   "Devuelva el pollo, vierta la salsa y saltee de 1 a 2 min hasta que napee.",
+   "Espolvoree con cebolletas picadas y sésamo, y sirva enseguida."
+  ],
+  "p": "Compruebe la etiqueta: elija una salsa de soja sin alcohol añadido. Sirva con arroz de konjac."
+ },
+ "l03-poulet-tikka-four": {
+  "t": "Pollo tikka asado al horno con raita de pepino",
+  "i": [
+   "pechugas de pollo",
+   "yogur griego (marinada y raita)",
+   "garam masala, pimentón, comino, cúrcuma",
+   "ajo",
+   "jengibre rallado",
+   "limón (zumo)",
+   "aceite de oliva",
+   "pepino",
+   "menta picada",
+   "sal"
+  ],
+  "s": [
+   "Corte el pollo en cubos grandes. Mezcle 150 g de yogur con las especias, el ajo, el jengibre, el zumo de limón, el aceite y la sal.",
+   "Envuelva el pollo con esta marinada y déjelo reposar al menos 1 h en la nevera (idealmente toda la noche).",
+   "Precaliente el horno a 220 °C en posición grill con ventilador. Disponga los trozos sobre una rejilla colocada encima de una bandeja.",
+   "Hornee de 20 a 25 min, dando la vuelta a mitad de cocción, hasta que los bordes estén ligeramente tostados.",
+   "Mientras tanto, ralle el pepino, exprímalo para quitarle el agua y mézclelo con el resto del yogur, la menta y una pizca de sal.",
+   "Sirva el pollo tikka caliente con la raita bien fría."
+  ],
+  "p": "Para unas brochetas a la barbacoa, ensarte los cubos marinados en pinchos y áselos 12 min."
+ },
+ "l03-ailes-poulet-croustillantes": {
+  "t": "Alitas de pollo crujientes al horno con salsa de cebollino",
+  "i": [
+   "alitas de pollo",
+   "levadura química (para que queden crujientes)",
+   "pimentón ahumado, ajo y cebolla en polvo",
+   "harissa",
+   "mantequilla derretida",
+   "yogur griego",
+   "mayonesa",
+   "cebollino",
+   "tallos de apio",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 220 °C. Seque muy bien las alitas con papel de cocina.",
+   "Mezcle la levadura química, las especias y la sal, y rebócelas agitándolas en un bol.",
+   "Disponga las alitas sobre una rejilla encima de una bandeja, sin que se toquen. Hornee de 40 a 45 min, dándoles la vuelta a mitad de cocción.",
+   "Derrita la mantequilla con la harissa y mezcle.",
+   "Prepare la salsa: yogur, mayonesa, cebollino picado, sal.",
+   "Al sacarlas del horno, envuelva las alitas en la mantequilla picante y sirva con la salsa y los palitos de apio."
+  ],
+  "p": "La levadura química (en poca cantidad) seca la piel y la deja muy crujiente sin necesidad de freír."
+ },
+ "l03-poulet-farci-epinards-feta": {
+  "t": "Pechugas de pollo rellenas de espinacas y feta",
+  "i": [
+   "pechugas de pollo grandes",
+   "espinacas frescas",
+   "feta",
+   "queso crema",
+   "ajo",
+   "aceite de oliva",
+   "pimentón y orégano",
+   "tomates cherry",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precaliente el horno a 200 °C. Rehogue las espinacas 2 min en la sartén con el ajo picado, exprímalas para quitarles el agua y píquelas.",
+   "Mezcle las espinacas con la feta desmenuzada y el queso crema.",
+   "Haga un corte en el grosor de cada pechuga para formar un bolsillo, sin atravesarla.",
+   "Rellene los bolsillos con la farsa y cierre con palillos.",
+   "Pincele con aceite y sazone con sal (poca, la feta es salada), pimienta, pimentón y orégano.",
+   "Selle 2 min por cada lado en una sartén apta para el horno y añada los tomates cherry alrededor.",
+   "Hornee de 18 a 20 min, hasta alcanzar 74 °C en el centro. Deje reposar 5 min antes de cortar."
+  ],
+  "p": "Sustituya la feta por jben para una versión más suave."
+ },
+ "l03-boulettes-dinde-sauce-tomate": {
+  "t": "Albóndigas de pavo con salsa de tomate y albahaca",
+  "i": [
+   "pavo picado (o escalopes picados)",
+   "parmesano rallado",
+   "huevo",
+   "harina de almendra",
+   "ajo",
+   "perejil",
+   "tomate triturado",
+   "aceite de oliva",
+   "albahaca",
+   "bola de mozzarella",
+   "calabacín en tagliatelle",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle el pavo picado, el parmesano, el huevo, la harina de almendra, la mitad del ajo, el perejil picado, sal y pimienta.",
+   "Forme unas veinte albóndigas con las manos húmedas.",
+   "Dórelas de 6 a 8 min en 1 cda. de aceite, rodándolas por la sartén. Reserve.",
+   "Rehogue el resto del ajo en el aceite restante, añada el tomate, sale y deje cocer a fuego suave 10 min.",
+   "Devuelva las albóndigas, tape y cueza 10 min a fuego suave. Añada la mozzarella en trozos 2 min antes del final.",
+   "Saltee los tagliatelle de calabacín 2 min y sirva las albóndigas encima, espolvoreadas con albahaca."
+  ],
+  "p": "Pida al carnicero que pique los escalopes de pavo. Las albóndigas cocinadas se congelan 2 meses."
+ },
+ "l03-poulet-provencale-olives": {
+  "t": "Pollo estofado a la provenzal con aceitunas y pimientos",
+  "i": [
+   "muslos de pollo",
+   "pimiento rojo",
+   "pimiento verde",
+   "tomate triturado",
+   "aceitunas negras",
+   "cebolla",
+   "ajo",
+   "aceite de oliva",
+   "hierbas provenzales",
+   "caldo de ave",
+   "albahaca",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corte los muslos en dos por la articulación, sale y pimiente.",
+   "En una cazuela, dore los trozos por el lado de la piel 6 min en el aceite y luego déles la vuelta 3 min. Reserve.",
+   "Retire el exceso de grasa y rehogue la cebolla y los pimientos en tiras 5 min.",
+   "Añada el ajo y las hierbas 1 min, y después el tomate y el caldo.",
+   "Devuelva el pollo, tape y deje cocer a fuego suave 30 min.",
+   "Añada las aceitunas, destape y deje reducir 10 min. Espolvoree con albahaca en el momento de servir."
+  ],
+  "p": "Como todos los guisos, está aún mejor recalentado."
+ },
+ "l03-bowl-poulet-teriyaki-konjac": {
+  "t": "Bowl de pollo estilo teriyaki con arroz de konjac",
+  "i": [
+   "muslos de pollo deshuesados",
+   "salsa de soja (sin alcohol)",
+   "eritritol",
+   "jengibre rallado",
+   "ajo",
+   "bolsas de arroz de konjac",
+   "pepino",
+   "aguacate",
+   "aceite de girasol",
+   "sésamo",
+   "cebolleta"
+  ],
+  "s": [
+   "Mezcle la salsa de soja, el eritritol, el jengibre, el ajo rallado y 3 cdas. de agua.",
+   "Aclare abundantemente el arroz de konjac, hiérvalo 2 min y séquelo en seco en una sartén 3 min.",
+   "Corte el pollo en tiras y dórelo de 6 a 7 min en el aceite a fuego fuerte.",
+   "Vierta la salsa y deje reducir de 2 a 3 min, removiendo, hasta que esté almibarada y napee el pollo.",
+   "Reparta el arroz de konjac en cuencos y añada el pollo glaseado, el pepino en rodajas y el aguacate en láminas.",
+   "Espolvoree con sésamo y cebolleta picada."
+  ],
+  "p": "El arroz de konjac se encuentra en grandes superficies y tiendas asiáticas; puede sustituirlo por arroz de coliflor."
+ },
+ "l03-poulet-pesto-tomates-cerises": {
+  "t": "Salteado de pollo con pesto y tomates cherry",
+  "i": [
+   "pechugas de pollo",
+   "albahaca",
+   "parmesano",
+   "almendras (en lugar de piñones)",
+   "ajo",
+   "aceite de oliva",
+   "tomates cherry",
+   "mozzarella",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Triture la albahaca, el parmesano, las almendras, el ajo, 3 cdas. de aceite y una pizca de sal hasta obtener un pesto grueso.",
+   "Corte el pollo en dados, sale y pimiente.",
+   "Dórelo de 7 a 8 min en el resto del aceite a fuego medio-fuerte.",
+   "Añada los tomates cherry cortados por la mitad y saltee 2 min.",
+   "Fuera del fuego, incorpore el pesto y la mozzarella en dados, mezcle y sirva templado."
+  ],
+  "p": "El pesto se conserva 5 días en la nevera cubierto con un chorrito de aceite."
+ },
+ "l03-fajitas-bowl-poulet-guacamole": {
+  "t": "Bowl de fajitas de pollo con guacamole",
+  "i": [
+   "pechugas de pollo",
+   "pimiento rojo",
+   "pimiento verde",
+   "cebolla morada",
+   "comino, pimentón ahumado, orégano, guindilla",
+   "aceite de oliva",
+   "aguacates",
+   "lima (zumo)",
+   "cilantro",
+   "lechuga en tiras",
+   "sal"
+  ],
+  "s": [
+   "Corte el pollo, los pimientos y la cebolla en tiras finas.",
+   "Mezcle el pollo con la mitad del aceite, las especias y sal.",
+   "Saltee el pollo 6 min a fuego fuerte en una sartén grande, añada las verduras y el resto del aceite y continúe 5 min: deben quedar ligeramente crujientes.",
+   "Aplaste los aguacates con el zumo de lima, el cilantro picado y sal para hacer el guacamole.",
+   "Reparta la lechuga en los cuencos y añada el salteado de pollo y una buena cucharada de guacamole."
+  ],
+  "p": "Añada queso rallado o una cucharada de nata agria si no necesita evitar la lactosa."
+ },
+ "l03-burgers-dinde-courgette-feta": {
+  "t": "Hamburguesas de pavo con calabacín y feta",
+  "i": [
+   "pavo picado",
+   "calabacín rallado",
+   "feta",
+   "huevo",
+   "menta",
+   "cebolletas",
+   "aceite de oliva",
+   "yogur griego",
+   "hojas de lechuga",
+   "comino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Ralle el calabacín, sálelo ligeramente y déjelo soltar agua 10 min; después exprímalo con fuerza en un paño.",
+   "Mezcle el pavo, el calabacín, la feta desmenuzada, el huevo, la menta, las cebolletas, el comino y pimienta.",
+   "Forme 8 hamburguesas de 2 cm de grosor con las manos húmedas.",
+   "Cuézalas de 6 a 7 min por cada lado en el aceite a fuego medio, hasta que estén bien doradas y hechas por dentro.",
+   "Sirva en hojas de lechuga con una cucharada de yogur griego con limón."
+  ],
+  "p": "Exprimir bien el calabacín es esencial para que las hamburguesas se sostengan."
+ },
+ "l03-poulet-satay-cacahuete": {
+  "t": "Brochetas de pollo satay con salsa de cacahuete",
+  "i": [
+   "muslos de pollo deshuesados",
+   "leche de coco",
+   "crema de cacahuete sin azúcar",
+   "salsa de soja (sin alcohol)",
+   "curri y cúrcuma",
+   "ajo",
+   "zumo de lima",
+   "pepino",
+   "cacahuetes troceados",
+   "cilantro"
+  ],
+  "s": [
+   "Corte el pollo en tiras y déjelo marinar 30 min con 100 ml de leche de coco, las especias, la mitad de la salsa de soja y el ajo.",
+   "Ensarte las tiras en zigzag en pinchos.",
+   "Prepare la salsa: caliente suavemente el resto de la leche de coco con la crema de cacahuete, el resto de la salsa de soja y la lima, batiendo hasta obtener una consistencia lisa.",
+   "Ase las brochetas en una plancha bien caliente de 5 a 6 min por cada lado.",
+   "Sirva con la salsa caliente, el pepino en bastones, los cacahuetes troceados y el cilantro."
+  ],
+  "p": "Alargue la salsa con un poco de agua caliente si espesa demasiado al enfriarse."
+ },
+ "l03-poulet-grecque-citron-origan": {
+  "t": "Muslos de pollo a la griega con limón y orégano",
+  "i": [
+   "muslos de pollo",
+   "limones (zumo y ralladura)",
+   "aceite de oliva",
+   "ajo",
+   "orégano seco",
+   "calabacines",
+   "aceitunas verdes",
+   "cebolla morada",
+   "caldo",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcle el zumo y la ralladura de limón, el aceite, el ajo machacado, el orégano, sal y pimienta. Deje marinar en ello los muslos al menos 30 min.",
+   "Precaliente el horno a 200 °C. Corte los calabacines en trozos grandes y la cebolla en cuartos.",
+   "Disponga las verduras en una fuente, coloque encima los muslos con la piel hacia arriba y vierta la marinada y el caldo.",
+   "Hornee de 45 a 50 min, regando dos veces con el jugo.",
+   "Añada las aceitunas 10 min antes del final. La piel debe estar dorada y el jugo de cocción, transparente.",
+   "Sirva con el jugo de limón de la fuente."
+  ],
+  "p": "Añada un puñado de feta desmenuzada al sacar del horno si toma lácteos."
+ },
+ "l03-foies-volaille-creme-moutarde": {
+  "t": "Hígados de ave a la crema de mostaza con puré de coliflor",
+  "i": [
+   "hígados de ave",
+   "nata líquida",
+   "mostaza de Dijon",
+   "mantequilla",
+   "cebolla",
+   "coliflor",
+   "parmesano",
+   "perejil",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Cueza la coliflor en ramilletes 15 min en agua con sal o al vapor y escúrrala muy bien.",
+   "Triture con 30 g de mantequilla, el parmesano, sal y pimienta hasta obtener un puré liso. Mantenga caliente.",
+   "Limpie los hígados (retire los nervios) y séquelos.",
+   "Derrita el resto de la mantequilla, sofría la cebolla picada 3 min y selle los hígados 2 min por cada lado a fuego fuerte.",
+   "Baje el fuego, añada la nata y la mostaza y deje hervir suavemente de 4 a 5 min, hasta que el centro de los hígados ya no esté rosado (70 °C).",
+   "Sale, pimiente, espolvoree con perejil y sirva sobre el puré de coliflor."
+  ],
+  "p": "Los hígados son ricos en hierro y vitamina A: un plato económico para servir una vez por semana."
+ },
+ "l03-salade-thai-poulet-concombre": {
+  "t": "Ensalada tailandesa de pollo, pepino y menta",
+  "i": [
+   "pechugas de pollo",
+   "pepino",
+   "col lombarda en tiras",
+   "menta",
+   "cilantro",
+   "lima (zumo)",
+   "salsa de soja (sin alcohol)",
+   "aceite neutro",
+   "guindilla pequeña",
+   "cacahuetes tostados",
+   "eritritol"
+  ],
+  "s": [
+   "Escalfe las pechugas 12 min en agua con sal a fuego suave, deje templar y deshilache.",
+   "Corte el pepino en medias lunas finas y la col lombarda en tiras muy finas.",
+   "Bata el zumo de lima, la salsa de soja, el aceite, el eritritol y la guindilla picada muy fina.",
+   "Mezcle el pollo, las verduras, la menta y el cilantro deshojados con la salsa.",
+   "Espolvoree con los cacahuetes troceados y sirva fresco."
+  ],
+  "p": "Retire las semillas de la guindilla para una versión apta para niños."
+ }
+}

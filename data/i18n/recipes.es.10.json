@@ -1,0 +1,972 @@
+{
+ "l10-smoothie-framboise-coco": {
+  "t": "Batido de frambuesa, coco y chía",
+  "i": [
+   "frambuesas (frescas o congeladas)",
+   "leche de coco",
+   "bebida de almendra sin azúcar",
+   "semillas de chía",
+   "eritritol",
+   "aroma de vainilla sin alcohol (o vainilla en polvo)"
+  ],
+  "s": [
+   "Ponga las frambuesas, la leche de coco, la bebida de almendra, el eritritol y la vainilla en la batidora.",
+   "Triture 1 minuto hasta obtener una textura lisa.",
+   "Añada las semillas de chía y triture solo 5 segundos.",
+   "Deje reposar 5 minutos para que la chía espese ligeramente y sirva."
+  ],
+  "p": "Con frambuesas congeladas, el batido se convierte casi en un helado para beber."
+ },
+ "l10-the-vert-gingembre-citron": {
+  "t": "Infusión de té verde con jengibre y limón",
+  "i": [
+   "agua para el té verde (2 bolsitas)",
+   "jengibre fresco",
+   "zumo de limón",
+   "estevia"
+  ],
+  "s": [
+   "Hierva a fuego suave el agua con las rodajas de jengibre durante 5 minutos.",
+   "Retire del fuego y deje enfriar 2 minutos: el té verde no debe infusionar en agua hirviendo.",
+   "Añada el té verde y deje infusionar 3 minutos; después retírelo.",
+   "Añada el zumo de limón, endulce con estevia y sirva caliente o frío."
+  ],
+  "p": "Pasados 3 minutos, el té verde se vuelve amargo. Delicioso con hielo en verano."
+ },
+ "l10-milkshake-vanille-proteine": {
+  "t": "Batido de vainilla proteico",
+  "i": [
+   "bebida de almendra sin azúcar",
+   "proteína de suero (whey) neutra",
+   "nata líquida",
+   "aroma de vainilla sin alcohol",
+   "eritritol",
+   "cubitos de hielo"
+  ],
+  "s": [
+   "Ponga la bebida de almendra, la nata, la vainilla y el eritritol en la batidora.",
+   "Añada la proteína de suero por encima para que no se pegue al fondo.",
+   "Añada los cubitos de hielo y triture 45 segundos hasta obtener una textura espesa y espumosa.",
+   "Sirva enseguida en vasos grandes."
+  ],
+  "p": "Ideal después del deporte. Añada 1 cucharada sopera de mantequilla de cacahuete para una versión más golosa."
+ },
+ "l10-smoothie-fraise-amande": {
+  "t": "Batido de fresa y almendra con yogur griego",
+  "i": [
+   "fresas",
+   "yogur griego",
+   "bebida de almendra sin azúcar",
+   "crema de almendra",
+   "eritritol"
+  ],
+  "s": [
+   "Lave las fresas y quíteles el rabillo.",
+   "Ponga todos los ingredientes en la batidora.",
+   "Triture 1 minuto hasta que quede bien liso y espumoso.",
+   "Sirva frío con unos cubitos de hielo."
+  ],
+  "p": "Congele las fresas de temporada en verano para disfrutarlas todo el año."
+ },
+ "l11-moelleux-chocolat": {
+  "t": "Bizcocho de chocolate negro y almendra",
+  "i": [
+   "chocolate negro 85 %",
+   "mantequilla",
+   "huevos",
+   "eritritol",
+   "harina de almendra",
+   "aroma de vainilla sin alcohol",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C. Unte con mantequilla un molde redondo de 22 cm y forre el fondo con papel de horno.",
+   "Derrita el chocolate y la mantequilla al baño maría a fuego suave, removiendo, y deje templar 5 minutos.",
+   "Bata los huevos con el eritritol, la vainilla y la sal durante 3 minutos, hasta que la mezcla blanquee y doble su volumen.",
+   "Vierta el chocolate fundido sobre los huevos mezclando con delicadeza con una espátula de silicona.",
+   "Incorpore la harina de almendra tamizada con movimientos envolventes, sin trabajar demasiado la masa.",
+   "Vierta en el molde y hornee de 20 a 22 minutos: el centro debe quedar ligeramente tembloroso.",
+   "Deje enfriar 15 minutos antes de desmoldar; sirva templado o frío."
+  ],
+  "p": "Se conserva 4 días en la nevera; caliente una porción 15 segundos en el microondas para recuperar el corazón fundente."
+ },
+ "l11-fondant-coeur-coulant": {
+  "t": "Volcanes de chocolate con corazón fundente",
+  "i": [
+   "chocolate negro 85 %",
+   "mantequilla",
+   "huevos",
+   "yema de huevo",
+   "eritritol",
+   "harina de almendra colmada",
+   "cacao sin azúcar (para los moldes)"
+  ],
+  "s": [
+   "Precaliente el horno a 210 °C. Unte con mantequilla 4 moldes individuales y espolvoréelos con cacao, golpeándolos para quitar el exceso.",
+   "Derrita el chocolate y la mantequilla al baño maría, remueva hasta que quede liso y deje templar.",
+   "Bata los huevos, la yema y el eritritol durante 2 minutos y añada el chocolate fundido.",
+   "Incorpore la harina de almendra y reparta en los moldes hasta tres cuartas partes.",
+   "Hornee exactamente de 8 a 9 minutos: los bordes deben estar cuajados y el centro abombado y blando.",
+   "Espere 1 minuto, pase un cuchillo por los bordes y vuelque sobre el plato. Sirva enseguida."
+  ],
+  "p": "Puede preparar los moldes hasta 24 h antes y guardarlos en la nevera; en ese caso añada 2 minutos de cocción."
+ },
+ "l11-cake-citron": {
+  "t": "Bizcocho esponjoso de limón con glaseado ligero",
+  "i": [
+   "harina de almendra",
+   "harina de coco",
+   "huevos",
+   "mantequilla derretida",
+   "eritritol",
+   "limones (zumo y ralladura)",
+   "yogur griego",
+   "levadura química",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C y forre un molde de plum cake con papel de horno.",
+   "Bata los huevos con 80 g de eritritol y añada la mantequilla derretida, el yogur, la ralladura y 40 ml de zumo de limón.",
+   "Mezcle aparte la harina de almendra, la harina de coco, la levadura y la sal, e incorpore a los ingredientes líquidos.",
+   "Vierta en el molde y hornee 40 minutos; cubra con papel de aluminio a mitad de cocción si la superficie se dora demasiado.",
+   "Compruebe la cocción con un cuchillo: debe salir seco. Deje enfriar por completo sobre una rejilla.",
+   "Triture los 20 g de eritritol restantes hasta convertirlos en polvo, mézclelos con el resto del zumo de limón y bañe el bizcocho ya frío."
+  ],
+  "p": "El bizcocho está aún más rico al día siguiente; se puede congelar en porciones envueltas individualmente."
+ },
+ "l11-carrot-cake-leger": {
+  "t": "Tarta de zanahoria ligera con nueces y canela",
+  "i": [
+   "harina de almendra",
+   "zanahoria grande rallada fina",
+   "huevos",
+   "aceite de coco derretido",
+   "eritritol",
+   "nueces troceadas",
+   "canela y una pizca de nuez moscada",
+   "levadura química",
+   "queso crema",
+   "estevia (para el glaseado)",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y unte con mantequilla un molde cuadrado de 20 cm.",
+   "Ralle la zanahoria fina y escúrrala en un paño para quitar el exceso de agua.",
+   "Bata los huevos con el eritritol y el aceite de coco, y añada la zanahoria.",
+   "Incorpore la harina de almendra, la levadura, la canela, la nuez moscada y las nueces.",
+   "Vierta en el molde y hornee de 30 a 35 minutos, hasta que un cuchillo salga seco. Deje enfriar.",
+   "Bata el queso crema con la vainilla y la estevia, extiéndalo sobre la tarta fría y corte en 10 cuadrados."
+  ],
+  "p": "Guarde el glaseado aparte si prepara la tarta con antelación; se conserva 4 días en frío."
+ },
+ "l11-gateau-coco": {
+  "t": "Bizcocho esponjoso de coco",
+  "i": [
+   "coco rallado",
+   "harina de almendra",
+   "huevos",
+   "leche de coco",
+   "eritritol",
+   "aceite de coco",
+   "levadura química",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y engrase un molde de 22 cm con aceite.",
+   "Bata los huevos con el eritritol hasta obtener una mezcla espumosa.",
+   "Añada la leche de coco, el aceite de coco derretido y la vainilla.",
+   "Incorpore el coco rallado, la harina de almendra y la levadura; deje reposar 5 minutos para que el coco se hidrate.",
+   "Vierta en el molde y hornee 30 minutos, hasta que la superficie esté bien dorada.",
+   "Deje enfriar en el molde antes de desmoldar y cortar en 8 porciones."
+  ],
+  "p": "Espolvoree con coco rallado tostado 2 minutos en seco en la sartén para un acabado crujiente."
+ },
+ "l11-cheesecake-new-york": {
+  "t": "Tarta de queso estilo Nueva York keto",
+  "i": [
+   "harina de almendra",
+   "mantequilla derretida",
+   "eritritol",
+   "queso crema tipo Philadelphia",
+   "nata agria espesa",
+   "huevos",
+   "zumo de limón",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C. Mezcle la harina de almendra, la mantequilla derretida y 20 g de eritritol, y presione en el fondo de un molde desmontable de 22 cm.",
+   "Hornee la base 10 minutos y deje enfriar. Baje el horno a 150 °C.",
+   "Bata el queso crema (a temperatura ambiente) con 90 g de eritritol a velocidad lenta hasta que quede liso.",
+   "Añada la nata agria, la vainilla y el limón, y luego los huevos de uno en uno, sin batir demasiado rápido para no incorporar aire.",
+   "Vierta sobre la base, coloque un recipiente con agua caliente en la rejilla inferior y hornee 50 minutos: el centro debe seguir temblando.",
+   "Apague el horno y deje la tarta 1 hora con la puerta entreabierta; después refrigere al menos 6 horas antes de desmoldar."
+  ],
+  "p": "Sirva con un coulis de frambuesas calentadas 5 minutos con una pizca de estevia."
+ },
+ "l11-cheesecake-framboise-sans-cuisson": {
+  "t": "Tarta de queso y frambuesa sin horno con agar-agar",
+  "i": [
+   "almendras molidas gruesas",
+   "mantequilla derretida",
+   "queso crema",
+   "nata líquida 30 % muy fría",
+   "eritritol",
+   "frambuesas",
+   "agar-agar (2 g)",
+   "agua",
+   "zumo de limón"
+  ],
+  "s": [
+   "Triture las almendras con la mantequilla derretida y 10 g de eritritol, presione en el fondo de un aro de 20 cm colocado sobre un plato y reserve en frío.",
+   "Triture 100 g de frambuesas con el limón. Disuelva el agar-agar en el agua, llévelo a ebullición y hierva 2 minutos removiendo.",
+   "Fuera del fuego, añada el puré de frambuesa al agar-agar caliente y mezcle con energía.",
+   "Trabaje el queso crema con 60 g de eritritol hasta que quede liso e incorpore rápidamente la mezcla de frambuesa aún templada.",
+   "Monte la nata líquida hasta que quede firme e incorpórela con delicadeza con una espátula de silicona.",
+   "Vierta sobre la base, decore con las frambuesas restantes y refrigere un mínimo de 4 horas antes de retirar el aro."
+  ],
+  "p": "Trabaje rápido tras añadir el agar-agar: cuaja en cuanto baja de 40 °C."
+ },
+ "l11-mousse-chocolat": {
+  "t": "Mousse de chocolate aérea",
+  "i": [
+   "chocolate negro 85 %",
+   "huevos extrafrescos",
+   "eritritol en polvo",
+   "sal"
+  ],
+  "s": [
+   "Derrita el chocolate al baño maría y deje que se temple hasta unos 35 °C.",
+   "Separe las claras de las yemas. Incorpore las yemas una a una al chocolate, mezclando con energía.",
+   "Monte las claras con la sal a punto de nieve suave, añada el eritritol y bata hasta que estén firmes y brillantes.",
+   "Mezcle un tercio de las claras con el chocolate para aligerarlo y después incorpore el resto con delicadeza, con movimientos envolventes y una espátula de silicona.",
+   "Reparta en 6 vasitos y refrigere al menos 4 horas."
+  ],
+  "p": "Utilice huevos muy frescos y consuma en 48 h. Sirva con unas frambuesas. Contiene huevos crudos: no recomendado para mujeres embarazadas, niños menores de 5 años, personas mayores ni personas frágiles."
+ },
+ "l11-mousse-citron-coco": {
+  "t": "Mousse ligera de limón y coco",
+  "i": [
+   "crema de coco muy fría (parte sólida)",
+   "limón (zumo y ralladura)",
+   "eritritol en polvo",
+   "coco rallado tostado",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Ponga la lata de crema de coco 12 horas en la nevera, y el bol y las varillas 15 minutos en el congelador.",
+   "Recoja solo la parte sólida de la crema de coco y bátala 3 minutos hasta que quede espumosa.",
+   "Añada el eritritol, la vainilla, la ralladura y después el zumo de limón poco a poco, sin dejar de batir.",
+   "Reparta en 4 copas, espolvoree con el coco tostado y refrigere 1 hora."
+  ],
+  "p": "Guarde el líquido de coco que sobre para un batido o un curry."
+ },
+ "l11-creme-vanille": {
+  "t": "Crema de vainilla untuosa estilo flan",
+  "i": [
+   "nata líquida 30 %",
+   "bebida de almendra sin azúcar",
+   "yemas de huevo",
+   "eritritol",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 150 °C y coloque 6 moldes individuales en una fuente grande.",
+   "Caliente la nata y la bebida de almendra hasta que empiecen a hervir suavemente y retire del fuego.",
+   "Bata las yemas con el eritritol y la vainilla sin que hagan espuma, y vierta el líquido caliente en hilo sin dejar de remover.",
+   "Cuele, reparta en los moldes y vierta agua caliente en la fuente hasta la mitad de su altura.",
+   "Hornee 35 minutos: la crema debe estar cuajada en los bordes y ligeramente tambaleante en el centro.",
+   "Deje enfriar y refrigere al menos 3 horas."
+  ],
+  "p": "Guarde las claras para hacer rocas de coco o una mousse de chocolate."
+ },
+ "l11-creme-brulee-fleur-oranger": {
+  "t": "Crema catalana al azahar",
+  "i": [
+   "nata líquida 30 %",
+   "yemas de huevo",
+   "eritritol",
+   "agua de azahar",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 100 °C.",
+   "Caliente la nata hasta que empiece a hervir suavemente, retire del fuego y añada la vainilla y el azahar.",
+   "Bata las yemas con 40 g de eritritol y vierta la nata caliente poco a poco, mezclando.",
+   "Reparta en 4 cazuelitas de crema quemada poco profundas y hornee 45 minutos, hasta que la crema cuaje.",
+   "Deje enfriar y refrigere un mínimo de 4 horas.",
+   "Justo antes de servir, espolvoree los 20 g de eritritol restantes y caramelice con un soplete o 2 minutos bajo el grill bien caliente."
+  ],
+  "p": "El eritritol carameliza menos que el azúcar: extiéndalo en una capa muy fina y vigile bajo el grill."
+ },
+ "l11-panna-cotta-coco-framboise": {
+  "t": "Panna cotta de coco y frambuesas",
+  "i": [
+   "leche de coco",
+   "agar-agar (2 g)",
+   "eritritol",
+   "frambuesas",
+   "zumo de limón"
+  ],
+  "s": [
+   "Bata la leche de coco con el agar-agar y 30 g de eritritol en un cazo, en frío.",
+   "Lleve a ebullición y hierva 2 minutos sin dejar de remover.",
+   "Reparta en 4 vasos y deje cuajar 2 horas en la nevera.",
+   "Aplaste las frambuesas con el limón y 10 g de eritritol, y reparta sobre las panna cotta antes de servir."
+  ],
+  "p": "Versión totalmente vegetal, ideal para los niños intolerantes a la lactosa."
+ },
+ "l11-cookies-pepites-chocolat": {
+  "t": "Galletas con pepitas de chocolate",
+  "i": [
+   "harina de almendra",
+   "mantequilla blanda",
+   "eritritol",
+   "huevo",
+   "chocolate negro 85 % troceado",
+   "levadura química",
+   "aroma de vainilla sin alcohol",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y forre una bandeja con papel de horno.",
+   "Cremee la mantequilla blanda con el eritritol y añada el huevo y la vainilla.",
+   "Incorpore la harina de almendra, la levadura y la sal, y después los trozos de chocolate.",
+   "Refrigere la masa 15 minutos para que quede compacta.",
+   "Forme 12 bolas, aplástelas ligeramente y sepárelas 5 cm en la bandeja.",
+   "Hornee de 10 a 12 minutos, hasta que los bordes se doren; deje endurecer 10 minutos en la bandeja antes de moverlas."
+  ],
+  "p": "Las galletas están blandas al salir del horno: se endurecen al enfriarse. En caja hermética: 5 días."
+ },
+ "l11-cookies-beurre-cacahuete": {
+  "t": "Galletas de mantequilla de cacahuete con tres ingredientes",
+  "i": [
+   "mantequilla de cacahuete sin azúcar",
+   "eritritol",
+   "huevo",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y prepare una bandeja con papel de horno.",
+   "Mezcle la mantequilla de cacahuete, el eritritol, el huevo y la sal hasta obtener una masa homogénea.",
+   "Forme 12 bolas, colóquelas en la bandeja y aplástelas con un tenedor marcando una cuadrícula.",
+   "Hornee de 10 a 12 minutos y deje enfriar por completo en la bandeja antes de manipularlas."
+  ],
+  "p": "Añada una pizca de sal en escamas sobre cada galleta antes de hornear para un contraste dulce-salado."
+ },
+ "l11-brownie-noix": {
+  "t": "Brownie fundente con nueces",
+  "i": [
+   "chocolate negro 85 %",
+   "mantequilla",
+   "huevos",
+   "eritritol",
+   "harina de almendra",
+   "cacao sin azúcar",
+   "nueces peladas",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y forre un molde cuadrado de 20 cm con papel de horno.",
+   "Derrita juntos el chocolate y la mantequilla y deje templar.",
+   "Bata los huevos y el eritritol durante 2 minutos y añada el chocolate fundido.",
+   "Incorpore la harina de almendra, el cacao y la sal, y después las nueces troceadas.",
+   "Extienda en el molde y hornee de 20 a 22 minutos: un cuchillo debe salir con algunas migas húmedas.",
+   "Deje enfriar por completo, idealmente 1 hora en frío, antes de cortar en 12 cuadrados."
+  ],
+  "p": "El brownie se corta limpiamente tras pasar por la nevera; se congela muy bien."
+ },
+ "l11-brownie-tahini": {
+  "t": "Brownie marmolado con tahini",
+  "i": [
+   "chocolate negro 85 %",
+   "mantequilla",
+   "huevos",
+   "eritritol",
+   "harina de almendra",
+   "cacao sin azúcar",
+   "tahini",
+   "semillas de sésamo"
+  ],
+  "s": [
+   "Precaliente el horno a 175 °C y forre un molde de 20 cm.",
+   "Derrita el chocolate con la mantequilla y deje templar.",
+   "Bata los huevos con el eritritol, añada el chocolate y después la harina de almendra y el cacao.",
+   "Vierta en el molde. Aligere el tahini con 1 cucharada sopera de agua caliente y distribúyalo a cucharadas sobre la masa.",
+   "Marmole con la punta de un cuchillo trazando ochos y espolvoree con sésamo.",
+   "Hornee 20 minutos, deje enfriar y corte en 12 cuadrados."
+  ],
+  "p": "Mezcle bien el bote de tahini antes de usarlo; el aceite suele subir a la superficie."
+ },
+ "l11-crumble-fruits-rouges-amande": {
+  "t": "Crumble de frutos rojos y almendras",
+  "i": [
+   "frambuesas (frescas o congeladas)",
+   "moras",
+   "eritritol",
+   "harina de almendra",
+   "almendras laminadas",
+   "mantequilla fría en dados",
+   "canela"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C.",
+   "Mezcle la fruta con 20 g de eritritol y la canela, y extienda en una fuente de horno.",
+   "Trabaje con las yemas de los dedos la harina de almendra, 30 g de eritritol y la mantequilla fría hasta obtener migas gruesas.",
+   "Añada las almendras laminadas y reparta el crumble sobre la fruta sin apretar.",
+   "Hornee 25 minutos, hasta que la superficie esté dorada y la fruta burbujee por los bordes.",
+   "Deje templar 10 minutos antes de servir."
+  ],
+  "p": "Sirva con una cucharada de yogur griego o de nata agria espesa."
+ },
+ "l11-tarte-citron-sablee": {
+  "t": "Tarta de limón con base de almendra",
+  "i": [
+   "harina de almendra",
+   "mantequilla",
+   "huevos",
+   "eritritol",
+   "limones (zumo y ralladura)",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C. Mezcle la harina de almendra, 50 g de mantequilla derretida, 20 g de eritritol y la sal.",
+   "Presione la masa en un molde de tarta de 22 cm subiéndola por los bordes, pinche con un tenedor y hornee 12 minutos en blanco.",
+   "En un cazo, bata los huevos, 80 g de eritritol, la ralladura y el zumo de limón.",
+   "Espese a fuego suave sin dejar de batir de 5 a 7 minutos, hasta obtener la consistencia de una crema espesa; no deje que hierva.",
+   "Fuera del fuego, añada 60 g de mantequilla en dados y triture 1 minuto para alisar.",
+   "Vierta sobre la base ya fría y refrigere 3 horas antes de servir."
+  ],
+  "p": "La base es frágil: déjela enfriar por completo en el molde antes de rellenarla."
+ },
+ "l11-tarte-amandine-fraises": {
+  "t": "Tarta de almendra y fresas",
+  "i": [
+   "harina de almendra",
+   "mantequilla",
+   "huevos",
+   "eritritol",
+   "fresas",
+   "aroma de vainilla sin alcohol",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C. Mezcle 130 g de harina de almendra, 40 g de mantequilla derretida, 15 g de eritritol y la sal, y presione en un molde de 22 cm.",
+   "Hornee la base 10 minutos.",
+   "Para la crema de almendra, bata 60 g de mantequilla blanda con 65 g de eritritol, añada los huevos, la vainilla y 100 g de harina de almendra.",
+   "Extienda la crema de almendra sobre la base y hornee 20 minutos, hasta que esté dorada y firme.",
+   "Deje enfriar por completo y coloque por encima las fresas cortadas por la mitad justo antes de servir."
+  ],
+  "p": "Sustituya las fresas por frambuesas o moras según la temporada."
+ },
+ "l11-glace-fraise": {
+  "t": "Helado exprés de fresa",
+  "i": [
+   "fresas congeladas",
+   "nata líquida 30 %",
+   "eritritol en polvo",
+   "zumo de limón"
+  ],
+  "s": [
+   "Saque las fresas del congelador 5 minutos para que se ablanden ligeramente.",
+   "Tritúrelas en una batidora potente con el eritritol y el limón, a pulsos.",
+   "Añada la nata líquida en hilo sin dejar de triturar hasta obtener una textura de helado italiano.",
+   "Sirva inmediatamente, o ponga 30 minutos en el congelador para una textura más firme."
+  ],
+  "p": "Pasadas 2 horas en el congelador, sáquelo 15 minutos antes de servir, porque el eritritol lo endurece."
+ },
+ "l11-sorbet-framboise": {
+  "t": "Sorbete de frambuesa intenso",
+  "i": [
+   "frambuesas",
+   "eritritol",
+   "agua",
+   "zumo de limón"
+  ],
+  "s": [
+   "Caliente el agua y el eritritol 3 minutos hasta que se disuelva por completo y deje enfriar.",
+   "Triture las frambuesas con el almíbar y el limón, y pase por un colador fino para retirar las pepitas.",
+   "Vierta en un recipiente y ponga en el congelador; cada 30 minutos durante 3 horas, raspe y mezcle con energía con un tenedor.",
+   "Justo antes de servir, triture rápidamente los cristales para obtener una textura lisa."
+  ],
+  "p": "Con una heladera, turbine 25 minutos tras enfriar la mezcla 2 horas en la nevera."
+ },
+ "l11-glace-vanille-sans-sorbetiere": {
+  "t": "Helado de vainilla sin heladera",
+  "i": [
+   "nata líquida 30 %",
+   "yemas de huevo",
+   "eritritol en polvo",
+   "bebida de almendra sin azúcar",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Bata las yemas con el eritritol. Caliente la bebida de almendra y 100 ml de nata hasta que empiecen a hervir suavemente.",
+   "Vierta el líquido caliente sobre las yemas, vuelva a ponerlo en el cazo y cueza a fuego suave removiendo hasta que la crema cubra la cuchara (82 °C), sin hervir.",
+   "Añada la vainilla, cuele y deje enfriar por completo en la nevera.",
+   "Monte los 300 ml de nata restantes hasta que quede ligeramente espesa e incorpórela a la crema inglesa fría.",
+   "Vierta en un recipiente y congele 6 horas, removiendo con un tenedor al cabo de 1 hora y de 2 horas."
+  ],
+  "p": "Saque el helado 10 a 15 minutos antes de servirlo para que sea fácil de trabajar."
+ },
+ "l11-truffes-chocolat-cacao": {
+  "t": "Trufas de chocolate rebozadas en cacao",
+  "i": [
+   "chocolate negro 85 %",
+   "nata líquida 30 %",
+   "mantequilla",
+   "eritritol en polvo",
+   "cacao sin azúcar para el rebozado"
+  ],
+  "s": [
+   "Pique finamente el chocolate y póngalo en un bol.",
+   "Lleve la nata y el eritritol a punto de ebullición suave y vierta sobre el chocolate. Espere 1 minuto y mezcle del centro hacia los bordes.",
+   "Añada la mantequilla, alise la ganache y refrigere 2 horas hasta que esté firme.",
+   "Tome porciones con una cucharilla y forme rápidamente 20 bolitas entre las palmas de las manos.",
+   "Páselas por el cacao y conserve en frío."
+  ],
+  "p": "Varíe el rebozado: coco rallado, pistachos o avellanas picadas. Dos trufas por ración."
+ },
+ "l11-fat-bombs-coco-chocolat": {
+  "t": "Bombones grasos de coco y chocolate (fat bombs)",
+  "i": [
+   "aceite de coco",
+   "coco rallado",
+   "chocolate negro 85 %",
+   "eritritol en polvo",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Derrita 60 g de aceite de coco a fuego muy suave y mezcle con el coco rallado, el eritritol y la vainilla.",
+   "Reparta en 12 moldes de silicona para minimagdalenas y apriete con el dorso de una cuchara.",
+   "Ponga 20 minutos en el congelador para que endurezcan.",
+   "Derrita el chocolate con los 20 g de aceite de coco restantes y cubra cada bocado.",
+   "Vuelva a poner 15 minutos en frío y conserve en la nevera."
+  ],
+  "p": "Uno o dos bocados bastan para calmar el antojo de dulce; se conservan 2 semanas en frío."
+ },
+ "l11-fat-bombs-cacahuete": {
+  "t": "Bocados helados de cacahuete y chocolate",
+  "i": [
+   "mantequilla de cacahuete sin azúcar",
+   "queso crema",
+   "mantequilla blanda",
+   "eritritol en polvo",
+   "chocolate negro 85 %",
+   "cacahuetes tostados sin sal"
+  ],
+  "s": [
+   "Bata la mantequilla de cacahuete, el queso crema, la mantequilla blanda y el eritritol hasta obtener una crema lisa.",
+   "Reparta en 12 cápsulas de papel colocadas en un molde para magdalenas.",
+   "Derrita el chocolate al baño maría y vierta un hilo sobre cada bocado.",
+   "Espolvoree con los cacahuetes troceados y congele 1 hora antes de desmoldar.",
+   "Conserve en el congelador y saque 5 minutos antes de comer."
+  ],
+  "p": "Guárdelos en el congelador en una caja: se degustan como pequeños helados fundentes."
+ },
+ "l11-mug-cake-vanille-framboise": {
+  "t": "Bizcocho en taza de vainilla y frambuesas",
+  "i": [
+   "harina de almendra",
+   "huevo",
+   "mantequilla derretida",
+   "eritritol",
+   "frambuesas",
+   "aroma de vainilla sin alcohol",
+   "levadura química"
+  ],
+  "s": [
+   "Derrita la mantequilla en una taza 15 segundos en el microondas.",
+   "Añada el huevo, el eritritol y la vainilla, y bata con un tenedor.",
+   "Incorpore la harina de almendra y la levadura, y después hunda las frambuesas en la masa.",
+   "Cueza 80 segundos a 800 W y deje reposar 1 minuto antes de disfrutarlo."
+  ],
+  "p": "Sustituya las frambuesas por arándanos o moras, o añada un poco de ralladura de limón."
+ },
+ "l11-ghriba-coco": {
+  "t": "Ghriba de coco",
+  "i": [
+   "coco rallado",
+   "harina de almendra",
+   "huevos",
+   "eritritol",
+   "aceite de coco derretido",
+   "levadura química",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Bata los huevos con 70 g de eritritol y la vainilla hasta que la mezcla haga espuma.",
+   "Añada el aceite de coco, el coco rallado, la harina de almendra y la levadura; deje reposar 15 minutos.",
+   "Precaliente el horno a 180 °C. Triture los 20 g de eritritol restantes hasta obtener un polvo fino.",
+   "Forme 24 bolas, páselas por el eritritol en polvo y colóquelas en una bandeja forrada.",
+   "Hornee 15 minutos, hasta que las ghribas estén agrietadas y apenas doradas por la base."
+  ],
+  "p": "Se conservan una semana en una lata metálica; perfectas con un té con menta sin azúcar."
+ },
+ "l11-cornes-gazelle": {
+  "t": "Cuernos de gacela keto",
+  "i": [
+   "harina de almendra (masa)",
+   "psyllium rubio en polvo",
+   "mantequilla derretida (masa)",
+   "huevo",
+   "almendras peladas (relleno)",
+   "eritritol",
+   "mantequilla (relleno)",
+   "agua de azahar",
+   "canela"
+  ],
+  "s": [
+   "Relleno: triture finamente las almendras peladas con el eritritol, añada 20 g de mantequilla, la canela y 3 cucharaditas de agua de azahar, y amase hasta obtener una pasta moldeable.",
+   "Forme 24 rollitos de relleno con los extremos afilados y reserve.",
+   "Masa: mezcle la harina de almendra y el psyllium, añada el huevo, 40 g de mantequilla derretida y 1 cucharadita de agua de azahar; amase y deje reposar 15 minutos.",
+   "Extienda la masa muy fina (2 mm) entre dos hojas de papel de horno y corte tiras de 8 cm de ancho.",
+   "Coloque un rollito de relleno, doble la masa, selle presionando, corte con la rueda y curve en forma de media luna.",
+   "Pinche cada cuerno con una aguja y hornee de 12 a 15 minutos a 170 °C: deben quedar claros.",
+   "Deje enfriar por completo antes de manipularlos; la masa es frágil en caliente."
+  ],
+  "p": "Si la masa se agrieta, trabájela entre dos hojas y repare con la punta del dedo húmeda. Dos cuernos por ración."
+ },
+ "l11-fekkas-amandes": {
+  "t": "Fekkas keto de almendras y anís",
+  "i": [
+   "harina de almendra",
+   "almendras enteras",
+   "huevos",
+   "eritritol",
+   "mantequilla derretida",
+   "semillas de anís verde",
+   "semillas de sésamo tostadas",
+   "levadura química",
+   "agua de azahar"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C. Bata los huevos con el eritritol, la mantequilla derretida y el agua de azahar.",
+   "Añada la harina de almendra, la levadura, el anís, el sésamo y las almendras enteras; mezcle hasta obtener una masa pegajosa.",
+   "Con las manos mojadas, forme dos rulos de 4 cm de diámetro sobre una bandeja forrada.",
+   "Hornee 20 minutos, hasta que los rulos estén firmes y dorados claros. Deje enfriar 30 minutos.",
+   "Corte los rulos con un cuchillo de sierra en galletas de 1 cm y colóquelas planas.",
+   "Baje el horno a 140 °C y seque 20 minutos, dándoles la vuelta a mitad de cocción, hasta que queden crujientes."
+  ],
+  "p": "Bien enfriados, se conservan 2 semanas en una caja hermética, como los fekkas tradicionales."
+ },
+ "l11-rochers-coco": {
+  "t": "Rocas de coco con claras de huevo",
+  "i": [
+   "coco rallado",
+   "claras de huevo",
+   "eritritol",
+   "aroma de vainilla sin alcohol",
+   "chocolate negro 85 % (opcional)"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C.",
+   "Mezcle las claras, el eritritol y la vainilla con un tenedor sin montarlas y añada el coco rallado.",
+   "Deje reposar 10 minutos y forme 20 pequeñas pirámides con los dedos húmedos sobre una bandeja forrada.",
+   "Hornee de 12 a 15 minutos, hasta que las puntas estén doradas.",
+   "Una vez frías, moje la base en chocolate derretido y deje cuajar sobre papel de horno."
+  ],
+  "p": "Ideal para aprovechar las claras que sobran de una crema catalana o de una crema de vainilla."
+ },
+ "l11-financiers-amande": {
+  "t": "Financiers de mantequilla avellana",
+  "i": [
+   "harina de almendra",
+   "claras de huevo",
+   "mantequilla",
+   "eritritol",
+   "harina de coco",
+   "sal"
+  ],
+  "s": [
+   "Cueza la mantequilla a fuego medio hasta que adquiera color avellana y huela a galleta; después cuele y deje templar.",
+   "Precaliente el horno a 190 °C y unte con mantequilla 12 moldes de financiers.",
+   "Mezcle la harina de almendra, la harina de coco, el eritritol y la sal.",
+   "Añada las claras ligeramente batidas con un tenedor y después la mantequilla avellana templada.",
+   "Llene los moldes hasta tres cuartas partes y hornee de 12 a 14 minutos, hasta que los bordes estén bien dorados.",
+   "Desmolde templado y deje enfriar sobre una rejilla."
+  ],
+  "p": "Coloque una frambuesa en el centro de cada financier antes de hornear para una versión afrutada."
+ },
+ "l11-madeleines-citron": {
+  "t": "Magdalenas francesas de limón",
+  "i": [
+   "harina de almendra",
+   "huevos",
+   "mantequilla derretida",
+   "eritritol",
+   "limón (ralladura y 1 cucharada sopera de zumo)",
+   "levadura química"
+  ],
+  "s": [
+   "Bata los huevos con el eritritol durante 3 minutos, hasta que la mezcla blanquee.",
+   "Añada la harina de almendra, la levadura, la ralladura y el zumo de limón, y después la mantequilla derretida templada.",
+   "Tape y refrigere la masa al menos 1 hora: el choque térmico hará que aparezca la jorobita.",
+   "Precaliente el horno a 210 °C y unte con mantequilla un molde de madeleines.",
+   "Llene los huecos hasta tres cuartas partes, hornee 5 minutos, baje a 180 °C y continúe 5 minutos más.",
+   "Desmolde inmediatamente y deje enfriar sobre una rejilla."
+  ],
+  "p": "Dos madeleines por ración; se conservan 3 días en una caja hermética."
+ },
+ "l11-tiramisu-keto": {
+  "t": "Tiramisú keto de café",
+  "i": [
+   "mascarpone",
+   "huevos",
+   "eritritol",
+   "harina de almendra",
+   "café fuerte enfriado",
+   "cacao sin azúcar",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Bizcocho: precaliente el horno a 180 °C. Bata 2 huevos con 30 g de eritritol durante 3 minutos, incorpore la harina de almendra y extienda en 1 cm de grosor en una fuente forrada. Hornee de 12 a 15 minutos y deje enfriar.",
+   "Separe los 2 huevos restantes. Bata las yemas con 40 g de eritritol y la vainilla, y añada el mascarpone para obtener una crema lisa.",
+   "Monte las claras a punto de nieve firme e incorpórelas con delicadeza a la crema de mascarpone.",
+   "Corte el bizcocho en trozos, empápelos con el café y coloque una capa en el fondo de 6 vasitos.",
+   "Cubra con crema y repita una segunda capa de bizcocho y crema.",
+   "Refrigere al menos 6 horas y espolvoree con cacao justo antes de servir."
+  ],
+  "p": "Versión sin cafeína: use café descafeinado. Imprescindible usar huevos muy frescos. Contiene huevos crudos: no recomendado para mujeres embarazadas, niños menores de 5 años, personas mayores ni personas frágiles."
+ },
+ "l11-clafoutis-framboises": {
+  "t": "Clafoutis de frambuesas",
+  "i": [
+   "frambuesas",
+   "huevos",
+   "nata líquida 30 %",
+   "bebida de almendra sin azúcar",
+   "harina de almendra",
+   "eritritol",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y unte con mantequilla una fuente de horno de 24 cm.",
+   "Reparta las frambuesas en el fondo de la fuente.",
+   "Bata los huevos con el eritritol y añada la harina de almendra, la nata, la bebida de almendra y la vainilla.",
+   "Vierta con cuidado la mezcla sobre la fruta.",
+   "Hornee 30 minutos, hasta que el clafoutis esté dorado y cuajado en el centro. Sirva templado."
+  ],
+  "p": "También funciona con moras o con fresas cortadas en cuatro."
+ },
+ "l11-bavarois-fraise": {
+  "t": "Bavarois ligero de fresa",
+  "i": [
+   "fresas",
+   "nata líquida 30 % muy fría",
+   "queso fresco batido",
+   "eritritol",
+   "agar-agar (2 g)",
+   "zumo de limón"
+  ],
+  "s": [
+   "Triture 250 g de fresas con el eritritol y el limón.",
+   "Vierta la mitad del puré en un cazo con el agar-agar, lleve a ebullición y hierva 2 minutos.",
+   "Fuera del fuego, añada el resto del puré y después el queso fresco batiendo. Deje templar 5 minutos removiendo.",
+   "Monte la nata hasta que quede firme e incorpórela rápidamente a la preparación aún blanda.",
+   "Vierta en un molde de carlota o en 6 vasitos y refrigere 4 horas.",
+   "Decore con las fresas restantes en láminas en el momento de servir."
+  ],
+  "p": "Se desmolda fácilmente sumergiendo el molde 5 segundos en agua caliente."
+ },
+ "l11-pudding-chia-coco-vanille": {
+  "t": "Pudin de chía, coco y vainilla",
+  "i": [
+   "semillas de chía",
+   "leche de coco",
+   "bebida de almendra sin azúcar",
+   "eritritol",
+   "aroma de vainilla sin alcohol",
+   "frambuesas",
+   "coco rallado"
+  ],
+  "s": [
+   "Bata la leche de coco, la bebida de almendra, el eritritol y la vainilla.",
+   "Añada las semillas de chía y mezcle bien; espere 5 minutos y vuelva a remover para evitar grumos.",
+   "Reparta en 4 tarros y refrigere al menos 4 horas, o toda la noche.",
+   "Decore con frambuesas y coco rallado en el momento de servir."
+  ],
+  "p": "Se conserva 4 días en la nevera; práctico para preparar los postres de la semana."
+ },
+ "l11-mendiants-chocolat": {
+  "t": "Mendiants de chocolate, pistachos y almendras",
+  "i": [
+   "chocolate negro 85 %",
+   "pistachos pelados",
+   "almendras tostadas",
+   "avellanas",
+   "coco rallado"
+  ],
+  "s": [
+   "Pique grosso modo los pistachos, las almendras y las avellanas.",
+   "Derrita dos tercios del chocolate al baño maría hasta 45 °C, retire del fuego y añada el resto picado para que baje la temperatura, removiendo.",
+   "Deposite con una cuchara 20 pequeños discos de chocolate sobre una hoja de papel de horno.",
+   "Espolvoree enseguida con los frutos secos y el coco antes de que el chocolate cuaje.",
+   "Deje endurecer 1 hora a temperatura ambiente o 20 minutos en frío."
+  ],
+  "p": "Añadir el chocolate picado permite obtener un chocolate brillante y crujiente. Dos mendiants por ración."
+ },
+ "l11-glace-avocat-chocolat": {
+  "t": "Helado de chocolate y aguacate",
+  "i": [
+   "aguacates bien maduros (pulpa)",
+   "leche de coco",
+   "cacao sin azúcar",
+   "eritritol en polvo",
+   "aroma de vainilla sin alcohol",
+   "sal"
+  ],
+  "s": [
+   "Saque la pulpa de los aguacates y póngala en una batidora.",
+   "Añada la leche de coco, el cacao, el eritritol, la vainilla y la sal.",
+   "Triture 2 minutos hasta obtener una crema perfectamente lisa.",
+   "Vierta en un recipiente y congele 4 horas, removiendo con energía cada hora.",
+   "Saque 10 minutos antes de servir y forme bolas con una cuchara caliente."
+  ],
+  "p": "Sin congelar, la preparación también es una excelente mousse de chocolate exprés."
+ },
+ "l11-tarte-chocolat-noisette": {
+  "t": "Tarta de chocolate y avellanas",
+  "i": [
+   "harina de almendra",
+   "avellanas molidas",
+   "mantequilla derretida",
+   "eritritol",
+   "chocolate negro 85 %",
+   "nata líquida 30 %",
+   "avellanas tostadas troceadas",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C. Mezcle la harina de almendra, la avellana molida, la mantequilla derretida, 20 g de eritritol y la sal.",
+   "Presione en un molde de tarta de 22 cm, pinche y hornee de 12 a 15 minutos. Deje enfriar.",
+   "Lleve la nata y 30 g de eritritol a punto de ebullición suave, vierta sobre el chocolate picado, espere 1 minuto y alise.",
+   "Vierta la ganache sobre la base de tarta fría.",
+   "Espolvoree con las avellanas troceadas y refrigere 3 horas antes de cortar en 10 porciones."
+  ],
+  "p": "Saque la tarta 15 minutos antes de servir para que la ganache quede fundente."
+ },
+ "l11-cake-marbre": {
+  "t": "Bizcocho marmolado de vainilla y chocolate",
+  "i": [
+   "harina de almendra",
+   "huevos",
+   "mantequilla derretida",
+   "eritritol",
+   "bebida de almendra sin azúcar",
+   "cacao sin azúcar",
+   "levadura química",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C y forre un molde de plum cake.",
+   "Bata los huevos y el eritritol, y añada la mantequilla derretida, la vainilla y 30 ml de bebida de almendra.",
+   "Incorpore la harina de almendra y la levadura, y divida la masa en dos.",
+   "Añada el cacao y los 30 ml de bebida de almendra restantes a una de las mitades.",
+   "Alterne cucharadas de las dos masas en el molde y marmole con un cuchillo.",
+   "Hornee de 40 a 45 minutos; cubra con papel de aluminio a los 25 minutos. Deje enfriar antes de cortar."
+  ],
+  "p": "Perfecto para la merienda de los niños; se conserva 4 días envuelto en film."
+ },
+ "l11-gateau-yaourt": {
+  "t": "Bizcocho de yogur keto",
+  "i": [
+   "yogur griego (1 envase)",
+   "harina de almendra",
+   "huevos",
+   "aceite neutro",
+   "eritritol",
+   "ralladura de limón",
+   "levadura química"
+  ],
+  "s": [
+   "Precaliente el horno a 180 °C y unte con mantequilla un molde redondo de 22 cm.",
+   "Bata el yogur con los huevos, el eritritol, el aceite y la ralladura de limón.",
+   "Incorpore la harina de almendra y la levadura hasta obtener una masa homogénea.",
+   "Vierta en el molde y hornee de 30 a 35 minutos, hasta que un cuchillo salga seco.",
+   "Deje templar antes de desmoldar."
+  ],
+  "p": "Si lo desea, use el envase de yogur como medida, pero pese la harina de almendra, que es más ligera."
+ },
+ "l11-crepes-ricotta-cannelle": {
+  "t": "Crepes keto de ricota y canela",
+  "i": [
+   "huevos",
+   "queso crema",
+   "harina de almendra",
+   "ricota",
+   "eritritol",
+   "canela",
+   "mantequilla para la sartén"
+  ],
+  "s": [
+   "Triture los huevos, el queso crema, la harina de almendra y 10 g de eritritol; deje reposar 5 minutos.",
+   "Caliente una sartén antiadherente de 20 cm a fuego medio con una nuez de mantequilla.",
+   "Vierta un cacito pequeño de masa, incline para extender finamente y cueza de 1 a 2 minutos, hasta que los bordes se despeguen; después dé la vuelta 30 segundos.",
+   "Mezcle la ricota con la canela y 20 g de eritritol.",
+   "Rellene cada crepe con la crema de ricota, doble en cuatro y sirva templado."
+  ],
+  "p": "Estas crepes son frágiles: use una espátula ancha y manténgalas pequeñas. Unas 8 crepes."
+ },
+ "l11-fondant-pistache": {
+  "t": "Bizcocho fundente de pistacho y azahar",
+  "i": [
+   "pistachos sin sal",
+   "harina de almendra",
+   "huevos",
+   "mantequilla derretida",
+   "eritritol",
+   "agua de azahar",
+   "sal"
+  ],
+  "s": [
+   "Precaliente el horno a 170 °C y forre un molde de 20 cm.",
+   "Triture 80 g de pistachos hasta obtener un polvo fino; trocee el resto.",
+   "Bata los huevos y el eritritol durante 3 minutos y añada la mantequilla derretida y el agua de azahar.",
+   "Incorpore el polvo de pistacho, la harina de almendra y la sal.",
+   "Vierta en el molde, espolvoree con los pistachos troceados y hornee de 22 a 25 minutos: el centro debe quedar tierno.",
+   "Deje enfriar en el molde antes de cortar en 8 porciones."
+  ],
+  "p": "Los pistachos tienen más hidratos de carbono que las almendras: respete la ración indicada."
+ },
+ "l11-creme-dessert-chocolat": {
+  "t": "Crema de chocolate",
+  "i": [
+   "bebida de almendra sin azúcar",
+   "nata líquida 30 %",
+   "chocolate negro 85 %",
+   "cacao sin azúcar",
+   "eritritol",
+   "agar-agar (1 g)",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "En un cazo, bata en frío la bebida de almendra, la nata, el cacao, el eritritol y el agar-agar.",
+   "Lleve a ebullición batiendo y hierva 2 minutos.",
+   "Fuera del fuego, añada el chocolate picado y la vainilla, y bata hasta que se funda.",
+   "Reparta en 4 tarros, deje enfriar y refrigere 2 horas.",
+   "Remueva brevemente con una cuchara antes de servir para una textura más cremosa."
+  ],
+  "p": "Añada una pizca de café soluble para un sabor a moca."
+ },
+ "l11-mini-cheesecakes-citron": {
+  "t": "Minitartas de queso y limón en molde de magdalenas",
+  "i": [
+   "harina de almendra",
+   "mantequilla derretida",
+   "queso crema",
+   "huevos",
+   "eritritol",
+   "limón (zumo y ralladura)",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precaliente el horno a 160 °C y coloque 12 cápsulas en un molde para magdalenas.",
+   "Mezcle la harina de almendra, la mantequilla y 10 g de eritritol, y presione 1 cucharada sopera en el fondo de cada cápsula.",
+   "Trabaje el queso crema con 70 g de eritritol hasta que quede liso, añada los huevos uno a uno, la ralladura, el zumo y la vainilla.",
+   "Llene las cápsulas casi hasta arriba.",
+   "Hornee de 18 a 20 minutos: el centro debe seguir temblando ligeramente.",
+   "Deje enfriar y refrigere 3 horas antes de servir."
+  ],
+  "p": "Se congelan muy bien; descongele 2 horas en la nevera."
+ }
+}

@@ -1,0 +1,1260 @@
+{
+ "l01-tortilla-courgette-oignon": {
+  "t": "Keto Zucchini and Onion Tortilla",
+  "i": [
+   "medium zucchini (courgettes)",
+   "onion, thinly sliced",
+   "eggs",
+   "olive oil",
+   "chopped parsley",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Cut the zucchini into thin slices (3 mm). Sprinkle lightly with salt, let sit for 10 min to draw out the water, then pat dry with a kitchen towel.",
+   "Heat 2 tbsp oil in a 22–24 cm skillet over medium heat. Cook the onion and zucchini for 8–10 min, until tender and lightly golden.",
+   "Beat the eggs with salt and pepper, add the drained vegetables and the parsley, and let sit for 2 min.",
+   "Add the last spoonful of oil to the skillet, pour in the mixture and cook for 5–6 min over low heat, loosening the edges.",
+   "Place a large plate over the skillet, flip the tortilla over in one confident move, then slide it back into the skillet.",
+   "Cook for another 3–4 min and serve warm or cold, cut into wedges."
+  ],
+  "p": "It keeps for 3 days in the refrigerator: perfect to take along for breakfast or a snack."
+ },
+ "l01-omelette-cachir-emmental": {
+  "t": "Omelette with Poultry Kachir and Emmental",
+  "i": [
+   "eggs",
+   "diced poultry kachir (halal poultry cold cut)",
+   "grated Emmental",
+   "butter",
+   "chopped parsley",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Cut the kachir into small dice and brown it dry for 2 min in a skillet over medium heat. Set aside.",
+   "Beat the eggs with a small pinch of salt and pepper.",
+   "Melt the butter in the skillet, pour in the eggs and draw the edges toward the center for 2 min.",
+   "Sprinkle with the kachir and Emmental, cover and let the cheese melt for 1 min.",
+   "Fold the omelette, sprinkle with parsley and serve cut in half."
+  ],
+  "p": "Choose a good-quality kachir with little starch: read the label, as some contain starch."
+ },
+ "l01-omelette-crevettes-ail": {
+  "t": "Shrimp, Garlic and Chili Omelette",
+  "i": [
+   "peeled shrimp",
+   "eggs",
+   "minced garlic",
+   "minced fresh chili",
+   "olive oil",
+   "chopped parsley",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Pat the shrimp thoroughly dry. Heat 1 tbsp oil in a skillet over high heat.",
+   "Sauté the shrimp with the garlic and chili for 2 min, until pink. Season with salt and set aside.",
+   "Beat the eggs with the parsley, salt and pepper.",
+   "Add the remaining oil to the skillet over medium heat, pour in the eggs and let set for 2 min, drawing the edges toward the center.",
+   "Spread the shrimp over one half, fold over and leave for 1 min. Serve hot."
+  ],
+  "p": "Frozen shrimp work well: thaw them in the refrigerator the day before and dry them well before cooking."
+ },
+ "l01-omelette-verte-herbes": {
+  "t": "Green Omelette with Three Herbs",
+  "i": [
+   "eggs",
+   "flat-leaf parsley",
+   "cilantro (coriander)",
+   "mint leaves",
+   "minced scallion",
+   "olive oil",
+   "cumin",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Finely chop all the herbs and the scallion.",
+   "Beat the eggs with the herbs, cumin, salt and pepper: the mixture should be very green.",
+   "Heat the oil in a 22 cm skillet over medium heat and pour in the egg mixture.",
+   "Cook for 3 min without stirring, then cover and continue for 2 min over low heat until the top is set.",
+   "Flip onto a plate, cut into wedges and serve hot or cold."
+  ],
+  "p": "Inspired by Persian kuku, it is also delicious cold with garlicky Greek yogurt."
+ },
+ "l01-oeufs-cocotte-epinards-creme": {
+  "t": "Baked Eggs with Spinach and Cream",
+  "i": [
+   "fresh spinach",
+   "eggs",
+   "single cream (pouring cream)",
+   "grated Parmesan",
+   "butter",
+   "nutmeg",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C and heat some water for the water bath.",
+   "Wilt the spinach for 2 min in a skillet with 10 g of the butter, season with salt, add the nutmeg and squeeze out the water.",
+   "Butter 4 ramekins with the remaining butter, divide the spinach among them, then add 1 tbsp cream to each.",
+   "Crack an egg into each ramekin, pour another 1 tbsp cream around the yolk, season with salt and pepper and sprinkle with Parmesan.",
+   "Place the ramekins in a baking dish, pour in hot water to halfway up the sides and bake for 10–12 min: the white should be set and the yolk runny.",
+   "Serve immediately with a spoon."
+  ],
+  "p": "Watch the cooking closely: 1 minute too long is enough to firm up the yolk. Take them out while the white still wobbles slightly."
+ },
+ "l01-oeufs-cocotte-dinde-fumee-champignons": {
+  "t": "Baked Eggs with Smoked Turkey and Mushrooms",
+  "i": [
+   "sliced mushrooms",
+   "smoked turkey",
+   "eggs",
+   "crème fraîche",
+   "grated Emmental",
+   "butter",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C.",
+   "Sauté the mushrooms in the butter for 5 min over high heat, season with salt and pepper.",
+   "Cut the smoked turkey into strips and divide it with the mushrooms among the bottoms of 4 ramekins.",
+   "Crack one egg into each ramekin, add 1 tbsp crème fraîche and sprinkle with Emmental.",
+   "Bake in a water bath for 12–14 min, until the white is set and the cheese is golden.",
+   "Add pepper and serve piping hot."
+  ],
+  "p": "Prepare the mushroom and turkey filling the day before: in the morning all that is left is to crack the eggs."
+ },
+ "l01-oeufs-cocotte-tomate-feta": {
+  "t": "Baked Eggs with Tomato, Feta and Oregano",
+  "i": [
+   "crushed tomatoes",
+   "eggs",
+   "crumbled feta",
+   "olive oil",
+   "chopped garlic",
+   "dried oregano",
+   "basil leaves",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 190 °C.",
+   "Sauté the garlic in the oil for 30 s, add the crushed tomatoes and oregano and let reduce for 5 min.",
+   "Divide the sauce among 4 ramekins and make a small well in the center of each.",
+   "Crack an egg into each well and sprinkle feta all around.",
+   "Bake for 10–12 min, until the white is set.",
+   "Add pepper, garnish with basil and serve."
+  ],
+  "p": "No need to add salt: the feta is enough. Add a pinch of Espelette pepper or harissa for extra kick."
+ },
+ "l01-muffins-oeufs-epinards-feta": {
+  "t": "Egg Muffins with Spinach and Feta",
+  "i": [
+   "eggs",
+   "chopped spinach",
+   "crumbled feta",
+   "cherry tomatoes, quartered",
+   "single cream (pouring cream)",
+   "olive oil (for the tin)",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C and grease a 12-cup muffin tin (or use a silicone one).",
+   "Beat the eggs with the cream, a small pinch of salt and pepper.",
+   "Divide the chopped spinach, feta and cherry tomatoes among the cups.",
+   "Pour the egg mixture into the cups to three-quarters full.",
+   "Bake for 18–20 min, until the muffins are puffed and a knife comes out clean.",
+   "Let cool for 5 min before unmolding."
+  ],
+  "p": "They keep for 4 days in the refrigerator and can be frozen: 30 s in the microwave and breakfast is ready (2 muffins per person)."
+ },
+ "l01-muffins-oeufs-kefta-poivron": {
+  "t": "Egg Muffins with Kefta and Red Bell Pepper",
+  "i": [
+   "ground kefta meat (spiced ground beef or lamb)",
+   "eggs",
+   "red bell pepper, finely diced",
+   "chopped onion",
+   "chopped cilantro (coriander)",
+   "cumin and paprika",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C and grease a 12-cup muffin tin.",
+   "Sauté the kefta and onion in the oil for 5–6 min over high heat, crumbling the meat, with the cumin, paprika, salt and pepper.",
+   "Divide the meat, diced pepper and cilantro among the cups.",
+   "Beat the eggs with a pinch of salt and pour them into the cups.",
+   "Bake for 18–20 min, until well set and golden.",
+   "Unmold after resting for 5 min."
+  ],
+  "p": "Great to take to work or school: they are also good cold, with a small cucumber salad."
+ },
+ "l01-muffins-oeufs-brocoli-cheddar": {
+  "t": "Egg Muffins with Broccoli and Cheddar",
+  "i": [
+   "broccoli florets",
+   "eggs",
+   "grated cheddar",
+   "single cream (pouring cream)",
+   "mustard",
+   "butter (for the tin)",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C and butter a 12-cup muffin tin.",
+   "Cook the broccoli florets for 3 min in boiling salted water, drain, then chop coarsely.",
+   "Beat the eggs with the cream, mustard, salt and pepper, then stir in two-thirds of the cheddar.",
+   "Divide the broccoli among the cups, pour in the egg mixture and sprinkle with the remaining cheddar.",
+   "Bake for 18–20 min, until the tops are golden.",
+   "Let cool for 5 min before unmolding."
+  ],
+  "p": "Kids love them: chop the broccoli very finely so it goes unnoticed."
+ },
+ "l01-frittata-courgette-menthe-feta": {
+  "t": "Zucchini, Mint and Feta Frittata",
+  "i": [
+   "small zucchini (courgettes), grated",
+   "eggs",
+   "feta",
+   "mint leaves",
+   "olive oil",
+   "garlic",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 190 °C. Grate the zucchini, salt lightly and squeeze hard in a kitchen towel to remove the water.",
+   "In a 26 cm ovenproof skillet, heat the oil and sauté the garlic and zucchini for 4 min over medium heat.",
+   "Beat the eggs with the shredded mint and pepper, and pour over the zucchini.",
+   "Crumble the feta on top and cook for 3–4 min over low heat, without stirring, until the edges set.",
+   "Bake for 10–12 min, until the center is set and the surface is golden.",
+   "Let rest for 5 min, then cut into wedges."
+  ],
+  "p": "Squeezing the zucchini well prevents a soggy frittata: it is the key step."
+ },
+ "l01-frittata-poulet-poivrons": {
+  "t": "Chicken, Bell Pepper and Smoked Paprika Frittata",
+  "i": [
+   "cooked chicken breast, shredded",
+   "eggs",
+   "red bell pepper, cut into strips",
+   "green bell pepper, cut into strips",
+   "small onion, thinly sliced",
+   "smoked paprika",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 190 °C.",
+   "In a 26 cm ovenproof skillet, sauté the onion and peppers in the oil for 6–7 min over medium heat.",
+   "Add the shredded chicken and smoked paprika, season with salt and stir for 1 min.",
+   "Pour in the eggs beaten with salt and pepper and let set for 3 min over low heat.",
+   "Bake for 12–14 min, until the center is firm.",
+   "Let rest for 5 min and serve in wedges, hot or cold."
+  ],
+  "p": "Ideal for using up leftover roast chicken from dinner."
+ },
+ "l01-frittata-chou-fleur-curcuma": {
+  "t": "Cauliflower Frittata with Turmeric and Cilantro",
+  "i": [
+   "small cauliflower florets",
+   "eggs",
+   "grated Parmesan",
+   "turmeric and cumin",
+   "cilantro (coriander)",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 190 °C.",
+   "Steam the cauliflower for 5 min to soften it, then drain well.",
+   "In an ovenproof skillet, brown the cauliflower in the oil for 5 min with the turmeric and cumin.",
+   "Beat the eggs with the Parmesan, cilantro, salt and pepper, and pour over the cauliflower.",
+   "Let set for 3 min over low heat, then bake for 12 min.",
+   "Let cool for 5 min and cut into wedges."
+  ],
+  "p": "Turmeric gives the frittata a lovely yellow color: add a pinch of black pepper to boost its benefits."
+ },
+ "l01-oeufs-pochees-sauce-epinards-coco": {
+  "t": "Poached Eggs in Spinach Coconut Milk Sauce",
+  "i": [
+   "fresh spinach",
+   "coconut milk",
+   "eggs",
+   "garlic",
+   "grated ginger",
+   "turmeric and cumin",
+   "coconut oil",
+   "fresh chili",
+   "salt"
+  ],
+  "s": [
+   "Heat the coconut oil in a 26 cm deep skillet over medium heat. Sauté the garlic, ginger and chili for 1 min.",
+   "Add the turmeric and cumin, then the spinach by handfuls, stirring until wilted (3 min).",
+   "Pour in the coconut milk, season with salt and simmer for 4 min until the sauce thickens.",
+   "Make 6 wells with a spoon and crack an egg into each.",
+   "Cover and cook for 5–7 min over low heat, until the whites are set and the yolks are still runny.",
+   "Serve directly from the skillet."
+  ],
+  "p": "A green, fragrant alternative to shakshuka, inspired by Indian egg curries."
+ },
+ "l01-oeufs-au-plat-sauce-verte-harissa": {
+  "t": "Eggs Simmered with Green Peppers and Harissa",
+  "i": [
+   "green bell peppers, cut into strips",
+   "zucchini (courgette), diced",
+   "eggs",
+   "harissa",
+   "garlic",
+   "olive oil",
+   "parsley",
+   "caraway or cumin",
+   "salt"
+  ],
+  "s": [
+   "Heat the oil in a deep skillet over medium heat. Sauté the peppers for 8 min, until tender.",
+   "Add the zucchini, garlic, harissa and caraway. Season with salt, cover and cook for 5 min.",
+   "Add 3 tbsp water if the mixture sticks, then make 6 wells.",
+   "Crack an egg into each well, cover and cook for 5–6 min over low heat.",
+   "Sprinkle with chopped parsley and serve."
+  ],
+  "p": "A tomato-free version, greener and lower in carbs than traditional shakshuka."
+ },
+ "l01-shakshuka-blanche-yaourt": {
+  "t": "Turkish Poached Eggs with Garlic Yogurt and Chili Butter",
+  "i": [
+   "Greek yogurt",
+   "grated garlic",
+   "very fresh eggs",
+   "butter",
+   "paprika or Aleppo pepper",
+   "vinegar",
+   "dill or mint",
+   "salt"
+  ],
+  "s": [
+   "Mix the yogurt with the grated garlic and a pinch of salt. Spread it over 2 shallow bowls and let it come back to room temperature.",
+   "Bring a pan of water to a gentle simmer with the vinegar. Crack each egg into a cup.",
+   "Create a gentle swirl and slide the eggs in one at a time; poach for 3 min, then lift out with a slotted spoon and drain on paper towels.",
+   "Melt the butter in a small saucepan until foaming, remove from the heat and add the paprika.",
+   "Place 2 eggs on each bowl of yogurt, drizzle with the chili butter and sprinkle with dill. Serve immediately."
+  ],
+  "p": "This is the Turkish \"çılbır\". Very fresh eggs hold together much better when poached."
+ },
+ "l01-wrap-oeuf-dinde-avocat": {
+  "t": "Egg Wrap with Smoked Turkey and Avocado",
+  "i": [
+   "eggs",
+   "smoked turkey",
+   "avocado",
+   "lettuce leaves",
+   "mayonnaise",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Beat 2 eggs with a pinch of salt. Lightly oil a 24 cm skillet over medium heat.",
+   "Pour in the eggs, tilt the pan to cover the whole base and cook for 1 min 30 s, then flip for 30 s. Repeat with the other 2 eggs.",
+   "Let the egg crêpes cool slightly on a board.",
+   "Spread each with mayonnaise, then arrange the lettuce, smoked turkey and sliced avocado on top.",
+   "Season with pepper, roll up tightly and cut in half on the diagonal."
+  ],
+  "p": "The egg crêpes can be made the day before and keep for 2 days in the refrigerator, separated by parchment paper."
+ },
+ "l01-wrap-oeuf-thon-concombre": {
+  "t": "Egg Wrap with Tuna, Cucumber and Cream Cheese",
+  "i": [
+   "eggs",
+   "small can of tuna in water",
+   "cream cheese",
+   "cucumber sticks",
+   "lemon juice",
+   "chives",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Mix the drained tuna with the cream cheese, lemon, chives and pepper.",
+   "Beat the eggs with a pinch of salt. Cook 2 thin egg crêpes in a lightly oiled 24 cm skillet (1 min 30 s on one side, 30 s on the other).",
+   "Let them cool slightly, then spread the tuna cream over each.",
+   "Arrange the cucumber sticks along one edge.",
+   "Roll up tightly, wrap in parchment paper and cut in half."
+  ],
+  "p": "Perfect for a breakfast on the go: the parchment paper stops the wrap from unrolling."
+ },
+ "l01-burrito-oeuf-kefta-fromage": {
+  "t": "Keto Burrito with Scrambled Eggs, Kefta and Cheddar",
+  "i": [
+   "eggs",
+   "ground kefta meat (spiced ground beef or lamb)",
+   "grated cheddar",
+   "diced green bell pepper",
+   "cumin and paprika",
+   "crème fraîche",
+   "olive oil",
+   "salt"
+  ],
+  "s": [
+   "Beat 4 eggs with a pinch of salt and cook 2 large egg crêpes in a lightly oiled 26 cm skillet. Set aside.",
+   "In the same skillet, sauté the kefta with the pepper and spices for 5 min, crumbling the meat.",
+   "Add the 2 remaining beaten eggs and scramble for 1–2 min with the meat.",
+   "Fill each egg crêpe with this mixture, some cheddar and a spoonful of crème fraîche.",
+   "Fold in the sides, then roll up like a burrito. Return to the skillet for 1 min per side to melt the cheese."
+  ],
+  "p": "Add a spoonful of harissa to the crème fraîche for a spicy sauce."
+ },
+ "l01-galettes-courgette-fromage": {
+  "t": "Zucchini and Parmesan Fritters",
+  "i": [
+   "medium zucchini (courgettes)",
+   "eggs",
+   "grated Parmesan",
+   "almond flour",
+   "grated garlic",
+   "olive oil",
+   "dill or parsley",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Grate the zucchini, salt it and let it drain in a colander for 10 min.",
+   "Squeeze firmly in a clean kitchen towel to remove as much water as possible.",
+   "Mix the zucchini with the eggs, Parmesan, almond flour, garlic, dill and pepper.",
+   "Heat the oil in a large skillet over medium heat. Drop in spoonfuls of batter and flatten to 1 cm thick.",
+   "Cook for 3 min per side, until well browned. Drain on paper towels.",
+   "Serve hot with garlicky Greek yogurt."
+  ],
+  "p": "Do not overcrowd the pan: no more than 4 fritters at a time so they stay crispy."
+ },
+ "l01-galettes-chou-fleur-cheddar": {
+  "t": "Cauliflower Fritters with Cheddar and Cumin",
+  "i": [
+   "medium cauliflower",
+   "eggs",
+   "grated cheddar",
+   "almond flour",
+   "cumin",
+   "chives",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Pulse the cauliflower into fine rice-like crumbs. Cook for 4 min in the microwave (or 5 min in a dry skillet), then let cool.",
+   "Squeeze the cauliflower in a kitchen towel to remove the moisture.",
+   "Mix with the eggs, cheddar, almond flour, cumin, chives, salt and pepper.",
+   "Shape 8 fritters of 8 cm with damp hands.",
+   "Brown for 4 min per side in hot oil over medium heat, turning them gently.",
+   "Serve hot, with a fried egg if you like."
+  ],
+  "p": "You can also bake them at 200 °C for 20 min on parchment paper, turning them halfway through."
+ },
+ "l01-hash-brown-celeri-rave": {
+  "t": "Crispy Celeriac Rösti-Style Fritters",
+  "i": [
+   "celeriac (celery root), peeled",
+   "egg",
+   "almond flour",
+   "scallion",
+   "olive oil",
+   "paprika",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Grate the celeriac using the coarse holes of a grater. Salt and let sit for 5 min, then squeeze in a kitchen towel.",
+   "Mix with the egg, almond flour, thinly sliced scallion, paprika and pepper.",
+   "Heat the oil in a skillet over medium heat. Drop in 6 mounds of the mixture and flatten them thinly with a spatula.",
+   "Cook for 5 min without touching, until the underside is well browned and crispy.",
+   "Flip and continue for 4–5 min. Drain on paper towels and serve hot."
+  ],
+  "p": "Serve with a fried egg and a few slices of smoked salmon for a complete brunch."
+ },
+ "l01-avocat-farci-thon-mayo": {
+  "t": "Tuna-Stuffed Avocado with Lemony Mayonnaise and Paprika",
+  "i": [
+   "ripe avocados",
+   "small can of tuna",
+   "mayonnaise",
+   "lemon juice",
+   "finely chopped red onion",
+   "paprika",
+   "parsley",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Cut the avocados in half, remove the pits and sprinkle the flesh with a few drops of lemon.",
+   "Drain the tuna and flake it with a fork.",
+   "Mix the tuna with the mayonnaise, the remaining lemon, red onion, parsley, salt and pepper.",
+   "Scoop out the hollow of each avocado half slightly, add the scooped flesh to the filling and fill generously.",
+   "Dust with paprika and serve chilled."
+  ],
+  "p": "Lemon stops the avocado from turning brown: prepare them at the last minute or cover with plastic wrap pressed against the surface."
+ },
+ "l01-avocat-oeuf-mollet-dukkah": {
+  "t": "Avocado with Soft-Boiled Egg and Almond Dukkah",
+  "i": [
+   "avocados",
+   "eggs",
+   "almonds",
+   "sesame seeds",
+   "cumin and coriander seeds",
+   "olive oil",
+   "lemon juice",
+   "salt"
+  ],
+  "s": [
+   "Lower the eggs into boiling water for 6 min, then plunge into ice water. Peel gently.",
+   "Dry-toast the almonds, sesame, cumin and coriander for 3 min in a skillet, then crush in a mortar with a pinch of salt: this is the dukkah.",
+   "Cut the avocados in half, remove the pits and drizzle with lemon and olive oil.",
+   "Place half a soft-boiled egg in the hollow of each avocado half.",
+   "Sprinkle generously with dukkah and serve."
+  ],
+  "p": "Dukkah keeps for 2 weeks in a jar: make a bigger batch for your salads."
+ },
+ "l01-avocat-saumon-fume-fromage-frais": {
+  "t": "Avocado with Smoked Salmon and Dill Cream Cheese",
+  "i": [
+   "avocados",
+   "smoked salmon",
+   "cream cheese",
+   "dill",
+   "lemon juice",
+   "pepper"
+  ],
+  "s": [
+   "Mix the cream cheese with the dill, a few drops of lemon and pepper.",
+   "Cut the avocados in half, remove the pits and sprinkle with lemon.",
+   "Fill the hollow of each avocado half with a spoonful of dill cheese.",
+   "Roll the salmon slices into little roses and place on top.",
+   "Season with pepper and serve immediately."
+  ],
+  "p": "Replace the salmon with cooked shrimp for a change."
+ },
+ "l01-avocat-gratine-oeuf-cheddar": {
+  "t": "Baked Avocado with Egg, Cheddar and Chives",
+  "i": [
+   "avocados",
+   "small eggs",
+   "grated cheddar",
+   "chives",
+   "sweet paprika",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 200 °C. Cut the avocados in half, remove the pits and enlarge the hollow slightly with a spoon.",
+   "Wedge the avocado halves in a small dish (with crumpled aluminium foil to keep them upright).",
+   "Separate the eggs; place half a white and then a yolk in each hollow. Season with salt and pepper.",
+   "Sprinkle with cheddar and bake for 12–15 min, until the white is set.",
+   "Dust with sweet paprika and chives, and serve hot."
+  ],
+  "p": "Using only part of the white stops it from overflowing: keep the rest for an omelette."
+ },
+ "l01-guacamole-oeufs-durs-bowl": {
+  "t": "Guacamole Bowl with Hard-Boiled Eggs and Pumpkin Seeds",
+  "i": [
+   "avocados",
+   "eggs",
+   "cherry tomatoes",
+   "lemon juice",
+   "cilantro (coriander)",
+   "chopped red onion",
+   "pumpkin seeds",
+   "chili",
+   "salt"
+  ],
+  "s": [
+   "Cook the eggs for 9 min in boiling water, cool them and peel.",
+   "Mash the avocado flesh with the lemon, red onion, chili, half the cilantro and salt.",
+   "Toast the pumpkin seeds for 2 min in a dry skillet.",
+   "Divide the guacamole between 2 bowls, add the eggs cut into quarters and the cherry tomatoes cut in half.",
+   "Sprinkle with pumpkin seeds and the remaining cilantro, and serve."
+  ],
+  "p": "Hard-boiled eggs keep for 4 days in the refrigerator in their shells: make a dozen on Sunday."
+ },
+ "l01-bowl-oeufs-mollets-halloumi": {
+  "t": "Savory Bowl with Grilled Halloumi, Soft-Boiled Eggs and Spinach",
+  "i": [
+   "sliced halloumi",
+   "eggs",
+   "baby spinach",
+   "cucumber",
+   "black olives",
+   "olive oil",
+   "lemon juice",
+   "za'atar or oregano",
+   "pepper"
+  ],
+  "s": [
+   "Lower the eggs into boiling water for 6 min 30 s, then plunge into ice water. Peel.",
+   "Grill the halloumi for 2 min per side in a hot pan with no added fat.",
+   "Mix the olive oil, lemon and pepper for the dressing.",
+   "Divide the spinach and sliced cucumber between 2 bowls and drizzle with the dressing.",
+   "Add the halloumi, the eggs cut in half and the olives, and sprinkle with za'atar."
+  ],
+  "p": "Halloumi is best eaten hot: grill it at the last moment, as it turns rubbery when it cools."
+ },
+ "l01-toast-keto-avocat-oeuf-poche": {
+  "t": "Quick Keto Toast with Smashed Avocado and Poached Egg",
+  "i": [
+   "almond flour",
+   "eggs (for the bread)",
+   "melted butter",
+   "baking powder",
+   "avocado",
+   "eggs for poaching",
+   "lemon juice",
+   "vinegar",
+   "Aleppo pepper or paprika",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Quick bread: in 2 mugs or small square bowls, mix for each 3 tbsp almond flour, 1 egg, half the melted butter, ½ tsp baking powder and a pinch of salt. Microwave for 90 seconds (800 W), turn out and cut each loaf into 2 slices.",
+   "Brown the slices for 1 min per side in a dry skillet or in the toaster.",
+   "Mash the avocado with a fork with the lemon, salt and pepper.",
+   "Bring vinegared water to a gentle simmer, slide in the eggs and poach for 3 min. Drain on paper towels.",
+   "Spread the toasts with avocado, top two of them with a poached egg and sprinkle with chili pepper."
+  ],
+  "p": "The quick bread can also be baked in the oven: 12 min at 180 °C in a small buttered tin."
+ },
+ "l01-croque-keto-dinde-emmental": {
+  "t": "Keto Croque with Smoked Turkey and Emmental",
+  "i": [
+   "almond flour",
+   "eggs (for the bread)",
+   "melted butter",
+   "baking powder",
+   "smoked turkey",
+   "grated Emmental",
+   "mustard",
+   "crème fraîche",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Quick bread: in 2 mugs or small square bowls, mix for each 3 tbsp almond flour, 1 egg, half the melted butter, ½ tsp baking powder and a pinch of salt. Microwave for 90 seconds (800 W), turn out and cut each loaf into 2 slices.",
+   "Preheat the oven broiler (grill). Mix the crème fraîche with the mustard and pepper.",
+   "Spread 2 slices with this mixture, top with smoked turkey and half the Emmental, then close with the other 2 slices.",
+   "Spread the remaining cream on top and sprinkle with the remaining Emmental.",
+   "Place under the broiler for 4–5 min, until the cheese is golden and bubbling. Serve immediately."
+  ],
+  "p": "In a skillet: brown the croques for 2 min per side in a little butter, with a lid on to melt the cheese."
+ },
+ "l01-toast-keto-ricotta-tomates-basilic": {
+  "t": "Keto Toasts with Ricotta, Cherry Tomatoes and Basil",
+  "i": [
+   "almond flour",
+   "eggs (for the bread)",
+   "melted butter",
+   "baking powder",
+   "ricotta",
+   "cherry tomatoes",
+   "basil leaves",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Quick bread: in 2 mugs or small square bowls, mix for each 3 tbsp almond flour, 1 egg, half the melted butter, ½ tsp baking powder and a pinch of salt. Microwave for 90 seconds (800 W), turn out and cut each loaf into 2 slices.",
+   "Toast the slices for 1 min per side.",
+   "Season the ricotta with a pinch of salt and pepper and spread it on the toasts.",
+   "Cut the cherry tomatoes in half and arrange them on top.",
+   "Drizzle with olive oil, add the shredded basil and serve."
+  ],
+  "p": "Moroccan variation: replace the ricotta with jben (fresh white cheese) and the basil with mint."
+ },
+ "l01-crepes-salees-epinards-fromage": {
+  "t": "Savory Keto Crêpes with Spinach and Cream Cheese",
+  "i": [
+   "eggs",
+   "cream cheese (for the batter)",
+   "almond flour",
+   "spinach",
+   "ricotta",
+   "grated Parmesan",
+   "butter",
+   "garlic",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Blend the eggs, cream cheese, almond flour and a pinch of salt until you have a smooth batter. Let rest for 5 min.",
+   "Wilt the spinach with the garlic in 5 g of butter (2 min), squeeze it dry, chop it, then mix with the ricotta, Parmesan, salt and pepper.",
+   "Lightly butter a 20 cm skillet over medium-low heat. Pour in a small ladle of batter and spread it by tilting the pan.",
+   "Cook for 2 min, until the edges lift away, then flip gently with a spatula and cook for 30 s. Repeat to make 8 crêpes.",
+   "Fill each crêpe with the filling, roll up and serve warm."
+  ],
+  "p": "These crêpes are fragile: keep them small (20 cm) and flip them with a wide spatula."
+ },
+ "l01-galette-complete-keto": {
+  "t": "Keto Galette Complète with Egg, Turkey and Emmental",
+  "i": [
+   "almond flour",
+   "ground flaxseed",
+   "eggs (2 for the batter, 2 for topping)",
+   "almond milk",
+   "smoked turkey",
+   "grated Emmental",
+   "butter",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Whisk the almond flour, flax, 2 eggs, almond milk and a pinch of salt. Let rest for 5 min so the flax thickens the batter.",
+   "Melt a little butter in a 26 cm skillet over medium heat. Pour in half the batter and spread it thinly. Cook for 2 min, then flip.",
+   "Sprinkle with half the Emmental, add half the turkey and crack an egg into the center.",
+   "Cover and cook for 3–4 min, until the white is set.",
+   "Fold the edges into a square around the yolk, season with pepper and serve. Repeat for the second galette."
+  ],
+  "p": "Add a few pan-fried mushrooms for a \"forestière\" version."
+ },
+ "l01-bowl-yaourt-sale-concombre": {
+  "t": "Savory Greek Yogurt Bowl with Cucumber, Mint and Seeds",
+  "i": [
+   "Greek yogurt",
+   "diced cucumber",
+   "mint leaves",
+   "grated garlic",
+   "olive oil",
+   "pumpkin seeds",
+   "ground flaxseed",
+   "walnut halves",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Mix the yogurt with the grated garlic, a pinch of salt and pepper.",
+   "Toast the pumpkin seeds and crushed walnuts for 3 min in a dry skillet, then mix with the ground flax.",
+   "Divide the yogurt between 2 bowls and make a slight hollow in the center.",
+   "Add the diced cucumber and the shredded mint.",
+   "Sprinkle with the toasted seeds and drizzle with olive oil."
+  ],
+  "p": "Add a soft-boiled egg or a few olives for a more filling bowl."
+ },
+ "l01-riz-chou-fleur-saute-oeufs": {
+  "t": "Stir-Fried Cauliflower Rice with Eggs and Scallions",
+  "i": [
+   "cauliflower, pulsed into rice",
+   "eggs",
+   "scallions",
+   "soy sauce (alcohol-free)",
+   "oil",
+   "garlic",
+   "grated ginger",
+   "sesame seeds"
+  ],
+  "s": [
+   "Heat 1 tbsp oil in a wok or large skillet over high heat. Stir-fry the garlic, ginger and the white parts of the scallions for 1 min.",
+   "Add the cauliflower rice and stir-fry for 5 min, until tender but still firm.",
+   "Push the cauliflower to one side, add the remaining oil and pour in the beaten eggs. Scramble for 1 min, then mix into the cauliflower.",
+   "Drizzle with soy sauce and stir-fry for 1 more min.",
+   "Sprinkle with the green parts of the scallions and the sesame, and serve hot."
+  ],
+  "p": "Add leftover chicken or shrimp to make it a complete meal."
+ },
+ "l01-oeufs-benedicte-keto": {
+  "t": "Keto Eggs Benedict on Quick Bread with Hollandaise",
+  "i": [
+   "almond flour",
+   "eggs (for the bread)",
+   "melted butter",
+   "baking powder",
+   "eggs for poaching",
+   "egg yolks (sauce)",
+   "butter (sauce)",
+   "lemon juice",
+   "smoked turkey",
+   "vinegar",
+   "salt"
+  ],
+  "s": [
+   "Quick bread: in 2 mugs or small square bowls, mix for each 3 tbsp almond flour, 1 egg, half the melted butter, ½ tsp baking powder and a pinch of salt. Microwave for 90 seconds (800 W), turn out and cut each loaf into 2 slices.",
+   "Hollandaise: melt the butter for the sauce. Over a barely simmering water bath, whisk the yolks with 1 tbsp water until thickened and pale (2–3 min).",
+   "Off the heat, pour in the melted butter in a thin stream while whisking constantly, then add the lemon and a pinch of salt. Keep warm over lukewarm water.",
+   "Poach the eggs for 3 min in simmering vinegared water, then drain.",
+   "Toast the 4 slices. For each plate, top one slice with smoked turkey and a poached egg, coat with hollandaise, and serve the second slice alongside for dipping."
+  ],
+  "p": "If the hollandaise splits, whisk a spoonful of hot water in a clean bowl and gradually whisk the sauce into it."
+ },
+ "l01-gaufres-salees-fromage-chaffles": {
+  "t": "Savory Cheese Waffles (Chaffles) with Herbs",
+  "i": [
+   "eggs",
+   "grated mozzarella",
+   "almond flour",
+   "chives",
+   "garlic powder",
+   "butter (for the waffle iron)",
+   "cream cheese (for serving)",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the waffle iron and lightly brush it with butter.",
+   "Mix the eggs, mozzarella, almond flour, chives, garlic powder and pepper.",
+   "Pour a quarter of the batter into the center of the waffle iron, close and cook for 3–4 min, until the waffle is golden and crisp.",
+   "Repeat to make 4 waffles and leave them for 1 min on a rack so they crisp up.",
+   "Serve spread with cream cheese."
+  ],
+  "p": "They also work as sandwich bread: fill them with smoked turkey and lettuce."
+ },
+ "l01-quiche-sans-pate-epinards-chevre": {
+  "t": "Crustless Quiche with Spinach and Goat Cheese",
+  "i": [
+   "eggs",
+   "single cream (pouring cream)",
+   "spinach",
+   "goat cheese log",
+   "thinly sliced onion",
+   "butter",
+   "nutmeg",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Preheat the oven to 180 °C and butter a 24 cm pie dish.",
+   "Sauté the onion in the rest of the butter for 3 min, add the spinach and let it wilt for 3 min. Squeeze out the water.",
+   "Whisk the eggs with the cream, nutmeg, salt and pepper.",
+   "Spread the spinach in the dish, pour in the egg mixture and arrange the goat cheese rounds on top.",
+   "Bake for 28–30 min, until the quiche is puffed, golden and firm in the center.",
+   "Let cool for 10 min before cutting into 6 slices."
+  ],
+  "p": "Keeps for 4 days in the refrigerator; reheat a slice for 1 min in the microwave or eat it cold."
+ },
+ "l01-scotch-eggs-kefta": {
+  "t": "Baked Kefta-Wrapped Eggs (Scotch Eggs)",
+  "i": [
+   "eggs",
+   "ground kefta meat (spiced ground beef or lamb)",
+   "chopped parsley",
+   "chopped cilantro (coriander)",
+   "cumin, paprika and ras el hanout",
+   "almond flour (as breadcrumbs)",
+   "olive oil",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Boil the eggs for 7 min, plunge them into ice water and peel.",
+   "Preheat the oven to 200 °C. Mix the kefta with the herbs, spices, salt and pepper; divide into 4 portions.",
+   "Flatten each portion in your damp palm, place an egg in the center and wrap it completely, smoothing the meat well.",
+   "Roll each ball in the almond flour, place on a tray lined with parchment paper and brush with oil.",
+   "Bake for 22–25 min, turning halfway through, until the meat is well browned and cooked through (70 °C at the center).",
+   "Let rest for 5 min and cut in half to serve."
+  ],
+  "p": "For a still-creamy yolk, reduce the egg cooking time to 6 min and handle them with care."
+ },
+ "l01-tofu-brouille-curcuma": {
+  "t": "Turmeric Scrambled Tofu with Spinach and Cherry Tomatoes",
+  "i": [
+   "firm tofu",
+   "spinach",
+   "cherry tomatoes",
+   "olive oil",
+   "turmeric and cumin",
+   "scallion",
+   "coconut milk",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Drain the tofu and press it between two kitchen towels for 5 min to remove the water.",
+   "Heat the oil in a skillet over medium heat and sauté the scallion for 1 min.",
+   "Crumble the tofu by hand into the skillet, add the turmeric, cumin, salt and pepper. Cook for 5 min, stirring.",
+   "Add the coconut milk to make the mixture creamy, then the spinach and the tomatoes cut in half. Cook for 2 min.",
+   "Serve immediately, generously peppered."
+  ],
+  "p": "A 100% plant-based version of scrambled eggs, ideal for family members who do not eat eggs."
+ },
+ "l01-poelee-merguez-oeufs-poivrons": {
+  "t": "Merguez Skillet with Fried Eggs and Grilled Peppers",
+  "i": [
+   "halal merguez sausages",
+   "eggs",
+   "red bell pepper",
+   "green bell pepper",
+   "thinly sliced onion",
+   "olive oil",
+   "chopped parsley",
+   "salt"
+  ],
+  "s": [
+   "Cut the merguez into 3 cm pieces and brown for 5 min in a large skillet over medium heat, with no added fat. Pour off some of the rendered fat.",
+   "Add the oil, onion and the peppers cut into strips. Sauté for 6–7 min until tender and lightly charred.",
+   "Make 3 spaces in the pan and crack the eggs into them. Lightly salt the whites.",
+   "Cover and cook for 3–4 min over low heat, until the whites are set.",
+   "Sprinkle with parsley and serve straight from the pan."
+  ],
+  "p": "Choose halal butcher-shop merguez with a high meat content and no breadcrumbs."
+ },
+ "l01-oeufs-coque-mouillettes-asperges": {
+  "t": "Soft-Boiled Eggs with Parmesan Asparagus Soldiers",
+  "i": [
+   "extra-fresh eggs",
+   "green asparagus",
+   "butter",
+   "grated Parmesan",
+   "salt",
+   "pepper"
+  ],
+  "s": [
+   "Trim the tough ends from the asparagus. Sauté for 4–5 min in the butter over medium heat, until tender and lightly golden. Season with salt.",
+   "Meanwhile, bring a pan of water to a boil and gently lower in the room-temperature eggs with a spoon.",
+   "Cook for 3 min 30 s for a nicely runny yolk, then remove.",
+   "Roll the hot asparagus in the Parmesan.",
+   "Place the eggs in egg cups, crack off the tops and dip the asparagus soldiers in."
+  ],
+  "p": "When asparagus is out of season, use pan-fried zucchini sticks or strips of grilled halloumi."
+ },
+ "l02-pancakes-amande-moelleux": {
+  "t": "Fluffy Almond Flour Pancakes",
+  "i": [
+   "almond flour",
+   "eggs",
+   "cream cheese",
+   "unsweetened almond milk",
+   "erythritol",
+   "baking powder",
+   "alcohol-free vanilla flavoring",
+   "butter (for cooking)",
+   "salt"
+  ],
+  "s": [
+   "In a mixing bowl, whisk the eggs with the softened cream cheese until smooth and lump-free.",
+   "Add the almond milk and vanilla, then the almond flour, erythritol, baking powder and salt. Mix just enough to get a thick batter.",
+   "Let the batter rest for 5 minutes: the almond flour absorbs the liquid and the pancakes will hold together better.",
+   "Heat a non-stick skillet over medium-low heat and grease it with a little butter.",
+   "Pour 2 tablespoons of batter per pancake and spread slightly. Cook for 2 to 3 minutes until bubbles appear and the edges set.",
+   "Gently flip with a thin spatula and cook for 1 to 2 more minutes. Repeat with the remaining batter, regreasing the pan.",
+   "Serve warm with a few raspberries or a spoonful of Greek yogurt."
+  ],
+  "p": "Cook over low heat: almond flour browns faster than wheat flour. The pancakes can be frozen separated by parchment paper and reheated in the toaster."
+ },
+ "l02-pancakes-coco-fromage-blanc": {
+  "t": "Coconut Pancakes with Fromage Blanc",
+  "i": [
+   "coconut flour",
+   "eggs",
+   "fromage blanc (fresh white cheese)",
+   "erythritol",
+   "baking powder",
+   "shredded coconut",
+   "coconut oil",
+   "salt"
+  ],
+  "s": [
+   "Whisk the eggs and fromage blanc in a mixing bowl until smooth.",
+   "Add the coconut flour, erythritol, baking powder, shredded coconut and salt. Mix, then let rest for 10 minutes: the batter will thicken considerably.",
+   "If the batter is too stiff, loosen it with 1 to 2 tablespoons of water: it should coat the spoon.",
+   "Heat a skillet over medium-low heat with a little coconut oil spread with a paper towel.",
+   "Form small 8 cm pancakes (they are more fragile than classic ones) and cook for 2 to 3 minutes per side.",
+   "Keep them warm under a kitchen towel while you cook the rest."
+  ],
+  "p": "Coconut flour is very absorbent: do not swap it for almond flour at equal weight (you need about 3 times more almond flour)."
+ },
+ "l02-pancakes-ricotta-citron": {
+  "t": "Ricotta and Lemon Zest Pancakes",
+  "i": [
+   "ricotta",
+   "eggs",
+   "almond flour",
+   "lemon juice and zest",
+   "erythritol",
+   "baking powder",
+   "butter",
+   "salt"
+  ],
+  "s": [
+   "Separate the whites from the yolks. Mix the yolks with the ricotta, lemon juice and zest, and erythritol.",
+   "Fold in the almond flour and baking powder until smooth.",
+   "Whip the whites with the pinch of salt to stiff peaks, then fold them in in two batches with a spatula, lifting the batter without deflating it.",
+   "Melt a little butter in a skillet over low heat.",
+   "Drop in ladlefuls of batter, cover and cook for 3 minutes, then flip and cook for 2 more minutes.",
+   "Serve right away, they are very airy straight from the pan."
+  ],
+  "p": "The lid lets the center cook without burning the underside. Delicious with a few blackberries crushed with a fork."
+ },
+ "l02-gaufres-amande-vanille": {
+  "t": "Crispy Almond-Vanilla Waffles",
+  "i": [
+   "almond flour",
+   "eggs",
+   "melted butter",
+   "single cream (pouring cream)",
+   "erythritol",
+   "baking powder",
+   "alcohol-free vanilla flavoring",
+   "salt"
+  ],
+  "s": [
+   "Preheat the waffle iron and lightly brush it with melted butter.",
+   "Whisk the eggs with the cream, the slightly cooled melted butter and the vanilla.",
+   "Add the almond flour, erythritol, baking powder and salt. Mix to a thick, smooth batter.",
+   "Pour a ladleful of batter into the center of each grid, close and cook for 4 to 5 minutes, without opening too early.",
+   "Once the steam almost stops escaping, gently lift out with a fork.",
+   "Place the waffles on a rack for 2 minutes so they crisp up, then serve."
+  ],
+  "p": "Placing the waffles on a rack rather than in a stack stops them from going soft. They reheat very well in the toaster."
+ },
+ "l02-chaffles-sucrees-cannelle": {
+  "t": "Sweet Cinnamon Chaffles",
+  "i": [
+   "eggs",
+   "grated mozzarella",
+   "almond flour",
+   "erythritol",
+   "ground cinnamon",
+   "alcohol-free vanilla flavoring"
+  ],
+  "s": [
+   "Preheat a waffle iron (ideally a mini waffle iron).",
+   "Beat the eggs with a fork, then add the mozzarella, almond flour, erythritol, cinnamon and vanilla.",
+   "Pour a quarter of the batter into the hot waffle iron, close and cook for 3 to 4 minutes until the chaffle is well browned.",
+   "Remove and let cool for 1 minute on a rack: it firms up and becomes crisp.",
+   "Repeat with the remaining batter and serve dusted with a little erythritol mixed with cinnamon."
+  ],
+  "p": "The cheese flavor almost disappears during cooking. Add a spoonful of cocoa for a chocolate version."
+ },
+ "l02-crepes-fromage-creme": {
+  "t": "Thin Cream Cheese Crêpes",
+  "i": [
+   "eggs",
+   "cream cheese",
+   "coconut flour",
+   "erythritol",
+   "alcohol-free vanilla flavoring",
+   "butter",
+   "salt"
+  ],
+  "s": [
+   "Blend the eggs, cream cheese, coconut flour, erythritol, vanilla and salt in a blender until the batter is perfectly smooth.",
+   "Let rest for 5 minutes so the bubbles settle.",
+   "Heat a 20 cm non-stick skillet over medium heat and grease it with a knob of butter.",
+   "Pour in a small ladle of batter, tilting the pan to cover the whole base in a thin layer.",
+   "Cook for about 1 minute 30 seconds, until the edges lift away, then flip gently with a wide spatula and cook for 30 seconds.",
+   "Stack the crêpes on a plate and top with raspberries and whipped cream."
+  ],
+  "p": "These crêpes are more fragile than classic crêpes: choose a small pan and do not make them too big."
+ },
+ "l02-crepes-cacao-noisette": {
+  "t": "Cocoa Crêpes with Homemade Hazelnut Spread",
+  "i": [
+   "eggs",
+   "cream cheese",
+   "unsweetened cocoa (crêpe batter)",
+   "erythritol",
+   "toasted hazelnuts",
+   "coconut oil",
+   "cocoa (spread)",
+   "butter",
+   "salt"
+  ],
+  "s": [
+   "Spread: blend the toasted hazelnuts for a long time (5 to 8 minutes), scraping down the sides, until you get a runny paste.",
+   "Add the coconut oil, the cocoa set aside for the spread and 1 tablespoon of erythritol, blend for 1 more minute and set aside.",
+   "Crêpe batter: blend the eggs, cream cheese, the rest of the cocoa and erythritol, and the salt until smooth.",
+   "Heat a small buttered non-stick skillet over medium heat. Pour in a thin layer of batter and cook for 1 minute 30 seconds, then flip for 30 seconds.",
+   "Spread each crêpe with a spoonful of hazelnut spread, fold in four and serve."
+  ],
+  "p": "The hazelnut spread keeps for a week in a jar at room temperature; stir it before use."
+ },
+ "l02-porridge-coco-lin": {
+  "t": "Grain-Free Coconut and Flax Porridge",
+  "i": [
+   "ground flaxseed",
+   "shredded coconut",
+   "chia seeds",
+   "almond flour",
+   "coconut milk",
+   "water",
+   "erythritol",
+   "cinnamon",
+   "salt"
+  ],
+  "s": [
+   "In a small saucepan, mix the ground flax, coconut, chia, almond flour, cinnamon and salt.",
+   "Pour in the coconut milk and water, then bring to a simmer over medium heat, stirring constantly.",
+   "Cook for 3 to 4 minutes over low heat, still stirring, until the porridge thickens.",
+   "Remove from the heat, sweeten with the erythritol and let rest for 2 minutes: it keeps thickening.",
+   "Serve in bowls and top with a few raspberries or flaked almonds."
+  ],
+  "p": "Prepare the dry mix in a large batch in a jar: in the morning, just add the liquid."
+ },
+ "l02-porridge-oeuf-creme-vanille": {
+  "t": "Warm Egg Porridge, Vanilla Custard Style",
+  "i": [
+   "egg",
+   "almond flour",
+   "ground flaxseed",
+   "unsweetened almond milk",
+   "butter",
+   "erythritol",
+   "alcohol-free vanilla flavoring",
+   "raspberries"
+  ],
+  "s": [
+   "In a saucepan, mix the almond flour, flax and almond milk. Heat over low heat until simmering.",
+   "Beat the egg in a bowl. Whisk in 3 spoonfuls of the hot mixture to temper it.",
+   "Pour everything back into the saucepan and whisk constantly over very low heat for 2 to 3 minutes, until creamy (without boiling, to avoid lumps).",
+   "Off the heat, add the butter, vanilla and erythritol.",
+   "Pour into a bowl and top with raspberries."
+  ],
+  "p": "The secret is very low heat: if the egg curdles, blitz for a few seconds with an immersion blender to rescue the texture."
+ },
+ "l02-pudding-chia-vanille-framboise": {
+  "t": "Vanilla Chia Pudding with Raspberry Coulis",
+  "i": [
+   "chia seeds",
+   "coconut milk",
+   "unsweetened almond milk",
+   "erythritol",
+   "alcohol-free vanilla flavoring",
+   "raspberries (fresh or frozen)",
+   "lemon juice"
+  ],
+  "s": [
+   "In a jar, whisk the coconut milk, almond milk, vanilla and half the erythritol.",
+   "Add the chia seeds, whisk for 30 seconds, wait 5 minutes, then whisk again to prevent lumps.",
+   "Cover and refrigerate for at least 4 hours, ideally overnight.",
+   "Coulis: crush the raspberries with a fork with the remaining erythritol and the lemon juice (heat for 3 minutes if frozen).",
+   "Divide the pudding among 4 small glasses and top with coulis just before serving."
+  ],
+  "p": "Keeps for 4 days in the refrigerator: prepare the glasses on Sunday for the whole week."
+ },
+ "l02-pudding-chia-cacao": {
+  "t": "Cocoa Chia Pudding with Hazelnuts",
+  "i": [
+   "chia seeds",
+   "unsweetened almond milk",
+   "coconut cream",
+   "unsweetened cocoa",
+   "erythritol",
+   "chopped hazelnuts",
+   "salt"
+  ],
+  "s": [
+   "Whisk the almond milk with the coconut cream, cocoa, erythritol and salt until the cocoa is fully dissolved.",
+   "Add the chia seeds, whisk, wait 5 minutes and whisk again.",
+   "Divide among 3 jars, cover and refrigerate for at least 4 hours.",
+   "Toast the hazelnuts for 4 minutes in a dry skillet, then crush coarsely.",
+   "Sprinkle the puddings with hazelnuts just before serving so they stay crunchy."
+  ],
+  "p": "For a mousse-like texture, blend the set pudding with an immersion blender."
+ },
+ "l02-chia-coco-citron-menthe": {
+  "t": "Coconut, Lemon and Mint Chia Pudding",
+  "i": [
+   "chia seeds",
+   "coconut milk",
+   "lemon juice and zest",
+   "erythritol",
+   "shredded mint leaves",
+   "toasted shredded coconut"
+  ],
+  "s": [
+   "Mix the coconut milk, lemon juice and zest, and erythritol.",
+   "Add the chia seeds and shredded mint, whisk, then repeat after 5 minutes.",
+   "Let set for at least 4 hours in the refrigerator.",
+   "Toast the coconut for 2 minutes in a dry skillet, stirring.",
+   "Serve chilled, sprinkled with toasted coconut and a mint leaf."
+  ],
+  "p": "Lemon zest adds lots of fragrance without carbs: use an unwaxed lemon."
+ },
+ "l02-bowl-yaourt-fruits-rouges": {
+  "t": "Greek Yogurt Bowl with Berries and Seeds",
+  "i": [
+   "plain Greek yogurt",
+   "raspberries",
+   "blackberries",
+   "pumpkin seeds",
+   "flaked almonds",
+   "chia seeds",
+   "stevia (optional)"
+  ],
+  "s": [
+   "Whisk the Greek yogurt with a spoon for 30 seconds to make it creamier, and sweeten lightly with stevia if you like.",
+   "Pour it into a wide bowl.",
+   "Quickly toast the flaked almonds and pumpkin seeds for 2 minutes in a dry skillet.",
+   "Arrange the raspberries and blackberries on the yogurt, then sprinkle with the toasted seeds and the chia.",
+   "Enjoy immediately."
+  ],
+  "p": "Choose a full-fat plain Greek yogurt and read the label: some brands add sugar or starch."
+ },
+ "l02-bowl-yaourt-fraise-pistache": {
+  "t": "Yogurt Bowl with Strawberries and Crushed Pistachios",
+  "i": [
+   "plain Greek yogurt",
+   "strawberries",
+   "unsalted pistachios",
+   "almond butter",
+   "erythritol",
+   "alcohol-free vanilla flavoring (or vanilla powder)"
+  ],
+  "s": [
+   "Mix the yogurt with the erythritol and vanilla.",
+   "Wash, hull and quarter the strawberries.",
+   "Coarsely chop the pistachios with a knife.",
+   "Divide the yogurt between two bowls, add the strawberries and a drizzle of almond butter loosened slightly with a spoonful of water.",
+   "Sprinkle with pistachios and serve."
+  ],
+  "p": "Pistachios are higher in carbs than other nuts: use them as decorative crushed pieces rather than a big handful."
+ },
+ "l02-bowl-fromage-blanc-amlou": {
+  "t": "Fromage Blanc Bowl, Amlou Style",
+  "i": [
+   "fromage blanc (fresh white cheese)",
+   "almond butter",
+   "edible argan oil",
+   "erythritol",
+   "toasted crushed almonds",
+   "raspberries"
+  ],
+  "s": [
+   "Make a keto amlou: mix the almond butter, argan oil and erythritol until you have a smooth cream.",
+   "Divide the fromage blanc between two bowls.",
+   "Place a spoonful of keto amlou in the center and swirl it lightly with the spoon.",
+   "Sprinkle with toasted crushed almonds and raspberries.",
+   "Serve immediately."
+  ],
+  "p": "Edible (roasted) argan oil gives amlou its true flavor; do not replace it with cosmetic oil."
+ },
+ "l02-granola-noix-coco": {
+  "t": "Crunchy Keto Nut and Coconut Granola",
+  "i": [
+   "almonds",
+   "walnut halves",
+   "hazelnuts",
+   "coconut flakes or shredded coconut",
+   "pumpkin seeds",
+   "sunflower seeds",
+   "egg white",
+   "melted coconut oil",
+   "erythritol",
+   "cinnamon",
+   "alcohol-free vanilla flavoring",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 150 °C and line a baking tray with parchment paper.",
+   "Coarsely chop the almonds, walnuts and hazelnuts with a knife (or pulse in a food processor).",
+   "Whisk the egg white until frothy, then add the melted coconut oil, erythritol, vanilla, cinnamon and salt.",
+   "Pour over the nuts, coconut and seeds, and mix to coat everything well.",
+   "Spread in a thin layer on the tray, pressing lightly to form clusters.",
+   "Bake for 20 to 25 minutes, stirring halfway through, until the granola is golden.",
+   "Let cool completely on the tray without touching it: it hardens as it cools. Then break into pieces."
+  ],
+  "p": "Keeps for 3 weeks in an airtight jar. One portion (about 50 g) is served with Greek yogurt or almond milk."
+ }
+}

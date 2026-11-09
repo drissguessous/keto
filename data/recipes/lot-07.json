@@ -199,7 +199,7 @@
     "g": 3,
     "qty": 1,
     "unit": "gousse(s)",
-    "name": "gousse d'ail râpée"
+    "name": "ail râpée"
    },
    {
     "ing": "sel",
@@ -275,7 +275,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "celeri",
@@ -486,7 +486,7 @@
     "g": 5,
     "qty": 1,
     "unit": "gousse(s)",
-    "name": "gousse d'ail"
+    "name": "ail"
    },
    {
     "ing": "persil",
@@ -568,7 +568,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "mozzarella",
@@ -648,7 +648,7 @@
     "g": 100,
     "qty": 8,
     "unit": "tranche(s)",
-    "name": "tranches de dinde fumée"
+    "name": "dinde fumée"
    },
    {
     "ing": "mozzarella",
@@ -786,7 +786,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "huile_olive",
@@ -1004,14 +1004,14 @@
     "g": 3,
     "qty": 0.5,
     "unit": "gousse(s)",
-    "name": "gousse d'ail"
+    "name": "ail"
    },
    {
     "ing": "vinaigre",
     "g": 10,
     "qty": 2,
     "unit": "c. à c.",
-    "name": "vinaigre balsamique ou de vin"
+    "name": "vinaigre de cidre (ou balsamique) ou de vin"
    },
    {
     "ing": "sel",
@@ -1070,7 +1070,7 @@
     "g": 45,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "gingembre",
@@ -1084,7 +1084,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "huile_tournesol",
@@ -1194,7 +1194,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "huile_tournesol",
@@ -1208,7 +1208,7 @@
     "g": 5,
     "qty": 1,
     "unit": "gousse(s)",
-    "name": "gousse d'ail"
+    "name": "ail"
    },
    {
     "ing": "poivre",
@@ -1268,7 +1268,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "epices",
@@ -1289,7 +1289,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "gingembre",
@@ -1411,7 +1411,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "citron",
@@ -1425,7 +1425,7 @@
     "g": 15,
     "qty": 1,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "huile_coco",
@@ -1526,7 +1526,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "huile_coco",
@@ -1634,14 +1634,14 @@
     "g": 45,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "ail",
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "sesame",
@@ -1737,7 +1737,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "concentre_tomate",
@@ -1818,7 +1818,7 @@
     "g": 60,
     "qty": 4,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "erythritol",
@@ -1839,7 +1839,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "vinaigre",
@@ -1947,7 +1947,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "oignon_vert",
@@ -2021,7 +2021,7 @@
     "g": 45,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "gingembre",
@@ -2035,7 +2035,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "erythritol",
@@ -2049,7 +2049,7 @@
     "g": 400,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-chou blanc émincé"
+    "name": "chou blanc émincé"
    },
    {
     "ing": "huile_tournesol",
@@ -2123,7 +2123,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "menthe",
@@ -2231,7 +2231,7 @@
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "gingembre",
@@ -2340,7 +2340,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "gingembre",
@@ -2449,7 +2449,7 @@
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "gingembre",
@@ -2539,7 +2539,7 @@
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "gingembre",
@@ -2655,7 +2655,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "gingembre",
@@ -2998,7 +2998,7 @@
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "tomate_concassee",
@@ -3121,7 +3121,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "fromage_creme",
@@ -3196,7 +3196,7 @@
     "g": 30,
     "qty": 6,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "huile_olive",
@@ -3311,7 +3311,7 @@
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "yaourt_grec",
@@ -3434,7 +3434,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "tahini",
@@ -3509,7 +3509,7 @@
     "g": 300,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi chou-fleur cru"
+    "name": "chou-fleur cru"
    },
    {
     "ing": "persil",
@@ -3738,7 +3738,7 @@
     "g": 60,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-poivron rouge haché"
+    "name": "poivron rouge haché"
    },
    {
     "ing": "concentre_tomate",
@@ -3841,7 +3841,7 @@
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "epices",
@@ -3942,7 +3942,7 @@
     "g": 50,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-poivron vert"
+    "name": "poivron vert"
    },
    {
     "ing": "oignon_rouge",
@@ -3991,7 +3991,7 @@
     "g": 10,
     "qty": 2,
     "unit": "c. à c.",
-    "name": "vinaigre de vin"
+    "name": "vinaigre de cidre"
    },
    {
     "ing": "epices",
@@ -4065,7 +4065,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "tomate_concassee",
@@ -4174,7 +4174,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "oignon",
@@ -4436,8 +4436,7 @@
   "difficulty": "Facile",
   "tags": [
    "Monde",
-   "Famille",
-   "Rapide"
+   "Famille"
   ],
   "ingredients": [
    {
@@ -4547,7 +4546,7 @@
     "g": 60,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-carotte"
+    "name": "carotte"
    },
    {
     "ing": "oignon",
@@ -4678,7 +4677,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "vinaigre de vin rouge (remplace le vin)"
+    "name": "vinaigre de cidre (remplace le vin)"
    },
    {
     "ing": "concentre_tomate",
@@ -4699,14 +4698,14 @@
     "g": 60,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-carotte"
+    "name": "carotte"
    },
    {
     "ing": "ail",
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "champignon",
@@ -4766,7 +4765,7 @@
    "30 min avant la fin, faites sauter les champignons dans le beurre jusqu'à ce qu'ils soient dorés et ajoutez-les à la cocotte.",
    "Retirez le couvercle les 15 dernières minutes pour réduire la sauce. Rectifiez et parsemez de persil."
   ],
-  "tips": "Un trait de vinaigre de vin rouge donne l'acidité du vin sans alcool. Encore meilleur réchauffé le lendemain."
+  "tips": "Un trait de vinaigre de cidre donne l'acidité du vin sans alcool. Encore meilleur réchauffé le lendemain."
  },
  {
   "id": "l07-poulet-basquaise",
@@ -4785,10 +4784,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 900,
+    "g": 630,
     "qty": 4,
     "unit": "pièce(s)",
-    "name": "cuisses de poulet"
+    "name": "cuisses de poulet",
+    "g_achat": 900
    },
    {
     "ing": "poivron_rouge",
@@ -4816,7 +4816,7 @@
     "g": 15,
     "qty": 3,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "tomate_concassee",
@@ -4873,8 +4873,7 @@
   "servings": 2,
   "difficulty": "Facile",
   "tags": [
-   "Monde",
-   "Rapide"
+   "Monde"
   ],
   "ingredients": [
    {
@@ -4917,7 +4916,7 @@
     "g": 400,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi chou-fleur"
+    "name": "chou-fleur"
    },
    {
     "ing": "parmesan",
@@ -5084,7 +5083,7 @@
     "g": 120,
     "qty": 4,
     "unit": "tranche(s)",
-    "name": "tranches de dinde fumée"
+    "name": "dinde fumée"
    },
    {
     "ing": "emmental",
@@ -5158,7 +5157,7 @@
     "g": 80,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-poivron rouge"
+    "name": "poivron rouge"
    },
    {
     "ing": "tomate_concassee",
@@ -5179,7 +5178,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "huile_olive",
@@ -5268,7 +5267,7 @@
     "g": 5,
     "qty": 1,
     "unit": "gousse(s)",
-    "name": "gousse d'ail"
+    "name": "ail"
    },
    {
     "ing": "emmental",
@@ -5326,8 +5325,7 @@
   "difficulty": "Facile",
   "tags": [
    "Monde",
-   "Végétarien",
-   "Rapide"
+   "Végétarien"
   ],
   "ingredients": [
    {
@@ -5342,7 +5340,7 @@
     "g": 25,
     "qty": 5,
     "unit": "gousse(s)",
-    "name": "gousses d'ail en chemise"
+    "name": "ail en chemise"
    },
    {
     "ing": "beurre",
@@ -5472,7 +5470,7 @@
     "g": 5,
     "qty": 1,
     "unit": "gousse(s)",
-    "name": "gousse d'ail"
+    "name": "ail"
    }
   ],
   "steps": [
@@ -5524,7 +5522,8 @@
     "g": 100,
     "qty": 400,
     "unit": "g",
-    "name": "moules (poids avec coquilles, ~100 g de chair)"
+    "name": "moules (poids avec coquilles, ~100 g de chair)",
+    "g_achat": 400
    },
    {
     "ing": "poulet_cuisse",
@@ -5552,7 +5551,7 @@
     "g": 10,
     "qty": 2,
     "unit": "gousse(s)",
-    "name": "gousses d'ail"
+    "name": "ail"
    },
    {
     "ing": "epices",
@@ -5648,7 +5647,7 @@
     "g": 5,
     "qty": 1,
     "unit": "gousse(s)",
-    "name": "gousse d'ail"
+    "name": "ail"
    },
    {
     "ing": "citron",

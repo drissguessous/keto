@@ -1,6 +1,6 @@
 /* Service worker (version web / iPhone) : l'application fonctionne hors ligne
    et les photos déjà vues restent disponibles sans connexion. */
-const APP = "kf-app-v1.4.2";
+const APP = "kf-app-v1.5.0";
 const PHOTOS = "kf-photos-v2";
 const MAX_PHOTOS = 300; // limite du cache photos (les plus anciennes sont retirées)
 const SHELL = ["./", "index.html", "styles.css", "app.js", "content.js", "recipes.js", "photo-keywords.js",

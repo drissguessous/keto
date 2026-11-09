@@ -1,0 +1,228 @@
+{
+ "PROGRAM": [
+  {
+   "week": 1,
+   "title": "Démarrage",
+   "subtitle": "On sort du sucre en douceur",
+   "goals": [
+    "Rester sous la limite de glucides nets chaque jour",
+    "Boire au moins 2 litres d'eau par jour",
+    "Saler un peu plus les plats (bouillon, eau salée) contre la « grippe céto »",
+    "Vider les placards : sucre, pain blanc, gâteaux, sodas"
+   ],
+   "text": "La première semaine, le corps épuise ses réserves de glucose. Fatigue, maux de tête ou irritabilité peuvent apparaître vers le 2e–4e jour : c'est normal et passager. Mangez à votre faim, buvez beaucoup et ajoutez du sel, du magnésium et du potassium (avocat, épinards, bouillon)."
+  },
+  {
+   "week": 2,
+   "title": "Adaptation",
+   "subtitle": "Le corps apprend à brûler les graisses",
+   "goals": [
+    "Prévoir ses repas la veille (batch cooking le week-end)",
+    "Atteindre son objectif de protéines à chaque repas",
+    "Remplacer les collations sucrées par des noix, olives ou fromage",
+    "Marcher 20 à 30 minutes par jour"
+   ],
+   "text": "L'énergie revient, la faim diminue souvent. C'est le bon moment pour installer des routines : courses avec une liste, repas préparés d'avance, et un petit-déjeuner riche en protéines."
+  },
+  {
+   "week": 3,
+   "title": "Consolidation",
+   "subtitle": "On affine et on varie",
+   "goals": [
+    "Tester 3 nouvelles recettes de l'application",
+    "Se peser 1 à 2 fois par semaine, toujours le matin à jeun",
+    "Écouter sa faim : ne pas manger par habitude",
+    "Préparer une solution pour les sorties (restaurant, invitations)"
+   ],
+   "text": "Le poids peut stagner quelques jours : c'est fréquent (eau, cycle hormonal). Regardez la tendance sur plusieurs semaines, vos mensurations et votre énergie plutôt qu'un chiffre isolé."
+  },
+  {
+   "week": 4,
+   "title": "Routine durable",
+   "subtitle": "Faire du keto un mode de vie",
+   "goals": [
+    "Composer ses propres assiettes : protéine + légumes verts + bonne graisse",
+    "Garder 2 ou 3 recettes « joker » toujours possibles",
+    "Faire le bilan avec l'onglet Suivi",
+    "Décider de la suite : continuer, ou réintroduire doucement certains glucides"
+   ],
+   "text": "Vous avez maintenant les bons réflexes. Continuez à suivre votre poids et votre énergie. Si vous souhaitez sortir du keto, réintroduisez les glucides progressivement (fruits rouges, légumineuses) en surveillant vos sensations."
+  }
+ ],
+ "TIPS": [
+  "Un bouillon salé ou une pincée de sel dans l'eau aide beaucoup contre la fatigue des premiers jours.",
+  "Les glucides « nets » = glucides totaux – fibres. Ce sont eux que l'on compte.",
+  "Méfiez-vous des sauces industrielles : ketchup et sauces barbecue contiennent souvent beaucoup de sucre.",
+  "Un œuf dur et quelques olives : la collation keto la plus simple qui soit.",
+  "Le chou-fleur râpé remplace très bien le riz ou la semoule.",
+  "Préparez une grande quantité de kefta ou de poulet le dimanche pour toute la semaine.",
+  "Le thé à la menthe se boit très bien sans sucre… ou avec quelques gouttes de stévia.",
+  "Lisez les étiquettes : le sucre se cache sous les noms dextrose, maltodextrine, sirop de glucose.",
+  "Les légumes verts (épinards, courgettes, haricots verts) sont vos meilleurs alliés : peu de glucides, beaucoup de volume.",
+  "Dormez bien : le manque de sommeil augmente les envies de sucre.",
+  "Une crampe la nuit ? Pensez au magnésium et au potassium (avocat, amandes, épinards).",
+  "L'huile d'olive, le beurre et l'avocat sont des graisses de qualité. Évitez les huiles de friture répétée.",
+  "Au restaurant : grillade + salade + légumes, sans pain ni frites. Simple et efficace.",
+  "Pas faim au petit-déjeuner ? Ce n'est pas grave, le keto coupe souvent la faim du matin.",
+  "Les fruits rouges (framboises, fraises) restent possibles en petite quantité.",
+  "Les fruits secs sucrés (dattes, figues sèches, raisins) sont à éviter : très riches en sucre.",
+  "Un carré de chocolat noir 85 % peut calmer une envie de sucré.",
+  "La pesée quotidienne fait varier le moral : regardez plutôt la tendance hebdomadaire.",
+  "Gardez toujours des œufs, du thon et de l'avocat à la maison : un repas en 10 minutes.",
+  "Mâchez lentement : la satiété met environ 20 minutes à arriver.",
+  "Le lait contient du sucre (lactose). Préférez la crème, le lait d'amande non sucré ou le lait de coco.",
+  "Bougez après le repas : 10 minutes de marche améliorent la digestion et la glycémie.",
+  "Les épices (cumin, paprika, ras el hanout, curcuma) donnent du goût sans glucides.",
+  "Les fêtes et invitations arrivent : mangez avant de partir pour éviter les tentations.",
+  "Un écart n'annule pas vos efforts. Reprenez simplement au repas suivant.",
+  "Le fromage est pratique mais calorique : attention aux quantités si le poids stagne.",
+  "Les boissons « zéro » restent sucrées en goût : limitez-les pour réduire l'envie de sucre.",
+  "Félicitez-vous : chaque jour tenu est une victoire. Partagez vos recettes préférées avec la famille !"
+ ],
+ "FOODS": {
+  "oui": [
+   [
+    "🥩",
+    "Viandes et volailles",
+    "bœuf, agneau, poulet, dinde, kefta maison"
+   ],
+   [
+    "🐟",
+    "Poissons et fruits de mer",
+    "sardines, saumon, thon, crevettes, merlan"
+   ],
+   [
+    "🥚",
+    "Œufs",
+    "à volonté, sous toutes les formes"
+   ],
+   [
+    "🥑",
+    "Bonnes graisses",
+    "huile d'olive, beurre, smen, avocat, huile de coco, olives"
+   ],
+   [
+    "🥬",
+    "Légumes verts",
+    "épinards, courgettes, salade, concombre, brocoli, chou-fleur, poivrons"
+   ],
+   [
+    "🧀",
+    "Fromages et crème",
+    "fromages affinés, crème fraîche, mascarpone, yaourt grec nature"
+   ],
+   [
+    "🌰",
+    "Noix et graines",
+    "amandes, noix, noisettes, graines de chia, de lin, de courge"
+   ],
+   [
+    "🍓",
+    "Fruits rouges",
+    "framboises, fraises, mûres (petites portions)"
+   ],
+   [
+    "🌿",
+    "Herbes et épices",
+    "menthe, coriandre, persil, cumin, ras el hanout, citron confit"
+   ]
+  ],
+  "modere": [
+   [
+    "🍅",
+    "Tomates, oignons, carottes",
+    "en petite quantité pour le goût"
+   ],
+   [
+    "🥛",
+    "Lait",
+    "contient du lactose, préférer la crème ou le lait d'amande"
+   ],
+   [
+    "🥜",
+    "Cacahuètes, noix de cajou",
+    "plus riches en glucides que les amandes"
+   ],
+   [
+    "🍫",
+    "Chocolat noir 85 % et plus",
+    "un ou deux carrés"
+   ]
+  ],
+  "non": [
+   [
+    "🍞",
+    "Pain, msemen, baghrir classiques",
+    "farine de blé : voir les versions keto"
+   ],
+   [
+    "🍚",
+    "Riz, pâtes, semoule, couscous",
+    "remplacer par du chou-fleur ou des courgettes"
+   ],
+   [
+    "🥔",
+    "Pommes de terre, patates douces",
+    "trop riches en amidon"
+   ],
+   [
+    "🫘",
+    "Légumineuses",
+    "lentilles, pois chiches, haricots secs"
+   ],
+   [
+    "🍬",
+    "Sucre et pâtisseries",
+    "sucre, miel, confiture, gâteaux, chebakia"
+   ],
+   [
+    "🍌",
+    "Fruits sucrés et fruits secs",
+    "banane, raisin, dattes, figues sèches, jus de fruits"
+   ],
+   [
+    "🥤",
+    "Boissons sucrées",
+    "sodas, jus, thé sucré"
+   ]
+  ]
+ },
+ "FAQ": [
+  [
+   "Qu'est-ce que le keto ?",
+   "Une alimentation très pauvre en glucides (souvent moins de 20 à 30 g nets par jour), modérée en protéines et riche en bonnes graisses. Le corps utilise alors les graisses comme source principale d'énergie."
+  ],
+  [
+   "C'est quoi la « grippe céto » ?",
+   "Fatigue, maux de tête ou nausées pendant les premiers jours, liés à la perte d'eau et de sels minéraux. Buvez beaucoup, salez vos plats, prenez un bouillon. Cela passe en général en moins d'une semaine."
+  ],
+  [
+   "Combien de temps pour voir des résultats ?",
+   "La première semaine, on perd surtout de l'eau. Ensuite la perte est plus lente et régulière. Comptez au moins 4 semaines avant de faire un vrai bilan."
+  ],
+  [
+   "Puis-je faire du sport ?",
+   "Oui. Les premiers jours, privilégiez la marche et les efforts modérés, le temps que le corps s'adapte."
+  ],
+  [
+   "Le keto convient-il à tout le monde ?",
+   "Non. Demandez l'avis de votre médecin avant de commencer si vous êtes enceinte ou allaitez, si vous avez un diabète traité, une maladie des reins, du foie, du pancréas ou de la vésicule, si vous prenez un traitement pour la tension, ou si vous avez des antécédents de troubles alimentaires. Ce programme n'est pas destiné aux enfants et adolescents."
+  ],
+  [
+   "Viande, volaille et œufs : quelle cuisson ?",
+   "Volaille, viande hachée et foie doivent être cuits à cœur, sans trace de rose (70 °C). Œufs à jaune coulant, œufs crus (mousse, mayonnaise maison), poisson cru et saumon fumé sont déconseillés aux femmes enceintes, aux enfants de moins de 5 ans et aux personnes âgées ou fragiles : préférez alors des versions bien cuites."
+  ],
+  [
+   "Les recettes sont-elles halal ?",
+   "Oui : ni porc, ni alcool, ni gélatine animale (l'agar-agar la remplace). Utilisez de l'arôme de vanille et de la sauce soja sans alcool. Pour les fromages affinés (parmesan, emmental…), choisissez-les avec présure microbienne ou certifiés halal si c'est important pour vous."
+  ],
+  [
+   "Comment sont calculés les prix ?",
+   "À partir de prix moyens constatés au Maroc (grandes surfaces et marchés). Pour la viande avec os ou le poisson entier, le coût tient compte du poids acheté, et les calories du poids réellement mangé. Vous pouvez corriger chaque prix dans Profil › Mes prix."
+  ],
+  [
+   "Que faire en cas d'écart ?",
+   "Rien de grave. Reprenez normalement au repas suivant, buvez de l'eau, et ne cherchez pas à « compenser » en sautant des repas."
+  ]
+ ]
+}

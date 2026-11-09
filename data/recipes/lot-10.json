@@ -1482,7 +1482,7 @@
     "g": 15,
     "qty": 1,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "gingembre",
@@ -1942,7 +1942,7 @@
    "Remontez très lentement le mixeur pour incorporer le reste de l'huile, en 20 secondes environ.",
    "Goûtez, poivrez et ajustez le citron. Transférez dans un bocal propre."
   ],
-  "tips": "Se garde 4 jours au réfrigérateur dans un bocal fermé. Avec un œuf très frais uniquement ; évitez-la pour les femmes enceintes."
+  "tips": "Se garde 4 jours au réfrigérateur dans un bocal fermé. Avec un œuf très frais uniquement. Contient des œufs crus : déconseillé aux femmes enceintes, aux enfants de moins de 5 ans et aux personnes âgées ou fragiles."
  },
  {
   "id": "l10-aioli-provencal",
@@ -2009,7 +2009,7 @@
    "Ajoutez le jus de citron à la fin, en fouettant, puis rectifiez l'assaisonnement.",
    "Réservez au frais au moins 30 minutes pour que l'ail infuse."
   ],
-  "tips": "Si l'aïoli tranche, repartez d'un jaune neuf et incorporez la sauce ratée petit à petit. Parfait avec le poisson grillé et les légumes vapeur."
+  "tips": "Si l'aïoli tranche, repartez d'un jaune neuf et incorporez la sauce ratée petit à petit. Parfait avec le poisson grillé et les légumes vapeur. Contient des œufs crus : déconseillé aux femmes enceintes, aux enfants de moins de 5 ans et aux personnes âgées ou fragiles."
  },
  {
   "id": "l10-pesto-basilic-amandes",
@@ -3052,7 +3052,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -3284,7 +3284,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "epices",
@@ -3358,7 +3358,7 @@
     "g": 2,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "vanille"
+    "name": "arôme de vanille sans alcool (ou vanille en poudre)"
    }
   ],
   "steps": [
@@ -3461,7 +3461,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "erythritol",

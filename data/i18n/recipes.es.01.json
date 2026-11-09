@@ -1,0 +1,1299 @@
+{
+ "l00-omelette-epinards-fromage": {
+  "t": "Tortilla esponjosa de espinacas y queso",
+  "i": [
+   "huevos",
+   "espinacas frescas",
+   "emmental rallado",
+   "mantequilla",
+   "nata fresca entera",
+   "sal",
+   "pimienta negra"
+  ],
+  "s": [
+   "Bate los huevos con la nata fresca, la sal y la pimienta en un bol.",
+   "Derrite la mitad de la mantequilla en una sartén a fuego medio y rehoga las espinacas 2 minutos; resérvalas.",
+   "Añade el resto de la mantequilla a la sartén, vierte los huevos batidos y deja cuajar 3 minutos a fuego medio-bajo, llevando los bordes hacia el centro.",
+   "Reparte las espinacas y el emmental sobre una mitad de la tortilla y tapa 1 o 2 minutos hasta que el queso se derrita.",
+   "Dobla la tortilla por la mitad, córtala en dos porciones y sirve enseguida."
+  ],
+  "p": "Sustituye las espinacas por champiñones o pimientos verdes, según lo que tengas en la nevera."
+ },
+ "l00-muffins-oeufs-legumes": {
+  "t": "Muffins de huevo, pimiento y queso",
+  "i": [
+   "huevos",
+   "pimiento rojo en dados pequeños",
+   "cebolleta picada",
+   "cheddar o edam rallado",
+   "leche entera",
+   "aceite de oliva",
+   "sal",
+   "pimentón"
+  ],
+  "s": [
+   "Precalienta el horno a 180 °C y unta con aceite un molde de 6 muffins.",
+   "Bate los huevos con la leche, la sal y el pimentón.",
+   "Reparte el pimiento, la cebolleta y la mitad del queso en el fondo de los huecos.",
+   "Vierte la mezcla de huevo hasta tres cuartos de cada hueco y espolvorea con el resto del queso.",
+   "Hornea de 18 a 20 minutos, hasta que los muffins estén hinchados y dorados.",
+   "Deja templar 5 minutos antes de desmoldar (2 muffins por persona)."
+  ],
+  "p": "Se conservan 4 días en la nevera: caliéntalos 30 segundos en el microondas para un desayuno exprés."
+ },
+ "l00-pudding-chia-coco": {
+  "t": "Pudin de chía con leche de coco y canela",
+  "i": [
+   "semillas de chía",
+   "leche de coco en conserva",
+   "agua",
+   "eritritol",
+   "canela molida",
+   "aroma de vainilla sin alcohol",
+   "almendras laminadas tostadas"
+  ],
+  "s": [
+   "Mezcla la leche de coco, el agua, el eritritol, la canela y la vainilla en un bol.",
+   "Añade las semillas de chía y bate 1 minuto para evitar grumos.",
+   "Espera 5 minutos y bate de nuevo.",
+   "Reparte en dos vasitos, tapa y refrigera al menos 4 horas o toda la noche.",
+   "En el momento de servir, espolvorea con las almendras laminadas tostadas."
+  ],
+  "p": "Prepara 4 vasitos el domingo por la noche: se conservan 3 días en frío."
+ },
+ "l00-msemen-keto-amande": {
+  "t": "Msemen keto de harina de almendra",
+  "i": [
+   "mozzarella rallada",
+   "queso crema (tipo Kiri o Philadelphia)",
+   "harina de almendra",
+   "huevo",
+   "levadura química",
+   "sal",
+   "mantequilla derretida",
+   "aceite de oliva"
+  ],
+  "s": [
+   "Derrite la mozzarella y el queso crema en el microondas 1 minuto y 30 segundos, removiendo a la mitad.",
+   "Añade la harina de almendra, la levadura, la sal y el huevo, y amasa hasta obtener una masa homogénea.",
+   "Divide en 4 bolas, úntalas ligeramente con aceite y extiéndelas entre dos hojas de papel de horno formando cuadrados finos.",
+   "Pincela con mantequilla derretida, dobla cada cuadrado en tres y otra vez en tres para formar un cuadradito hojaldrado, y aplánalo con suavidad.",
+   "Cocina en una sartén antiadherente con aceite a fuego medio de 3 a 4 minutos por cada lado, hasta que estén bien dorados.",
+   "Sirve caliente con un chorrito de mantequilla derretida o con queso fresco."
+  ],
+  "p": "Para la versión dulce, sirve con un almíbar casero de eritritol y mantequilla; para la salada, rellena con carne picada especiada antes de doblar."
+ },
+ "l00-pancakes-fromage-frais": {
+  "t": "Tortitas keto de queso fresco",
+  "i": [
+   "huevos",
+   "queso crema (tipo Philadelphia)",
+   "harina de almendra",
+   "eritritol",
+   "levadura química",
+   "canela",
+   "mantequilla para cocinar"
+  ],
+  "s": [
+   "Tritura los huevos, el queso crema, la harina de almendra, el eritritol, la levadura y la canela hasta obtener una masa lisa.",
+   "Deja reposar la masa 2 minutos para que espese ligeramente.",
+   "Calienta una sartén antiadherente a fuego medio-bajo con un poco de mantequilla.",
+   "Vierte pequeños cazos de masa y cocina 2 minutos, hasta que aparezcan burbujas; da la vuelta con delicadeza y cocina 1 minuto más.",
+   "Sirve caliente con un poco de mantequilla o unas frambuesas."
+  ],
+  "p": "Haz tortitas pequeñas (8 cm): sin harina de trigo son frágiles y es más fácil darles la vuelta cuando son pequeñas."
+ },
+ "l00-chakchouka-keto": {
+  "t": "Chakchuka de huevos y pimientos",
+  "i": [
+   "aceite de oliva",
+   "pimiento verde",
+   "tomate mediano",
+   "cebolla",
+   "dientes de ajo",
+   "comino",
+   "pimentón dulce",
+   "huevos",
+   "sal",
+   "cilantro fresco picado"
+  ],
+  "s": [
+   "Corta el pimiento en tiras, el tomate en dados y pica finamente la cebolla y el ajo.",
+   "Sofríe la cebolla y el pimiento en el aceite de oliva a fuego medio de 6 a 7 minutos.",
+   "Añade el ajo, el comino, el pimentón y la sal, mezcla 1 minuto y agrega el tomate.",
+   "Cocina 7 minutos a fuego lento, hasta que la salsa espese.",
+   "Haz 4 huecos en la salsa, casca los huevos dentro, tapa y cocina de 4 a 5 minutos hasta que las claras cuajen.",
+   "Espolvorea con cilantro y sirve directamente en la sartén."
+  ],
+  "p": "Limita el tomate y la cebolla a las cantidades indicadas para mantenerte por debajo de 8 g de carbohidratos; añade una pizca de harissa para darle más punch."
+ },
+ "l00-avocat-oeuf-four": {
+  "t": "Aguacates rellenos de huevo al horno",
+  "i": [
+   "aguacate grande maduro",
+   "huevos pequeños",
+   "sal",
+   "pimienta",
+   "pimiento de Espelette o pimentón",
+   "aceite de oliva",
+   "cebollino picado"
+  ],
+  "s": [
+   "Precalienta el horno a 200 °C.",
+   "Corta el aguacate por la mitad, retira el hueso y ahueca ligeramente la pulpa para agrandar la cavidad.",
+   "Coloca las mitades de aguacate en una fuente pequeña (con papel de aluminio arrugado) para que se mantengan rectas.",
+   "Casca un huevo en cada cavidad, sala, pimienta y rocía con un chorrito de aceite de oliva.",
+   "Hornea de 12 a 15 minutos, hasta que la clara cuaje.",
+   "Espolvorea con pimentón y cebollino antes de servir."
+  ],
+  "p": "Guarda la pulpa retirada con un poco de limón: te servirá para un guacamole rápido en la merienda."
+ },
+ "l00-tajine-poulet-citron-olives": {
+  "t": "Tajín de pollo con limón en conserva y aceitunas",
+  "i": [
+   "muslos de pollo con piel",
+   "cebolla mediana rallada",
+   "dientes de ajo machacados",
+   "aceite de oliva",
+   "jengibre molido",
+   "cúrcuma",
+   "azafrán o colorante de azafrán",
+   "limón en conserva",
+   "aceitunas verdes o moradas sin hueso",
+   "perejil y cilantro picados",
+   "agua",
+   "sal"
+  ],
+  "s": [
+   "Mezcla la cebolla rallada, el ajo, el aceite, el jengibre, la cúrcuma, el azafrán, la sal y la mitad de las hierbas; cubre el pollo con este adobo durante 15 minutos (o toda la noche en la nevera).",
+   "Coloca el pollo y el adobo en un tajín o una cazuela y sofríe 5 minutos a fuego medio, dando la vuelta a las piezas.",
+   "Añade el agua, tapa y cocina a fuego lento 40 minutos, regando de vez en cuando.",
+   "Enjuaga las aceitunas, corta la corteza del limón en conserva en tiras (sin la pulpa) y añádelas al tajín.",
+   "Continúa la cocción tapado 15 minutos, hasta que la salsa se reduzca y quede untuosa.",
+   "Espolvorea con el resto del perejil y el cilantro y sirve con arroz de coliflor o una ensalada verde, sin pan."
+  ],
+  "p": "Las aceitunas y el limón en conserva son salados: prueba antes de añadir sal al final de la cocción. El tajín está aún mejor recalentado al día siguiente."
+ },
+ "l00-tajine-kefta-oeufs": {
+  "t": "Tajín de kefta con tomate y huevos",
+  "i": [
+   "carne picada de ternera (15 % de grasa)",
+   "cebolla finamente picada",
+   "perejil y cilantro picados",
+   "comino",
+   "pimentón",
+   "sal",
+   "tomates troceados",
+   "dientes de ajo",
+   "aceite de oliva",
+   "huevos",
+   "guindilla (opcional)"
+  ],
+  "s": [
+   "Mezcla la carne con la cebolla, la mitad de las hierbas, el comino, el pimentón y la mitad de la sal, y forma una veintena de albóndigas pequeñas.",
+   "En un tajín o una sartén grande, calienta el aceite, añade el ajo machacado y los tomates, el resto de la sal y la guindilla; cocina 10 minutos a fuego medio.",
+   "Coloca las albóndigas en la salsa, tapa y cocina a fuego lento 15 minutos, dándoles la vuelta a mitad de cocción.",
+   "Casca los huevos entre las albóndigas, tapa y cocina 5 minutos hasta que las claras cuajen.",
+   "Espolvorea con el resto de las hierbas y sirve muy caliente."
+  ],
+  "p": "Prepara el doble de albóndigas crudas y congélalas extendidas: se cocinan directamente en la salsa sin descongelar (añade 5 minutos)."
+ },
+ "l00-salade-zaalouk-oeufs": {
+  "t": "Zaalouk de berenjena con huevos duros",
+  "i": [
+   "berenjenas",
+   "tomates",
+   "dientes de ajo",
+   "aceite de oliva",
+   "comino",
+   "pimentón dulce",
+   "zumo de limón",
+   "cilantro y perejil picados",
+   "huevos",
+   "sal"
+  ],
+  "s": [
+   "Pela las berenjenas dejando una tira sí y otra no, córtalas en dados y cuécelas al vapor 15 minutos.",
+   "Mientras tanto, cuece los huevos 10 minutos en agua hirviendo, enfríalos y pélalos.",
+   "En una sartén, sofríe el ajo machacado en el aceite de oliva 1 minuto, añade los tomates sin semillas en dados y cocina 5 minutos.",
+   "Agrega las berenjenas, el comino, el pimentón y la sal, y machaca con un tenedor removiendo de 8 a 10 minutos hasta obtener un puré espeso.",
+   "Fuera del fuego, añade el zumo de limón y las hierbas; deja templar.",
+   "Sirve el zaalouk templado o frío con 2 huevos duros por persona cortados en cuartos y un chorrito de aceite de oliva."
+  ],
+  "p": "El zaalouk se conserva 4 días en frío; sírvelo también como acompañamiento de brochetas o pescado a la plancha."
+ },
+ "l00-poulet-creme-champignons": {
+  "t": "Pollo a la crema con champiñones",
+  "i": [
+   "pechugas de pollo",
+   "champiñones",
+   "dientes de ajo",
+   "mantequilla",
+   "aceite de oliva",
+   "nata fresca entera (30 % de grasa)",
+   "parmesano rallado",
+   "tomillo seco",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Corta el pollo en tiras, sala y pimienta.",
+   "Dora el pollo en el aceite y la mitad de la mantequilla a fuego fuerte de 6 a 7 minutos; resérvalo.",
+   "En la misma sartén, derrite el resto de la mantequilla y saltea los champiñones laminados 6 minutos, hasta que evaporen su agua.",
+   "Añade el ajo picado y el tomillo, cocina 1 minuto.",
+   "Vierte la nata y el parmesano, deja reducir 4 minutos a fuego lento, vuelve a poner el pollo y cocina 5 minutos.",
+   "Sirve con judías verdes, espinacas o puré de coliflor."
+  ],
+  "p": "Los muslos deshuesados dan un plato más tierno y más rico en grasas, ideal para la dieta keto."
+ },
+ "l00-salade-thon-avocat": {
+  "t": "Ensalada de atún, aguacate y huevo",
+  "i": [
+   "lata de atún en aceite de oliva escurrido (160 g)",
+   "aguacate",
+   "huevos",
+   "lechuga o rúcula",
+   "pepino",
+   "aceitunas negras",
+   "aceite de oliva",
+   "zumo de limón",
+   "mostaza",
+   "sal"
+  ],
+  "s": [
+   "Cuece los huevos 9 minutos en agua hirviendo, sumérgelos en agua fría y pélalos.",
+   "Prepara la vinagreta batiendo el aceite de oliva, el zumo de limón, la mostaza y la sal.",
+   "Lava la ensalada, corta el pepino en rodajas y el aguacate en dados.",
+   "Reparte la ensalada en dos platos y añade el pepino, el aguacate, el atún desmenuzado y las aceitunas.",
+   "Añade los huevos cortados en cuartos y aliña con la vinagreta justo antes de servir."
+  ],
+  "p": "Para llevar al trabajo: pon la vinagreta en un botecito aparte y rocía el aguacate con limón para que no se oscurezca."
+ },
+ "l00-burger-laitue-sans-pain": {
+  "t": "Hamburguesas de ternera en hojas de lechuga",
+  "i": [
+   "carne picada de ternera (15–20 % de grasa)",
+   "sal",
+   "comino",
+   "lonchas de cheddar",
+   "lechuga iceberg",
+   "tomate",
+   "pepinillos",
+   "mayonesa",
+   "mostaza"
+  ],
+  "s": [
+   "Sazona la carne con la sal y el comino y forma 4 filetes de 2 cm de grosor.",
+   "Cocina los filetes en una sartén o en una parrilla muy caliente de 3 a 4 minutos por cada lado, según el punto deseado.",
+   "Coloca una loncha de cheddar sobre cada filete en el último minuto y tapa para que se derrita.",
+   "Mezcla la mayonesa y la mostaza para la salsa.",
+   "Envuelve cada filete con 2 o 3 hojas grandes de lechuga, una rodaja de tomate, pepinillos y la salsa."
+  ],
+  "p": "Sustituye la lechuga por dos mitades de champiñón portobello a la plancha para tener un «pan» más consistente."
+ },
+ "l00-riz-chou-fleur-saute-poulet": {
+  "t": "Arroz de coliflor salteado con pollo y verduras",
+  "i": [
+   "coliflor",
+   "pechugas de pollo en dados",
+   "huevos",
+   "calabacín pequeño",
+   "cebolletas",
+   "dientes de ajo",
+   "aceite de oliva o de coco",
+   "salsa de soja (o tamari sin gluten) (sin alcohol)",
+   "jengibre molido"
+  ],
+  "s": [
+   "Tritura la coliflor a impulsos hasta obtener granos del tamaño del arroz.",
+   "Saltea el pollo en 1 cucharada sopera de aceite a fuego fuerte 6 minutos y resérvalo.",
+   "Bate los huevos, cocínalos como tortilla revuelta en la sartén 1 minuto y resérvalos con el pollo.",
+   "Añade el resto del aceite, el ajo, el jengibre y el calabacín en dados, y sofríe 2 minutos.",
+   "Añade el arroz de coliflor y saltea 5 minutos a fuego fuerte removiendo, sin tapar, para que quede firme.",
+   "Vuelve a poner el pollo y los huevos, rocía con la salsa de soja, espolvorea con las cebolletas y sirve."
+  ],
+  "p": "El arroz de coliflor crudo se congela muy bien en bolsas de 250 g: haz una gran cantidad de una vez."
+ },
+ "l00-pizza-fathead": {
+  "t": "Pizza fathead de mozzarella",
+  "i": [
+   "mozzarella rallada (masa)",
+   "queso crema",
+   "harina de almendra",
+   "huevo",
+   "sal",
+   "salsa de tomate sin azúcar añadido",
+   "mozzarella rallada (cobertura)",
+   "champiñones laminados",
+   "aceitunas negras",
+   "orégano seco"
+  ],
+  "s": [
+   "Precalienta el horno a 200 °C.",
+   "Derrite 200 g de mozzarella y el queso crema en el microondas 1 minuto y 30 segundos, removiendo a la mitad.",
+   "Añade la harina de almendra, el huevo y la sal, y amasa rápidamente hasta obtener una bola homogénea.",
+   "Extiende la masa entre dos hojas de papel de horno formando un disco de 28 cm, retira la hoja de arriba y pínchala con un tenedor.",
+   "Precuece la masa 10 minutos, hasta que esté ligeramente dorada.",
+   "Cubre con salsa de tomate, mozzarella, champiñones, aceitunas y orégano.",
+   "Vuelve a meter en el horno de 8 a 10 minutos, hasta que el queso burbujee; deja reposar 3 minutos antes de cortar."
+  ],
+  "p": "Si la masa se endurece al amasar, pásala 10 segundos por el microondas. Añade pollo o atún para una versión con más proteínas."
+ },
+ "l00-courgettes-farcies-viande": {
+  "t": "Calabacines rellenos de carne picada y queso",
+  "i": [
+   "calabacines medianos",
+   "carne picada de ternera",
+   "cebolla picada",
+   "dientes de ajo",
+   "tomates troceados",
+   "comino",
+   "pimentón",
+   "aceite de oliva",
+   "mozzarella o edam rallado",
+   "sal"
+  ],
+  "s": [
+   "Precalienta el horno a 190 °C. Corta los calabacines por la mitad a lo largo y vacíalos con una cuchara dejando 1 cm de borde.",
+   "Pica la pulpa retirada. Sofríe la cebolla y el ajo en el aceite 3 minutos, añade la carne y cocina 6 minutos desmenuzándola.",
+   "Añade la pulpa de calabacín, los tomates, el comino, el pimentón y la sal; cocina 5 minutos hasta que se evapore el jugo.",
+   "Coloca los calabacines en una fuente, rellénalos con el picadillo y espolvorea con queso.",
+   "Hornea de 25 a 30 minutos, hasta que los calabacines estén tiernos y el queso gratinado."
+  ],
+  "p": "Usa el mismo relleno con pimientos o berenjenas; se congela 2 meses."
+ },
+ "l00-saumon-beurre-citronne": {
+  "t": "Salmón a la plancha con salsa de mantequilla y limón y espárragos",
+  "i": [
+   "lomos de salmón con piel (150 g cada uno)",
+   "espárragos verdes o judías verdes",
+   "mantequilla",
+   "aceite de oliva",
+   "diente de ajo",
+   "zumo de limón",
+   "perejil o eneldo picado",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Seca los lomos de salmón con papel absorbente, sala y pimienta.",
+   "Cuece los espárragos 4 minutos en agua hirviendo con sal, escúrrelos y mantenlos calientes.",
+   "Calienta el aceite en una sartén a fuego medio-fuerte y cocina el salmón por el lado de la piel 5 minutos sin moverlo; luego dale la vuelta de 2 a 3 minutos.",
+   "Retira el salmón, baja el fuego, añade la mantequilla y el ajo picado y deja que haga espuma 1 minuto.",
+   "Añade el zumo de limón y las hierbas fuera del fuego, batiendo para emulsionar la salsa.",
+   "Sirve el salmón sobre los espárragos, bañado con la mantequilla de limón."
+  ],
+  "p": "El salmón congelado va muy bien: descongélalo una noche en la nevera y sécalo bien antes de cocinarlo para conseguir una piel crujiente."
+ },
+ "l00-harira-keto": {
+  "t": "Harira keto sin legumbres ni harina",
+  "i": [
+   "paletilla de cordero o ternera en dados pequeños",
+   "rama de apio",
+   "cebolla",
+   "tomates pelados triturados",
+   "concentrado de tomate",
+   "aceite de oliva",
+   "jengibre molido",
+   "cúrcuma",
+   "pimienta negra",
+   "smen o mantequilla (opcional)",
+   "azafrán",
+   "cilantro y perejil picados",
+   "agua",
+   "coliflor triturada como arroz",
+   "huevos",
+   "goma xantana",
+   "limón para servir",
+   "sal"
+  ],
+  "s": [
+   "En una olla grande, sofríe la carne, la cebolla picada, el apio laminado y la mitad de las hierbas en el aceite de oliva durante 5 minutos.",
+   "Añade el jengibre, la cúrcuma, la pimienta, el azafrán, la sal y el smen, luego los tomates triturados y el concentrado; cocina 5 minutos.",
+   "Vierte el agua, tapa y cocina a fuego medio 35 minutos (o 20 minutos en olla a presión), hasta que la carne esté tierna.",
+   "Añade el arroz de coliflor y el resto de las hierbas, y cocina 8 minutos.",
+   "Para la «tedouira», espolvorea la goma xantana en lluvia fina batiendo enérgicamente durante 1 minuto, hasta que la sopa espese.",
+   "Bate los huevos y viértelos en hilo sobre la sopa a fuego suave, removiendo para formar hebras.",
+   "Sirve muy caliente con un gajo de limón; en lugar de dátiles, acompaña con un huevo duro o unas aceitunas."
+  ],
+  "p": "El arroz de coliflor sustituye a las lentejas y los garbanzos, y la goma xantana a la harina: calcula 1/2 cucharadita más si te gusta una harira muy espesa. Se congela 3 meses."
+ },
+ "l00-gratin-chou-fleur": {
+  "t": "Gratinado de coliflor con queso",
+  "i": [
+   "coliflor en ramilletes",
+   "nata fresca entera",
+   "queso crema",
+   "emmental o gouda rallado",
+   "parmesano rallado",
+   "mantequilla",
+   "diente de ajo",
+   "nuez moscada",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Precalienta el horno a 200 °C y unta con mantequilla una fuente para gratinar.",
+   "Cuece la coliflor 8 minutos en agua hirviendo con sal o al vapor, escúrrela bien y sécala.",
+   "En un cazo, calienta la nata con el queso crema, el ajo rallado, la nuez moscada, la sal y la pimienta hasta obtener una salsa lisa.",
+   "Fuera del fuego, incorpora la mitad del emmental.",
+   "Coloca la coliflor en la fuente, cúbrela con la salsa y espolvorea con el resto del emmental y el parmesano.",
+   "Hornea 20 minutos, hasta que la superficie esté bien gratinada."
+  ],
+  "p": "Añade 200 g de dados de pollo cocido o de atún para convertirlo en un plato completo."
+ },
+ "l00-veloute-brocoli-cheddar": {
+  "t": "Crema de brócoli con cheddar",
+  "i": [
+   "brócoli en ramilletes",
+   "cebolla",
+   "diente de ajo",
+   "mantequilla",
+   "caldo de verduras",
+   "nata fresca entera",
+   "cheddar rallado",
+   "pipas de calabaza tostadas",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Derrite la mantequilla en una cazuela y sofríe la cebolla y el ajo picados 3 minutos.",
+   "Añade el brócoli y el caldo, lleva a ebullición y cocina 12 minutos a fuego medio.",
+   "Tritura finamente la sopa, reservando unos ramilletes pequeños para decorar si se desea.",
+   "Vuelve a ponerla a fuego lento, añade la nata y luego el cheddar poco a poco, removiendo hasta que se derrita, sin dejar que hierva.",
+   "Rectifica el punto de sal y sirve caliente, espolvoreada con las pipas de calabaza tostadas en seco 2 minutos en la sartén."
+  ],
+  "p": "El brócoli congelado funciona perfectamente; añade dados de queso fresco o semillas tostadas al servir para dar un toque crujiente."
+ },
+ "l00-brochettes-poulet-chermoula": {
+  "t": "Brochetas de pollo con chermoula",
+  "i": [
+   "muslos de pollo deshuesados",
+   "aceite de oliva",
+   "cilantro picado",
+   "perejil picado",
+   "dientes de ajo",
+   "comino",
+   "pimentón dulce",
+   "guindilla",
+   "zumo de limón",
+   "sal",
+   "pimiento verde en cuadrados"
+  ],
+  "s": [
+   "Prepara la chermoula triturando o mezclando el aceite, las hierbas, el ajo machacado, el comino, el pimentón, la guindilla, el limón y la sal.",
+   "Corta el pollo en cubos de 3 cm y cúbrelo con la chermoula; deja marinar al menos 1 hora en la nevera (idealmente toda la noche).",
+   "Ensarta los cubos de pollo en pinchos, alternándolos con los cuadrados de pimiento.",
+   "Cocina en una parrilla, una barbacoa o una plancha muy caliente de 12 a 15 minutos, dando la vuelta con regularidad.",
+   "Sirve con una ensalada marroquí de pepino y tomate o con zaalouk."
+  ],
+  "p": "La chermoula se conserva 5 días en la nevera en un frasco cubierto de aceite: también sirve para pescado y gambas."
+ },
+ "l00-crevettes-ail-persil": {
+  "t": "Gambas salteadas con ajo, perejil y guindilla",
+  "i": [
+   "gambas peladas crudas",
+   "aceite de oliva",
+   "mantequilla",
+   "dientes de ajo laminados",
+   "guindilla roja seca",
+   "pimentón",
+   "perejil picado",
+   "zumo de limón",
+   "sal",
+   "calabacines en tagliatelle"
+  ],
+  "s": [
+   "Seca las gambas con papel absorbente y sálalas ligeramente.",
+   "Calienta el aceite en una sartén grande a fuego medio, añade el ajo y la guindilla y deja que infusionen 1 minuto sin que se doren.",
+   "Sube el fuego, añade las gambas y el pimentón y cocina 2 minutos por cada lado, hasta que estén rosadas.",
+   "Añade la mantequilla, el zumo de limón y el perejil, y remueve 30 segundos.",
+   "Saltea los tagliatelle de calabacín 2 minutos en la salsa restante y sirve con las gambas."
+  ],
+  "p": "Para la versión sin lactosa, sustituye la mantequilla por 1 cucharada sopera más de aceite de oliva."
+ },
+ "l00-curry-poulet-coco": {
+  "t": "Curry de pollo con leche de coco y espinacas",
+  "i": [
+   "muslos de pollo deshuesados",
+   "leche de coco",
+   "espinacas frescas",
+   "cebolla",
+   "dientes de ajo",
+   "jengibre rallado",
+   "curry en polvo",
+   "cúrcuma",
+   "aceite de coco o de oliva",
+   "sal",
+   "cilantro fresco"
+  ],
+  "s": [
+   "Corta el pollo en trozos y dóralo en el aceite 5 minutos a fuego fuerte; resérvalo.",
+   "Sofríe la cebolla, el ajo y el jengibre 3 minutos, añade el curry y la cúrcuma y cocina 1 minuto para liberar los aromas.",
+   "Vierte la leche de coco, vuelve a poner el pollo, sala y cocina a fuego lento 15 minutos.",
+   "Añade las espinacas y cocina 2 minutos hasta que se ablanden.",
+   "Espolvorea con cilantro y sirve con arroz de coliflor."
+  ],
+  "p": "El curry está aún más sabroso al día siguiente; se congela 3 meses en raciones individuales."
+ },
+ "l00-lasagnes-courgettes": {
+  "t": "Lasaña de calabacín a la boloñesa",
+  "i": [
+   "calabacines grandes",
+   "carne picada de ternera",
+   "tomates troceados",
+   "concentrado de tomate",
+   "dientes de ajo",
+   "aceite de oliva",
+   "orégano",
+   "ricotta o queso fresco batido entero",
+   "huevo",
+   "mozzarella rallada",
+   "parmesano rallado",
+   "sal"
+  ],
+  "s": [
+   "Corta los calabacines en láminas finas a lo largo (3 mm), sálalos y déjalos sudar 15 minutos sobre papel absorbente; luego sécalos.",
+   "Sofríe el ajo en el aceite, añade la carne y cocina 6 minutos, luego los tomates, el concentrado, el orégano y la sal; cocina a fuego lento 10 minutos.",
+   "Precalienta el horno a 190 °C. Mezcla la ricotta, el huevo y la mitad del parmesano.",
+   "En una fuente, alterna una capa de calabacín, de boloñesa, de mezcla de ricotta y de mozzarella; repite 2 veces.",
+   "Termina con la mozzarella y el resto del parmesano.",
+   "Hornea 35 minutos y deja reposar 10 minutos antes de cortar para que las porciones se sostengan."
+  ],
+  "p": "Dejar sudar los calabacines es imprescindible para que la lasaña no quede demasiado líquida. Asa las láminas 5 minutos en el horno para que aguanten aún mejor."
+ },
+ "l00-poisson-four-tomates-olives": {
+  "t": "Filetes de pescado al horno con tomates cherry y aceitunas",
+  "i": [
+   "filetes de merlán, abadejo o dorada",
+   "tomates cherry cortados por la mitad",
+   "aceitunas moradas",
+   "aceite de oliva",
+   "dientes de ajo laminados",
+   "comino",
+   "pimentón",
+   "limón en rodajas",
+   "perejil picado",
+   "sal"
+  ],
+  "s": [
+   "Precalienta el horno a 200 °C.",
+   "Mezcla el aceite de oliva, el ajo, el comino, el pimentón, la sal y la mitad del perejil.",
+   "Coloca los filetes en una fuente y píntalos con esta mezcla.",
+   "Reparte alrededor los tomates cherry, las aceitunas y las rodajas de limón.",
+   "Hornea de 15 a 20 minutos según el grosor de los filetes, hasta que la carne se separe con facilidad.",
+   "Espolvorea con el resto del perejil y sirve con una ensalada verde o judías verdes."
+  ],
+  "p": "Elige el pescado del día en tu pescadería; la sardina o el pez de San Pedro también funcionan muy bien."
+ },
+ "l00-bombes-graisse-coco-chocolat": {
+  "t": "Bombas de grasa de coco y chocolate negro",
+  "i": [
+   "aceite de coco",
+   "crema de almendra o de cacahuete sin azúcar",
+   "cacao puro en polvo sin azúcar",
+   "eritritol",
+   "coco rallado",
+   "sal",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Derrite el aceite de coco a fuego muy suave o 30 segundos en el microondas.",
+   "Añade la crema de almendra, el cacao, el eritritol, la vainilla y la sal, y bate hasta obtener una mezcla lisa.",
+   "Incorpora el coco rallado.",
+   "Reparte en 12 huecos de un molde de silicona o en cápsulas de minimagdalenas.",
+   "Mete en el congelador 30 minutos, hasta que estén firmes, y desmolda."
+  ],
+  "p": "Consérvalas en la nevera o el congelador (se derriten rápido por encima de 24 °C, sobre todo en verano en Marruecos)."
+ },
+ "l00-chips-fromage-four": {
+  "t": "Chips de queso crujientes",
+  "i": [
+   "cheddar, edam o parmesano rallado",
+   "pimentón",
+   "orégano seco",
+   "semillas de nigela (sanouj) o sésamo"
+  ],
+  "s": [
+   "Precalienta el horno a 200 °C y cubre una bandeja con papel de horno.",
+   "Coloca montoncitos de queso rallado (1 cucharada sopera cada uno), separados 4 cm.",
+   "Espolvorea con pimentón, orégano y semillas de nigela.",
+   "Hornea de 6 a 8 minutos, hasta que los bordes estén dorados.",
+   "Deja enfriar 5 minutos en la bandeja: las chips se endurecen al enfriarse."
+  ],
+  "p": "Se conservan 3 días en una caja hermética; perfectas con guacamole o zaalouk."
+ },
+ "l00-oeufs-mimosa": {
+  "t": "Huevos rellenos con mostaza y pimentón",
+  "i": [
+   "huevos",
+   "mayonesa",
+   "mostaza",
+   "sal",
+   "pimentón",
+   "cebollino picado"
+  ],
+  "s": [
+   "Cuece los huevos 10 minutos en agua hirviendo y sumérgelos 5 minutos en agua helada.",
+   "Pela los huevos y córtalos por la mitad a lo largo.",
+   "Retira las yemas y aplástalas con un tenedor con la mayonesa, la mostaza y la sal.",
+   "Rellena las claras con esta mezcla con una cuchara o una manga pastelera.",
+   "Espolvorea con pimentón y cebollino y refrigera hasta el momento de servir."
+  ],
+  "p": "Añade un poco de atún desmenuzado al relleno para un tentempié más saciante."
+ },
+ "l00-amandes-grillees-epices": {
+  "t": "Almendras tostadas con comino y pimentón",
+  "i": [
+   "almendras enteras sin sal",
+   "aceite de oliva",
+   "comino",
+   "pimentón",
+   "sal fina",
+   "guindilla"
+  ],
+  "s": [
+   "Precalienta el horno a 170 °C.",
+   "Mezcla las almendras con el aceite de oliva y luego con el comino, el pimentón, la sal y la guindilla.",
+   "Extiende en una sola capa sobre una bandeja cubierta con papel de horno.",
+   "Tuesta de 10 a 12 minutos, removiendo a mitad de cocción, hasta que estén doradas y aromáticas.",
+   "Deja enfriar por completo para que queden crujientes."
+  ],
+  "p": "Una ración = 30 g (un puñado pequeño): prepara bolsitas pequeñas para no picotear todo el bote."
+ },
+ "l00-crackers-graines": {
+  "t": "Crackers de semillas de lino, sésamo y girasol",
+  "i": [
+   "semillas de lino",
+   "semillas de girasol",
+   "semillas de sésamo",
+   "semillas de chía",
+   "semillas de calabaza",
+   "agua",
+   "aceite de oliva",
+   "sal",
+   "semillas de nigela (sanouj)"
+  ],
+  "s": [
+   "Mezcla todas las semillas con el agua, el aceite y la sal, y deja reposar 15 minutos hasta que la mezcla gelifique.",
+   "Precalienta el horno a 160 °C.",
+   "Extiende la masa en capa fina (3 mm) sobre una bandeja cubierta con papel de horno y marca cuadrados con un cuchillo.",
+   "Hornea 30 minutos, da la vuelta a la lámina de crackers y continúa 15 minutos más, hasta que estén secos y dorados.",
+   "Deja enfriar por completo dentro del horno apagado con la puerta entreabierta y luego parte por las marcas."
+  ],
+  "p": "Se conservan 2 semanas en una caja hermética; si se ablandan, vuelve a meterlos 5 minutos a 150 °C."
+ },
+ "l00-bouchees-concombre-saumon": {
+  "t": "Bocaditos de pepino con queso fresco y salmón ahumado",
+  "i": [
+   "pepino",
+   "queso crema",
+   "salmón ahumado",
+   "eneldo o cebollino picado",
+   "zumo de limón",
+   "pimienta"
+  ],
+  "s": [
+   "Lava el pepino y córtalo en rodajas gruesas de 1 cm.",
+   "Mezcla el queso crema con el zumo de limón, el eneldo y la pimienta.",
+   "Pon una cucharadita de queso sobre cada rodaja.",
+   "Corta el salmón ahumado en tiras y coloca una sobre cada bocadito.",
+   "Refrigera 10 minutos antes de servir."
+  ],
+  "p": "Sustituye el salmón ahumado por atún desmenuzado o aceitunas picadas para una versión más económica."
+ },
+ "l00-mousse-chocolat-noir": {
+  "t": "Mousse de chocolate negro 85 %",
+  "i": [
+   "chocolate negro 85 % mínimo",
+   "nata líquida entera (30 % de grasa) muy fría",
+   "mantequilla",
+   "eritritol en polvo",
+   "cacao puro sin azúcar",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Derrite el chocolate y la mantequilla al baño maría a fuego suave y deja templar 5 minutos.",
+   "Monta la nata muy fría con el eritritol y la vainilla hasta obtener una nata montada firme.",
+   "Incorpora una cucharada de nata montada al chocolate para aligerarlo y añade el resto con delicadeza con una espátula.",
+   "Reparte en 4 cuencos pequeños y espolvorea con cacao.",
+   "Refrigera al menos 2 horas antes de servir."
+  ],
+  "p": "Tritura el eritritol hasta convertirlo en polvo fino antes de usarlo: se disuelve mejor y evita el efecto «crujiente»."
+ },
+ "l00-cheesecake-leger-keto": {
+  "t": "Tarta de queso ligera de limón con base de almendra",
+  "i": [
+   "harina de almendra",
+   "mantequilla derretida",
+   "eritritol (base)",
+   "queso crema (tipo Philadelphia)",
+   "nata fresca espesa",
+   "eritritol (relleno)",
+   "huevos",
+   "limón (ralladura y 2 cucharadas soperas de zumo)",
+   "aroma de vainilla sin alcohol"
+  ],
+  "s": [
+   "Precalienta el horno a 170 °C. Mezcla la harina de almendra, la mantequilla derretida y 1 cucharada sopera de eritritol, y presiona en el fondo de un molde de 20 cm forrado.",
+   "Precuece la base 10 minutos y deja templar; baja el horno a 150 °C.",
+   "Bate el queso crema con el eritritol hasta que esté liso y añade la nata, la ralladura, el zumo de limón y la vainilla.",
+   "Incorpora los huevos de uno en uno a velocidad lenta, sin batir demasiado para evitar burbujas.",
+   "Vierte sobre la base y cocina 40 minutos: el centro debe quedar ligeramente tembloroso.",
+   "Deja enfriar dentro del horno apagado con la puerta entreabierta 1 hora y luego refrigera al menos 6 horas."
+  ],
+  "p": "Coloca una fuente con agua caliente en la parte baja del horno durante la cocción para evitar que la tarta se agriete."
+ },
+ "l00-mug-cake-chocolat": {
+  "t": "Mug cake de chocolate en 2 minutos",
+  "i": [
+   "harina de almendra",
+   "cacao puro sin azúcar",
+   "eritritol",
+   "levadura química",
+   "huevo",
+   "mantequilla derretida",
+   "chocolate negro 85 %"
+  ],
+  "s": [
+   "En una taza grande, mezcla la harina de almendra, el cacao, el eritritol y la levadura.",
+   "Añade el huevo y la mantequilla derretida y bate con un tenedor hasta obtener una masa lisa.",
+   "Hunde la onza de chocolate en el centro de la masa.",
+   "Cocina en el microondas de 70 a 90 segundos a máxima potencia (800 W): la parte superior debe estar cuajada pero todavía esponjosa.",
+   "Deja reposar 1 minuto antes de disfrutar."
+  ],
+  "p": "Sirve con una cucharada de nata fresca espesa o de nata montada sin azúcar para darte un capricho."
+ },
+ "l00-panna-cotta-vanille-framboises": {
+  "t": "Panna cotta de vainilla con coulis de frambuesas",
+  "i": [
+   "nata líquida entera (30 % de grasa)",
+   "eritritol",
+   "aroma de vainilla sin alcohol",
+   "agar-agar",
+   "frambuesas frescas o congeladas",
+   "zumo de limón"
+  ],
+  "s": [
+   "En un cazo, mezcla la nata, 2 cucharadas soperas de eritritol, la vainilla y el agar-agar.",
+   "Lleva a ebullición batiendo y deja hervir 2 minutos para activar el agar-agar.",
+   "Reparte en 4 vasitos, deja enfriar y refrigera 2 horas.",
+   "Para el coulis, calienta las frambuesas con el resto del eritritol y el zumo de limón 3 minutos, luego aplástalas y cuela si lo deseas.",
+   "Cubre las panna cottas con el coulis frío en el momento de servir."
+  ],
+  "p": "El agar-agar sustituye a la gelatina animal para una receta 100 % halal; respeta bien la dosis (2 g por 400 ml) para conseguir una textura tembloroso-cremosa."
+ },
+ "l00-ghriba-keto-amandes": {
+  "t": "Ghriba keto de almendras",
+  "i": [
+   "almendra molida",
+   "eritritol en polvo",
+   "huevo",
+   "aceite de coco derretido o mantequilla",
+   "agua de azahar",
+   "levadura química",
+   "ralladura de limón",
+   "canela",
+   "eritritol en polvo para rebozar"
+  ],
+  "s": [
+   "Precalienta el horno a 170 °C y cubre una bandeja con papel de horno.",
+   "Mezcla la almendra molida, el eritritol, la levadura, la canela y la ralladura de limón.",
+   "Añade el huevo, el aceite de coco y el agua de azahar y amasa hasta obtener una masa suave.",
+   "Forma 12 bolas del tamaño de una nuez, pásalas por el eritritol en polvo y aplánalas ligeramente sobre la bandeja.",
+   "Hornea de 12 a 15 minutos, hasta que las ghribas se agrieten y se doren ligeramente.",
+   "Deja enfriar por completo sobre la bandeja antes de manipularlas, porque son frágiles en caliente."
+  ],
+  "p": "Perfectas con un té a la menta sin azúcar (endulzado con stevia); se conservan una semana en una caja hermética."
+ },
+ "l00-porridge-lin-coco-noix": {
+  "t": "Porridge caliente de lino, coco y nueces",
+  "i": [
+   "semillas de lino molidas",
+   "coco rallado",
+   "semillas de chía",
+   "bebida de almendra sin azúcar",
+   "nata líquida entera",
+   "eritritol",
+   "canela molida",
+   "nueces troceadas",
+   "frambuesas"
+  ],
+  "s": [
+   "En un cazo pequeño, mezcla las semillas de lino, el coco, las semillas de chía, la canela y el eritritol.",
+   "Vierte la bebida de almendra y la nata, y calienta a fuego medio removiendo sin parar.",
+   "En cuanto empiece a hervir suavemente, baja el fuego y cocina de 3 a 4 minutos hasta obtener una textura espesa de porridge.",
+   "Fuera del fuego, deja reposar 1 minuto: la mezcla sigue espesando. Si hace falta, aligera con un poco de bebida de almendra.",
+   "Reparte en dos boles, espolvorea con las nueces troceadas y las frambuesas, y sirve caliente."
+  ],
+  "p": "Prepara la mezcla seca (lino, coco, chía, canela) para toda la semana en un frasco: por la mañana solo tienes que añadir el líquido."
+ },
+ "l00-galettes-jben-herbes": {
+  "t": "Tortitas de jben con hierbas frescas",
+  "i": [
+   "jben bien escurrido",
+   "huevos",
+   "harina de almendra",
+   "parmesano rallado",
+   "menta fresca picada",
+   "cilantro fresco picado",
+   "comino",
+   "sal",
+   "aceite de oliva para cocinar"
+  ],
+  "s": [
+   "Aplasta el jben con un tenedor en una ensaladera, añade los huevos y mezcla hasta obtener una crema homogénea.",
+   "Incorpora la harina de almendra, el parmesano, las hierbas, el comino y la sal. La masa debe quedar espesa; déjala reposar 5 minutos.",
+   "Calienta la mitad del aceite en una sartén antiadherente a fuego medio.",
+   "Pon 3 cucharadas grandes de masa, aplánalas formando tortitas de aproximadamente 1 cm y cocina 3 minutos, hasta que la parte de abajo esté bien dorada.",
+   "Dales la vuelta con cuidado con una espátula fina y cocina otros 2 a 3 minutos. Repite con el resto del aceite y de la masa.",
+   "Sirve templadas, 3 tortitas por persona, con unas aceitunas y un vaso de té sin azúcar."
+  ],
+  "p": "Si tu jben está muy húmedo, déjalo escurrir 30 minutos en un colador: las tortitas se sostendrán mejor al cocinarlas."
+ },
+ "l00-kefta-sardines-sauce-tomate": {
+  "t": "Albóndigas de sardinas en salsa de tomate picante",
+  "i": [
+   "filetes de sardinas frescas (sin espinas)",
+   "ajo",
+   "cilantro picado",
+   "perejil picado",
+   "comino y pimentón",
+   "zumo de limón",
+   "harina de almendra",
+   "tomates troceados",
+   "aceite de oliva",
+   "guindilla verde",
+   "sal",
+   "agua"
+  ],
+  "s": [
+   "Pica finamente los filetes de sardinas con un cuchillo o picadora y mézclalos con la mitad del ajo, del cilantro, del perejil y de las especias, el zumo de limón, la harina de almendra y la mitad de la sal.",
+   "Con las manos húmedas, forma albóndigas del tamaño de una nuez (unas 24) y resérvalas en frío 10 minutos.",
+   "En una sartén honda o un tajín, calienta el aceite de oliva y sofríe el resto del ajo 1 minuto a fuego medio.",
+   "Añade los tomates troceados, el resto de las especias, la sal y el agua; cocina a fuego lento 10 minutos sin tapar.",
+   "Coloca con cuidado las albóndigas en la salsa, añade la guindilla entera, tapa y cocina 12 minutos a fuego lento sin remover.",
+   "Sacude suavemente la sartén para bañar las albóndigas, espolvorea con el resto de las hierbas y sirve caliente."
+  ],
+  "p": "Pide al pescadero que te saque los filetes. Las albóndigas crudas se congelan muy bien sobre una bandeja antes de pasarlas a una bolsa."
+ },
+ "l00-poke-saumon-konjac": {
+  "t": "Poke bowl de salmón con arroz de konjac",
+  "i": [
+   "salmón muy fresco (calidad sashimi)",
+   "arroz de konjac escurrido",
+   "aguacate",
+   "pepino",
+   "col lombarda cortada muy fina",
+   "cebolleta",
+   "salsa de soja (sin alcohol)",
+   "aceite de oliva o de sésamo",
+   "vinagre de sidra",
+   "jengibre fresco rallado",
+   "semillas de sésamo",
+   "hoja de nori"
+  ],
+  "s": [
+   "Enjuaga el arroz de konjac bajo el agua fría 1 minuto, sumérgelo 2 minutos en agua hirviendo, escúrrelo y sécalo de 2 a 3 minutos en una sartén caliente sin grasa.",
+   "Mezcla la salsa de soja, el aceite, el vinagre y el jengibre rallado para obtener la salsa.",
+   "Corta el salmón en cubos de 2 cm y mézclalo con la mitad de la salsa; resérvalo 10 minutos en la nevera.",
+   "Corta el aguacate y el pepino en dados, pica la cebolleta y corta la hoja de nori en tiras finas con unas tijeras.",
+   "Reparte el arroz de konjac en dos boles y coloca por secciones el salmón, el aguacate, el pepino y la lombarda.",
+   "Rocía con el resto de la salsa, espolvorea con sésamo, cebolleta y nori, y sirve enseguida."
+  ],
+  "p": "Si el salmón crudo no es adecuado (niños, embarazo), sella los cubos 1 minuto por cada lado en la sartén antes de ponerlos en el bol."
+ },
+ "l00-tanjia-agneau-cumin": {
+  "t": "Tanjia de cordero con comino y limón en conserva",
+  "i": [
+   "kg de paletilla de cordero en trozos grandes",
+   "smen o mantequilla",
+   "aceite de oliva",
+   "ajo entero pelado",
+   "limón en conserva en cuartos",
+   "comino molido",
+   "azafrán",
+   "sal",
+   "pimienta",
+   "agua",
+   "perejil picado para servir"
+  ],
+  "s": [
+   "En un bol grande, mezcla el cordero con el comino, el azafrán, la sal, la pimienta, el aceite y el smen para cubrir bien cada trozo.",
+   "Coloca la carne en una cazuela de hierro fundido (o en una jarra de tanjia), añade los dientes de ajo enteros y los cuartos de limón en conserva.",
+   "Vierte el agua y cierra herméticamente (papel de horno bajo la tapa si usas una cazuela).",
+   "Hornea a 150 °C durante 3 horas sin abrir.",
+   "Saca la cazuela: la carne debe deshacerse con el tenedor. Si la salsa está demasiado líquida, redúcela 5 minutos a fuego fuerte sin tapa.",
+   "Aplasta los dientes de ajo confitados en la salsa, espolvorea con perejil y sirve con una ensalada de pepino."
+  ],
+  "p": "Aún mejor al día siguiente: se conserva 4 días en la nevera y se congela en raciones con su salsa."
+ },
+ "l00-cabillaud-fenouil-gratine": {
+  "t": "Bacalao gratinado sobre cama de hinojo tierno",
+  "i": [
+   "lomos de bacalao (o merlán)",
+   "bulbos de hinojo",
+   "mantequilla",
+   "aceite de oliva",
+   "nata fresca espesa",
+   "parmesano rallado",
+   "harina de almendra",
+   "ajo",
+   "zumo de limón",
+   "eneldo picado",
+   "sal, pimienta"
+  ],
+  "s": [
+   "Precalienta el horno a 200 °C. Corta los hinojos en láminas finas, reservando las hojas para el final.",
+   "Derrite la mitad de la mantequilla con el aceite en una sartén, añade el hinojo y el ajo machacado, sala y cocina 10 minutos a fuego medio hasta que esté tierno y ligeramente dorado.",
+   "Extiende el hinojo en una fuente para gratinar y coloca encima los trozos de bacalao. Sala, pimienta y rocía con zumo de limón.",
+   "Cubre el pescado con la nata fresca. Mezcla el parmesano, la harina de almendra y el resto de la mantequilla en trocitos con la punta de los dedos, y espolvorea por encima.",
+   "Hornea de 18 a 20 minutos, hasta que el pescado se separe en lascas y la superficie esté dorada.",
+   "Espolvorea con eneldo y las hojas de hinojo picadas antes de servir."
+  ],
+  "p": "El bacalao congelado sirve: descongélalo la víspera en la nevera y sécalo bien para que el gratinado no quede demasiado líquido."
+ },
+ "l00-halloumi-grille-chou-rouge-noix": {
+  "t": "Halloumi a la plancha con ensalada de col lombarda y nueces",
+  "i": [
+   "halloumi",
+   "col lombarda cortada muy fina",
+   "rúcula",
+   "nueces peladas",
+   "huevos",
+   "aceite de oliva",
+   "vinagre de sidra",
+   "mostaza",
+   "menta picada",
+   "sal, pimienta"
+  ],
+  "s": [
+   "Cuece los huevos 9 minutos en agua hirviendo, enfríalos con agua fría, pélalos y córtalos en cuartos.",
+   "Mezcla la col lombarda con una pizca de sal, el vinagre, la mostaza y 2 cucharadas soperas de aceite; masajea 1 minuto con las manos para ablandarla.",
+   "Tuesta las nueces 3 minutos en seco en una sartén y trocéalas groseramente.",
+   "Corta el halloumi en lonchas de 1 cm y sécalas. Calienta el resto del aceite en la sartén a fuego fuerte y dora las lonchas 2 minutos por cada lado.",
+   "Reparte la rúcula y la col lombarda en los platos, añade los huevos y el halloumi caliente.",
+   "Espolvorea con las nueces y la menta, echa pimienta y sirve de inmediato, con el halloumi aún caliente."
+  ],
+  "p": "La col lombarda aliñada se conserva 3 días en frío: prepara el doble para las comidas de la semana."
+ },
+ "l00-taktouka-poivrons-grilles": {
+  "t": "Taktuka de pimientos asados con ajo",
+  "i": [
+   "pimientos verdes",
+   "pimiento rojo",
+   "tomates medianos",
+   "ajo",
+   "aceite de oliva",
+   "comino y pimentón dulce",
+   "cilantro picado",
+   "perejil picado",
+   "sal"
+  ],
+  "s": [
+   "Asa los pimientos enteros bajo el grill del horno a 250 °C (o directamente sobre la llama) 15 minutos, dándoles la vuelta, hasta que la piel se ennegrezca.",
+   "Enciérralos 10 minutos en una bolsa o un bol tapado, luego pélalos, quítales las semillas y córtalos en tiras finas.",
+   "Pela los tomates, quítales las semillas y córtalos en dados pequeños.",
+   "Calienta el aceite en una sartén, añade el ajo machacado y los tomates y cocina 8 minutos a fuego medio hasta que se hagan compota.",
+   "Añade los pimientos, las especias y la sal, y cocina 7 minutos aplastando ligeramente, hasta que la mezcla esté confitada y el aceite salga a la superficie.",
+   "Fuera del fuego, añade las hierbas. Sirve templada o fría con carnes a la parrilla o huevos."
+  ],
+  "p": "Se conserva 5 días en la nevera cubierta con un chorrito de aceite de oliva; está aún mejor al día siguiente."
+ },
+ "l00-puree-celeri-chou-fleur-beurre-noisette": {
+  "t": "Puré de apio nabo y coliflor con mantequilla avellana",
+  "i": [
+   "apio nabo pelado",
+   "coliflor en ramilletes",
+   "mantequilla",
+   "nata fresca espesa",
+   "parmesano rallado",
+   "nuez moscada rallada",
+   "sal",
+   "cebollino picado"
+  ],
+  "s": [
+   "Corta el apio nabo en cubos de 2 cm y ponlo en una cazuela con agua fría salada.",
+   "Lleva a ebullición, cocina 8 minutos, añade la coliflor y continúa de 10 a 12 minutos, hasta que todo esté muy tierno.",
+   "Escurre bien y deja que suelte vapor 3 minutos en el colador para eliminar la humedad.",
+   "Mientras tanto, derrite la mantequilla en un cazo pequeño a fuego medio y déjala cocinar de 2 a 3 minutos, hasta que esté dorada y huela a avellana.",
+   "Tritura las verduras con la nata, el parmesano, la nuez moscada y la mitad de la mantequilla avellana hasta obtener un puré liso.",
+   "Sirve rociado con el resto de la mantequilla avellana y espolvoreado con cebollino."
+  ],
+  "p": "Perfecto para acompañar un filete o un pollo asado; se recalienta en el microondas con una cucharada de nata."
+ },
+ "l00-haricots-verts-amandes-citron-confit": {
+  "t": "Judías verdes salteadas con almendras y limón en conserva",
+  "i": [
+   "judías verdes sin puntas",
+   "mantequilla",
+   "aceite de oliva",
+   "almendras laminadas",
+   "corteza de limón en conserva",
+   "ajo laminado",
+   "perejil picado",
+   "sal, pimienta"
+  ],
+  "s": [
+   "Cuece las judías verdes 6 minutos en una cazuela grande de agua hirviendo con sal, luego sumérgelas en agua helada para fijar el color y escúrrelas.",
+   "Enjuaga la corteza del limón en conserva, retira la pulpa y córtala en bastoncitos muy finos.",
+   "En una sartén grande, dora las almendras laminadas en seco 2 minutos removiendo y resérvalas.",
+   "Calienta la mantequilla y el aceite, añade el ajo y el limón en conserva y cocina 1 minuto sin que tomen color.",
+   "Añade las judías y saltea 3 minutos a fuego fuerte. Echa pimienta y rectifica de sal (el limón en conserva ya es salado).",
+   "Sirve espolvoreadas con las almendras tostadas y el perejil."
+  ],
+  "p": "Las judías escaldadas se conservan 3 días en frío: solo hay que saltearlas en el último momento."
+ },
+ "l00-briouates-fathead-jben": {
+  "t": "Briwats keto de jben y menta",
+  "i": [
+   "mozzarella rallada",
+   "queso crema",
+   "harina de almendra",
+   "huevos (1 para la masa, 1 para pintar)",
+   "jben escurrido",
+   "menta picada",
+   "comino",
+   "semillas de sésamo",
+   "sal"
+  ],
+  "s": [
+   "Derrite la mozzarella y el queso crema en el microondas 1 minuto y 30 segundos en dos tandas, removiendo, hasta obtener una masa lisa.",
+   "Incorpora la harina de almendra y 1 huevo, y amasa rápidamente hasta obtener una bola homogénea. Precalienta el horno a 200 °C.",
+   "Mezcla el jben aplastado con la menta, el comino y la sal para el relleno.",
+   "Extiende la masa en capa fina (3 mm) entre dos hojas de papel de horno y córtala en 12 cuadrados de unos 8 cm.",
+   "Pon una cucharada de relleno en el centro de cada cuadrado, dobla en triángulo y sella los bordes con un tenedor.",
+   "Coloca sobre una bandeja forrada, pinta con huevo batido, espolvorea con sésamo y hornea de 12 a 15 minutos, hasta que estén bien dorados.",
+   "Deja templar 5 minutos antes de servir (2 briwats por persona)."
+  ],
+  "p": "Si la masa se pega al extenderla, vuelve a meterla 10 minutos en la nevera. Los briwats ya cocidos se recalientan 5 minutos en el horno."
+ },
+ "l00-sellou-keto": {
+  "t": "Sellou keto de almendras y sésamo",
+  "i": [
+   "almendras enteras peladas",
+   "semillas de sésamo",
+   "harina de almendra",
+   "semillas de lino molidas",
+   "mantequilla (o smen)",
+   "eritritol en polvo",
+   "canela y anís molidos",
+   "sal"
+  ],
+  "s": [
+   "Tuesta la harina de almendra en seco en una sartén grande a fuego suave de 6 a 8 minutos, removiendo sin parar, hasta que esté dorada y aromática. Resérvala en un bol.",
+   "Tuesta las semillas de sésamo 4 minutos en seco y luego las almendras 6 minutos en el horno a 180 °C; deja enfriar.",
+   "Tritura las almendras hasta obtener un polvo grueso y después el sésamo (reservando 2 cucharadas soperas enteras para decorar).",
+   "En el bol, mezcla la harina tostada, las almendras, el sésamo, las semillas de lino, el eritritol, las especias y la sal.",
+   "Derrite la mantequilla e incorpórala poco a poco frotando la mezcla entre las manos hasta obtener una arena húmeda que se mantenga al apretarla.",
+   "Monta en cúpula en un plato, aprieta ligeramente, decora con almendras y sésamo y sirve con cuchara (unas 2 cucharadas soperas por persona)."
+  ],
+  "p": "Se conserva 3 semanas en una caja hermética alejada del calor; ideal para preparar antes del Ramadán."
+ },
+ "l00-smoothie-avocat-cacao": {
+  "t": "Batido cremoso de aguacate, cacao y bebida de almendra",
+  "i": [
+   "aguacate bien maduro",
+   "bebida de almendra sin azúcar muy fría",
+   "cacao puro sin azúcar",
+   "crema de almendra",
+   "eritritol",
+   "aroma de vainilla sin alcohol",
+   "cubitos de hielo"
+  ],
+  "s": [
+   "Corta el aguacate por la mitad, retira el hueso y saca la pulpa con una cuchara.",
+   "Pon todos los ingredientes en el vaso de la batidora, dejando los cubitos de hielo para el final.",
+   "Tritura 45 segundos a máxima potencia hasta obtener una textura perfectamente lisa.",
+   "Prueba y ajusta el dulzor, o aligera con un poco de bebida de almendra si el batido está demasiado espeso.",
+   "Vierte en dos vasos grandes y sirve de inmediato."
+  ],
+  "p": "Para un desayuno más saciante, añade 20 g de proteína de suero natural o 1 cucharada sopera de semillas de chía."
+ },
+ "l00-cafe-frappe-coco-cannelle": {
+  "t": "Café frappé de coco y canela",
+  "i": [
+   "café fuerte frío",
+   "leche de coco en conserva",
+   "eritritol",
+   "canela molida",
+   "aroma de vainilla sin alcohol",
+   "cubitos de hielo"
+  ],
+  "s": [
+   "Prepara el café con antelación y déjalo enfriar por completo (al menos 30 minutos en la nevera).",
+   "Agita bien la lata de leche de coco antes de abrirla para mezclar la crema y el líquido.",
+   "Pon el café, la leche de coco, el eritritol, la canela, la vainilla y la mitad de los cubitos en una batidora.",
+   "Tritura 30 segundos hasta obtener una bebida espumosa.",
+   "Reparte el resto de los cubitos en dos vasos, vierte el café frappé y espolvorea con una pizca de canela."
+  ],
+  "p": "Congela café en una cubitera: así los cubitos ya no diluirán la bebida."
+ },
+ "l01-omelette-roulee-saumon-fume": {
+  "t": "Tortilla enrollada de salmón ahumado y cebollino",
+  "i": [
+   "huevos",
+   "nata líquida",
+   "queso crema",
+   "salmón ahumado",
+   "cebollino picado",
+   "mantequilla",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Bate los huevos con la nata líquida, una pizca de sal y pimienta hasta obtener una mezcla homogénea y ligeramente espumosa.",
+   "Derrite la mantequilla en una sartén antiadherente grande (26–28 cm) a fuego medio-bajo.",
+   "Vierte los huevos e inclina la sartén para formar una capa fina. Cocina de 3 a 4 minutos sin remover, hasta que la parte superior esté casi cuajada.",
+   "Tapa 1 minuto fuera del fuego para terminar la cocción y luego desliza la tortilla sobre una tabla.",
+   "Unta con queso crema, espolvorea con cebollino y reparte las lonchas de salmón ahumado.",
+   "Enrolla la tortilla bien apretada, córtala en trozos de 3 cm y sirve enseguida."
+  ],
+  "p": "Prepara el rollo la víspera, envuélvelo bien apretado en film y guárdalo en la nevera: se corta aún más limpio y se come frío."
+ },
+ "l01-omelette-kefta-coriandre": {
+  "t": "Tortilla marroquí de kefta y cilantro",
+  "i": [
+   "carne picada para kefta",
+   "huevos",
+   "cebolla finamente picada",
+   "cilantro fresco",
+   "perejil",
+   "comino y pimentón",
+   "aceite de oliva",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Mezcla la kefta con la mitad del cilantro y del perejil picados, el comino, el pimentón, sal y pimienta. Forma albondiguitas del tamaño de una avellana.",
+   "Calienta el aceite en una sartén de 24 cm a fuego medio y sofríe la cebolla 3 minutos, hasta que esté translúcida.",
+   "Añade las albondiguitas y dóralas de 5 a 6 minutos, dándoles la vuelta con frecuencia.",
+   "Bate los huevos con una pizca de sal y viértelos sobre las albondiguitas.",
+   "Baja el fuego, tapa y cocina de 3 a 4 minutos, hasta que los huevos estén justo cuajados.",
+   "Espolvorea con el resto de las hierbas y sirve directamente en la sartén."
+  ],
+  "p": "Prepara las albondiguitas con antelación y congélalas crudas extendidas: por la mañana las echas directamente en la sartén, alargando la cocción 2 minutos."
+ },
+ "l01-omelette-soufflee-cheddar": {
+  "t": "Tortilla esponjosa de cheddar",
+  "i": [
+   "huevos",
+   "cheddar rallado",
+   "mantequilla",
+   "cebollino",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Separa las claras de las yemas. Bate las yemas con sal y pimienta.",
+   "Monta las claras a punto de nieve firme con una pizca de sal y luego incorpóralas con delicadeza a las yemas con una espátula, con movimientos envolventes.",
+   "Derrite la mantequilla en una sartén de 24 cm a fuego suave, vierte la mezcla y alisa la superficie.",
+   "Tapa y cocina de 5 a 6 minutos a fuego suave, hasta que la parte de abajo esté dorada y la tortilla haya subido.",
+   "Espolvorea la mitad del cheddar, tapa 1 minuto más para que se derrita.",
+   "Dobla la tortilla por la mitad, espolvorea con cebollino y sirve de inmediato, antes de que se baje."
+  ],
+  "p": "Para que la parte superior cuaje bien, pasa la sartén (si va al horno) 2 minutos bajo el grill antes de doblar."
+ },
+ "l01-omelette-champignons-chevre": {
+  "t": "Tortilla de champiñones salteados y queso de cabra",
+  "i": [
+   "champiñones laminados",
+   "huevos",
+   "queso de cabra",
+   "mantequilla",
+   "ajo picado",
+   "perejil picado",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Derrite la mitad de la mantequilla en una sartén a fuego fuerte. Añade los champiñones y déjalos dorar 5 minutos sin remover demasiado, hasta que evaporen su agua.",
+   "Añade el ajo y el perejil, sala, echa pimienta, saltea 1 minuto y resérvalo en un plato.",
+   "Bate los huevos con una pizca de sal. Derrite el resto de la mantequilla en la sartén a fuego medio.",
+   "Vierte los huevos y lleva los bordes hacia el centro con una espátula durante 2 minutos, hasta que estén casi cuajados.",
+   "Cubre una mitad con los champiñones y el queso de cabra desmenuzado, dobla y deja 1 minuto para que el queso se derrita.",
+   "Corta por la mitad y sirve caliente."
+  ],
+  "p": "Añade un puñado de espinacas junto con el ajo para una versión más verde, o sustituye el queso de cabra por jben."
+ },
+ "l01-oeufs-brouilles-cremeux-ciboulette": {
+  "t": "Huevos revueltos cremosos con mantequilla y cebollino",
+  "i": [
+   "huevos",
+   "mantequilla fría en dados",
+   "nata fresca espesa",
+   "cebollino picado",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Casca los huevos en un cazo pequeño frío y añade la mitad de la mantequilla en dados. No eches sal todavía.",
+   "Pon a fuego medio-bajo y remueve sin parar con una espátula, rascando el fondo y los bordes.",
+   "Cada 30 segundos, retira el cazo del fuego 10 segundos sin dejar de remover, para mantener una textura cremosa (4–5 minutos en total).",
+   "Cuando los huevos estén casi cuajados pero todavía brillantes, fuera del fuego, incorpora el resto de la mantequilla y la nata fresca: así se detiene la cocción.",
+   "Sala, echa pimienta, espolvorea con cebollino y sirve enseguida."
+  ],
+  "p": "El secreto es no dejar nunca que los huevos se peguen: fuego suave, paciencia y la espátula siempre en movimiento."
+ },
+ "l01-oeufs-brouilles-tomate-cumin": {
+  "t": "Huevos revueltos con tomate y comino al estilo beldi",
+  "i": [
+   "huevos",
+   "tomate mediano rallado",
+   "aceite de oliva",
+   "ajo machacado",
+   "comino molido y pimentón dulce",
+   "cilantro picado",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Calienta el aceite de oliva en una sartén a fuego medio y sofríe el ajo 30 segundos sin que tome color.",
+   "Añade el tomate rallado, el comino, el pimentón y una pizca de sal. Deja reducir de 4 a 5 minutos hasta obtener una salsa espesa.",
+   "Bate ligeramente los huevos y viértelos sobre la salsa.",
+   "Remueve con suavidad con una espátula de 2 a 3 minutos a fuego lento, hasta que los huevos cuajen en trozos grandes y tiernos.",
+   "Espolvorea con cilantro, echa pimienta y sirve con un chorrito de aceite de oliva."
+  ],
+  "p": "Rallar el tomate (con la piel hacia la mano) da una pulpa sin piel que reduce rápido."
+ },
+ "l01-oeufs-brouilles-jben-menthe": {
+  "t": "Huevos revueltos con jben y menta",
+  "i": [
+   "huevos",
+   "jben desmenuzado",
+   "hojas de menta picadas",
+   "aceite de oliva",
+   "aceitunas negras",
+   "sal",
+   "pimienta"
+  ],
+  "s": [
+   "Bate los huevos con una pizca pequeña de sal (el jben ya es salado) y pimienta.",
+   "Calienta el aceite de oliva en una sartén a fuego medio-bajo y vierte los huevos.",
+   "Remueve con suavidad con una espátula 2 minutos, hasta que los huevos empiecen a cuajar.",
+   "Añade el jben desmenuzado y remueve 1 minuto más: debe templarse y ablandarse sin derretirse del todo.",
+   "Espolvorea con menta fresca y sirve con las aceitunas negras."
+  ],
+  "p": "Si no tienes jben, usa queso feta desmenuzado, reduciendo aún más la sal."
+ },
+ "l01-oeufs-brouilles-saumon-aneth": {
+  "t": "Huevos revueltos con salmón ahumado y eneldo",
+  "i": [
+   "huevos",
+   "salmón ahumado en tiras",
+   "nata fresca",
+   "mantequilla",
+   "eneldo picado",
+   "zumo de limón",
+   "pimienta"
+  ],
+  "s": [
+   "Bate los huevos con la nata fresca y pimienta. No eches sal: el salmón aporta la sal.",
+   "Derrite la mantequilla en una sartén antiadherente a fuego suave.",
+   "Vierte los huevos y remueve despacio con una espátula de 3 a 4 minutos, hasta obtener una textura cremosa.",
+   "Fuera del fuego, añade el salmón ahumado y el eneldo, y mezcla con delicadeza.",
+   "Rocía con unas gotas de limón y sirve sin esperar."
+  ],
+  "p": "El salmón añadido fuera del fuego se mantiene tierno y no se seca."
+ }
+}

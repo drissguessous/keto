@@ -61,7 +61,7 @@
     "g": 4,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "beurre",
@@ -313,7 +313,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -387,7 +387,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -447,7 +447,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "beurre",
@@ -710,7 +710,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "framboise",
@@ -777,7 +777,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "framboise",
@@ -1070,7 +1070,7 @@
     "g": 2,
     "qty": null,
     "unit": "",
-    "name": "quelques gouttes de vanille"
+    "name": "arôme de vanille sans alcool (ou vanille en poudre)"
    }
   ],
   "steps": [
@@ -1239,7 +1239,7 @@
     "g": 4,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -1484,7 +1484,7 @@
     "g": 60,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-avocat"
+    "name": "avocat"
    },
    {
     "ing": "eau",
@@ -1529,7 +1529,7 @@
     "g": 70,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-avocat"
+    "name": "avocat"
    },
    {
     "ing": "lait_coco",
@@ -1781,7 +1781,7 @@
     "g": 30,
     "qty": 0.5,
     "unit": "pièce(s)",
-    "name": "demi-œuf battu (dorure)"
+    "name": "œuf battu (dorure)"
    },
    {
     "ing": "sesame",
@@ -2761,7 +2761,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "myrtille",
@@ -2961,7 +2961,7 @@
     "g": 4,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -3138,7 +3138,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "vanille"
+    "name": "arôme de vanille sans alcool (ou vanille en poudre)"
    }
   ],
   "steps": [
@@ -3298,7 +3298,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "vanille"
+    "name": "arôme de vanille sans alcool (ou vanille en poudre)"
    },
    {
     "ing": "sel",
@@ -3614,7 +3614,7 @@
     "g": 4,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "vanille"
+    "name": "arôme de vanille sans alcool (ou vanille en poudre)"
    },
    {
     "ing": "sel",
@@ -3872,7 +3872,7 @@
     "g": 2,
     "qty": null,
     "unit": "",
-    "name": "quelques gouttes de vanille"
+    "name": "arôme de vanille sans alcool (ou vanille en poudre)"
    }
   ],
   "steps": [
@@ -3965,7 +3965,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "vanille"
+    "name": "arôme de vanille sans alcool (ou vanille en poudre)"
    }
   ],
   "steps": [

@@ -566,7 +566,7 @@
     "g": 15,
     "qty": 1,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "sel",
@@ -1839,7 +1839,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "oignon_vert",
@@ -3396,7 +3396,7 @@
     "g": 10,
     "qty": 2,
     "unit": "c. à c.",
-    "name": "vinaigre balsamique"
+    "name": "vinaigre de cidre (ou balsamique)"
    },
    {
     "ing": "sel",

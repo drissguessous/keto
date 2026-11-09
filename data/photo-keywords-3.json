@@ -1,814 +1,814 @@
 {
-  "l07-poulet-basquaise": [
-    "chicken basquaise",
-    "chicken stew"
-  ],
-  "l07-steak-sauce-poivre-chou-fleur": [
-    "steak au poivre",
-    "steak"
-  ],
-  "l07-soupe-champignons-gratinee-boeuf": [
-    "mushroom soup",
-    "soup"
-  ],
-  "l07-croque-monsieur-keto": [
-    "croque monsieur",
-    "sandwich"
-  ],
-  "l07-ratatouille-oeufs-cocotte": [
-    "ratatouille eggs",
-    "ratatouille"
-  ],
-  "l07-gratin-dauphinois-celeri": [
-    "celeriac gratin",
-    "gratin"
-  ],
-  "l07-puree-chou-fleur-ail-roti": [
-    "mashed cauliflower",
-    "cauliflower"
-  ],
-  "l07-brochettes-halloumi-chermoula": [
-    "halloumi skewers",
-    "halloumi"
-  ],
-  "l07-paella-chou-fleur-fruits-mer": [
-    "seafood paella",
-    "paella"
-  ],
-  "l07-gaspacho-avocat-crevettes": [
-    "avocado gazpacho",
-    "gazpacho"
-  ],
-  "l08-quiche-sans-pate-epinards-feta": [
-    "spinach feta quiche",
-    "quiche"
-  ],
-  "l08-halloumi-grille-salade-concombre-menthe": [
-    "grilled halloumi salad",
-    "halloumi"
-  ],
-  "l08-curry-tofu-chou-fleur-coco": [
-    "tofu cauliflower curry",
-    "curry"
-  ],
-  "l08-gratin-courgettes-chevre": [
-    "zucchini gratin",
-    "gratin"
-  ],
-  "l08-shakshuka-feta-poivrons": [
-    "shakshuka feta",
-    "shakshuka"
-  ],
-  "l08-galettes-courgette-feta": [
-    "zucchini fritters",
-    "fritters"
-  ],
-  "l08-salade-nicoise-thon": [
-    "salade niçoise",
-    "salad"
-  ],
-  "l08-tofu-saute-brocoli-sesame": [
-    "tofu broccoli stir fry",
-    "tofu"
-  ],
-  "l08-frittata-champignons-chevre": [
-    "mushroom frittata",
-    "frittata"
-  ],
-  "l08-aubergines-gratinees-mozzarella": [
-    "eggplant parmigiana",
-    "eggplant"
-  ],
-  "l08-salade-poulet-avocat-oeuf": [
-    "chicken avocado salad",
-    "salad"
-  ],
-  "l08-jben-oeufs-brouilles-zaatar": [
-    "scrambled eggs tomato",
-    "scrambled eggs"
-  ],
-  "l08-salade-thon-avocat-oeufs-mimosa": [
-    "tuna avocado salad",
-    "salad"
-  ],
-  "l08-curry-oeufs-epinards": [
-    "egg curry",
-    "curry"
-  ],
-  "l08-chou-fleur-gratine-cheddar": [
-    "cauliflower cheese",
-    "cauliflower"
-  ],
-  "l08-halloumi-brochettes-legumes": [
-    "halloumi vegetable skewers",
-    "kebab"
-  ],
-  "l08-salade-grecque-feta-oeufs": [
-    "greek salad",
-    "salad"
-  ],
-  "l08-poivrons-farcis-ricotta-epinards": [
-    "stuffed peppers",
-    "stuffed peppers"
-  ],
-  "l08-salade-tiede-chevre-noix": [
-    "goat cheese salad",
-    "salad"
-  ],
-  "l08-tajine-legumes-oeufs-olives": [
-    "vegetable tajine eggs",
-    "tajine"
-  ],
-  "l08-salade-poulet-tahini-chou": [
-    "chicken cabbage salad",
-    "salad"
-  ],
-  "l08-mini-quiches-brocoli-emmental": [
-    "mini quiches",
-    "quiche"
-  ],
-  "l08-brouillade-tofu-legumes-curcuma": [
-    "tofu scramble",
-    "tofu"
-  ],
-  "l08-pizza-chou-fleur-champignons": [
-    "cauliflower pizza",
-    "pizza"
-  ],
-  "l08-salade-crevettes-avocat-concombre": [
-    "shrimp avocado salad",
-    "salad"
-  ],
-  "l08-halloumi-harissa-epinards": [
-    "fried halloumi",
-    "halloumi"
-  ],
-  "l08-zaalouk-oeufs-gratines": [
-    "zaalouk",
-    "eggplant"
-  ],
-  "l08-tofu-marine-salade-concombre-sesame": [
-    "grilled tofu",
-    "tofu"
-  ],
-  "l08-oeufs-cocotte-epinards-creme": [
-    "oeufs en cocotte",
-    "baked eggs"
-  ],
-  "l08-pancakes-ricotta-framboises": [
-    "ricotta pancakes",
-    "pancakes"
-  ],
-  "l08-crepes-jben-epinards": [
-    "spinach crepes",
-    "crêpe"
-  ],
-  "l08-salade-saumon-fume-oeufs-avocat": [
-    "smoked salmon salad",
-    "smoked salmon"
-  ],
-  "l08-courgettes-farcies-chevre-menthe": [
-    "stuffed zucchini",
-    "zucchini"
-  ],
-  "l08-salade-poulet-tandoori-raita": [
-    "tandoori chicken",
-    "raita"
-  ],
-  "l08-asperges-oeufs-mollets-parmesan": [
-    "asparagus with egg",
-    "asparagus"
-  ],
-  "l08-curry-legumes-paneer-halloumi": [
-    "paneer curry",
-    "curry"
-  ],
-  "l08-cake-sale-olives-feta": [
-    "olive cake",
-    "savory cake"
-  ],
-  "l08-champignons-farcis-chevre-noix": [
-    "stuffed mushrooms",
-    "mushrooms"
-  ],
-  "l08-salade-thon-haricots-verts-oeuf": [
-    "green bean tuna salad",
-    "salad"
-  ],
-  "l08-omelette-espagnole-chou-fleur": [
-    "spanish tortilla",
-    "tortilla"
-  ],
-  "l08-veloute-brocoli-cheddar-oeuf": [
-    "broccoli cheddar soup",
-    "soup"
-  ],
-  "l08-salade-roquette-halloumi-avocat-graines": [
-    "halloumi avocado salad",
-    "salad"
-  ],
-  "l08-tofu-kefta-tomate-oeufs": [
-    "kefta tajine eggs",
-    "meatballs"
-  ],
-  "l08-salade-dinde-fumee-chou-noix": [
-    "cabbage salad walnuts",
-    "coleslaw"
-  ],
-  "l08-gratin-aubergines-feta-menthe": [
-    "eggplant gratin",
-    "eggplant"
-  ],
-  "l08-poke-bowl-thon-konjac": [
-    "tuna poke bowl",
-    "poke"
-  ],
-  "l08-feta-rotie-legumes-oeufs": [
-    "baked feta vegetables",
-    "feta"
-  ],
-  "l09-harira-keto-poulet": [
-    "harira",
-    "soup"
-  ],
-  "l09-veloute-chou-fleur-cumin": [
-    "cauliflower soup",
-    "soup"
-  ],
-  "l09-veloute-courgette-fromage-frais": [
-    "zucchini soup",
-    "soup"
-  ],
-  "l09-soupe-brocoli-cheddar": [
-    "broccoli cheddar soup",
-    "soup"
-  ],
-  "l09-chorba-boeuf-celeri-navet": [
-    "chorba",
-    "soup"
-  ],
-  "l09-soupe-thai-crevettes-coco": [
-    "tom kha",
-    "thai soup"
-  ],
-  "l09-veloute-champignons-ail": [
-    "cream of mushroom soup",
-    "soup"
-  ],
-  "l09-soupe-poisson-marocaine": [
-    "fish soup",
-    "soup"
-  ],
-  "l09-veloute-asperges": [
-    "asparagus soup",
-    "soup"
-  ],
-  "l09-stracciatella-epinards": [
-    "stracciatella soup",
-    "soup"
-  ],
-  "l09-veloute-potiron-coco": [
-    "pumpkin soup",
-    "soup"
-  ],
-  "l09-soupe-poulet-konjac": [
-    "chicken noodle soup",
-    "soup"
-  ],
-  "l09-gaspacho-concombre-avocat": [
-    "cucumber gazpacho",
-    "gazpacho"
-  ],
-  "l09-veloute-celeri-rave-noisettes": [
-    "celeriac soup",
-    "soup"
-  ],
-  "l09-soupe-kefta-courgettes": [
-    "meatball soup",
-    "soup"
-  ],
-  "l09-veloute-epinards-jben": [
-    "spinach soup",
-    "soup"
-  ],
-  "l09-chaudree-saumon-aneth": [
-    "salmon chowder",
-    "chowder"
-  ],
-  "l09-soupe-chou-boeuf-hache": [
-    "cabbage soup beef",
-    "cabbage soup"
-  ],
-  "l09-veloute-fenouil-parmesan": [
-    "fennel soup",
-    "soup"
-  ],
-  "l09-soupe-tofu-champignons-gingembre": [
-    "tofu mushroom soup",
-    "miso soup"
-  ],
-  "l09-puree-chou-fleur-beurre": [
-    "mashed cauliflower",
-    "cauliflower"
-  ],
-  "l09-puree-celeri-rave-ail-roti": [
-    "celeriac puree",
-    "puree"
-  ],
-  "l09-riz-chou-fleur-saute": [
-    "cauliflower rice",
-    "cauliflower"
-  ],
-  "l09-semoule-chou-fleur-couscous": [
-    "cauliflower couscous",
-    "couscous"
-  ],
-  "l09-frites-celeri-rave-four": [
-    "celeriac fries",
-    "fries"
-  ],
-  "l09-frites-courgette-parmesan": [
-    "zucchini fries",
-    "zucchini"
-  ],
-  "l09-gratin-chou-fleur-emmental": [
-    "cauliflower gratin",
-    "gratin"
-  ],
-  "l09-gratin-courgettes-feta-menthe": [
-    "zucchini gratin",
-    "gratin"
-  ],
-  "l09-gratin-aubergines-tomate-mozza": [
-    "eggplant parmigiana",
-    "eggplant"
-  ],
-  "l09-legumes-rotis-ras-el-hanout": [
-    "roasted vegetables",
-    "vegetables"
-  ],
-  "l09-choux-bruxelles-rotis-parmesan": [
-    "roasted brussels sprouts",
-    "brussels sprouts"
-  ],
-  "l09-brocoli-roti-ail-amandes": [
-    "roasted broccoli",
-    "broccoli"
-  ],
-  "l09-poelee-champignons-persillade": [
-    "sauteed mushrooms",
-    "mushrooms"
-  ],
-  "l09-haricots-verts-amandine": [
-    "green beans almondine",
-    "green beans"
-  ],
-  "l09-epinards-creme-ail": [
-    "creamed spinach",
-    "spinach"
-  ],
-  "l09-salade-chou-rouge-coleslaw": [
-    "red cabbage coleslaw",
-    "coleslaw"
-  ],
-  "l09-salade-concombre-yaourt-menthe": [
-    "cucumber yogurt salad",
-    "cacık"
-  ],
-  "l09-zaalouk-aubergine": [
-    "zaalouk",
-    "eggplant"
-  ],
-  "l09-salade-roquette-parmesan-noix": [
-    "arugula parmesan salad",
-    "arugula"
-  ],
-  "l09-salade-avocat-tomate-oignon-rouge": [
-    "avocado tomato salad",
-    "salad"
-  ],
-  "l09-salade-chou-fleur-facon-pommes-de-terre": [
-    "cauliflower salad",
-    "salad"
-  ],
-  "l09-courgettes-sautees-ail-menthe": [
-    "sauteed zucchini",
-    "zucchini"
-  ],
-  "l09-asperges-roties-beurre-citron": [
-    "roasted asparagus",
-    "asparagus"
-  ],
-  "l09-navets-glaces-cumin": [
-    "roasted turnips",
-    "turnips"
-  ],
-  "l09-chou-blanc-poele-beurre": [
-    "sauteed cabbage",
-    "cabbage"
-  ],
-  "l09-champignons-farcis-chevre": [
-    "stuffed mushrooms",
-    "mushrooms"
-  ],
-  "l09-puree-brocoli-parmesan": [
-    "broccoli puree",
-    "broccoli"
-  ],
-  "l09-salade-fenouil-olives-citron": [
-    "fennel orange salad",
-    "fennel"
-  ],
-  "l10-chips-parmesan-paprika": [
-    "parmesan crisps",
-    "parmesan"
-  ],
-  "l10-crackers-graines": [
-    "seed crackers",
-    "crackers"
-  ],
-  "l10-oeufs-mimosa-thon-harissa": [
-    "deviled eggs tuna",
-    "deviled eggs"
-  ],
-  "l10-rouleaux-dinde-fromage-concombre": [
-    "turkey roll ups",
-    "appetizer"
-  ],
-  "l10-bouchees-chou-fleur-cheddar": [
-    "cauliflower bites",
-    "cauliflower"
-  ],
-  "l10-houmous-chou-fleur-tahini": [
-    "hummus vegetable sticks",
-    "hummus"
-  ],
-  "l10-noix-epicees-ras-el-hanout": [
-    "spiced nuts",
-    "nuts"
-  ],
-  "l10-fat-bombs-salees-ciboulette-noix": [
-    "cheese ball",
-    "cheese"
-  ],
-  "l10-brochettes-halloumi-tomates": [
-    "halloumi cherry tomatoes",
-    "halloumi"
-  ],
-  "l10-champignons-farcis-chevre": [
-    "stuffed mushrooms",
-    "mushrooms"
-  ],
-  "l10-tartinade-jben-herbes": [
-    "herb cheese spread",
-    "cream cheese"
-  ],
-  "l10-dip-avocat-feta": [
-    "avocado dip",
-    "guacamole"
-  ],
-  "l10-roules-saumon-fume-fromage": [
-    "smoked salmon rolls",
-    "smoked salmon"
-  ],
-  "l10-boulettes-kefta-cocktail": [
-    "kefta meatballs",
-    "meatballs"
-  ],
-  "l10-chips-courgette-parmesan": [
-    "zucchini chips",
-    "zucchini"
-  ],
-  "l10-bouchees-thon-avocat-concombre": [
-    "cucumber tuna bites",
-    "canapé"
-  ],
-  "l10-oeufs-mimosa-avocat": [
-    "avocado deviled eggs",
-    "deviled eggs"
-  ],
-  "l10-crackers-parmesan-lin": [
-    "flaxseed crackers",
-    "crackers"
-  ],
-  "l10-olives-marinees-citron-confit": [
-    "marinated olives",
-    "olives"
-  ],
-  "l10-bouchees-poulet-sesame": [
-    "sesame chicken",
-    "chicken nuggets"
-  ],
-  "l10-halloumi-frites-zaatar": [
-    "halloumi fries",
-    "halloumi"
-  ],
-  "l10-tartinade-sardines-citron": [
-    "sardine spread",
-    "sardines"
-  ],
-  "l10-baba-ganoush-keto": [
-    "baba ghanoush",
-    "eggplant dip"
-  ],
-  "l10-roules-courgette-chevre": [
-    "zucchini rolls",
-    "zucchini"
-  ],
-  "l10-noix-pecan-cannelle-salees": [
-    "candied pecans",
-    "pecans"
-  ],
-  "l10-mayonnaise-maison": [
-    "homemade mayonnaise",
-    "mayonnaise"
-  ],
-  "l10-aioli-provencal": [
-    "aioli",
-    "aioli"
-  ],
-  "l10-pesto-basilic-amandes": [
-    "basil pesto",
-    "pesto"
-  ],
-  "l10-sauce-blanche-ail": [
-    "garlic yogurt sauce",
-    "garlic sauce"
-  ],
-  "l10-ketchup-keto": [
-    "homemade ketchup",
-    "ketchup"
-  ],
-  "l10-vinaigrette-moutarde-ancienne": [
-    "mustard vinaigrette",
-    "vinaigrette"
-  ],
-  "l10-chermoula-sauce": [
-    "chermoula",
-    "herb sauce"
-  ],
-  "l10-tzatziki-concombre": [
-    "tzatziki",
-    "tzatziki"
-  ],
-  "l10-sauce-tahini-citron": [
-    "tahini sauce",
-    "tahini"
-  ],
-  "l10-vinaigrette-argan-citron": [
-    "argan oil",
-    "salad dressing"
-  ],
-  "l10-pesto-roquette-noix": [
-    "arugula pesto",
-    "pesto"
-  ],
-  "l10-sauce-fromagere-cheddar": [
-    "cheese sauce",
-    "cheddar"
-  ],
-  "l10-cafe-keto-beurre": [
-    "butter coffee",
-    "coffee"
-  ],
-  "l10-the-menthe-sans-sucre": [
-    "moroccan mint tea",
-    "mint tea"
-  ],
-  "l10-smoothie-vert-avocat-epinard": [
-    "green smoothie",
-    "smoothie"
-  ],
-  "l10-lassi-keto-cardamome": [
-    "lassi",
-    "lassi"
-  ],
-  "l10-chocolat-chaud-keto": [
-    "hot chocolate",
-    "hot chocolate"
-  ],
-  "l10-citronnade-stevia-menthe": [
-    "mint lemonade",
-    "lemonade"
-  ],
-  "l10-eau-aromatisee-concombre-menthe": [
-    "cucumber water",
-    "infused water"
-  ],
-  "l10-golden-milk-coco": [
-    "golden milk",
-    "turmeric"
-  ],
-  "l10-cafe-glace-coco": [
-    "iced coffee",
-    "iced coffee"
-  ],
-  "l10-smoothie-framboise-coco": [
-    "raspberry smoothie",
-    "smoothie"
-  ],
-  "l10-the-vert-gingembre-citron": [
-    "ginger lemon tea",
-    "green tea"
-  ],
-  "l10-milkshake-vanille-proteine": [
-    "vanilla milkshake",
-    "milkshake"
-  ],
-  "l10-smoothie-fraise-amande": [
-    "strawberry smoothie",
-    "smoothie"
-  ],
-  "l11-moelleux-chocolat": [
-    "chocolate cake",
-    "chocolate cake"
-  ],
-  "l11-fondant-coeur-coulant": [
-    "chocolate lava cake",
-    "fondant"
-  ],
-  "l11-cake-citron": [
-    "lemon cake",
-    "cake"
-  ],
-  "l11-carrot-cake-leger": [
-    "carrot cake",
-    "cake"
-  ],
-  "l11-gateau-coco": [
-    "coconut cake",
-    "cake"
-  ],
-  "l11-cheesecake-new-york": [
-    "new york cheesecake",
-    "cheesecake"
-  ],
-  "l11-cheesecake-framboise-sans-cuisson": [
-    "raspberry cheesecake",
-    "cheesecake"
-  ],
-  "l11-mousse-chocolat": [
-    "chocolate mousse",
-    "mousse"
-  ],
-  "l11-mousse-citron-coco": [
-    "lemon mousse",
-    "mousse"
-  ],
-  "l11-creme-vanille": [
-    "vanilla custard",
-    "custard"
-  ],
-  "l11-creme-brulee-fleur-oranger": [
-    "crème brûlée",
-    "custard"
-  ],
-  "l11-panna-cotta-vanille-fruits-rouges": [
-    "panna cotta berries",
-    "panna cotta"
-  ],
-  "l11-panna-cotta-coco-framboise": [
-    "coconut panna cotta",
-    "panna cotta"
-  ],
-  "l11-cookies-pepites-chocolat": [
-    "chocolate chip cookies",
-    "cookies"
-  ],
-  "l11-cookies-beurre-cacahuete": [
-    "peanut butter cookies",
-    "cookies"
-  ],
-  "l11-brownie-noix": [
-    "walnut brownies",
-    "brownie"
-  ],
-  "l11-brownie-tahini": [
-    "tahini brownies",
-    "brownie"
-  ],
-  "l11-crumble-fruits-rouges-amande": [
-    "berry crumble",
-    "crumble"
-  ],
-  "l11-tarte-citron-sablee": [
-    "tarte au citron",
-    "lemon tart"
-  ],
-  "l11-tarte-amandine-fraises": [
-    "strawberry tart",
-    "tart"
-  ],
-  "l11-glace-fraise": [
-    "strawberry ice cream",
-    "ice cream"
-  ],
-  "l11-sorbet-framboise": [
-    "raspberry sorbet",
-    "sorbet"
-  ],
-  "l11-glace-vanille-sans-sorbetiere": [
-    "vanilla ice cream",
-    "ice cream"
-  ],
-  "l11-truffes-chocolat-cacao": [
-    "chocolate truffles",
-    "truffles"
-  ],
-  "l11-fat-bombs-coco-chocolat": [
-    "coconut chocolate balls",
-    "chocolate"
-  ],
-  "l11-fat-bombs-cacahuete": [
-    "peanut butter cups",
-    "peanut butter"
-  ],
-  "l11-mug-cake-chocolat": [
-    "chocolate mug cake",
-    "mug cake"
-  ],
-  "l11-mug-cake-vanille-framboise": [
-    "mug cake",
-    "cake"
-  ],
-  "l11-ghriba-coco": [
-    "ghriba coconut",
-    "ghriba"
-  ],
-  "l11-cornes-gazelle": [
-    "kaab el ghazal",
-    "moroccan pastries"
-  ],
-  "l11-fekkas-amandes": [
-    "fekkas",
-    "biscotti"
-  ],
-  "l11-rochers-coco": [
-    "coconut macaroons",
-    "macaroons"
-  ],
-  "l11-financiers-amande": [
-    "financier cake",
-    "financier"
-  ],
-  "l11-madeleines-citron": [
-    "lemon madeleines",
-    "madeleine"
-  ],
-  "l11-muffins-myrtilles": [
-    "blueberry muffins",
-    "muffin"
-  ],
-  "l11-tiramisu-keto": [
-    "tiramisu",
-    "tiramisu"
-  ],
-  "l11-clafoutis-framboises": [
-    "raspberry clafoutis",
-    "clafoutis"
-  ],
-  "l11-bavarois-fraise": [
-    "strawberry bavarois",
-    "bavarian cream"
-  ],
-  "l11-pudding-chia-coco-vanille": [
-    "chia pudding",
-    "chia"
-  ],
-  "l11-mendiants-chocolat": [
-    "chocolate mendiants",
-    "mendiant"
-  ],
-  "l11-glace-avocat-chocolat": [
-    "chocolate ice cream",
-    "ice cream"
-  ],
-  "l11-tarte-chocolat-noisette": [
-    "chocolate tart",
-    "tart"
-  ],
-  "l11-cake-marbre": [
-    "marble cake",
-    "cake"
-  ],
-  "l11-gateau-yaourt": [
-    "yogurt cake",
-    "cake"
-  ],
-  "l11-crepes-ricotta-cannelle": [
-    "ricotta crepes",
-    "crêpe"
-  ],
-  "l11-fondant-pistache": [
-    "pistachio cake",
-    "pistachio"
-  ],
-  "l11-creme-dessert-chocolat": [
-    "chocolate pudding",
-    "pudding"
-  ],
-  "l11-mini-cheesecakes-citron": [
-    "mini cheesecakes",
-    "cheesecake"
-  ]
+ "l07-poulet-basquaise": [
+  "chicken basquaise",
+  "chicken stew"
+ ],
+ "l07-steak-sauce-poivre-chou-fleur": [
+  "steak au poivre",
+  "steak"
+ ],
+ "l07-soupe-champignons-gratinee-boeuf": [
+  "mushroom soup",
+  "soup"
+ ],
+ "l07-croque-monsieur-keto": [
+  "grilled cheese sandwich",
+  "sandwich"
+ ],
+ "l07-ratatouille-oeufs-cocotte": [
+  "ratatouille eggs",
+  "ratatouille"
+ ],
+ "l07-gratin-dauphinois-celeri": [
+  "celeriac gratin",
+  "gratin"
+ ],
+ "l07-puree-chou-fleur-ail-roti": [
+  "mashed cauliflower",
+  "cauliflower"
+ ],
+ "l07-brochettes-halloumi-chermoula": [
+  "halloumi skewers",
+  "halloumi"
+ ],
+ "l07-paella-chou-fleur-fruits-mer": [
+  "seafood paella",
+  "paella"
+ ],
+ "l07-gaspacho-avocat-crevettes": [
+  "avocado gazpacho",
+  "gazpacho"
+ ],
+ "l08-quiche-sans-pate-epinards-feta": [
+  "spinach feta quiche",
+  "quiche"
+ ],
+ "l08-halloumi-grille-salade-concombre-menthe": [
+  "grilled halloumi salad",
+  "halloumi"
+ ],
+ "l08-curry-tofu-chou-fleur-coco": [
+  "tofu cauliflower curry",
+  "curry"
+ ],
+ "l08-gratin-courgettes-chevre": [
+  "zucchini gratin",
+  "gratin"
+ ],
+ "l08-shakshuka-feta-poivrons": [
+  "shakshuka feta",
+  "shakshuka"
+ ],
+ "l08-galettes-courgette-feta": [
+  "zucchini fritters",
+  "fritters"
+ ],
+ "l08-salade-nicoise-thon": [
+  "salade niçoise",
+  "salad"
+ ],
+ "l08-tofu-saute-brocoli-sesame": [
+  "tofu broccoli stir fry",
+  "tofu"
+ ],
+ "l08-frittata-champignons-chevre": [
+  "mushroom frittata",
+  "frittata"
+ ],
+ "l08-aubergines-gratinees-mozzarella": [
+  "eggplant parmigiana",
+  "eggplant"
+ ],
+ "l08-salade-poulet-avocat-oeuf": [
+  "chicken avocado salad",
+  "salad"
+ ],
+ "l08-jben-oeufs-brouilles-zaatar": [
+  "scrambled eggs tomato",
+  "scrambled eggs"
+ ],
+ "l08-salade-thon-avocat-oeufs-mimosa": [
+  "tuna avocado salad",
+  "salad"
+ ],
+ "l08-curry-oeufs-epinards": [
+  "egg curry",
+  "curry"
+ ],
+ "l08-chou-fleur-gratine-cheddar": [
+  "cauliflower cheese",
+  "cauliflower"
+ ],
+ "l08-halloumi-brochettes-legumes": [
+  "halloumi vegetable skewers",
+  "kebab"
+ ],
+ "l08-salade-grecque-feta-oeufs": [
+  "greek salad",
+  "salad"
+ ],
+ "l08-poivrons-farcis-ricotta-epinards": [
+  "stuffed peppers",
+  "peppers"
+ ],
+ "l08-salade-tiede-chevre-noix": [
+  "goat cheese salad",
+  "salad"
+ ],
+ "l08-tajine-legumes-oeufs-olives": [
+  "vegetable tajine eggs",
+  "tajine"
+ ],
+ "l08-salade-poulet-tahini-chou": [
+  "chicken cabbage salad",
+  "salad"
+ ],
+ "l08-mini-quiches-brocoli-emmental": [
+  "mini quiches",
+  "quiche"
+ ],
+ "l08-brouillade-tofu-legumes-curcuma": [
+  "tofu scramble",
+  "tofu"
+ ],
+ "l08-pizza-chou-fleur-champignons": [
+  "cauliflower pizza",
+  "pizza"
+ ],
+ "l08-salade-crevettes-avocat-concombre": [
+  "shrimp avocado salad",
+  "salad"
+ ],
+ "l08-halloumi-harissa-epinards": [
+  "fried halloumi",
+  "halloumi"
+ ],
+ "l08-zaalouk-oeufs-gratines": [
+  "zaalouk",
+  "eggplant"
+ ],
+ "l08-tofu-marine-salade-concombre-sesame": [
+  "grilled tofu",
+  "tofu"
+ ],
+ "l08-oeufs-cocotte-epinards-creme": [
+  "oeufs en cocotte",
+  "baked eggs"
+ ],
+ "l08-pancakes-ricotta-framboises": [
+  "ricotta pancakes",
+  "pancakes"
+ ],
+ "l08-crepes-jben-epinards": [
+  "spinach crepes",
+  "crêpe"
+ ],
+ "l08-salade-saumon-fume-oeufs-avocat": [
+  "smoked salmon salad",
+  "smoked salmon"
+ ],
+ "l08-courgettes-farcies-chevre-menthe": [
+  "stuffed zucchini",
+  "zucchini"
+ ],
+ "l08-salade-poulet-tandoori-raita": [
+  "tandoori chicken",
+  "raita"
+ ],
+ "l08-asperges-oeufs-mollets-parmesan": [
+  "asparagus with egg",
+  "asparagus"
+ ],
+ "l08-curry-legumes-paneer-halloumi": [
+  "paneer curry",
+  "curry"
+ ],
+ "l08-cake-sale-olives-feta": [
+  "olive cake",
+  "savory cake"
+ ],
+ "l08-champignons-farcis-chevre-noix": [
+  "stuffed mushrooms",
+  "mushrooms"
+ ],
+ "l08-salade-thon-haricots-verts-oeuf": [
+  "green bean tuna salad",
+  "salad"
+ ],
+ "l08-omelette-espagnole-chou-fleur": [
+  "spanish tortilla",
+  "tortilla"
+ ],
+ "l08-veloute-brocoli-cheddar-oeuf": [
+  "broccoli cheddar soup",
+  "soup"
+ ],
+ "l08-salade-roquette-halloumi-avocat-graines": [
+  "halloumi avocado salad",
+  "salad"
+ ],
+ "l08-tofu-kefta-tomate-oeufs": [
+  "kefta tajine eggs",
+  "meatballs"
+ ],
+ "l08-salade-dinde-fumee-chou-noix": [
+  "cabbage salad walnuts",
+  "coleslaw"
+ ],
+ "l08-gratin-aubergines-feta-menthe": [
+  "eggplant gratin",
+  "eggplant"
+ ],
+ "l08-poke-bowl-thon-konjac": [
+  "tuna poke bowl",
+  "poke"
+ ],
+ "l08-feta-rotie-legumes-oeufs": [
+  "baked feta vegetables",
+  "feta"
+ ],
+ "l09-harira-keto-poulet": [
+  "harira",
+  "soup"
+ ],
+ "l09-veloute-chou-fleur-cumin": [
+  "cauliflower soup",
+  "soup"
+ ],
+ "l09-veloute-courgette-fromage-frais": [
+  "zucchini soup",
+  "soup"
+ ],
+ "l09-soupe-brocoli-cheddar": [
+  "broccoli cheddar soup",
+  "soup"
+ ],
+ "l09-chorba-boeuf-celeri-navet": [
+  "chorba",
+  "soup"
+ ],
+ "l09-soupe-thai-crevettes-coco": [
+  "tom kha",
+  "thai soup"
+ ],
+ "l09-veloute-champignons-ail": [
+  "cream of mushroom soup",
+  "soup"
+ ],
+ "l09-soupe-poisson-marocaine": [
+  "fish soup",
+  "soup"
+ ],
+ "l09-veloute-asperges": [
+  "asparagus soup",
+  "soup"
+ ],
+ "l09-stracciatella-epinards": [
+  "stracciatella soup",
+  "soup"
+ ],
+ "l09-veloute-potiron-coco": [
+  "pumpkin soup",
+  "soup"
+ ],
+ "l09-soupe-poulet-konjac": [
+  "chicken noodle soup",
+  "soup"
+ ],
+ "l09-gaspacho-concombre-avocat": [
+  "cucumber gazpacho",
+  "gazpacho"
+ ],
+ "l09-veloute-celeri-rave-noisettes": [
+  "celeriac soup",
+  "soup"
+ ],
+ "l09-soupe-kefta-courgettes": [
+  "meatball soup",
+  "soup"
+ ],
+ "l09-veloute-epinards-jben": [
+  "spinach soup",
+  "soup"
+ ],
+ "l09-chaudree-saumon-aneth": [
+  "salmon chowder",
+  "chowder"
+ ],
+ "l09-soupe-chou-boeuf-hache": [
+  "cabbage soup beef",
+  "cabbage soup"
+ ],
+ "l09-veloute-fenouil-parmesan": [
+  "fennel soup",
+  "soup"
+ ],
+ "l09-soupe-tofu-champignons-gingembre": [
+  "tofu mushroom soup",
+  "miso soup"
+ ],
+ "l09-puree-chou-fleur-beurre": [
+  "mashed cauliflower",
+  "cauliflower"
+ ],
+ "l09-puree-celeri-rave-ail-roti": [
+  "celeriac puree",
+  "puree"
+ ],
+ "l09-riz-chou-fleur-saute": [
+  "cauliflower rice",
+  "cauliflower"
+ ],
+ "l09-semoule-chou-fleur-couscous": [
+  "cauliflower couscous",
+  "couscous"
+ ],
+ "l09-frites-celeri-rave-four": [
+  "celeriac fries",
+  "fries"
+ ],
+ "l09-frites-courgette-parmesan": [
+  "zucchini fries",
+  "zucchini"
+ ],
+ "l09-gratin-chou-fleur-emmental": [
+  "cauliflower gratin",
+  "gratin"
+ ],
+ "l09-gratin-courgettes-feta-menthe": [
+  "zucchini gratin",
+  "gratin"
+ ],
+ "l09-gratin-aubergines-tomate-mozza": [
+  "eggplant parmigiana",
+  "eggplant"
+ ],
+ "l09-legumes-rotis-ras-el-hanout": [
+  "roasted vegetables",
+  "vegetables"
+ ],
+ "l09-choux-bruxelles-rotis-parmesan": [
+  "roasted brussels sprouts",
+  "brussels sprouts"
+ ],
+ "l09-brocoli-roti-ail-amandes": [
+  "roasted broccoli",
+  "broccoli"
+ ],
+ "l09-poelee-champignons-persillade": [
+  "sauteed mushrooms",
+  "mushrooms"
+ ],
+ "l09-haricots-verts-amandine": [
+  "green beans almondine",
+  "green beans"
+ ],
+ "l09-epinards-creme-ail": [
+  "creamed spinach",
+  "spinach"
+ ],
+ "l09-salade-chou-rouge-coleslaw": [
+  "red cabbage coleslaw",
+  "coleslaw"
+ ],
+ "l09-salade-concombre-yaourt-menthe": [
+  "cucumber yogurt salad",
+  "cacık"
+ ],
+ "l09-zaalouk-aubergine": [
+  "zaalouk",
+  "eggplant"
+ ],
+ "l09-salade-roquette-parmesan-noix": [
+  "arugula parmesan salad",
+  "arugula"
+ ],
+ "l09-salade-avocat-tomate-oignon-rouge": [
+  "avocado tomato salad",
+  "salad"
+ ],
+ "l09-salade-chou-fleur-facon-pommes-de-terre": [
+  "cauliflower salad",
+  "salad"
+ ],
+ "l09-courgettes-sautees-ail-menthe": [
+  "sauteed zucchini",
+  "zucchini"
+ ],
+ "l09-asperges-roties-beurre-citron": [
+  "roasted asparagus",
+  "asparagus"
+ ],
+ "l09-navets-glaces-cumin": [
+  "roasted turnips",
+  "turnips"
+ ],
+ "l09-chou-blanc-poele-beurre": [
+  "sauteed cabbage",
+  "cabbage"
+ ],
+ "l09-champignons-farcis-chevre": [
+  "stuffed mushrooms",
+  "mushrooms"
+ ],
+ "l09-puree-brocoli-parmesan": [
+  "broccoli puree",
+  "broccoli"
+ ],
+ "l09-salade-fenouil-olives-citron": [
+  "fennel orange salad",
+  "fennel"
+ ],
+ "l10-chips-parmesan-paprika": [
+  "parmesan crisps",
+  "parmesan"
+ ],
+ "l10-crackers-graines": [
+  "seed crackers",
+  "crackers"
+ ],
+ "l10-oeufs-mimosa-thon-harissa": [
+  "deviled eggs tuna",
+  "deviled eggs"
+ ],
+ "l10-rouleaux-dinde-fromage-concombre": [
+  "turkey roll ups",
+  "appetizer"
+ ],
+ "l10-bouchees-chou-fleur-cheddar": [
+  "cauliflower bites",
+  "cauliflower"
+ ],
+ "l10-houmous-chou-fleur-tahini": [
+  "hummus vegetable sticks",
+  "hummus"
+ ],
+ "l10-noix-epicees-ras-el-hanout": [
+  "spiced nuts",
+  "nuts"
+ ],
+ "l10-fat-bombs-salees-ciboulette-noix": [
+  "cheese ball",
+  "cheese"
+ ],
+ "l10-brochettes-halloumi-tomates": [
+  "halloumi cherry tomatoes",
+  "halloumi"
+ ],
+ "l10-champignons-farcis-chevre": [
+  "stuffed mushrooms",
+  "mushrooms"
+ ],
+ "l10-tartinade-jben-herbes": [
+  "herb cheese spread",
+  "cream cheese"
+ ],
+ "l10-dip-avocat-feta": [
+  "avocado dip",
+  "guacamole"
+ ],
+ "l10-roules-saumon-fume-fromage": [
+  "smoked salmon rolls",
+  "smoked salmon"
+ ],
+ "l10-boulettes-kefta-cocktail": [
+  "kefta meatballs",
+  "meatballs"
+ ],
+ "l10-chips-courgette-parmesan": [
+  "zucchini chips",
+  "zucchini"
+ ],
+ "l10-bouchees-thon-avocat-concombre": [
+  "cucumber tuna bites",
+  "canapé"
+ ],
+ "l10-oeufs-mimosa-avocat": [
+  "avocado deviled eggs",
+  "deviled eggs"
+ ],
+ "l10-crackers-parmesan-lin": [
+  "flaxseed crackers",
+  "crackers"
+ ],
+ "l10-olives-marinees-citron-confit": [
+  "marinated olives",
+  "olives"
+ ],
+ "l10-bouchees-poulet-sesame": [
+  "sesame chicken",
+  "chicken nuggets"
+ ],
+ "l10-halloumi-frites-zaatar": [
+  "halloumi fries",
+  "halloumi"
+ ],
+ "l10-tartinade-sardines-citron": [
+  "sardine spread",
+  "sardines"
+ ],
+ "l10-baba-ganoush-keto": [
+  "baba ghanoush",
+  "eggplant dip"
+ ],
+ "l10-roules-courgette-chevre": [
+  "zucchini rolls",
+  "zucchini"
+ ],
+ "l10-noix-pecan-cannelle-salees": [
+  "candied pecans",
+  "pecans"
+ ],
+ "l10-mayonnaise-maison": [
+  "homemade mayonnaise",
+  "mayonnaise"
+ ],
+ "l10-aioli-provencal": [
+  "aioli",
+  "food dish"
+ ],
+ "l10-pesto-basilic-amandes": [
+  "basil pesto",
+  "pesto"
+ ],
+ "l10-sauce-blanche-ail": [
+  "garlic yogurt sauce",
+  "garlic sauce"
+ ],
+ "l10-ketchup-keto": [
+  "homemade ketchup",
+  "ketchup"
+ ],
+ "l10-vinaigrette-moutarde-ancienne": [
+  "mustard vinaigrette",
+  "vinaigrette"
+ ],
+ "l10-chermoula-sauce": [
+  "chermoula",
+  "herb sauce"
+ ],
+ "l10-tzatziki-concombre": [
+  "tzatziki",
+  "food dish"
+ ],
+ "l10-sauce-tahini-citron": [
+  "tahini sauce",
+  "tahini"
+ ],
+ "l10-vinaigrette-argan-citron": [
+  "argan oil",
+  "salad dressing"
+ ],
+ "l10-pesto-roquette-noix": [
+  "arugula pesto",
+  "pesto"
+ ],
+ "l10-sauce-fromagere-cheddar": [
+  "cheese sauce",
+  "cheddar"
+ ],
+ "l10-cafe-keto-beurre": [
+  "butter coffee",
+  "coffee"
+ ],
+ "l10-the-menthe-sans-sucre": [
+  "moroccan mint tea",
+  "mint tea"
+ ],
+ "l10-smoothie-vert-avocat-epinard": [
+  "green smoothie",
+  "smoothie"
+ ],
+ "l10-lassi-keto-cardamome": [
+  "lassi",
+  "food dish"
+ ],
+ "l10-chocolat-chaud-keto": [
+  "hot chocolate",
+  "chocolate"
+ ],
+ "l10-citronnade-stevia-menthe": [
+  "mint lemonade",
+  "lemonade"
+ ],
+ "l10-eau-aromatisee-concombre-menthe": [
+  "cucumber water",
+  "infused water"
+ ],
+ "l10-golden-milk-coco": [
+  "golden milk",
+  "turmeric"
+ ],
+ "l10-cafe-glace-coco": [
+  "iced coffee",
+  "coffee"
+ ],
+ "l10-smoothie-framboise-coco": [
+  "raspberry smoothie",
+  "smoothie"
+ ],
+ "l10-the-vert-gingembre-citron": [
+  "ginger lemon tea",
+  "green tea"
+ ],
+ "l10-milkshake-vanille-proteine": [
+  "vanilla milkshake",
+  "milkshake"
+ ],
+ "l10-smoothie-fraise-amande": [
+  "strawberry smoothie",
+  "smoothie"
+ ],
+ "l11-moelleux-chocolat": [
+  "chocolate cake",
+  "cake"
+ ],
+ "l11-fondant-coeur-coulant": [
+  "chocolate lava cake",
+  "fondant"
+ ],
+ "l11-cake-citron": [
+  "lemon cake",
+  "cake"
+ ],
+ "l11-carrot-cake-leger": [
+  "carrot cake",
+  "cake"
+ ],
+ "l11-gateau-coco": [
+  "coconut cake",
+  "cake"
+ ],
+ "l11-cheesecake-new-york": [
+  "new york cheesecake",
+  "cheesecake"
+ ],
+ "l11-cheesecake-framboise-sans-cuisson": [
+  "raspberry cheesecake",
+  "cheesecake"
+ ],
+ "l11-mousse-chocolat": [
+  "chocolate mousse",
+  "mousse"
+ ],
+ "l11-mousse-citron-coco": [
+  "lemon mousse",
+  "mousse"
+ ],
+ "l11-creme-vanille": [
+  "vanilla custard",
+  "custard"
+ ],
+ "l11-creme-brulee-fleur-oranger": [
+  "crème brûlée",
+  "custard"
+ ],
+ "l11-panna-cotta-vanille-fruits-rouges": [
+  "panna cotta berries",
+  "panna cotta"
+ ],
+ "l11-panna-cotta-coco-framboise": [
+  "coconut panna cotta",
+  "panna cotta"
+ ],
+ "l11-cookies-pepites-chocolat": [
+  "chocolate chip cookies",
+  "cookies"
+ ],
+ "l11-cookies-beurre-cacahuete": [
+  "peanut butter cookies",
+  "cookies"
+ ],
+ "l11-brownie-noix": [
+  "walnut brownies",
+  "brownie"
+ ],
+ "l11-brownie-tahini": [
+  "tahini brownies",
+  "brownie"
+ ],
+ "l11-crumble-fruits-rouges-amande": [
+  "berry crumble",
+  "crumble"
+ ],
+ "l11-tarte-citron-sablee": [
+  "tarte au citron",
+  "lemon tart"
+ ],
+ "l11-tarte-amandine-fraises": [
+  "strawberry tart",
+  "tart"
+ ],
+ "l11-glace-fraise": [
+  "strawberry ice cream",
+  "ice cream"
+ ],
+ "l11-sorbet-framboise": [
+  "raspberry sorbet",
+  "sorbet"
+ ],
+ "l11-glace-vanille-sans-sorbetiere": [
+  "vanilla ice cream",
+  "ice cream"
+ ],
+ "l11-truffes-chocolat-cacao": [
+  "chocolate truffles",
+  "truffles"
+ ],
+ "l11-fat-bombs-coco-chocolat": [
+  "coconut chocolate balls",
+  "chocolate"
+ ],
+ "l11-fat-bombs-cacahuete": [
+  "peanut butter cups",
+  "peanut butter"
+ ],
+ "l11-mug-cake-chocolat": [
+  "chocolate mug cake",
+  "mug cake"
+ ],
+ "l11-mug-cake-vanille-framboise": [
+  "mug cake",
+  "cake"
+ ],
+ "l11-ghriba-coco": [
+  "ghriba coconut",
+  "ghriba"
+ ],
+ "l11-cornes-gazelle": [
+  "kaab el ghazal",
+  "moroccan pastries"
+ ],
+ "l11-fekkas-amandes": [
+  "fekkas",
+  "biscotti"
+ ],
+ "l11-rochers-coco": [
+  "coconut macaroons",
+  "macaroons"
+ ],
+ "l11-financiers-amande": [
+  "financier cake",
+  "financier"
+ ],
+ "l11-madeleines-citron": [
+  "lemon madeleines",
+  "madeleine"
+ ],
+ "l11-muffins-myrtilles": [
+  "blueberry muffins",
+  "muffin"
+ ],
+ "l11-tiramisu-keto": [
+  "tiramisu",
+  "food dish"
+ ],
+ "l11-clafoutis-framboises": [
+  "raspberry clafoutis",
+  "clafoutis"
+ ],
+ "l11-bavarois-fraise": [
+  "strawberry bavarois",
+  "bavarian cream"
+ ],
+ "l11-pudding-chia-coco-vanille": [
+  "chia pudding",
+  "chia"
+ ],
+ "l11-mendiants-chocolat": [
+  "chocolate mendiants",
+  "mendiant"
+ ],
+ "l11-glace-avocat-chocolat": [
+  "chocolate ice cream",
+  "ice cream"
+ ],
+ "l11-tarte-chocolat-noisette": [
+  "chocolate tart",
+  "tart"
+ ],
+ "l11-cake-marbre": [
+  "marble cake",
+  "cake"
+ ],
+ "l11-gateau-yaourt": [
+  "yogurt cake",
+  "cake"
+ ],
+ "l11-crepes-ricotta-cannelle": [
+  "ricotta crepes",
+  "crêpe"
+ ],
+ "l11-fondant-pistache": [
+  "pistachio cake",
+  "pistachio"
+ ],
+ "l11-creme-dessert-chocolat": [
+  "chocolate pudding",
+  "pudding"
+ ],
+ "l11-mini-cheesecakes-citron": [
+  "mini cheesecakes",
+  "cheesecake"
+ ]
 }

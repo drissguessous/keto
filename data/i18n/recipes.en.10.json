@@ -1,0 +1,972 @@
+{
+ "l10-smoothie-framboise-coco": {
+  "t": "Raspberry, coconut and chia smoothie",
+  "i": [
+   "raspberries (fresh or frozen)",
+   "coconut milk",
+   "unsweetened almond milk",
+   "chia seeds",
+   "erythritol",
+   "alcohol-free vanilla extract (or vanilla powder)"
+  ],
+  "s": [
+   "Put the raspberries, coconut milk, almond milk, erythritol and vanilla in the blender.",
+   "Blend for 1 minute until smooth.",
+   "Add the chia seeds and blend for just 5 seconds.",
+   "Let stand for 5 minutes so the chia thickens slightly, then serve."
+  ],
+  "p": "With frozen raspberries, the smoothie turns into an almost drinkable ice cream."
+ },
+ "l10-the-vert-gingembre-citron": {
+  "t": "Green tea infusion with ginger and lemon",
+  "i": [
+   "water for the green tea (2 tea bags)",
+   "fresh ginger",
+   "lemon juice",
+   "stevia"
+  ],
+  "s": [
+   "Simmer the water with the ginger slices for 5 minutes.",
+   "Remove from the heat and let cool for 2 minutes: green tea should not steep in boiling water.",
+   "Add the green tea and steep for 3 minutes, then remove it.",
+   "Add the lemon juice, sweeten with stevia and serve hot or iced."
+  ],
+  "p": "After 3 minutes, green tea turns bitter. Delicious iced in summer."
+ },
+ "l10-milkshake-vanille-proteine": {
+  "t": "Protein vanilla milkshake",
+  "i": [
+   "unsweetened almond milk",
+   "plain whey",
+   "liquid cream",
+   "alcohol-free vanilla extract",
+   "erythritol",
+   "ice cubes"
+  ],
+  "s": [
+   "Put the almond milk, cream, vanilla and erythritol in the blender.",
+   "Add the whey on top so it doesn't stick to the bottom.",
+   "Add the ice cubes and blend for 45 seconds until thick and frothy.",
+   "Serve immediately in tall glasses."
+  ],
+  "p": "Ideal after a workout. Add 1 tbsp of peanut butter for a more indulgent version."
+ },
+ "l10-smoothie-fraise-amande": {
+  "t": "Strawberry-almond smoothie with Greek yogurt",
+  "i": [
+   "strawberries",
+   "Greek yogurt",
+   "unsweetened almond milk",
+   "almond butter",
+   "erythritol"
+  ],
+  "s": [
+   "Wash and hull the strawberries.",
+   "Put all the ingredients in the blender.",
+   "Blend for 1 minute until very smooth and frothy.",
+   "Serve chilled with a few ice cubes."
+  ],
+  "p": "Freeze seasonal strawberries in summer to enjoy them all year round."
+ },
+ "l11-moelleux-chocolat": {
+  "t": "Dark chocolate and almond fudgy cake",
+  "i": [
+   "85% dark chocolate",
+   "butter",
+   "eggs",
+   "erythritol",
+   "almond flour",
+   "alcohol-free vanilla extract",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 180°C. Grease a 22 cm round pan and line the bottom with baking paper.",
+   "Melt the chocolate and butter in a bain-marie over low heat, stirring, then let cool for 5 minutes.",
+   "Whisk the eggs with the erythritol, vanilla and salt for 3 minutes until pale and doubled in volume.",
+   "Pour the melted chocolate over the eggs, folding gently with a spatula.",
+   "Fold in the sifted almond flour, lifting the batter without overworking it.",
+   "Pour into the pan and bake for 20 to 22 minutes: the center should still be slightly wobbly.",
+   "Let cool for 15 minutes before unmolding; serve warm or cold."
+  ],
+  "p": "Keeps for 4 days in the refrigerator; microwave a slice for 15 seconds to bring back the molten center."
+ },
+ "l11-fondant-coeur-coulant": {
+  "t": "Molten chocolate lava cakes",
+  "i": [
+   "85% dark chocolate",
+   "butter",
+   "eggs",
+   "egg yolk",
+   "erythritol",
+   "heaped almond flour",
+   "unsweetened cocoa powder (for the ramekins)"
+  ],
+  "s": [
+   "Preheat the oven to 210°C. Grease 4 ramekins and dust them with cocoa, tapping out the excess.",
+   "Melt the chocolate and butter in a bain-marie, stir until smooth and let cool slightly.",
+   "Whisk the eggs, yolk and erythritol for 2 minutes, then add the melted chocolate.",
+   "Fold in the almond flour and fill the ramekins three-quarters full.",
+   "Bake for exactly 8 to 9 minutes: the edges are set, the center domed and soft.",
+   "Wait 1 minute, run a knife around the edges and turn out onto a plate. Serve immediately."
+  ],
+  "p": "Prepare the ramekins up to 24 hours ahead and keep them in the refrigerator; add 2 minutes to the baking time."
+ },
+ "l11-cake-citron": {
+  "t": "Moist lemon loaf cake with light glaze",
+  "i": [
+   "almond flour",
+   "coconut flour",
+   "eggs",
+   "melted butter",
+   "erythritol",
+   "lemons (juice and zest)",
+   "Greek yogurt",
+   "baking powder",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 170°C and line a loaf pan with baking paper.",
+   "Whisk the eggs with 80 g of erythritol, then add the melted butter, yogurt, zest and 40 ml of lemon juice.",
+   "In a separate bowl, mix the almond flour, coconut flour, baking powder and salt, then fold into the wet ingredients.",
+   "Pour into the pan and bake for 40 minutes; cover with foil halfway through if the top browns too much.",
+   "Check doneness with a knife blade: it should come out dry. Let cool completely on a rack.",
+   "Blitz the remaining 20 g of erythritol into a powder, mix with the rest of the lemon juice and drizzle over the cooled cake."
+  ],
+  "p": "The cake is even better the next day; it freezes well in individually wrapped slices."
+ },
+ "l11-carrot-cake-leger": {
+  "t": "Light carrot cake with walnuts and cinnamon",
+  "i": [
+   "almond flour",
+   "large carrot, finely grated",
+   "eggs",
+   "melted coconut oil",
+   "erythritol",
+   "walnut halves, roughly chopped",
+   "cinnamon and a pinch of nutmeg",
+   "baking powder",
+   "cream cheese",
+   "stevia (for the frosting)",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 175°C and grease a 20 cm square pan.",
+   "Finely grate the carrot and squeeze it in a tea towel to remove excess water.",
+   "Whisk the eggs with the erythritol and coconut oil, then add the carrot.",
+   "Fold in the almond flour, baking powder, cinnamon, nutmeg and walnuts.",
+   "Pour into the pan and bake for 30 to 35 minutes until a knife comes out dry. Let cool.",
+   "Whisk the cream cheese with the vanilla and stevia, then spread over the cooled cake before cutting into 10 squares."
+  ],
+  "p": "Keep the frosting separate if you make the cake ahead; it keeps for 4 days in the refrigerator."
+ },
+ "l11-gateau-coco": {
+  "t": "Moist all-coconut cake",
+  "i": [
+   "shredded coconut",
+   "almond flour",
+   "eggs",
+   "coconut milk",
+   "erythritol",
+   "coconut oil",
+   "baking powder",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 180°C and oil a 22 cm pan.",
+   "Whisk the eggs with the erythritol until frothy.",
+   "Add the coconut milk, melted coconut oil and vanilla.",
+   "Fold in the shredded coconut, almond flour and baking powder; let stand for 5 minutes so the coconut hydrates.",
+   "Pour into the pan and bake for 30 minutes until the top is nicely golden.",
+   "Let cool in the pan before unmolding and cutting into 8 slices."
+  ],
+  "p": "Sprinkle with shredded coconut toasted dry in a skillet for 2 minutes for a crunchy finish."
+ },
+ "l11-cheesecake-new-york": {
+  "t": "Keto New York cheesecake",
+  "i": [
+   "almond flour",
+   "melted butter",
+   "erythritol",
+   "cream cheese such as Philadelphia",
+   "thick sour cream",
+   "eggs",
+   "lemon juice",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 170°C. Mix the almond flour, melted butter and 20 g of erythritol, and press into the bottom of a 22 cm springform pan.",
+   "Pre-bake the base for 10 minutes, then let cool. Lower the oven to 150°C.",
+   "Beat the cream cheese (at room temperature) with 90 g of erythritol on low speed until smooth.",
+   "Add the sour cream, vanilla and lemon, then the eggs one at a time, without beating too fast so you don't incorporate air.",
+   "Pour over the base, place a dish of hot water on the bottom rack and bake for 50 minutes: the center should still wobble.",
+   "Turn off the oven and leave the cheesecake inside for 1 hour with the door slightly open, then refrigerate for at least 6 hours before unmolding."
+  ],
+  "p": "Serve with a raspberry coulis heated for 5 minutes with a pinch of stevia."
+ },
+ "l11-cheesecake-framboise-sans-cuisson": {
+  "t": "No-bake raspberry cheesecake with agar-agar",
+  "i": [
+   "coarsely ground almonds",
+   "melted butter",
+   "cream cheese",
+   "very cold 30% liquid cream",
+   "erythritol",
+   "raspberries",
+   "agar-agar (2 g)",
+   "water",
+   "lemon juice"
+  ],
+  "s": [
+   "Blend the almonds with the melted butter and 10 g of erythritol, press into the bottom of a 20 cm ring set on a plate and chill.",
+   "Blend 100 g of raspberries with the lemon. Dissolve the agar-agar in the water, bring to a boil and boil for 2 minutes, stirring.",
+   "Off the heat, add the raspberry purée to the hot agar-agar and stir briskly.",
+   "Smooth the cream cheese with 60 g of erythritol, then quickly fold in the still-warm raspberry mixture.",
+   "Whip the cream to stiff peaks and gently fold it in with a spatula.",
+   "Pour over the base, decorate with the remaining raspberries and refrigerate for at least 4 hours before removing the ring."
+  ],
+  "p": "Work quickly after adding the agar-agar: it sets as soon as it drops below 40°C."
+ },
+ "l11-mousse-chocolat": {
+  "t": "Airy chocolate mousse",
+  "i": [
+   "85% dark chocolate",
+   "extra-fresh eggs",
+   "powdered erythritol",
+   "salt"
+  ],
+  "s": [
+   "Melt the chocolate in a bain-marie and let it cool to about 35°C.",
+   "Separate the whites from the yolks. Stir the yolks into the chocolate one at a time, mixing briskly.",
+   "Whip the whites with the salt to soft peaks, add the erythritol and whisk until firm and glossy.",
+   "Mix a third of the whites into the chocolate to loosen it, then gently fold in the rest, lifting with a spatula.",
+   "Divide among 6 small glasses and refrigerate for at least 4 hours."
+  ],
+  "p": "Use very fresh eggs and eat within 48 hours. Serve with a few raspberries. Contains raw eggs: not recommended for pregnant women, children under 5, or elderly or vulnerable people."
+ },
+ "l11-mousse-citron-coco": {
+  "t": "Light lemon and coconut mousse",
+  "i": [
+   "well-chilled coconut cream (solid part)",
+   "lemon (juice and zest)",
+   "powdered erythritol",
+   "toasted shredded coconut",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Chill the can of coconut cream in the refrigerator for 12 hours, and put the bowl and whisks in the freezer for 15 minutes.",
+   "Scoop out only the solid part of the coconut cream and whisk for 3 minutes until fluffy.",
+   "Add the erythritol, vanilla, zest, then the lemon juice little by little, whisking continuously.",
+   "Divide among 4 dessert cups, sprinkle with toasted coconut and refrigerate for 1 hour."
+  ],
+  "p": "Keep the leftover coconut liquid for a smoothie or a curry."
+ },
+ "l11-creme-vanille": {
+  "t": "Creamy vanilla custard, flan style",
+  "i": [
+   "30% liquid cream",
+   "unsweetened almond milk",
+   "egg yolks",
+   "erythritol",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 150°C and place 6 ramekins in a large baking dish.",
+   "Heat the cream and almond milk until simmering, then remove from the heat.",
+   "Whisk the yolks with the erythritol and vanilla without making them foamy, then pour in the hot liquid in a thin stream, stirring.",
+   "Strain, divide among the ramekins and pour hot water into the dish to halfway up the ramekins.",
+   "Bake for 35 minutes: the custard should be set at the edges and slightly wobbly in the center.",
+   "Let cool, then refrigerate for at least 3 hours."
+  ],
+  "p": "Save the egg whites for coconut macaroons or a chocolate mousse."
+ },
+ "l11-creme-brulee-fleur-oranger": {
+  "t": "Orange blossom crème brûlée",
+  "i": [
+   "30% liquid cream",
+   "egg yolks",
+   "erythritol",
+   "orange blossom water",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 100°C.",
+   "Heat the cream until simmering, remove from the heat and add the vanilla and orange blossom water.",
+   "Whisk the yolks with 40 g of erythritol, then slowly pour in the hot cream, stirring.",
+   "Divide among 4 shallow crème brûlée dishes and bake for 45 minutes, until the custard is set.",
+   "Let cool, then refrigerate for at least 4 hours.",
+   "Just before serving, sprinkle with the remaining 20 g of erythritol and caramelize with a kitchen torch or for 2 minutes under a very hot broiler."
+  ],
+  "p": "Erythritol caramelizes less than sugar: spread it in a very thin layer and watch it under the broiler."
+ },
+ "l11-panna-cotta-coco-framboise": {
+  "t": "Coconut and raspberry panna cotta",
+  "i": [
+   "coconut milk",
+   "agar-agar (2 g)",
+   "erythritol",
+   "raspberries",
+   "lemon juice"
+  ],
+  "s": [
+   "Whisk the coconut milk with the agar-agar and 30 g of erythritol in a cold saucepan.",
+   "Bring to a boil and boil for 2 minutes, stirring constantly.",
+   "Divide among 4 glasses and let set for 2 hours in the refrigerator.",
+   "Crush the raspberries with the lemon and 10 g of erythritol, then spoon over the panna cottas before serving."
+  ],
+  "p": "Fully plant-based, ideal for lactose-intolerant children."
+ },
+ "l11-cookies-pepites-chocolat": {
+  "t": "Chocolate chip cookies",
+  "i": [
+   "almond flour",
+   "softened butter",
+   "erythritol",
+   "egg",
+   "chopped 85% dark chocolate",
+   "baking powder",
+   "alcohol-free vanilla extract",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 175°C and line a baking sheet with baking paper.",
+   "Cream the softened butter with the erythritol, then add the egg and vanilla.",
+   "Fold in the almond flour, baking powder and salt, then the chocolate pieces.",
+   "Refrigerate the dough for 15 minutes so it holds its shape.",
+   "Shape 12 balls and flatten them slightly, spacing them 5 cm apart on the sheet.",
+   "Bake for 10 to 12 minutes until the edges turn golden; let firm up for 10 minutes on the sheet before moving."
+  ],
+  "p": "The cookies are soft when they come out of the oven: they firm up as they cool. Airtight container: 5 days."
+ },
+ "l11-cookies-beurre-cacahuete": {
+  "t": "Three-ingredient peanut butter cookies",
+  "i": [
+   "sugar-free peanut butter",
+   "erythritol",
+   "egg",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 175°C and line a baking sheet with baking paper.",
+   "Mix the peanut butter, erythritol, egg and salt until you have a smooth dough.",
+   "Shape 12 balls, place them on the sheet and flatten them with a fork in a crisscross pattern.",
+   "Bake for 10 to 12 minutes, then let cool completely on the sheet before handling."
+  ],
+  "p": "Add a pinch of flaky sea salt to each cookie before baking for a sweet-salty contrast."
+ },
+ "l11-brownie-noix": {
+  "t": "Fudgy walnut brownie",
+  "i": [
+   "85% dark chocolate",
+   "butter",
+   "eggs",
+   "erythritol",
+   "almond flour",
+   "unsweetened cocoa powder",
+   "walnut halves",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 175°C and line a 20 cm square pan with baking paper.",
+   "Melt the chocolate and butter together, then let cool slightly.",
+   "Whisk the eggs and erythritol for 2 minutes, then add the melted chocolate.",
+   "Fold in the almond flour, cocoa and salt, then the chopped walnuts.",
+   "Spread in the pan and bake for 20 to 22 minutes: a knife should come out with a few moist crumbs.",
+   "Let cool completely, ideally 1 hour in the refrigerator, before cutting into 12 squares."
+  ],
+  "p": "The brownie slices cleanly after a stint in the refrigerator; it freezes very well."
+ },
+ "l11-brownie-tahini": {
+  "t": "Tahini swirl brownie",
+  "i": [
+   "85% dark chocolate",
+   "butter",
+   "eggs",
+   "erythritol",
+   "almond flour",
+   "unsweetened cocoa powder",
+   "tahini",
+   "sesame seeds"
+  ],
+  "s": [
+   "Preheat the oven to 175°C and line a 20 cm pan.",
+   "Melt the chocolate with the butter and let cool slightly.",
+   "Whisk the eggs with the erythritol, add the chocolate, then the almond flour and cocoa.",
+   "Pour into the pan. Loosen the tahini with 1 tbsp of hot water and drop it in spoonfuls over the batter.",
+   "Swirl with the tip of a knife in figure eights, then sprinkle with sesame seeds.",
+   "Bake for 20 minutes, let cool and cut into 12 squares."
+  ],
+  "p": "Stir the tahini jar well before use; the oil often rises to the surface."
+ },
+ "l11-crumble-fruits-rouges-amande": {
+  "t": "Mixed berry and almond crumble",
+  "i": [
+   "raspberries (fresh or frozen)",
+   "blackberries",
+   "erythritol",
+   "almond flour",
+   "flaked almonds",
+   "cold butter, diced",
+   "cinnamon"
+  ],
+  "s": [
+   "Preheat the oven to 180°C.",
+   "Mix the fruit with 20 g of erythritol and the cinnamon, then spread in a baking dish.",
+   "Rub together the almond flour, 30 g of erythritol and the cold butter with your fingertips until you have large crumbs.",
+   "Add the flaked almonds and spread the crumble over the fruit without packing it down.",
+   "Bake for 25 minutes until the top is golden and the fruit bubbles at the edges.",
+   "Let cool for 10 minutes before serving."
+  ],
+  "p": "Serve with a spoonful of Greek yogurt or thick sour cream."
+ },
+ "l11-tarte-citron-sablee": {
+  "t": "Lemon tart on almond shortcrust",
+  "i": [
+   "almond flour",
+   "butter",
+   "eggs",
+   "erythritol",
+   "lemons (juice and zest)",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 170°C. Mix the almond flour, 50 g of melted butter, 20 g of erythritol and the salt.",
+   "Press the dough into a 22 cm tart pan, pushing it up the sides, prick with a fork and blind-bake for 12 minutes.",
+   "In a saucepan, whisk the eggs, 80 g of erythritol, the zest and the lemon juice.",
+   "Thicken over low heat, whisking constantly, for 5 to 7 minutes, until it reaches the consistency of thick cream; do not let it boil.",
+   "Off the heat, add 60 g of diced butter and blend for 1 minute to smooth it out.",
+   "Pour over the cooled tart shell and refrigerate for 3 hours before serving."
+  ],
+  "p": "The tart shell is fragile: let it cool completely in the pan before filling."
+ },
+ "l11-tarte-amandine-fraises": {
+  "t": "Almond cream tart with strawberries",
+  "i": [
+   "almond flour",
+   "butter",
+   "eggs",
+   "erythritol",
+   "strawberries",
+   "alcohol-free vanilla extract",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 170°C. Mix 130 g of almond flour, 40 g of melted butter, 15 g of erythritol and the salt, then press into a 22 cm pan.",
+   "Pre-bake the base for 10 minutes.",
+   "For the almond cream, whisk 60 g of softened butter with 65 g of erythritol, then add the eggs, vanilla and 100 g of almond flour.",
+   "Spread the almond cream over the base and bake for 20 minutes until golden and firm.",
+   "Let cool completely, then arrange the halved strawberries on top just before serving."
+  ],
+  "p": "Replace the strawberries with raspberries or blackberries depending on the season."
+ },
+ "l11-glace-fraise": {
+  "t": "Quick strawberry ice cream",
+  "i": [
+   "frozen strawberries",
+   "30% liquid cream",
+   "powdered erythritol",
+   "lemon juice"
+  ],
+  "s": [
+   "Take the strawberries out of the freezer 5 minutes ahead so they soften slightly.",
+   "Pulse them in a powerful blender with the erythritol and lemon.",
+   "Pour in the cream in a thin stream, blending until you get a soft-serve texture.",
+   "Serve immediately, or freeze for 30 minutes for a firmer texture."
+  ],
+  "p": "If kept in the freezer for more than 2 hours, take it out 15 minutes before serving, as erythritol makes it freeze hard."
+ },
+ "l11-sorbet-framboise": {
+  "t": "Intense raspberry sorbet",
+  "i": [
+   "raspberries",
+   "erythritol",
+   "water",
+   "lemon juice"
+  ],
+  "s": [
+   "Heat the water and erythritol for 3 minutes until completely dissolved, then let cool.",
+   "Blend the raspberries with the syrup and lemon, then strain through a fine sieve to remove the seeds.",
+   "Pour into a container and freeze; every 30 minutes for 3 hours, scrape and stir vigorously with a fork.",
+   "Just before serving, quickly blend the crystals for a smooth texture."
+  ],
+  "p": "With an ice cream maker, churn for 25 minutes after chilling the mixture for 2 hours in the refrigerator."
+ },
+ "l11-glace-vanille-sans-sorbetiere": {
+  "t": "No-churn vanilla ice cream",
+  "i": [
+   "30% liquid cream",
+   "egg yolks",
+   "powdered erythritol",
+   "unsweetened almond milk",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Whisk the yolks with the erythritol. Heat the almond milk and 100 ml of cream until simmering.",
+   "Pour the hot liquid over the yolks, return to the saucepan and cook over low heat, stirring, until the custard coats the spoon (82°C), without boiling.",
+   "Add the vanilla, strain and let cool completely in the refrigerator.",
+   "Whip the remaining 300 ml of cream to soft peaks and fold it into the cold custard.",
+   "Pour into a container and freeze for 6 hours, stirring with a fork after 1 hour and again after 2 hours."
+  ],
+  "p": "Take the ice cream out 10 to 15 minutes before serving so it is easy to scoop."
+ },
+ "l11-truffes-chocolat-cacao": {
+  "t": "Chocolate truffles rolled in cocoa",
+  "i": [
+   "85% dark chocolate",
+   "30% liquid cream",
+   "butter",
+   "powdered erythritol",
+   "unsweetened cocoa powder for coating"
+  ],
+  "s": [
+   "Finely chop the chocolate and place it in a bowl.",
+   "Bring the cream and erythritol to a simmer and pour over the chocolate. Wait 1 minute, then stir from the center outward.",
+   "Add the butter, smooth the ganache and refrigerate for 2 hours until firm.",
+   "Scoop portions with a teaspoon and quickly roll between your palms into 20 balls.",
+   "Roll them in the cocoa and keep refrigerated."
+  ],
+  "p": "Vary the coating: shredded coconut, pistachios or chopped hazelnuts. Two truffles per serving."
+ },
+ "l11-fat-bombs-coco-chocolat": {
+  "t": "Coconut chocolate fat bombs",
+  "i": [
+   "coconut oil",
+   "shredded coconut",
+   "85% dark chocolate",
+   "powdered erythritol",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Melt 60 g of coconut oil over very low heat, then mix with the shredded coconut, erythritol and vanilla.",
+   "Divide among 12 silicone mini muffin molds and press down with the back of a spoon.",
+   "Freeze for 20 minutes to harden.",
+   "Melt the chocolate with the remaining 20 g of coconut oil and coat each bite.",
+   "Return to the cold for 15 minutes and store in the refrigerator."
+  ],
+  "p": "One or two bites are enough to calm a sweet craving; they keep for 2 weeks in the refrigerator."
+ },
+ "l11-fat-bombs-cacahuete": {
+  "t": "Frozen peanut butter and chocolate bites",
+  "i": [
+   "sugar-free peanut butter",
+   "cream cheese",
+   "softened butter",
+   "powdered erythritol",
+   "85% dark chocolate",
+   "unsalted roasted peanuts"
+  ],
+  "s": [
+   "Whisk the peanut butter, cream cheese, softened butter and erythritol until you have a smooth cream.",
+   "Divide among 12 paper liners set in a muffin pan.",
+   "Melt the chocolate in a bain-marie and drizzle over each bite.",
+   "Sprinkle with crushed peanuts and freeze for 1 hour before unmolding.",
+   "Store in the freezer and take out 5 minutes before eating."
+  ],
+  "p": "Keep them in a box in the freezer: they are enjoyed like little melting ice cubes."
+ },
+ "l11-mug-cake-vanille-framboise": {
+  "t": "Vanilla and raspberry mug cake",
+  "i": [
+   "almond flour",
+   "egg",
+   "melted butter",
+   "erythritol",
+   "raspberries",
+   "alcohol-free vanilla extract",
+   "baking powder"
+  ],
+  "s": [
+   "Melt the butter in a mug for 15 seconds in the microwave.",
+   "Add the egg, erythritol and vanilla, and whisk with a fork.",
+   "Fold in the almond flour and baking powder, then push the raspberries into the batter.",
+   "Microwave for 80 seconds at 800 W and let stand for 1 minute before eating."
+  ],
+  "p": "Replace the raspberries with blueberries or blackberries, or add some lemon zest."
+ },
+ "l11-ghriba-coco": {
+  "t": "Coconut ghriba",
+  "i": [
+   "shredded coconut",
+   "almond flour",
+   "eggs",
+   "erythritol",
+   "melted coconut oil",
+   "baking powder",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Whisk the eggs with 70 g of erythritol and the vanilla until foamy.",
+   "Add the coconut oil, shredded coconut, almond flour and baking powder; let rest for 15 minutes.",
+   "Preheat the oven to 180°C. Blitz the remaining 20 g of erythritol into a fine powder.",
+   "Shape 24 balls, roll them in the powdered erythritol and place on a lined baking sheet.",
+   "Bake for 15 minutes until the ghribas are cracked and barely golden at the base."
+  ],
+  "p": "Keep for a week in a tin box, perfect with sugar-free mint tea."
+ },
+ "l11-cornes-gazelle": {
+  "t": "Keto gazelle horns (cornes de gazelle)",
+  "i": [
+   "almond flour (dough)",
+   "blond psyllium powder",
+   "melted butter (dough)",
+   "egg",
+   "blanched almonds (filling)",
+   "erythritol",
+   "butter (filling)",
+   "orange blossom water",
+   "cinnamon"
+  ],
+  "s": [
+   "Filling: finely grind the blanched almonds with the erythritol, add 20 g of butter, the cinnamon and 3 tsp of orange blossom water, and knead into a pliable paste.",
+   "Shape 24 small logs of filling, tapered at the ends, and set aside.",
+   "Dough: mix the almond flour and psyllium, add the egg, 40 g of melted butter and 1 tsp of orange blossom water; knead and let rest for 15 minutes.",
+   "Roll the dough very thin (2 mm) between two sheets of baking paper and cut strips 8 cm wide.",
+   "Place a log of filling on a strip, fold the dough over, seal by pressing, cut with a pastry wheel and curve into a crescent.",
+   "Prick each horn with a needle and bake for 12 to 15 minutes at 170°C: they should stay pale.",
+   "Let cool completely before handling; the dough is fragile when warm."
+  ],
+  "p": "If the dough cracks, work it between two sheets and mend it with a damp fingertip. Two horns per serving."
+ },
+ "l11-fekkas-amandes": {
+  "t": "Keto fekkas with almonds and anise",
+  "i": [
+   "almond flour",
+   "whole almonds",
+   "eggs",
+   "erythritol",
+   "melted butter",
+   "green anise seeds",
+   "toasted sesame seeds",
+   "baking powder",
+   "orange blossom water"
+  ],
+  "s": [
+   "Preheat the oven to 170°C. Whisk the eggs with the erythritol, melted butter and orange blossom water.",
+   "Add the almond flour, baking powder, anise, sesame and whole almonds; mix into a sticky dough.",
+   "With wet hands, shape two logs 4 cm in diameter on a lined baking sheet.",
+   "Bake for 20 minutes until the logs are firm and light golden. Let cool for 30 minutes.",
+   "Slice the logs with a serrated knife into 1 cm biscuits and lay them flat.",
+   "Lower the oven to 140°C and dry them for 20 minutes, turning halfway through, until crisp."
+  ],
+  "p": "Once completely cooled, they keep for 2 weeks in an airtight container, like traditional fekkas."
+ },
+ "l11-rochers-coco": {
+  "t": "Coconut macaroons with egg whites",
+  "i": [
+   "shredded coconut",
+   "egg whites",
+   "erythritol",
+   "alcohol-free vanilla extract",
+   "85% dark chocolate (optional)"
+  ],
+  "s": [
+   "Preheat the oven to 170°C.",
+   "Mix the egg whites, erythritol and vanilla with a fork without whipping them, then add the shredded coconut.",
+   "Let rest for 10 minutes, then shape 20 small pyramids with damp fingers on a lined baking sheet.",
+   "Bake for 12 to 15 minutes until the tips are golden.",
+   "Once cooled, dip the bases in melted chocolate and let set on baking paper."
+  ],
+  "p": "Ideal for using up leftover egg whites from a crème brûlée or vanilla custard."
+ },
+ "l11-financiers-amande": {
+  "t": "Brown butter financiers",
+  "i": [
+   "almond flour",
+   "egg whites",
+   "butter",
+   "erythritol",
+   "coconut flour",
+   "salt"
+  ],
+  "s": [
+   "Cook the butter over medium heat until it is nutty brown and smells like biscuits, then strain and let cool slightly.",
+   "Preheat the oven to 190°C and grease 12 financier molds.",
+   "Mix the almond flour, coconut flour, erythritol and salt.",
+   "Add the egg whites, lightly beaten with a fork, then the lukewarm brown butter.",
+   "Fill the molds three-quarters full and bake for 12 to 14 minutes until the edges are well golden.",
+   "Unmold while warm and let cool on a rack."
+  ],
+  "p": "Place a raspberry in the center of each financier before baking for a fruity version."
+ },
+ "l11-madeleines-citron": {
+  "t": "Lemon madeleines",
+  "i": [
+   "almond flour",
+   "eggs",
+   "melted butter",
+   "erythritol",
+   "lemon (zest and 1 tbsp of juice)",
+   "baking powder"
+  ],
+  "s": [
+   "Whisk the eggs with the erythritol for 3 minutes until pale.",
+   "Add the almond flour, baking powder, lemon zest and juice, then the lukewarm melted butter.",
+   "Cover and refrigerate the batter for at least 1 hour: the temperature shock makes the characteristic bump appear.",
+   "Preheat the oven to 210°C and grease a madeleine pan.",
+   "Fill the molds three-quarters full, bake for 5 minutes, then lower to 180°C and continue for 5 minutes.",
+   "Unmold immediately and let cool on a rack."
+  ],
+  "p": "Two madeleines per serving; they keep for 3 days in an airtight container."
+ },
+ "l11-tiramisu-keto": {
+  "t": "Keto coffee tiramisu",
+  "i": [
+   "mascarpone",
+   "eggs",
+   "erythritol",
+   "almond flour",
+   "strong coffee, cooled",
+   "unsweetened cocoa powder",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Sponge: preheat the oven to 180°C. Whisk 2 eggs with 30 g of erythritol for 3 minutes, fold in the almond flour and spread 1 cm thick in a lined dish. Bake for 12 to 15 minutes, then let cool.",
+   "Separate the other 2 eggs. Whisk the yolks with 40 g of erythritol and the vanilla, then add the mascarpone to make a smooth cream.",
+   "Whip the whites to stiff peaks and gently fold them into the mascarpone cream.",
+   "Cut the sponge into pieces, soak them in coffee and arrange a layer in the bottom of 6 small glasses.",
+   "Cover with cream, then repeat with a second layer of sponge and cream.",
+   "Refrigerate for at least 6 hours and dust with cocoa just before serving."
+  ],
+  "p": "For a caffeine-free version, use decaffeinated coffee. Very fresh eggs are essential. Contains raw eggs: not recommended for pregnant women, children under 5, or elderly or vulnerable people."
+ },
+ "l11-clafoutis-framboises": {
+  "t": "Raspberry clafoutis",
+  "i": [
+   "raspberries",
+   "eggs",
+   "30% liquid cream",
+   "unsweetened almond milk",
+   "almond flour",
+   "erythritol",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 180°C and grease a 24 cm baking dish.",
+   "Spread the raspberries over the bottom of the dish.",
+   "Whisk the eggs with the erythritol, then add the almond flour, cream, almond milk and vanilla.",
+   "Gently pour the batter over the fruit.",
+   "Bake for 30 minutes until the clafoutis is golden and set in the center. Serve warm."
+  ],
+  "p": "Also works with blackberries or strawberries cut into quarters."
+ },
+ "l11-bavarois-fraise": {
+  "t": "Light strawberry bavarois",
+  "i": [
+   "strawberries",
+   "very cold 30% liquid cream",
+   "fromage blanc",
+   "erythritol",
+   "agar-agar (2 g)",
+   "lemon juice"
+  ],
+  "s": [
+   "Blend 250 g of strawberries with the erythritol and lemon.",
+   "Pour half of the purée into a saucepan with the agar-agar, bring to a boil and boil for 2 minutes.",
+   "Off the heat, add the rest of the purée, then the fromage blanc, whisking. Let cool for 5 minutes, stirring.",
+   "Whip the cream to stiff peaks and quickly fold it into the still-soft mixture.",
+   "Pour into a charlotte mold or 6 small glasses and refrigerate for 4 hours.",
+   "Decorate with the remaining sliced strawberries when serving."
+  ],
+  "p": "Unmold easily by dipping the mold in hot water for 5 seconds."
+ },
+ "l11-pudding-chia-coco-vanille": {
+  "t": "Coconut vanilla chia pudding",
+  "i": [
+   "chia seeds",
+   "coconut milk",
+   "unsweetened almond milk",
+   "erythritol",
+   "alcohol-free vanilla extract",
+   "raspberries",
+   "shredded coconut"
+  ],
+  "s": [
+   "Whisk the coconut milk, almond milk, erythritol and vanilla.",
+   "Add the chia seeds and mix well; wait 5 minutes and stir again to prevent lumps.",
+   "Divide among 4 jars and refrigerate for at least 4 hours, or overnight.",
+   "Top with raspberries and shredded coconut when serving."
+  ],
+  "p": "Keeps for 4 days in the refrigerator; handy for preparing the week's desserts."
+ },
+ "l11-mendiants-chocolat": {
+  "t": "Chocolate mendiants with pistachios and almonds",
+  "i": [
+   "85% dark chocolate",
+   "shelled pistachios",
+   "roasted almonds",
+   "hazelnuts",
+   "shredded coconut"
+  ],
+  "s": [
+   "Roughly chop the pistachios, almonds and hazelnuts.",
+   "Melt two-thirds of the chocolate in a bain-marie to 45°C, remove from the heat and add the chopped remainder to bring the temperature down, stirring.",
+   "Spoon 20 small chocolate discs onto a sheet of baking paper.",
+   "Immediately sprinkle with the nuts and coconut before the chocolate sets.",
+   "Let harden for 1 hour at room temperature or 20 minutes in the refrigerator."
+  ],
+  "p": "Adding chopped chocolate this way gives a glossy chocolate with a good snap. Two mendiants per serving."
+ },
+ "l11-glace-avocat-chocolat": {
+  "t": "Avocado chocolate ice cream",
+  "i": [
+   "very ripe avocados (flesh)",
+   "coconut milk",
+   "unsweetened cocoa powder",
+   "powdered erythritol",
+   "alcohol-free vanilla extract",
+   "salt"
+  ],
+  "s": [
+   "Scoop the avocado flesh into a blender.",
+   "Add the coconut milk, cocoa, erythritol, vanilla and salt.",
+   "Blend for 2 minutes until perfectly smooth.",
+   "Pour into a container and freeze for 4 hours, stirring vigorously every hour.",
+   "Take out 10 minutes before serving and shape scoops with a warm spoon."
+  ],
+  "p": "Unfrozen, the mixture also makes an excellent quick chocolate mousse."
+ },
+ "l11-tarte-chocolat-noisette": {
+  "t": "Chocolate hazelnut tart",
+  "i": [
+   "almond flour",
+   "ground hazelnuts",
+   "melted butter",
+   "erythritol",
+   "85% dark chocolate",
+   "30% liquid cream",
+   "toasted hazelnuts, crushed",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 170°C. Mix the almond flour, ground hazelnuts, melted butter, 20 g of erythritol and the salt.",
+   "Press into a 22 cm tart pan, prick and bake for 12 to 15 minutes. Let cool.",
+   "Bring the cream and 30 g of erythritol to a simmer, pour over the chopped chocolate, wait 1 minute, then stir until smooth.",
+   "Pour the ganache over the cooled tart shell.",
+   "Sprinkle with crushed hazelnuts and refrigerate for 3 hours before cutting into 10 slices."
+  ],
+  "p": "Take the tart out 15 minutes before serving for a soft, melting ganache."
+ },
+ "l11-cake-marbre": {
+  "t": "Vanilla-chocolate marble cake",
+  "i": [
+   "almond flour",
+   "eggs",
+   "melted butter",
+   "erythritol",
+   "unsweetened almond milk",
+   "unsweetened cocoa powder",
+   "baking powder",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 170°C and line a loaf pan.",
+   "Whisk the eggs and erythritol, then add the melted butter, vanilla and 30 ml of almond milk.",
+   "Fold in the almond flour and baking powder, then divide the batter in two.",
+   "Add the cocoa and the remaining 30 ml of almond milk to one half.",
+   "Alternate spoonfuls of the two batters in the pan and swirl with a knife.",
+   "Bake for 40 to 45 minutes; cover with foil after 25 minutes. Let cool before slicing."
+  ],
+  "p": "Perfect for the kids' snack; keeps for 4 days wrapped in plastic wrap."
+ },
+ "l11-gateau-yaourt": {
+  "t": "Keto yogurt cake",
+  "i": [
+   "pot of Greek yogurt",
+   "almond flour",
+   "eggs",
+   "neutral oil",
+   "erythritol",
+   "lemon zest",
+   "baking powder"
+  ],
+  "s": [
+   "Preheat the oven to 180°C and grease a 22 cm round pan.",
+   "Whisk the yogurt with the eggs, erythritol, oil and lemon zest.",
+   "Fold in the almond flour and baking powder until the batter is smooth.",
+   "Pour into the pan and bake for 30 to 35 minutes until a knife comes out dry.",
+   "Let cool slightly before unmolding."
+  ],
+  "p": "You can use the yogurt pot as a measure if you like, but weigh the almond flour, which is lighter."
+ },
+ "l11-crepes-ricotta-cannelle": {
+  "t": "Keto ricotta and cinnamon crepes",
+  "i": [
+   "eggs",
+   "cream cheese",
+   "almond flour",
+   "ricotta",
+   "erythritol",
+   "cinnamon",
+   "butter for the pan"
+  ],
+  "s": [
+   "Blend the eggs, cream cheese, almond flour and 10 g of erythritol; let rest for 5 minutes.",
+   "Heat a 20 cm nonstick skillet over medium heat with a small knob of butter.",
+   "Pour in a small ladle of batter, tilt to spread thinly and cook for 1 to 2 minutes until the edges lift, then flip for 30 seconds.",
+   "Mix the ricotta with the cinnamon and 20 g of erythritol.",
+   "Fill each crepe with ricotta cream, fold into quarters and serve warm."
+  ],
+  "p": "These crepes are delicate: use a wide spatula and keep them small. Makes about 8 crepes."
+ },
+ "l11-fondant-pistache": {
+  "t": "Pistachio and orange blossom cake",
+  "i": [
+   "unsalted pistachios",
+   "almond flour",
+   "eggs",
+   "melted butter",
+   "erythritol",
+   "orange blossom water",
+   "salt"
+  ],
+  "s": [
+   "Preheat the oven to 170°C and line a 20 cm pan.",
+   "Grind 80 g of pistachios to a fine powder; roughly crush the rest.",
+   "Whisk the eggs and erythritol for 3 minutes, then add the melted butter and orange blossom water.",
+   "Fold in the pistachio powder, almond flour and salt.",
+   "Pour into the pan, sprinkle with crushed pistachios and bake for 22 to 25 minutes: the center stays moist.",
+   "Let cool in the pan before cutting into 8 slices."
+  ],
+  "p": "Pistachios are higher in carbs than almonds: stick to the serving size indicated."
+ },
+ "l11-creme-dessert-chocolat": {
+  "t": "Chocolate dessert cream",
+  "i": [
+   "unsweetened almond milk",
+   "30% liquid cream",
+   "85% dark chocolate",
+   "unsweetened cocoa powder",
+   "erythritol",
+   "agar-agar (1 g)",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "In a saucepan, whisk the almond milk, cream, cocoa, erythritol and agar-agar while cold.",
+   "Bring to a boil, whisking, and boil for 2 minutes.",
+   "Off the heat, add the chopped chocolate and vanilla, then whisk until melted.",
+   "Divide among 4 jars, let cool, then refrigerate for 2 hours.",
+   "Whisk briefly with a spoon before serving for a creamier texture."
+  ],
+  "p": "Add a pinch of instant coffee for a mocha flavor."
+ },
+ "l11-mini-cheesecakes-citron": {
+  "t": "Mini lemon cheesecakes in a muffin pan",
+  "i": [
+   "almond flour",
+   "melted butter",
+   "cream cheese",
+   "eggs",
+   "erythritol",
+   "lemon (juice and zest)",
+   "alcohol-free vanilla extract"
+  ],
+  "s": [
+   "Preheat the oven to 160°C and line a muffin pan with 12 liners.",
+   "Mix the almond flour, butter and 10 g of erythritol, and press 1 tablespoon into the bottom of each liner.",
+   "Smooth the cream cheese with 70 g of erythritol, add the eggs one at a time, then the zest, juice and vanilla.",
+   "Fill the liners almost to the top.",
+   "Bake for 18 to 20 minutes: the center should still wobble slightly.",
+   "Let cool, then refrigerate for 3 hours before serving."
+  ],
+  "p": "They freeze very well; thaw for 2 hours in the refrigerator."
+ }
+}

@@ -35,7 +35,14 @@ for f in sorted(glob.glob(str(ROOT / "data/prix-*.json"))):
 def ing_cost(i):
     """Coût en MAD de la quantité de l'ingrédient utilisée (None si prix inconnu)."""
     pr = PRICES.get(i["ing"])
-    return None if pr is None else i["g"] / 1000 * pr["mad_kg"]
+    # le prix s'applique au poids acheté (avec os, arêtes, coquilles ou liquide jeté) s'il est indiqué
+    return None if pr is None else i.get("g_achat", i["g"]) / 1000 * pr["mad_kg"]
+
+
+PROTEIN_IDS = {"poulet_blanc", "poulet_cuisse", "poulet_entier", "foie_volaille", "dinde", "dinde_fumee", "boeuf_hache", "boeuf_steak",
+               "boeuf_ragout", "kefta", "agneau_epaule", "agneau_cotelette", "veau", "merguez", "cachir", "saumon", "saumon_fume",
+               "thon_frais", "thon_boite", "thon_huile", "sardine", "sardine_boite", "maquereau", "merlan", "dorade", "loup",
+               "cabillaud", "crevette", "calamar", "moules", "surimi", "tofu"}
 
 
 def macros(r):
@@ -93,8 +100,11 @@ SPOON = {"c. à s.": 25, "c. à c.": 8}
 
 
 def display(i):
-    """Affiche en grammes une cuillère trop « bombée » pour rester cohérent avec les macros."""
+    """Affiche en grammes une cuillère trop « bombée » pour rester cohérent avec les macros ;
+    une « pincée » de plus de 2 g est affichée en cuillère à café (sel : ~5 g la c. à c.)."""
     qty, unit = i.get("qty"), i.get("unit", "")
+    if unit == "pincée" and i["g"] > 2:
+        return max(0.25, round(i["g"] / 5 * 4) / 4), "c. à c."
     if qty and unit in SPOON and i["g"] / qty > SPOON[unit]:
         return round(i["g"]), "g"
     return qty, unit
@@ -126,8 +136,13 @@ def cmd_build():
     out, seen_t, seen_id, dropped = [], set(), set(), []
     exf = ROOT / "data/exclude.json"
     seen_t.update(norm(t) for t in (json.loads(exf.read_text()) if exf.exists() else []))  # quasi-doublons écartés
+    exi = ROOT / "data/exclude-ids.json"
+    excl_ids = set(json.loads(exi.read_text())) if exi.exists() else set()  # doublons relevés à la revue
     for f in sorted(glob.glob(str(ROOT / "data/recipes/*.json"))):
         for r in load(f):
+            if r.get("id") in excl_ids:
+                dropped.append((Path(f).name, r["id"], "doublon (revue)"))
+                continue
             if check(r):
                 dropped.append((Path(f).name, r.get("id"), "invalide"))
                 continue
@@ -145,9 +160,28 @@ def cmd_build():
                 "prep": r["prep"], "cook": r["cook"], "servings": r["servings"], "difficulty": r["difficulty"],
                 "tags": r["tags"], "macros": macros(r),
                 **({"cost": round(sum(ing_cost(i) for i in r["ingredients"]) / r["servings"], 1)} if PRICES and all(ing_cost(i) is not None for i in r["ingredients"]) else {}),
-                "ingredients": [dict(zip(("qty", "unit"), display(i)), name=i["name"], ing=i["ing"], g=i["g"], **({"c": round(ing_cost(i), 2)} if ing_cost(i) is not None else {})) for i in r["ingredients"]],
+                "ingredients": [dict(zip(("qty", "unit"), display(i)), name=i["name"], ing=i["ing"], g=i["g"], **({"ga": i["g_achat"]} if "g_achat" in i else {}), **({"c": round(ing_cost(i), 2)} if ing_cost(i) is not None else {})) for i in r["ingredients"]],
                 "steps": r["steps"], "tips": r["tips"],
             })
+    # quasi-doublons : titres proches ET mêmes ingrédients -> on garde la première recette
+    def toks(t):
+        stop = {"de", "du", "des", "la", "le", "les", "au", "aux", "et", "en", "keto", "sans", "avec", "a", "l", "d", "facon"}
+        return {w for w in norm(t).split() if len(w) > 2 and w not in stop}
+    kept, seen_pairs = [], []
+    for r in out:
+        tt, ii = toks(r["title"]), {i["ing"] for i in r["ingredients"]}
+        prot = {k for k in ii if k in PROTEIN_IDS}
+        dup = None
+        for o, ot, oi, op in seen_pairs:
+            jt = len(tt & ot) / max(1, len(tt | ot))
+            ji = len(ii & oi) / max(1, len(ii | oi))
+            if jt >= 0.5 and ji >= 0.8 and prot == op:
+                dup = o; break
+        if dup:
+            dropped.append(("quasi-doublon", r["id"], "≈ " + dup["id"]))
+            continue
+        kept.append(r); seen_pairs.append((r, tt, ii, prot))
+    out[:] = kept
     palette = {k: [v[5], v[6]] for k, v in ING.items()}
     js = "window.RECIPES=" + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n"
     if PRICES:

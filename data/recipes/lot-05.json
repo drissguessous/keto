@@ -16,10 +16,11 @@
   "ingredients": [
    {
     "ing": "sardine",
-    "g": 900,
+    "g": 540,
     "qty": 900,
     "unit": "g",
-    "name": "sardines fraîches vidées"
+    "name": "sardines fraîches vidées",
+    "g_achat": 900
    },
    {
     "ing": "huile_olive",
@@ -187,8 +188,7 @@
   "difficulty": "Facile",
   "tags": [
    "Monde",
-   "Sans lactose",
-   "Rapide"
+   "Sans lactose"
   ],
   "ingredients": [
    {
@@ -461,7 +461,7 @@
    "Juste avant de servir, mélangez saumon, oignon, ciboulette, huile, reste du citron, sel et poivre.",
    "Dressez dans un cercle : une couche d'avocat puis le saumon. Parsemez de sésame et servez sur la salade."
   ],
-  "tips": "Utilisez du saumon très frais (qualité sashimi) ou préalablement congelé 48 h à -18 °C. Assaisonnez au dernier moment."
+  "tips": "Utilisez du saumon très frais (qualité sashimi) ou préalablement congelé 48 h à -18 °C. Assaisonnez au dernier moment. Poisson cru : déconseillé aux femmes enceintes, aux enfants de moins de 5 ans et aux personnes âgées ou fragiles."
  },
  {
   "id": "l05-burgers-thon-salade",
@@ -592,7 +592,8 @@
     "g": 650,
     "qty": 2,
     "unit": "pièce(s)",
-    "name": "dorades vidées et écaillées (600 g chacune)"
+    "name": "dorades vidées et écaillées (600 g chacune)",
+    "g_achat": 1200
    },
    {
     "ing": "fenouil",
@@ -1362,10 +1363,11 @@
    },
    {
     "ing": "huile_tournesol",
-    "g": 60,
+    "g": 15,
     "qty": 60,
     "unit": "ml",
-    "name": "huile de tournesol"
+    "name": "huile de tournesol",
+    "g_achat": 60
    },
    {
     "ing": "mayonnaise",
@@ -1440,7 +1442,7 @@
     "g": 60,
     "qty": 4,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "erythritol",
@@ -1563,7 +1565,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "vinaigre",
@@ -1982,10 +1984,11 @@
    },
    {
     "ing": "lait",
-    "g": 250,
+    "g": 50,
     "qty": 250,
     "unit": "ml",
-    "name": "lait (pour pocher)"
+    "name": "lait (pour pocher)",
+    "g_achat": 250
    },
    {
     "ing": "eau",
@@ -2844,7 +2847,7 @@
     "g": 45,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "vinaigre",
@@ -2995,7 +2998,7 @@
     "g": 15,
     "qty": 1,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    }
   ],
   "steps": [
@@ -3125,10 +3128,11 @@
   "ingredients": [
    {
     "ing": "sardine",
-    "g": 900,
+    "g": 540,
     "qty": 900,
     "unit": "g",
-    "name": "sardines fraîches entières"
+    "name": "sardines fraîches entières",
+    "g_achat": 900
    },
    {
     "ing": "poivron_rouge",
@@ -3318,7 +3322,8 @@
     "g": 650,
     "qty": 2,
     "unit": "pièce(s)",
-    "name": "loups (bars) vidés non écaillés (600 g chacun)"
+    "name": "loups (bars) vidés non écaillés (600 g chacun)",
+    "g_achat": 1200
    },
    {
     "ing": "sel",
@@ -3741,7 +3746,7 @@
     "g": 45,
     "qty": 3,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "gingembre",
@@ -4178,7 +4183,7 @@
     "g": 15,
     "qty": 1,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "sel",
@@ -5012,7 +5017,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "huile_tournesol",
@@ -5253,7 +5258,6 @@
   "servings": 4,
   "difficulty": "Facile",
   "tags": [
-   "Rapide",
    "Monde",
    "Sans lactose"
   ],

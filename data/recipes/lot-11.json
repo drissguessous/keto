@@ -53,7 +53,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -326,7 +326,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -408,7 +408,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -489,7 +489,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -639,7 +639,7 @@
    "Mélangez un tiers des blancs au chocolat pour l'assouplir, puis incorporez le reste délicatement en soulevant à la maryse.",
    "Répartissez dans 6 verrines et réfrigérez au moins 4 heures."
   ],
-  "tips": "Utilisez des œufs très frais et consommez sous 48 h ; pour les enfants, servez-la avec quelques framboises."
+  "tips": "Utilisez des œufs très frais et consommez sous 48 h. Servez avec quelques framboises. Contient des œufs crus : déconseillé aux femmes enceintes, aux enfants de moins de 5 ans et aux personnes âgées ou fragiles."
  },
  {
   "id": "l11-mousse-citron-coco",
@@ -689,7 +689,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -748,7 +748,7 @@
     "g": 10,
     "qty": 2,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -808,7 +808,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -867,7 +867,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "framboise",
@@ -1012,7 +1012,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -1441,7 +1441,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -1610,7 +1610,7 @@
     "g": 10,
     "qty": 2,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -1728,7 +1728,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -1934,7 +1934,7 @@
     "g": 3,
     "qty": 0.5,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "levure_chimique",
@@ -2014,7 +2014,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -2090,7 +2090,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -2403,7 +2403,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "chocolat_noir",
@@ -2623,7 +2623,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -2696,7 +2696,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -2707,7 +2707,7 @@
    "Recouvrez de crème, puis répétez une seconde couche biscuit-crème.",
    "Réfrigérez au moins 6 heures et saupoudrez de cacao juste avant de servir."
   ],
-  "tips": "Utilisez du café décaféiné pour les enfants. Œufs très frais indispensables."
+  "tips": "Version sans caféine : café décaféiné. Œufs très frais indispensables. Contient des œufs crus : déconseillé aux femmes enceintes, aux enfants de moins de 5 ans et aux personnes âgées ou fragiles."
  },
  {
   "id": "l11-clafoutis-framboises",
@@ -2771,7 +2771,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -2898,7 +2898,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "framboise",
@@ -3031,7 +3031,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    },
    {
     "ing": "sel",
@@ -3197,7 +3197,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -3494,7 +3494,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [
@@ -3567,7 +3567,7 @@
     "g": 5,
     "qty": 1,
     "unit": "c. à c.",
-    "name": "extrait de vanille"
+    "name": "arôme de vanille sans alcool"
    }
   ],
   "steps": [

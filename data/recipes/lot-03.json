@@ -14,10 +14,11 @@
   "ingredients": [
    {
     "ing": "poulet_entier",
-    "g": 1500,
+    "g": 975,
     "qty": 1,
     "unit": "pièce(s)",
-    "name": "poulet entier (1,5 kg)"
+    "name": "poulet entier (1,5 kg)",
+    "g_achat": 1500
    },
    {
     "ing": "beurre",
@@ -97,7 +98,6 @@
   "servings": 4,
   "difficulty": "Facile",
   "tags": [
-   "Rapide",
    "Famille"
   ],
   "ingredients": [
@@ -199,10 +199,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 1000,
+    "g": 700,
     "qty": 4,
     "unit": "pièce(s)",
-    "name": "cuisses de poulet avec peau"
+    "name": "cuisses de poulet avec peau",
+    "g_achat": 1000
    },
    {
     "ing": "chou_fleur",
@@ -472,8 +473,7 @@
   "servings": 4,
   "difficulty": "Facile",
   "tags": [
-   "Famille",
-   "Rapide"
+   "Famille"
   ],
   "ingredients": [
    {
@@ -944,7 +944,7 @@
    "Nettoyez les foies : retirez les filaments et les parties verdâtres, coupez-les en deux et séchez-les.",
    "Faites sauter les champignons émincés dans la moitié du beurre 6 min à feu vif, salez et réservez.",
    "Dans la même poêle, chauffez l'huile et le reste du beurre jusqu'à ce qu'ils moussent.",
-   "Saisissez les foies 2 min sans les toucher, retournez et cuisez encore 2 min : ils doivent rester rosés à cœur.",
+   "Saisissez les foies 2 min sans les toucher, retournez-les et poursuivez la cuisson 3 à 4 min : le cœur ne doit plus être rose (70 °C à cœur).",
    "Ajoutez l'ail haché, les champignons et déglacez avec le vinaigre ; mélangez 30 s.",
    "Hors du feu, ajoutez le persil haché, salez, poivrez et servez sur un lit de roquette."
   ],
@@ -1468,10 +1468,11 @@
   "ingredients": [
    {
     "ing": "poulet_entier",
-    "g": 1000,
+    "g": 600,
     "qty": 1000,
     "unit": "g",
-    "name": "ailes de poulet"
+    "name": "ailes de poulet",
+    "g_achat": 1000
    },
    {
     "ing": "levure_chimique",
@@ -1775,10 +1776,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 1000,
+    "g": 700,
     "qty": 4,
     "unit": "pièce(s)",
-    "name": "cuisses de poulet"
+    "name": "cuisses de poulet",
+    "g_achat": 1000
    },
    {
     "ing": "poivron_rouge",
@@ -2083,8 +2085,7 @@
   "difficulty": "Facile",
   "tags": [
    "Monde",
-   "Sans lactose",
-   "Rapide"
+   "Sans lactose"
   ],
   "ingredients": [
    {
@@ -2321,7 +2322,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "epices",
@@ -2391,10 +2392,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 1000,
+    "g": 700,
     "qty": 4,
     "unit": "pièce(s)",
-    "name": "cuisses de poulet"
+    "name": "cuisses de poulet",
+    "g_achat": 1000
    },
    {
     "ing": "citron",
@@ -2567,7 +2569,7 @@
    "Mixez-le avec 30 g de beurre, le parmesan, sel et poivre pour une purée lisse. Gardez au chaud.",
    "Parez les foies (retirez les nerfs) et séchez-les.",
    "Faites fondre le reste du beurre, suez l'oignon émincé 3 min, puis saisissez les foies 2 min par face à feu vif.",
-   "Baissez le feu, ajoutez la crème et la moutarde, laissez frémir 2 min : les foies doivent rester rosés.",
+   "Baissez le feu, ajoutez la crème et la moutarde, laissez frémir 4 à 5 min, jusqu'à ce que le cœur des foies ne soit plus rose (70 °C).",
    "Salez, poivrez, parsemez de persil et servez sur la purée de chou-fleur."
   ],
   "tips": "Les foies sont riches en fer et vitamine A : un plat économique à servir une fois par semaine."
@@ -2583,8 +2585,7 @@
   "difficulty": "Facile",
   "tags": [
    "Monde",
-   "Sans lactose",
-   "Rapide"
+   "Sans lactose"
   ],
   "ingredients": [
    {
@@ -2634,7 +2635,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "huile_tournesol",
@@ -2995,10 +2996,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 900,
+    "g": 630,
     "qty": 4,
     "unit": "pièce(s)",
-    "name": "hauts de cuisse"
+    "name": "hauts de cuisse",
+    "g_achat": 900
    },
    {
     "ing": "chou_blanc",
@@ -3115,7 +3117,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "gingembre",
@@ -3192,10 +3194,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 1000,
+    "g": 700,
     "qty": 8,
     "unit": "pièce(s)",
-    "name": "pilons de poulet"
+    "name": "pilons de poulet",
+    "g_achat": 1000
    },
    {
     "ing": "yaourt_grec",
@@ -3375,10 +3378,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 900,
+    "g": 630,
     "qty": 8,
     "unit": "pièce(s)",
-    "name": "hauts de cuisse avec peau"
+    "name": "hauts de cuisse avec peau",
+    "g_achat": 900
    },
    {
     "ing": "citron_confit",
@@ -3563,10 +3567,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 600,
+    "g": 420,
     "qty": 600,
     "unit": "g",
-    "name": "hauts de cuisse"
+    "name": "hauts de cuisse",
+    "g_achat": 600
    },
    {
     "ing": "bouillon",
@@ -3952,8 +3957,7 @@
   "difficulty": "Facile",
   "tags": [
    "Monde",
-   "Sans lactose",
-   "Rapide"
+   "Sans lactose"
   ],
   "ingredients": [
    {
@@ -4031,7 +4035,7 @@
     "g": 15,
     "qty": 1,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    }
   ],
   "steps": [
@@ -4153,10 +4157,11 @@
   "ingredients": [
    {
     "ing": "poulet_entier",
-    "g": 1400,
+    "g": 910,
     "qty": 1,
     "unit": "pièce(s)",
-    "name": "poulet entier (1,4 kg)"
+    "name": "poulet entier (1,4 kg)",
+    "g_achat": 1400
    },
    {
     "ing": "beurre",
@@ -4575,7 +4580,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "haricot_vert",
@@ -4829,10 +4834,11 @@
   "ingredients": [
    {
     "ing": "poulet_cuisse",
-    "g": 1000,
+    "g": 700,
     "qty": 4,
     "unit": "pièce(s)",
-    "name": "cuisses de poulet"
+    "name": "cuisses de poulet",
+    "g_achat": 1000
    },
    {
     "ing": "moutarde",
@@ -4846,7 +4852,7 @@
     "g": 30,
     "qty": 2,
     "unit": "c. à s.",
-    "name": "sauce soja"
+    "name": "sauce soja (sans alcool)"
    },
    {
     "ing": "erythritol",
@@ -5095,7 +5101,7 @@
   ],
   "steps": [
    "Parez les foies et séchez-les. Faites fondre 30 g de beurre et suez l'oignon et l'ail 3 min.",
-   "Ajoutez les foies et le thym, faites-les cuire 3 à 4 min à feu moyen : ils doivent rester rosés à cœur.",
+   "Ajoutez les foies et le thym, faites-les cuire 6 à 8 min à feu moyen, jusqu'à ce que le cœur ne soit plus rose (70 °C à cœur).",
    "Mixez les foies encore chauds avec le reste du beurre en morceaux, la crème, les épices, sel et poivre jusqu'à obtenir une mousse très lisse.",
    "Versez dans des ramequins ou une petite terrine, lissez, couvrez et réfrigérez au moins 4 h.",
    "Servez la mousse avec des bâtonnets de concombre, des radis et de la salade verte pour tartiner."
