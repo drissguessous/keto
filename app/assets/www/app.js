@@ -210,7 +210,36 @@
   // ---------- Routeur ----------
   const routes = {};
   let lastHash = null;
+  // ---------- Conservation des données (iPhone / navigateur) ----------
+  // Les données sont dans le stockage local de l'application (localStorage), pas dans des cookies.
+  // Sur iPhone, Safari efface ce stockage pour un site non ouvert pendant 7 jours ;
+  // une application ajoutée à l'écran d'accueil n'est pas concernée, mais a son propre stockage, séparé de Safari.
+  const IS_IOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const IS_WEB = /^https?:$/.test(location.protocol);
+  const STANDALONE = navigator.standalone === true || !!(window.matchMedia && matchMedia("(display-mode: standalone)").matches);
+  const SAFARI_TAB = IS_IOS && IS_WEB && !STANDALONE;
+  try { if (IS_WEB && navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {}); } catch (e) {}
+  const lastSeenGap = db.lastSeen ? daysBetween(db.lastSeen, dkey()) : 0;
+  db.lastSeen = dkey(); save();
+  const daysAgo = (k) => { const n = daysBetween(k, dkey()); return n <= 0 ? "aujourd'hui" : n === 1 ? "hier" : "il y a " + n + " jours"; };
+  function storeBanner() {
+    const el = $("#storeBanner");
+    let dismissed = false; try { dismissed = sessionStorage.getItem("kf_banner") === "1"; } catch (e) {}
+    if (!SAFARI_TAB || dismissed) { el.hidden = true; return; }
+    const hasData = Object.keys(db.profiles).some((id) => !db.profiles[id].demo);
+    el.hidden = false;
+    el.innerHTML = `<div class="store-banner"><b>⚠️ Vos données peuvent être effacées</b>
+      <p>Vous utilisez Keto Famille dans Safari. Sur iPhone, Safari efface les données d'un site qui n'est pas ouvert pendant <b>7 jours</b> : profil, journal et suivi seraient alors perdus définitivement.
+      Pour les garder, <b>installez l'application sur l'écran d'accueil</b>.</p>
+      ${hasData ? `<p class="small">L'application installée ne voit pas les données de Safari : avant d'installer, faites <b>Profil › Sauvegarder mes données</b>, puis <b>Restaurer</b> dans l'application installée.</p>` : ""}
+      <div class="row" style="gap:8px"><a class="btn small grow" href="iphone.html">Installer l'application</a>
+      ${hasData ? `<a class="btn small light grow" href="#/profil">Sauvegarder</a>` : ""}
+      <button type="button" class="btn small ghost" id="sbLater">Plus tard</button></div></div>`;
+    $("#sbLater").onclick = () => { try { sessionStorage.setItem("kf_banner", "1"); } catch (e) {} el.hidden = true; };
+  }
+
   function render() {
+    storeBanner();
     const hash = location.hash.replace(/^#\/?/, "") || "aujourdhui";
     const [name, arg] = hash.split("/");
     const p = P();
@@ -322,6 +351,7 @@
       ${first ? `<div class="welcome"><img src="icon.png" alt=""><h2>Keto Famille</h2>
         <p class="muted">Un programme keto simple sur 4 semaines, des recettes complètes et un suivi au quotidien. Gratuit, sans compte, vos données restent sur ce téléphone.</p>
         <button class="btn ghost block" id="demo" type="button">👀 Juste regarder : essayer avec un profil de démonstration</button></div>` : ""}
+      ${SAFARI_TAB && first ? `<div class="warn" style="margin-bottom:14px">📲 Conseil : <b>installez d'abord l'application</b> sur l'écran d'accueil (<a href="iphone.html">voir comment</a>) puis créez votre profil depuis l'icône. Dans Safari, iOS efface les données après 7 jours sans ouverture, et l'application installée ne les récupère pas.</div>` : ""}
       <div class="card"><h2>${first || onlyDemo ? "Créons votre profil" : "Nouveau membre de la famille"}</h2>
         <p class="hint" style="margin-top:-4px">Environ 1 minute. Ces informations servent à calculer vos repères du jour.</p>${profileForm(null, true)}</div>
       ${first ? "" : `<button class="btn ghost block" type="button" id="cancelNew">Annuler</button>`}`;
@@ -1003,11 +1033,15 @@
       <div class="card"><h2>Modifier mes informations</h2>${profileForm(p, false)}</div>
       <div class="card"><h2>Réglages et sauvegarde</h2>
         <label class="check" style="margin-bottom:8px"><input type="checkbox" id="photosToggle" ${db.photos !== false ? "checked" : ""}><span>Afficher de vraies photos des plats (Wikimedia Commons, nécessite internet)</span></label>
-        <p class="hint">Vos données restent sur ce téléphone. Pensez à faire une sauvegarde de temps en temps, surtout avant de changer de téléphone.</p>
+        <details class="data-info"><summary>🔒 Où sont mes données ?</summary>
+          <p>Vos profils, votre journal et vos prix sont enregistrés <b>uniquement sur ce téléphone</b>, dans le stockage local de l'application. Rien n'est envoyé sur internet, il n'y a ni compte ni cookies. Seule la recherche de photos de plats utilise internet, sans aucune donnée personnelle.</p>
+          ${IS_WEB ? `<p>${IS_IOS ? (STANDALONE ? "✅ Vous utilisez l'application installée sur l'écran d'accueil : vos données ne sont pas effacées automatiquement." : "⚠️ Vous utilisez l'application dans Safari : <b>si vous ne l'ouvrez pas pendant 7 jours, iOS efface toutes vos données</b>. Installez-la sur l'écran d'accueil pour éviter cela.") : "Sur un navigateur, les données peuvent être effacées si vous videz l'historique ou les données de navigation."}</p>` : ""}
+          <p>Les données sont aussi perdues si l'application est désinstallée : faites une sauvegarde régulièrement.</p></details>
+        <p class="hint">Dernière sauvegarde : <b>${db.lastBackup ? daysAgo(db.lastBackup) : "jamais"}</b>.${!db.lastBackup || daysBetween(db.lastBackup, dkey()) >= 7 ? " Pensez à en faire une (≈ 10 secondes)." : ""}</p>
         <button class="btn light block" type="button" id="export" style="margin-bottom:8px">📤 Sauvegarder mes données</button>
         <button class="btn light block" type="button" id="import" style="margin-bottom:8px">📥 Restaurer une sauvegarde</button>
         <button class="btn danger block" type="button" id="del">🗑️ Supprimer le profil de ${esc(p.name)}</button></div>
-      <p class="small muted" style="text-align:center">Keto Famille v1.4.1 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
+      <p class="small muted" style="text-align:center">Keto Famille v1.4.2 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone (sans compte ni cookies).<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour ✓"); render(); });
     $("#switch").onclick = showProfileSwitcher;
     $("#photosToggle").onchange = (e) => { db.photos = e.target.checked; save(); toast(db.photos ? "Photos activées" : "Photos désactivées"); };
@@ -1017,7 +1051,7 @@
         <ol class="howto"><li>Touchez <b>Copier la sauvegarde</b>.</li><li>Collez-la dans un message WhatsApp envoyé à vous-même, ou dans vos notes.</li>
         <li>Pour la récupérer : Profil › <b>Restaurer une sauvegarde</b>, puis collez le texte.</li></ol>
         <button class="btn block" type="button" id="cp">📋 Copier la sauvegarde</button>
-        <details style="margin-top:10px"><summary class="small">Voir le texte de sauvegarde</summary><textarea rows="5" readonly aria-label="Texte de sauvegarde">${esc(json)}</textarea></details>`, (el) => { $("#cp", el).onclick = () => copyText(json); });
+        <details style="margin-top:10px"><summary class="small">Voir le texte de sauvegarde</summary><textarea rows="5" readonly aria-label="Texte de sauvegarde">${esc(json)}</textarea></details>`, (el) => { $("#cp", el).onclick = () => { copyText(json); db.lastBackup = dkey(); save(); }; });
     };
     $("#import").onclick = () => openSheet(`<h2>Restaurer une sauvegarde</h2><p class="small muted">Collez ici le texte de sauvegarde copié précédemment.</p>
       <textarea rows="6" id="imp" aria-label="Texte de sauvegarde à restaurer" placeholder="Collez le texte ici (appui long › Coller)"></textarea>

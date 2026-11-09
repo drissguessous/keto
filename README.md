@@ -49,6 +49,7 @@ python3 tools/pwa_test.py          # version iPhone : installation et hors ligne
 python3 tools/flow_test.py shots   # parcours clés (annuler, retour, validation, ajout membre)
 python3 tools/filters_test.py shots  # filtres avancés et tri
 python3 tools/prices_test.py shots   # « Mes prix » : modification et recalcul des coûts
+python3 tools/ios_storage_test.py shots  # iPhone : avertissement Safari / application installée
 ```
 
 ## Structure
