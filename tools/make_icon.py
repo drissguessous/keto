@@ -65,15 +65,32 @@ def style_feuille():
     return img
 
 
+def k_shape(img, scale=1.0):
+    """Le « K » : une tige blanche et deux feuilles, centré, à l'échelle donnée."""
+    d = ImageDraw.Draw(img)
+    c = S // 2
+    z = lambda v: int(v * scale)
+    d.rounded_rectangle((c - z(470), c - z(640), c - z(270), c + z(640)), radius=z(100), fill=(255, 255, 255))
+    leaf(d, c + z(120), c - z(330), z(760), z(330), -45, (255, 255, 255))
+    leaf(d, c + z(120), c + z(330), z(760), z(330), 45, LIME)
+
+
+def k_background():
+    """Dégradé vert plein cadre (sans coins arrondis) : fond d'icône adaptative / maskable."""
+    grad = Image.new("RGBA", (S, S))
+    gd = ImageDraw.Draw(grad)
+    for y in range(S):
+        t = y / S
+        gd.line([(0, y), (S, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip((120, 180, 80), GREEN)) + (255,))
+    return grad
+
+
 def style_assiette():
     """Lettre K stylisée formée d'une tige et de deux feuilles, sur dégradé vert-lime."""
     img = Image.new("RGBA", (S, S), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
     squircle(d, (120, 180, 80), GREEN, img)
-    c = S // 2
-    d.rounded_rectangle((c - 470, c - 640, c - 270, c + 640), radius=100, fill=(255, 255, 255))
-    leaf(d, c + 120, c - 330, 760, 330, -45, (255, 255, 255))
-    leaf(d, c + 120, c + 330, 760, 330, 45, LIME)
+    k_shape(img)
     return img
 
 
@@ -112,9 +129,30 @@ def main():
         out = root / "res" / f"mipmap-{dens}" / "ic_launcher.png"
         out.parent.mkdir(parents=True, exist_ok=True)
         big.resize((px, px), Image.LANCZOS).save(out)
+    # Android 8+ : icône adaptative (fond + premier plan 108 dp, motif dans la zone sûre de 66 dp)
+    if a.style == "k-feuilles":
+        bg, fg = k_background(), Image.new("RGBA", (S, S), (0, 0, 0, 0))
+        k_shape(fg, 0.62)
+        for dens, px in DENSITIES.items():
+            n = int(px * 108 / 48)
+            out = root / "res" / f"mipmap-{dens}"
+            bg.resize((n, n), Image.LANCZOS).save(out / "ic_launcher_background.png")
+            fg.resize((n, n), Image.LANCZOS).save(out / "ic_launcher_foreground.png")
+        any26 = root / "res" / "mipmap-anydpi-v26"
+        any26.mkdir(parents=True, exist_ok=True)
+        (any26 / "ic_launcher.xml").write_text(
+            '<?xml version="1.0" encoding="utf-8"?>\n'
+            '<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">\n'
+            '    <background android:drawable="@mipmap/ic_launcher_background"/>\n'
+            '    <foreground android:drawable="@mipmap/ic_launcher_foreground"/>\n'
+            '</adaptive-icon>\n')
     www = root / "assets" / "www"
     for name, px in [("icon.png", 512), ("icon-192.png", 192), ("icon-512.png", 512)]:
         big.resize((px, px), Image.LANCZOS).save(www / name)
+    # Web : icône « maskable » (plein cadre, motif dans la zone sûre de 80 %)
+    if a.style == "k-feuilles":
+        mk = k_background(); k_shape(mk, 0.7)
+        mk.resize((512, 512), Image.LANCZOS).save(www / "icon-maskable-512.png")
     # iPhone : pas de transparence, iOS arrondit lui-même
     flat = Image.new("RGB", (S, S), GREEN)
     flat.paste(big, (0, 0), big)

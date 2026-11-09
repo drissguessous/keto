@@ -25,17 +25,22 @@
     invoke-virtual {v0, v1}, Landroid/view/Window;->setStatusBarColor(I)V
     invoke-virtual {v0, v1}, Landroid/view/Window;->setNavigationBarColor(I)V
 
+    invoke-virtual {v0}, Landroid/view/Window;->getDecorView()Landroid/view/View;
+    move-result-object v2
+    const v1, -0x90d16
+    invoke-virtual {v2, v1}, Landroid/view/View;->setBackgroundColor(I)V
+
     new-instance v0, Landroid/webkit/WebView;
     invoke-direct {v0, p0}, Landroid/webkit/WebView;-><init>(Landroid/content/Context;)V
     iput-object v0, p0, Lma/bagile/ketofamille/MainActivity;->web:Landroid/webkit/WebView;
+    const v1, -0x90d16
+    invoke-virtual {v0, v1}, Landroid/webkit/WebView;->setBackgroundColor(I)V
 
     invoke-virtual {v0}, Landroid/webkit/WebView;->getSettings()Landroid/webkit/WebSettings;
     move-result-object v1
     const/4 v2, 0x1
     invoke-virtual {v1, v2}, Landroid/webkit/WebSettings;->setJavaScriptEnabled(Z)V
     invoke-virtual {v1, v2}, Landroid/webkit/WebSettings;->setDomStorageEnabled(Z)V
-    invoke-virtual {v1, v2}, Landroid/webkit/WebSettings;->setAllowFileAccess(Z)V
-    invoke-virtual {v1, v2}, Landroid/webkit/WebSettings;->setDatabaseEnabled(Z)V
     const/4 v2, 0x0
     invoke-virtual {v1, v2}, Landroid/webkit/WebSettings;->setSupportZoom(Z)V
 
@@ -65,5 +70,26 @@
     return-void
     :super
     invoke-super {p0}, Landroid/app/Activity;->onBackPressed()V
+    return-void
+.end method
+
+# Met la WebView en pause quand l'app passe en arrière-plan (batterie, minuteries)
+.method protected onPause()V
+    .registers 2
+    invoke-super {p0}, Landroid/app/Activity;->onPause()V
+    iget-object v0, p0, Lma/bagile/ketofamille/MainActivity;->web:Landroid/webkit/WebView;
+    if-eqz v0, :done
+    invoke-virtual {v0}, Landroid/webkit/WebView;->onPause()V
+    :done
+    return-void
+.end method
+
+.method protected onResume()V
+    .registers 2
+    invoke-super {p0}, Landroid/app/Activity;->onResume()V
+    iget-object v0, p0, Lma/bagile/ketofamille/MainActivity;->web:Landroid/webkit/WebView;
+    if-eqz v0, :done
+    invoke-virtual {v0}, Landroid/webkit/WebView;->onResume()V
+    :done
     return-void
 .end method

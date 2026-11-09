@@ -15,7 +15,10 @@ if [ ! -f "$KS" ]; then
 fi
 
 python3 tools/make_icon.py app --style k-feuilles >/dev/null
-java -jar tools/bin/apktool.jar b app -o build/unsigned.apk 2>&1 | grep -E '^(I|W|E):' || true
+# copie de travail sans les fichiers propres à la version web / iPhone (inutiles sur Android)
+rm -rf build/app && mkdir -p build && cp -r app build/app
+( cd build/app/assets/www && rm -f KetoFamille.mobileconfig iphone.html sw.js manifest.webmanifest apple-touch-icon.png icon-192.png icon-512.png icon-maskable-512.png )
+java -jar tools/bin/apktool.jar b build/app -o build/unsigned.apk 2>&1 | grep -E '^(I|W|E):' || true
 python3 tools/zipalign.py build/unsigned.apk build/aligned.apk
 java -jar tools/bin/apksigner.jar sign --ks "$KS" --ks-pass "pass:$PASS" \
   --ks-key-alias ketofamille --min-sdk-version 24 \

@@ -235,6 +235,12 @@
     window.scrollTo(0, same ? y : 0);
   }
   window.addEventListener("hashchange", render);
+  // Changer d'onglet remplace l'entrée d'historique : le bouton Retour ne repasse pas par chaque onglet visité
+  document.getElementById("tabs").addEventListener("click", (e) => {
+    const t = e.target.closest("a"); if (!t || e.ctrlKey || e.metaKey) return;
+    e.preventDefault();
+    if (location.hash !== t.getAttribute("href")) location.replace(t.getAttribute("href"));
+  });
   const setTitle = (t) => ($("#title").textContent = t);
 
   // ---------- Profil : création / édition ----------
@@ -1001,7 +1007,7 @@
         <button class="btn light block" type="button" id="export" style="margin-bottom:8px">📤 Sauvegarder mes données</button>
         <button class="btn light block" type="button" id="import" style="margin-bottom:8px">📥 Restaurer une sauvegarde</button>
         <button class="btn danger block" type="button" id="del">🗑️ Supprimer le profil de ${esc(p.name)}</button></div>
-      <p class="small muted" style="text-align:center">Keto Famille v1.4 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
+      <p class="small muted" style="text-align:center">Keto Famille v1.4.1 · gratuit · fonctionne hors ligne<br>Vos données restent uniquement sur ce téléphone.<br>Ces conseils ne remplacent pas l'avis d'un médecin.</p>`;
     bindProfileForm((data) => { Object.assign(p, data); save(); toast("Profil mis à jour ✓"); render(); });
     $("#switch").onclick = showProfileSwitcher;
     $("#photosToggle").onchange = (e) => { db.photos = e.target.checked; save(); toast(db.photos ? "Photos activées" : "Photos désactivées"); };
@@ -1054,7 +1060,8 @@
   try { pcache = JSON.parse(localStorage.getItem(PKEY)) || {}; } catch (e) { pcache = {}; }
   const psave = () => { try { localStorage.setItem(PKEY, JSON.stringify(pcache)); } catch (e) {} };
   const photosOn = () => db.photos !== false;
-  const strip = (h) => { const d = document.createElement("div"); d.innerHTML = h || ""; return (d.textContent || "").trim().replace(/\s+/g, " "); };
+  // texte brut depuis le HTML Wikimedia, sans jamais l'insérer dans la page (DOMParser n'exécute rien)
+  const strip = (h) => { try { return (new DOMParser().parseFromString(h || "", "text/html").body.textContent || "").trim().replace(/\s+/g, " "); } catch (e) { return ""; } };
   const pending = {}; let active = 0; const queue = [];
   function commonsSearch(q) {
     const url = "https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*&generator=search&gsrnamespace=6&gsrlimit=8" +
@@ -1102,6 +1109,7 @@
         el.appendChild(cr);
       }
     };
+    img.crossOrigin = "anonymous"; // réponse CORS lisible : le cache ne garde que les photos valides
     img.src = x.u;
   }
   const io = "IntersectionObserver" in window ? new IntersectionObserver((ents) => ents.forEach((e) => {

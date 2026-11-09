@@ -67,7 +67,7 @@ python3 tools/prices_test.py shots   # « Mes prix » : modification et recalcul
 | [`telechargement/`](telechargement/) | Dernier APK signé, prêt à installer |
 | `signing/` | Clé de signature (à conserver pour publier des mises à jour) |
 
-Pour modifier une recette : éditer le lot dans `data/recipes/`, lancer `python3 tools/recipes.py check <lot>` puis `python3 tools/recipes.py build` et `./build.sh`. Pour une nouvelle version, augmenter `versionCode` dans `app/AndroidManifest.xml` et `app/apktool.yml`.
+Pour modifier une recette : éditer le lot dans `data/recipes/`, lancer `python3 tools/recipes.py check <lot>` puis `python3 tools/recipes.py build` et `./build.sh`. Pour une nouvelle version : augmenter `versionCode` **et** `versionName` dans `app/AndroidManifest.xml` et `app/apktool.yml`, changer la version du cache `APP` dans [`app/assets/www/sw.js`](app/assets/www/sw.js) (sinon les iPhone gardent l'ancienne version), lancer les tests puis `./build.sh` et copier `dist/KetoFamille.apk` dans `telechargement/`.
 
 ## Avertissement
 
